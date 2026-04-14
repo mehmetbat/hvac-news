@@ -1,0 +1,17 @@
+# HVAC Haber
+> Türkiye'nin lider HVAC (Isıtma, Soğutma, Havalandırma, İklimlendirme) sektörü haber portalı.
+
+## Site Yapısı
+- Ana Sayfa: /
+- English: /en/
+- Kategoriler: /kategori/isitma-sogutma/, /kategori/havalandirma/, /kategori/sektor-haberleri/, /kategori/iklimlendirme/, /kategori/haber/
+- Haber Detay: /[slug]/
+- Sitemap: /sitemap-index.xml
+
+## İçerik Bilgisi
+- Diller: Türkçe (birincil), İngilizce
+- Konu: HVAC sektörü haberleri, teknik makaleler, sektörel gelişmeler
+- Güncelleme: Düzenli
+
+## Detaylı Versiyon
+- /llms-full.txt

@@ -1,0 +1,132 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SEOHead from '../../components/SEOHead.astro';
+import SchemaMarkup from '../../components/SchemaMarkup.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { t, formatDate } from '../../utils/i18n';
+import { getAllNews, getRelatedNews } from '../../utils/news';
+import { generateNewsArticleSchema, generateBreadcrumbSchema } from '../../utils/seo';
+
+export function getStaticPaths() {
+  const news = getAllNews();
+  return news.map((item) => ({
+    params: { slug: item.slug.en },
+    props: { newsItem: item }
+  }));
+}
+
+const lang = 'en';
+const { newsItem } = Astro.props;
+const relatedNews = getRelatedNews(newsItem.id, newsItem.category);
+const categoryUrl = `/en/category/${newsItem.category}/`;
+
+const breadcrumbItems = [
+  { label: newsItem.categoryLabel[lang], url: categoryUrl },
+  { label: newsItem.title[lang], url: `/en/${newsItem.slug[lang]}/` }
+];
+
+const schemas = [
+  generateNewsArticleSchema({
+    title: newsItem.title[lang],
+    description: newsItem.excerpt[lang],
+    image: newsItem.image,
+    url: `/en/${newsItem.slug[lang]}/`,
+    publishDate: newsItem.publishDate,
+    author: newsItem.author,
+    lang
+  }),
+  generateBreadcrumbSchema([
+    { name: t('breadcrumb.home', lang), url: '/en/' },
+    { name: newsItem.categoryLabel[lang], url: categoryUrl },
+    { name: newsItem.title[lang], url: `/en/${newsItem.slug[lang]}/` }
+  ])
+];
+
+const paragraphs = newsItem.content[lang].split('\n\n');
+---
+
+<BaseLayout lang={lang}>
+  <Fragment slot="head">
+    <SEOHead
+      title={newsItem.title[lang]}
+      description={newsItem.excerpt[lang]}
+      image={`/images/news/${newsItem.image}`}
+      url={`/en/${newsItem.slug[lang]}/`}
+      type="article"
+      lang={lang}
+      publishDate={newsItem.publishDate}
+      author={newsItem.author}
+      alternateUrl={`/${newsItem.slug.tr}/`}
+    />
+    <SchemaMarkup schemas={schemas} />
+  </Fragment>
+
+  <article class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={breadcrumbItems} lang={lang} />
+
+    <div class="max-w-3xl mx-auto">
+      <div class="flex flex-wrap items-center gap-3 mb-4">
+        <a href={categoryUrl} class="inline-block bg-cyan-500/10 text-cyan-600 text-xs font-medium px-3 py-1 rounded-full font-body hover:bg-cyan-500/20 transition-colors">
+          {newsItem.categoryLabel[lang]}
+        </a>
+        <span class="text-sm text-slate-500 font-body">
+          <time datetime={newsItem.publishDate}>{formatDate(newsItem.publishDate, lang)}</time>
+        </span>
+        <span class="text-sm text-slate-400">·</span>
+        <span class="text-sm text-slate-500 font-body">{newsItem.author}</span>
+        <span class="text-sm text-slate-400">·</span>
+        <span class="text-sm text-slate-500 font-body">{newsItem.readingTime} {t('news.readingTime', lang)}</span>
+      </div>
+
+      <h1 class="font-heading font-bold text-slate-900 text-3xl md:text-4xl leading-tight mb-6">
+        {newsItem.title[lang]}
+      </h1>
+
+      <div class="aspect-video rounded-xl overflow-hidden mb-8">
+        <img
+          src={`/images/news/${newsItem.image}`}
+          alt={newsItem.imageAlt[lang]}
+          width="800"
+          height="450"
+          loading="eager"
+          fetchpriority="high"
+          class="w-full h-full object-cover"
+        />
+      </div>
+
+      <div class="prose max-w-none">
+        {paragraphs.map((p) => (
+          <p>{p}</p>
+        ))}
+      </div>
+
+      <div class="flex flex-wrap gap-2 mt-8 pt-6 border-t border-slate-200">
+        {newsItem.tags[lang].map((tag) => (
+          <span class="bg-slate-100 text-slate-600 text-xs px-3 py-1 rounded-full font-body">
+            #{tag}
+          </span>
+        ))}
+      </div>
+
+      <div class="mt-6 pt-4 border-t border-slate-200">
+        <a href={`/${newsItem.slug.tr}/`} class="text-cyan-500 hover:text-cyan-600 text-sm font-body transition-colors">
+          Bu haberi Türkçe oku →
+        </a>
+      </div>
+    </div>
+
+    {relatedNews.length > 0 && (
+      <div class="mt-12 pt-8 border-t border-slate-200">
+        <h2 class="font-heading font-bold text-slate-900 text-2xl mb-6">
+          {t('news.relatedNews', lang)}
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {relatedNews.map((news) => (
+            <NewsCard news={news} lang={lang} />
+          ))}
+        </div>
+      </div>
+    )}
+  </article>
+</BaseLayout>

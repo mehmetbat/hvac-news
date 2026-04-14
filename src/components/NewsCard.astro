@@ -1,0 +1,49 @@
+---
+import type { Lang } from '../utils/i18n';
+import { t, formatDate, getLocalizedUrl } from '../utils/i18n';
+import type { NewsItem } from '../utils/news';
+
+interface Props {
+  news: NewsItem;
+  lang: Lang;
+}
+
+const { news, lang } = Astro.props;
+const detailUrl = lang === 'tr' ? `/${news.slug.tr}/` : `/en/${news.slug.en}/`;
+---
+
+<article class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 overflow-hidden">
+  <a href={detailUrl} class="block">
+    <div class="aspect-video relative overflow-hidden">
+      <img
+        src={`/images/news/${news.image}`}
+        alt={news.imageAlt[lang]}
+        width="600"
+        height="338"
+        loading="lazy"
+        decoding="async"
+        class="w-full h-full object-cover"
+      />
+    </div>
+  </a>
+  <div class="p-5">
+    <div class="flex items-center gap-3 mb-3">
+      <span class="inline-block bg-cyan-500/10 text-cyan-600 text-xs font-medium px-2.5 py-1 rounded-full font-body">
+        {news.categoryLabel[lang]}
+      </span>
+    </div>
+    <h3 class="font-heading font-semibold text-slate-900 text-lg mb-2 line-clamp-2">
+      <a href={detailUrl} class="hover:text-cyan-600 transition-colors">
+        {news.title[lang]}
+      </a>
+    </h3>
+    <div class="flex items-center gap-3 text-xs text-slate-500 mb-3 font-body">
+      <time datetime={news.publishDate}>{formatDate(news.publishDate, lang)}</time>
+      <span>·</span>
+      <span>{news.readingTime} {t('news.readingTime', lang)}</span>
+    </div>
+    <p class="text-sm text-slate-600 line-clamp-2 font-body leading-relaxed">
+      {news.excerpt[lang]}
+    </p>
+  </div>
+</article>

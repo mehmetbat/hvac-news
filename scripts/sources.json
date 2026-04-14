@@ -1,0 +1,106 @@
+[
+  {
+    "id": "cooling-post",
+    "name": "Cooling Post",
+    "url": "https://www.coolingpost.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "rac-magazine",
+    "name": "RAC Magazine",
+    "url": "https://www.racplus.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "hvac-insider",
+    "name": "HVAC Insider",
+    "url": "https://hvacinsider.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "hv-news",
+    "name": "H&V News",
+    "url": "https://www.hvnplus.co.uk/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "iea-heat-pump",
+    "name": "IEA Heat Pump Technologies",
+    "url": "https://heatpumpingtechnologies.org/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "hvac-know-it-all",
+    "name": "HVAC Know It All",
+    "url": "https://www.hvacknowitall.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "energy-vanguard",
+    "name": "Energy Vanguard",
+    "url": "https://www.energyvanguard.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "phcp-pros-hvac",
+    "name": "PHCP Pros HVAC",
+    "url": "https://www.phcppros.com/rss/topic/135",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "engineering-mindset",
+    "name": "The Engineering Mindset",
+    "url": "https://theengineeringmindset.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "green-building-advisor",
+    "name": "Green Building Advisor",
+    "url": "https://www.greenbuildingadvisor.com/feed/",
+    "lang": "en",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "airnews-turkey",
+    "name": "AirNewsTurkey",
+    "url": "https://airnewsturkey.com/feed/",
+    "lang": "tr",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "sogutma-dunyasi",
+    "name": "Soğutma Dünyası",
+    "url": "https://sogutmadunyasi.com/feed/",
+    "lang": "tr",
+    "category": "auto",
+    "active": true
+  },
+  {
+    "id": "enerji-tesisat",
+    "name": "Enerji ve Tesisat",
+    "url": "https://enerjivetesisat.com/tesisat/hvac?format=feed&type=rss",
+    "lang": "tr",
+    "category": "auto",
+    "active": true
+  }
+]

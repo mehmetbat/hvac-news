@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SEOHead from '../../../components/SEOHead.astro';
+import SchemaMarkup from '../../../components/SchemaMarkup.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import NewsCard from '../../../components/NewsCard.astro';
+import CategoryFilter from '../../../components/CategoryFilter.astro';
+import { t } from '../../../utils/i18n';
+import { getAllCategories, getNewsByCategory } from '../../../utils/news';
+import { generateCollectionPageSchema, generateBreadcrumbSchema, generateItemListSchema } from '../../../utils/seo';
+
+export function getStaticPaths() {
+  const categories = getAllCategories();
+  return categories.map((cat) => ({
+    params: { category: cat.slug },
+    props: { category: cat }
+  }));
+}
+
+const lang = 'en';
+const { category } = Astro.props;
+const news = getNewsByCategory(category.slug);
+const categoryUrl = `/en/category/${category.slug}/`;
+
+const breadcrumbItems = [
+  { label: category.label[lang], url: categoryUrl }
+];
+
+const schemas = [
+  generateCollectionPageSchema(
+    category.label[lang],
+    `Latest HVAC news in ${category.label[lang]} category.`,
+    categoryUrl
+  ),
+  generateBreadcrumbSchema([
+    { name: t('breadcrumb.home', lang), url: '/en/' },
+    { name: category.label[lang], url: categoryUrl }
+  ]),
+  generateItemListSchema(
+    news.map((n, i) => ({
+      name: n.title[lang],
+      url: `/en/${n.slug[lang]}/`,
+      position: i + 1
+    }))
+  )
+];
+---
+
+<BaseLayout lang={lang}>
+  <Fragment slot="head">
+    <SEOHead
+      title={category.label[lang]}
+      description={`Latest HVAC news in ${category.label[lang]} category.`}
+      url={categoryUrl}
+      lang={lang}
+      alternateUrl={`/kategori/${category.slug}/`}
+    />
+    <SchemaMarkup schemas={schemas} />
+  </Fragment>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <Breadcrumb items={breadcrumbItems} lang={lang} />
+
+    <div class="mb-8">
+      <h1 class="font-heading font-bold text-slate-900 text-3xl mb-2">
+        {category.label[lang]}
+      </h1>
+      <p class="text-slate-500 font-body">
+        {news.length} {t('news.newsCount', lang)}
+      </p>
+    </div>
+
+    <CategoryFilter lang={lang} activeCategory={category.slug} />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {news.map((item) => (
+        <NewsCard news={item} lang={lang} />
+      ))}
+    </div>
+
+    <p class="text-center text-sm text-slate-400 mt-10 font-body">
+      {t('news.allLoaded', lang)}
+    </p>
+  </div>
+</BaseLayout>

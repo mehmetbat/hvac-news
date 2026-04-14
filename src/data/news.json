@@ -1,0 +1,668 @@
+[
+  {
+    "id": "isi-pompasi-pazar-buyumesi-2026",
+    "slug": {
+      "tr": "isi-pompasi-pazari-2026da-rekor-buyume-kaydetti",
+      "en": "heat-pump-market-records-growth-in-2026"
+    },
+    "title": {
+      "tr": "Isı Pompası Pazarı 2026'da Rekor Büyüme Kaydetti",
+      "en": "Heat Pump Market Records Unprecedented Growth in 2026"
+    },
+    "excerpt": {
+      "tr": "Avrupa ve Türkiye'de ısı pompası satışları %34 artış gösterdi. Enerji verimliliği teşvikleri talebi hızlandırdı.",
+      "en": "Heat pump sales surged 34% across Europe and Turkey. Energy efficiency incentives accelerated demand."
+    },
+    "content": {
+      "tr": "Isı pompası pazarı 2026 yılının ilk çeyreğinde %34 oranında büyüme kaydetti. Avrupa Isı Pompası Birliği (EHPA) verilerine göre, Türkiye bu büyümede lider konumda yer alıyor.\n\nEnerji verimliliği teşvikleri ve karbon emisyonu düzenlemeleri, tüketicileri geleneksel ısıtma sistemlerinden ısı pompalarına yönlendiriyor. Özellikle hava kaynaklı ısı pompaları konut sektöründe en çok tercih edilen çözüm oldu.\n\nSektör uzmanları, 2026 sonuna kadar Türkiye'de ısı pompası kurulum sayısının 500.000'i aşacağını öngörüyor. Bu büyüme, yerli üreticiler için de önemli fırsatlar sunuyor.",
+      "en": "The heat pump market recorded 34% growth in the first quarter of 2026. According to European Heat Pump Association (EHPA) data, Turkey leads this growth trajectory.\n\nEnergy efficiency incentives and carbon emission regulations are driving consumers from traditional heating systems to heat pumps. Air-source heat pumps have become the most preferred solution in the residential sector.\n\nIndustry experts forecast that heat pump installations in Turkey will exceed 500,000 by the end of 2026. This growth presents significant opportunities for domestic manufacturers."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Modern ısı pompası ünitesi bir evin dış cephesinde kurulu",
+      "en": "Modern heat pump unit installed on the exterior of a house"
+    },
+    "author": "Mehmet Yılmaz",
+    "publishDate": "2026-04-14T09:00:00Z",
+    "featured": true,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["ısı pompası", "enerji verimliliği", "pazar büyümesi"],
+      "en": ["heat pump", "energy efficiency", "market growth"]
+    }
+  },
+  {
+    "id": "vrf-sistemleri-ticari-binalarda",
+    "slug": {
+      "tr": "vrf-sistemleri-ticari-binalarda-enerji-tasarrufu-sagliyor",
+      "en": "vrf-systems-deliver-energy-savings-in-commercial-buildings"
+    },
+    "title": {
+      "tr": "VRF Sistemleri Ticari Binalarda Enerji Tasarrufu Sağlıyor",
+      "en": "VRF Systems Deliver Energy Savings in Commercial Buildings"
+    },
+    "excerpt": {
+      "tr": "Değişken soğutucu akışkanlı sistemler, ofis binalarında %40'a varan enerji tasarrufu sağlıyor.",
+      "en": "Variable refrigerant flow systems achieve up to 40% energy savings in office buildings."
+    },
+    "content": {
+      "tr": "Değişken Soğutucu Akışkanlı (VRF) sistemler, ticari binalarda enerji tüketimini önemli ölçüde azaltıyor. Yeni nesil VRF üniteleri, geleneksel merkezi klima sistemlerine göre %40'a varan enerji tasarrufu sunuyor.\n\nVRF teknolojisi, farklı zonlarda eşzamanlı ısıtma ve soğutma yapabilme kapasitesiyle öne çıkıyor. Bu özellik özellikle büyük ofis binalarında konfor ve verimlilik dengesini mükemmel şekilde kuruyor.\n\nTürkiye'de VRF sistem kurulumları son iki yılda %55 artış gösterdi. Lider markalar, R-32 soğutucu akışkan kullanan yeni nesil modelleriyle düşük GWP değerlerine ulaşarak çevresel sürdürülebilirliğe katkı sağlıyor.",
+      "en": "Variable Refrigerant Flow (VRF) systems significantly reduce energy consumption in commercial buildings. Next-generation VRF units offer up to 40% energy savings compared to traditional central air conditioning systems.\n\nVRF technology stands out with its capacity for simultaneous heating and cooling across different zones. This feature establishes a perfect balance between comfort and efficiency, especially in large office buildings.\n\nVRF system installations in Turkey have increased by 55% over the past two years. Leading brands contribute to environmental sustainability by achieving low GWP values with next-generation models using R-32 refrigerant."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Ticari binanın çatısında kurulu VRF dış üniteleri",
+      "en": "VRF outdoor units installed on a commercial building rooftop"
+    },
+    "author": "Ayşe Kara",
+    "publishDate": "2026-04-13T10:30:00Z",
+    "featured": false,
+    "readingTime": 5,
+    "tags": {
+      "tr": ["VRF", "enerji tasarrufu", "ticari bina"],
+      "en": ["VRF", "energy savings", "commercial building"]
+    }
+  },
+  {
+    "id": "havalandirma-ic-hava-kalitesi",
+    "slug": {
+      "tr": "ic-hava-kalitesi-standartlari-2026da-guncellendi",
+      "en": "indoor-air-quality-standards-updated-in-2026"
+    },
+    "title": {
+      "tr": "İç Hava Kalitesi Standartları 2026'da Güncellendi",
+      "en": "Indoor Air Quality Standards Updated in 2026"
+    },
+    "excerpt": {
+      "tr": "ASHRAE ve WHO, iç hava kalitesi için yeni standartlar yayımladı. CO2 ve PM2.5 limitleri sıkılaştırıldı.",
+      "en": "ASHRAE and WHO published new indoor air quality standards. CO2 and PM2.5 limits have been tightened."
+    },
+    "content": {
+      "tr": "ASHRAE (Amerikan Isıtma, Soğutma ve İklimlendirme Mühendisleri Derneği) ve Dünya Sağlık Örgütü (WHO), 2026 yılı için güncellenmiş iç hava kalitesi standartlarını yayımladı. Yeni standartlar, CO2 seviyesini 800 ppm'in altında tutmayı ve PM2.5 konsantrasyonunu 15 µg/m³ ile sınırlamayı hedefliyor.\n\nPandemi sonrası dönemde artan farkındalık, havalandırma sistemlerinin tasarımında köklü değişikliklere yol açtı. Isı geri kazanımlı mekanik havalandırma (MVHR) sistemleri, yeni yapılarda standart hale geliyor.\n\nTürkiye'de Çevre ve Şehircilik Bakanlığı da bu standartları ulusal yönetmeliklere entegre etme çalışmalarını sürdürüyor. 2027'den itibaren yeni ticari binalarda iç hava kalitesi izleme sistemi zorunluluğu bekleniyor.",
+      "en": "ASHRAE and the World Health Organization (WHO) published updated indoor air quality standards for 2026. The new standards aim to keep CO2 levels below 800 ppm and limit PM2.5 concentration to 15 µg/m³.\n\nIncreased awareness in the post-pandemic era has led to fundamental changes in ventilation system design. Mechanical Ventilation with Heat Recovery (MVHR) systems are becoming standard in new constructions.\n\nTurkey's Ministry of Environment and Urbanization continues efforts to integrate these standards into national regulations. Mandatory indoor air quality monitoring systems are expected in new commercial buildings from 2027."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Modern ofiste iç hava kalitesi ölçüm cihazı",
+      "en": "Indoor air quality monitoring device in a modern office"
+    },
+    "author": "Dr. Emre Özcan",
+    "publishDate": "2026-04-12T08:00:00Z",
+    "featured": false,
+    "readingTime": 5,
+    "tags": {
+      "tr": ["iç hava kalitesi", "ASHRAE", "havalandırma"],
+      "en": ["indoor air quality", "ASHRAE", "ventilation"]
+    }
+  },
+  {
+    "id": "r290-dogal-sogutkan",
+    "slug": {
+      "tr": "r290-propan-dogal-sogutkan-gecisi-hizlaniyor",
+      "en": "r290-propane-natural-refrigerant-transition-accelerates"
+    },
+    "title": {
+      "tr": "R-290 Propan Doğal Soğutkan Geçişi Hızlanıyor",
+      "en": "R-290 Propane Natural Refrigerant Transition Accelerates"
+    },
+    "excerpt": {
+      "tr": "F-gaz düzenlemeleri kapsamında R-290 propan soğutkana geçiş dünya genelinde hız kazanıyor.",
+      "en": "The transition to R-290 propane refrigerant is gaining momentum globally under F-gas regulations."
+    },
+    "content": {
+      "tr": "Avrupa Birliği'nin F-gaz düzenlemelerinin sıkılaşmasıyla birlikte, HVAC sektörü düşük küresel ısınma potansiyeline (GWP) sahip soğutkanlara yöneliyor. R-290 (propan), GWP değeri sadece 3 olan doğal bir soğutkan olarak öne çıkıyor.\n\nBüyük üreticiler, split klima ve ısı pompası ürün gamlarını R-290 uyumlu modellere dönüştürüyor. Japonya ve Avrupa'da R-290 kullanan cihazların pazar payı %25'i aştı.\n\nTürkiye'de de R-290 uyumlu cihazların ithalatı ve yerli üretimi artıyor. Ancak yanıcı soğutkan kullanımına yönelik güvenlik standartları ve teknisyen eğitimi konularında hâlâ önemli adımlar atılması gerekiyor.",
+      "en": "With the tightening of EU F-gas regulations, the HVAC industry is shifting toward refrigerants with low Global Warming Potential (GWP). R-290 (propane) stands out as a natural refrigerant with a GWP of only 3.\n\nMajor manufacturers are converting their split AC and heat pump product lines to R-290 compatible models. The market share of R-290 devices has exceeded 25% in Japan and Europe.\n\nImports and domestic production of R-290 compatible devices are also increasing in Turkey. However, significant steps still need to be taken regarding safety standards for flammable refrigerant use and technician training."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "R-290 propan soğutkan kullanan modern klima sistemi",
+      "en": "Modern air conditioning system using R-290 propane refrigerant"
+    },
+    "author": "Canan Demir",
+    "publishDate": "2026-04-11T14:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["R-290", "doğal soğutkan", "F-gaz"],
+      "en": ["R-290", "natural refrigerant", "F-gas"]
+    }
+  },
+  {
+    "id": "akilli-bina-otomasyon-trend",
+    "slug": {
+      "tr": "akilli-bina-otomasyon-sistemleri-2026-trendleri",
+      "en": "smart-building-automation-systems-2026-trends"
+    },
+    "title": {
+      "tr": "Akıllı Bina Otomasyon Sistemleri: 2026 Trendleri",
+      "en": "Smart Building Automation Systems: 2026 Trends"
+    },
+    "excerpt": {
+      "tr": "IoT ve yapay zeka destekli bina otomasyon sistemleri, enerji yönetiminde devrim yaratıyor.",
+      "en": "IoT and AI-powered building automation systems are revolutionizing energy management."
+    },
+    "content": {
+      "tr": "Akıllı bina otomasyon sistemleri (BAS), 2026'da yapay zeka ve IoT entegrasyonuyla yeni bir seviyeye ulaştı. Prediktif analitik kullanan sistemler, bina enerji tüketimini gerçek zamanlı optimize ederek %30'a varan tasarruf sağlıyor.\n\nYeni nesil BAS platformları, HVAC, aydınlatma, güneş enerji ve enerji depolama sistemlerini tek bir merkezden yönetiyor. Makine öğrenimi algoritmaları, hava durumu verileri ve doluluk sensörlerini kullanarak ısıtma-soğutma programlarını otomatik ayarlıyor.\n\nTürkiye'de akıllı bina pazarı yıllık %28 büyüme oranıyla dikkat çekiyor. Özellikle yeni AVM, otel ve ofis projelerinde BAS kurulumu standart hale geliyor.",
+      "en": "Smart Building Automation Systems (BAS) reached a new level in 2026 with AI and IoT integration. Systems using predictive analytics optimize building energy consumption in real-time, achieving savings of up to 30%.\n\nNext-generation BAS platforms manage HVAC, lighting, solar energy, and energy storage systems from a single center. Machine learning algorithms automatically adjust heating-cooling schedules using weather data and occupancy sensors.\n\nThe smart building market in Turkey is attracting attention with an annual growth rate of 28%. BAS installation is becoming standard, especially in new shopping centers, hotels, and office projects."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Akıllı bina kontrol paneli ekranında HVAC verileri",
+      "en": "HVAC data displayed on smart building control panel screen"
+    },
+    "author": "Burak Aydın",
+    "publishDate": "2026-04-10T11:00:00Z",
+    "featured": true,
+    "readingTime": 5,
+    "tags": {
+      "tr": ["akıllı bina", "otomasyon", "IoT", "yapay zeka"],
+      "en": ["smart building", "automation", "IoT", "artificial intelligence"]
+    }
+  },
+  {
+    "id": "chiller-verimlilik-sinifi",
+    "slug": {
+      "tr": "yeni-chiller-verimlilik-siniflari-yururluge-girdi",
+      "en": "new-chiller-efficiency-classes-take-effect"
+    },
+    "title": {
+      "tr": "Yeni Chiller Verimlilik Sınıfları Yürürlüğe Girdi",
+      "en": "New Chiller Efficiency Classes Take Effect"
+    },
+    "excerpt": {
+      "tr": "AB'nin güncel Ecodesign düzenlemesiyle chiller'larda minimum verimlilik sınıfı A olarak belirlendi.",
+      "en": "The EU's updated Ecodesign regulation sets minimum chiller efficiency class to A."
+    },
+    "content": {
+      "tr": "Avrupa Birliği'nin güncellenmiş Ecodesign düzenlemesi, 2026'dan itibaren piyasaya sürülen tüm chiller ünitelerinde minimum A sınıfı enerji verimliliği zorunluluğu getirdi. Bu düzenleme, eski ve verimsiz soğutma sistemlerinin aşamalı olarak piyasadan çekilmesini hedefliyor.\n\nYeni verimlilik standartları, SEER (Mevsimsel Enerji Verimlilik Oranı) ve SCOP (Mevsimsel Performans Katsayısı) değerlerini baz alıyor. Üreticiler, manyetik yatak teknolojisi ve değişken hızlı kompresörlerle bu standartları karşılıyor.\n\nTürkiye'de faaliyet gösteren uluslararası üreticiler, ürün gamlarını güncellemeye başladı. Yerli üreticiler için de uyum süreci 2027 sonuna kadar tamamlanması gereken bir hedef olarak belirlendi.",
+      "en": "The European Union's updated Ecodesign regulation mandates minimum A-class energy efficiency for all chiller units placed on the market from 2026. This regulation aims to phase out old and inefficient cooling systems from the market.\n\nThe new efficiency standards are based on SEER (Seasonal Energy Efficiency Ratio) and SCOP (Seasonal Coefficient of Performance) values. Manufacturers are meeting these standards with magnetic bearing technology and variable-speed compressors.\n\nInternational manufacturers operating in Turkey have begun updating their product lines. Compliance for domestic manufacturers has been set as a target to be completed by the end of 2027."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Endüstriyel chiller ünitesi fabrika tesisinde",
+      "en": "Industrial chiller unit in a factory facility"
+    },
+    "author": "Hakan Türk",
+    "publishDate": "2026-04-09T13:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["chiller", "Ecodesign", "enerji verimliliği"],
+      "en": ["chiller", "Ecodesign", "energy efficiency"]
+    }
+  },
+  {
+    "id": "mekanik-havalandirma-konut",
+    "slug": {
+      "tr": "konutlarda-mekanik-havalandirma-zorunlulugu-geliyor",
+      "en": "mechanical-ventilation-requirement-coming-to-residences"
+    },
+    "title": {
+      "tr": "Konutlarda Mekanik Havalandırma Zorunluluğu Geliyor",
+      "en": "Mechanical Ventilation Requirement Coming to Residences"
+    },
+    "excerpt": {
+      "tr": "Yeni yapı yönetmeliği ile konutlarda ısı geri kazanımlı mekanik havalandırma sistemi zorunlu olacak.",
+      "en": "New building regulations will make heat recovery ventilation systems mandatory in residences."
+    },
+    "content": {
+      "tr": "Türkiye Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, konutlarda mekanik havalandırma sistemini zorunlu kılacak yeni yapı yönetmeliği taslağını hazırladı. Taslak, özellikle ısı geri kazanımlı havalandırma (HRV/ERV) sistemlerinin kullanımını teşvik ediyor.\n\nMevcut yapı stokunda doğal havalandırmaya dayalı sistemler, enerji kayıplarının %25-35'inden sorumlu tutuluyor. Isı geri kazanımlı mekanik havalandırma, egzoz havasından ısının %85-95'ini geri kazanarak hem enerji tasarrufu hem de iç hava kalitesi sağlıyor.\n\nSektör temsilcileri yönetmeliği olumlu karşılarken, uygulama takvimi ve mevcut binalara yönelik teşvik paketleri konusundaki belirsizliklerin giderilmesini talep ediyor.",
+      "en": "Turkey's Ministry of Environment, Urbanization and Climate Change has prepared a draft building regulation that will mandate mechanical ventilation systems in residences. The draft specifically promotes the use of Heat Recovery Ventilation (HRV/ERV) systems.\n\nNatural ventilation-based systems in the existing building stock are held responsible for 25-35% of energy losses. Mechanical ventilation with heat recovery recovers 85-95% of heat from exhaust air, providing both energy savings and indoor air quality.\n\nIndustry representatives welcome the regulation while demanding clarification on the implementation timeline and incentive packages for existing buildings."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Konut tipi ısı geri kazanımlı havalandırma ünitesi",
+      "en": "Residential heat recovery ventilation unit"
+    },
+    "author": "Zeynep Arslan",
+    "publishDate": "2026-04-08T09:30:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["mekanik havalandırma", "HRV", "yapı yönetmeliği"],
+      "en": ["mechanical ventilation", "HRV", "building regulation"]
+    }
+  },
+  {
+    "id": "hvac-teknisyen-acigi",
+    "slug": {
+      "tr": "turkiyede-hvac-teknisyen-acigi-buyuyor",
+      "en": "hvac-technician-shortage-grows-in-turkey"
+    },
+    "title": {
+      "tr": "Türkiye'de HVAC Teknisyen Açığı Büyüyor",
+      "en": "HVAC Technician Shortage Grows in Turkey"
+    },
+    "excerpt": {
+      "tr": "Sektördeki hızlı büyüme, nitelikli HVAC teknisyeni ihtiyacını kritik seviyelere taşıdı.",
+      "en": "Rapid growth in the sector has pushed the need for qualified HVAC technicians to critical levels."
+    },
+    "content": {
+      "tr": "HVAC sektöründeki hızlı büyüme, nitelikli teknisyen açığını derinleştiriyor. Sektör derneklerinin verilerine göre, Türkiye'de 2026 yılında 50.000'den fazla nitelikli HVAC teknisyenine ihtiyaç duyuluyor.\n\nÖzellikle ısı pompası, VRF ve akıllı bina otomasyon sistemleri konusunda uzmanlaşmış teknisyen bulmak giderek zorlaşıyor. Geleneksel klima montajı bilgisi artık yeterli olmuyor; yeni teknolojiler sürekli eğitim gerektiriyor.\n\nMesleki eğitim kurumları ve sektör dernekleri, bu açığı kapatmak için ortak sertifika programları başlatıyor. Bazı büyük üreticiler de kendi akademi programlarıyla teknisyen yetiştirmeye başladı.",
+      "en": "Rapid growth in the HVAC sector is deepening the qualified technician shortage. According to industry association data, Turkey needs more than 50,000 qualified HVAC technicians in 2026.\n\nFinding technicians specialized in heat pumps, VRF, and smart building automation systems is becoming increasingly difficult. Traditional AC installation knowledge is no longer sufficient; new technologies require continuous training.\n\nVocational training institutions and industry associations are launching joint certification programs to close this gap. Some major manufacturers have also started training technicians through their own academy programs."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "HVAC teknisyeni klima dış ünitesinde bakım yapıyor",
+      "en": "HVAC technician performing maintenance on an outdoor AC unit"
+    },
+    "author": "Ali Yıldırım",
+    "publishDate": "2026-04-07T10:00:00Z",
+    "featured": false,
+    "readingTime": 3,
+    "tags": {
+      "tr": ["teknisyen", "istihdam", "mesleki eğitim"],
+      "en": ["technician", "employment", "vocational training"]
+    }
+  },
+  {
+    "id": "jeotermal-isi-pompasi",
+    "slug": {
+      "tr": "jeotermal-isi-pompalari-turkiyede-yayginlasiyor",
+      "en": "geothermal-heat-pumps-expanding-in-turkey"
+    },
+    "title": {
+      "tr": "Jeotermal Isı Pompaları Türkiye'de Yaygınlaşıyor",
+      "en": "Geothermal Heat Pumps Expanding in Turkey"
+    },
+    "excerpt": {
+      "tr": "Toprak kaynaklı ısı pompaları, yüksek COP değerleriyle enerji tasarrufunda fark yaratıyor.",
+      "en": "Ground-source heat pumps are making a difference in energy savings with high COP values."
+    },
+    "content": {
+      "tr": "Jeotermal (toprak kaynaklı) ısı pompaları, Türkiye'de özellikle büyük konut projeleri ve kamu binalarında hızla yaygınlaşıyor. Toprak kaynaklı sistemler, hava kaynaklı alternatiflere göre %50'ye kadar daha yüksek COP değerleri sunuyor.\n\nAnkara ve İç Anadolu bölgesindeki sert kış koşullarında, toprak sıcaklığının yıl boyunca sabit kalması jeotermal ısı pompalarına önemli avantaj sağlıyor. Bu sistemler -20°C dış sıcaklıkta bile verimli çalışabiliyor.\n\nTOKİ'nin yeni toplu konut projelerinde jeotermal ısı pompası uygulaması pilot olarak başladı. Başarılı sonuçlar alınması halinde tüm yeni projelerde standart olması planlanıyor.",
+      "en": "Geothermal (ground-source) heat pumps are rapidly expanding in Turkey, particularly in large residential projects and public buildings. Ground-source systems offer up to 50% higher COP values compared to air-source alternatives.\n\nIn the harsh winter conditions of Ankara and Central Anatolia, the stable year-round ground temperature provides significant advantages for geothermal heat pumps. These systems can operate efficiently even at -20°C outdoor temperatures.\n\nTOKI's new mass housing projects have launched a pilot implementation of geothermal heat pumps. If successful results are achieved, they are planned to become standard in all new projects."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Jeotermal ısı pompası için toprak sondajı yapılıyor",
+      "en": "Ground drilling for geothermal heat pump installation"
+    },
+    "author": "Dr. Emre Özcan",
+    "publishDate": "2026-04-06T15:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["jeotermal", "ısı pompası", "COP"],
+      "en": ["geothermal", "heat pump", "COP"]
+    }
+  },
+  {
+    "id": "iskisan-fuari-2026",
+    "slug": {
+      "tr": "iskisan-2026-fuari-rekor-katilimla-sona-erdi",
+      "en": "isk-sodex-2026-fair-ends-with-record-attendance"
+    },
+    "title": {
+      "tr": "ISK-SODEX 2026 Fuarı Rekor Katılımla Sona Erdi",
+      "en": "ISK-SODEX 2026 Fair Ends with Record Attendance"
+    },
+    "excerpt": {
+      "tr": "İstanbul'da düzenlenen ISK-SODEX 2026 fuarı, 85.000 ziyaretçi ve 1.200 katılımcıyla rekor kırdı.",
+      "en": "ISK-SODEX 2026 held in Istanbul broke records with 85,000 visitors and 1,200 exhibitors."
+    },
+    "content": {
+      "tr": "İstanbul Tüyap Fuar ve Kongre Merkezi'nde düzenlenen ISK-SODEX 2026, HVAC-R sektörünün en büyük buluşması oldu. Fuar, 85.000 profesyonel ziyaretçi ve 48 ülkeden 1.200 katılımcı firmayla rekor kırdı.\n\nFuarın öne çıkan temaları arasında ısı pompası teknolojileri, doğal soğutkanlar, akıllı bina çözümleri ve enerji depolama sistemleri yer aldı. Yerli üreticiler, uluslararası standartlarda geliştirdikleri yeni ürünlerle dikkat çekti.\n\nFuar kapsamında düzenlenen 'Yeşil Bina Zirvesi'nde, nZEB (Yaklaşık Sıfır Enerji Bina) hedeflerine ulaşmak için HVAC sektörünün rolü tartışıldı.",
+      "en": "ISK-SODEX 2026, held at Istanbul Tüyap Fair and Congress Center, became the largest gathering of the HVAC-R sector. The fair broke records with 85,000 professional visitors and 1,200 exhibitor companies from 48 countries.\n\nHighlighted themes included heat pump technologies, natural refrigerants, smart building solutions, and energy storage systems. Domestic manufacturers attracted attention with new products developed to international standards.\n\nThe 'Green Building Summit' held during the fair discussed the role of the HVAC sector in achieving nZEB (Nearly Zero Energy Building) targets."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "ISK-SODEX fuar alanında HVAC ekipmanları sergileniyor",
+      "en": "HVAC equipment displayed at ISK-SODEX exhibition area"
+    },
+    "author": "Mehmet Yılmaz",
+    "publishDate": "2026-04-05T08:00:00Z",
+    "featured": false,
+    "readingTime": 3,
+    "tags": {
+      "tr": ["ISK-SODEX", "fuar", "sektör etkinliği"],
+      "en": ["ISK-SODEX", "exhibition", "industry event"]
+    }
+  },
+  {
+    "id": "radyant-isitma-sogutma",
+    "slug": {
+      "tr": "radyant-isitma-sogutma-sistemleri-yukseliste",
+      "en": "radiant-heating-cooling-systems-on-the-rise"
+    },
+    "title": {
+      "tr": "Radyant Isıtma-Soğutma Sistemleri Yükselişte",
+      "en": "Radiant Heating-Cooling Systems on the Rise"
+    },
+    "excerpt": {
+      "tr": "Tavan ve döşemeden radyant ısıtma-soğutma, konfor ve enerji verimliliği avantajlarıyla tercih ediliyor.",
+      "en": "Radiant heating-cooling from ceiling and floor is preferred for its comfort and energy efficiency advantages."
+    },
+    "content": {
+      "tr": "Radyant ısıtma ve soğutma sistemleri, geleneksel konvektif sistemlere göre üstün konfor ve verimlilik sunmasıyla 2026'da popülaritesini artırdı. Bu sistemler, ışınım yoluyla ısı transferi yaparak daha homojen bir sıcaklık dağılımı sağlıyor.\n\nTavan tipi radyant paneller, ofis ve ticari binalarda sessiz çalışma avantajıyla öne çıkıyor. Döşemeden ısıtma ise konut sektöründe, özellikle ısı pompası kombinasyonlarında yüksek verim sunuyor.\n\nRadyant sistemler, düşük su sıcaklığında (35-40°C) çalışabilmeleri sayesinde ısı pompalarıyla mükemmel uyum gösteriyor. Bu kombinasyon, toplam enerji tüketimini konvektif sistemlere göre %25-30 azaltabiliyor.",
+      "en": "Radiant heating and cooling systems increased their popularity in 2026 by offering superior comfort and efficiency compared to traditional convective systems. These systems provide more homogeneous temperature distribution through radiant heat transfer.\n\nCeiling-type radiant panels stand out with their silent operation advantage in office and commercial buildings. Underfloor heating offers high efficiency in the residential sector, especially in heat pump combinations.\n\nRadiant systems show excellent compatibility with heat pumps thanks to their ability to operate at low water temperatures (35-40°C). This combination can reduce total energy consumption by 25-30% compared to convective systems."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Döşemeden ısıtma sistemi kurulumu yapılıyor",
+      "en": "Underfloor heating system being installed"
+    },
+    "author": "Ayşe Kara",
+    "publishDate": "2026-04-04T12:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["radyant ısıtma", "döşemeden ısıtma", "konfor"],
+      "en": ["radiant heating", "underfloor heating", "comfort"]
+    }
+  },
+  {
+    "id": "enerji-depolama-hvac",
+    "slug": {
+      "tr": "enerji-depolama-sistemleri-hvac-sektorunde-devrim-yaratiyor",
+      "en": "energy-storage-systems-revolutionize-hvac-sector"
+    },
+    "title": {
+      "tr": "Enerji Depolama Sistemleri HVAC Sektöründe Devrim Yaratıyor",
+      "en": "Energy Storage Systems Revolutionize the HVAC Sector"
+    },
+    "excerpt": {
+      "tr": "Termal ve batarya enerji depolama, HVAC sistemlerinin enerji yönetimini kökten değiştiriyor.",
+      "en": "Thermal and battery energy storage are fundamentally changing HVAC system energy management."
+    },
+    "content": {
+      "tr": "Enerji depolama teknolojileri, HVAC sektöründe yeni bir paradigma oluşturuyor. Termal enerji depolama (TES) ve batarya enerji depolama sistemleri (BESS), pik talep yönetimi ve yenilenebilir enerji entegrasyonunda kritik rol oynuyor.\n\nBuz depolama (ice storage) sistemleri, gece saatlerinde ucuz elektrikle buz üreterek gündüz soğutma yükünü karşılıyor. Bu yöntem, elektrik maliyetlerini %40'a varan oranlarda düşürebiliyor.\n\nGüneş enerjisi ile ısı pompası ve termal depolama kombinasyonu, 'sıfır enerji bina' hedeflerine ulaşmada en umut verici çözümlerden biri olarak değerlendiriliyor. Türkiye'de pilot projeler başarılı sonuçlar veriyor.",
+      "en": "Energy storage technologies are creating a new paradigm in the HVAC sector. Thermal Energy Storage (TES) and Battery Energy Storage Systems (BESS) play critical roles in peak demand management and renewable energy integration.\n\nIce storage systems produce ice using cheap electricity during nighttime to meet daytime cooling loads. This method can reduce electricity costs by up to 40%.\n\nThe combination of solar energy with heat pumps and thermal storage is considered one of the most promising solutions for achieving 'zero energy building' targets. Pilot projects in Turkey are yielding successful results."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Bina bodrum katında termal enerji depolama tankları",
+      "en": "Thermal energy storage tanks in building basement"
+    },
+    "author": "Burak Aydın",
+    "publishDate": "2026-04-03T14:30:00Z",
+    "featured": false,
+    "readingTime": 5,
+    "tags": {
+      "tr": ["enerji depolama", "termal depolama", "buz depolama"],
+      "en": ["energy storage", "thermal storage", "ice storage"]
+    }
+  },
+  {
+    "id": "kanal-tipi-klima-rehber",
+    "slug": {
+      "tr": "kanal-tipi-klima-sistemleri-secim-rehberi",
+      "en": "ducted-air-conditioning-systems-selection-guide"
+    },
+    "title": {
+      "tr": "Kanal Tipi Klima Sistemleri Seçim Rehberi",
+      "en": "Ducted Air Conditioning Systems Selection Guide"
+    },
+    "excerpt": {
+      "tr": "Doğru kanal tipi klima sistemi seçimi için teknik kriterler ve uygulama ipuçları.",
+      "en": "Technical criteria and application tips for selecting the right ducted AC system."
+    },
+    "content": {
+      "tr": "Kanal tipi klima sistemleri, estetik görünüm ve homojen hava dağılımı avantajlarıyla konut ve ticari projelerde tercih ediliyor. Doğru sistem seçimi için soğutma/ısıtma kapasitesi, statik basınç, ses seviyesi ve enerji sınıfı gibi teknik kriterler dikkate alınmalı.\n\nKanal tasarımı, sistem verimliliğini doğrudan etkileyen en kritik faktör. Yetersiz kanal boyutlandırma, basınç kayıplarına ve enerji israfına neden olur. ASHRAE standartlarına uygun kanal hesaplaması zorunludur.\n\nYeni nesil kanal tipi üniteler, EC fan motorları ve değişken hava debisi (VAV) kontrolü ile enerji verimliliğini %35 artırabiliyor. Isı geri kazanım özellikli modeller, taze hava ihtiyacını karşılarken enerji kayıplarını minimize ediyor.",
+      "en": "Ducted air conditioning systems are preferred in residential and commercial projects for their aesthetic appearance and homogeneous air distribution. Technical criteria such as cooling/heating capacity, static pressure, noise level, and energy class should be considered for proper system selection.\n\nDuct design is the most critical factor directly affecting system efficiency. Inadequate duct sizing causes pressure losses and energy waste. Duct calculation compliant with ASHRAE standards is mandatory.\n\nNext-generation ducted units can increase energy efficiency by 35% with EC fan motors and Variable Air Volume (VAV) control. Models with heat recovery features minimize energy losses while meeting fresh air requirements."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Asma tavan içinde kanal tipi klima iç ünitesi kurulumu",
+      "en": "Ducted AC indoor unit installation inside suspended ceiling"
+    },
+    "author": "Canan Demir",
+    "publishDate": "2026-04-02T09:00:00Z",
+    "featured": false,
+    "readingTime": 6,
+    "tags": {
+      "tr": ["kanal tipi klima", "kanal tasarımı", "VAV"],
+      "en": ["ducted AC", "duct design", "VAV"]
+    }
+  },
+  {
+    "id": "hvac-dijital-ikiz",
+    "slug": {
+      "tr": "dijital-ikiz-teknolojisi-hvac-bakim-maliyetlerini-dusuruyor",
+      "en": "digital-twin-technology-reduces-hvac-maintenance-costs"
+    },
+    "title": {
+      "tr": "Dijital İkiz Teknolojisi HVAC Bakım Maliyetlerini Düşürüyor",
+      "en": "Digital Twin Technology Reduces HVAC Maintenance Costs"
+    },
+    "excerpt": {
+      "tr": "HVAC sistemlerinin dijital ikizleri, prediktif bakım ile arıza sürelerini %60 azaltıyor.",
+      "en": "Digital twins of HVAC systems reduce downtime by 60% through predictive maintenance."
+    },
+    "content": {
+      "tr": "Dijital ikiz teknolojisi, fiziksel HVAC sistemlerinin sanal kopyalarını oluşturarak gerçek zamanlı izleme ve prediktif bakım imkânı sunuyor. Bu teknoloji, beklenmedik arızaları %60 oranında azaltarak bakım maliyetlerini önemli ölçüde düşürüyor.\n\nDijital ikizler, sensör verilerini sürekli analiz ederek kompresör aşınması, filtre tıkanması ve soğutkan kaçağı gibi sorunları arıza oluşmadan önce tespit edebiliyor. Bu yaklaşım, reaktif bakımdan proaktif bakıma geçişi sağlıyor.\n\nBüyük ölçekli ticari binalarda dijital ikiz uygulamaları, yıllık bakım bütçelerinde %35-45 tasarruf sağladığı raporlanıyor. Türkiye'de de özellikle AVM ve hastane projelerinde dijital ikiz kullanımı artıyor.",
+      "en": "Digital twin technology offers real-time monitoring and predictive maintenance by creating virtual copies of physical HVAC systems. This technology significantly reduces maintenance costs by decreasing unexpected failures by 60%.\n\nDigital twins can detect issues such as compressor wear, filter clogging, and refrigerant leaks before failures occur by continuously analyzing sensor data. This approach enables the transition from reactive to proactive maintenance.\n\nDigital twin implementations in large-scale commercial buildings are reported to save 35-45% on annual maintenance budgets. In Turkey, digital twin usage is also increasing, particularly in shopping center and hospital projects."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Tablet ekranında HVAC sisteminin dijital ikiz modeli",
+      "en": "Digital twin model of HVAC system on tablet screen"
+    },
+    "author": "Hakan Türk",
+    "publishDate": "2026-04-01T11:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["dijital ikiz", "prediktif bakım", "IoT"],
+      "en": ["digital twin", "predictive maintenance", "IoT"]
+    }
+  },
+  {
+    "id": "fan-coil-teknolojisi",
+    "slug": {
+      "tr": "yeni-nesil-fan-coil-unitelerinde-sessiz-calisma-teknolojisi",
+      "en": "silent-operation-technology-in-next-gen-fan-coil-units"
+    },
+    "title": {
+      "tr": "Yeni Nesil Fan Coil Ünitelerinde Sessiz Çalışma Teknolojisi",
+      "en": "Silent Operation Technology in Next-Gen Fan Coil Units"
+    },
+    "excerpt": {
+      "tr": "EC motorlu yeni fan coil üniteleri, 19 dB(A) ses seviyesiyle otel ve hastane projelerinde tercih ediliyor.",
+      "en": "New fan coil units with EC motors are preferred in hotel and hospital projects with 19 dB(A) noise levels."
+    },
+    "content": {
+      "tr": "Yeni nesil fan coil üniteleri, EC (Elektronik Komütasyonlu) motor teknolojisi sayesinde 19 dB(A)'ya kadar düşen ses seviyeleriyle dikkat çekiyor. Bu değer, yaprak hışırtısı seviyesinin bile altında kalıyor.\n\nOtel odaları, hastane hasta odaları ve kütüphaneler gibi sessizliğin kritik olduğu alanlarda, düşük ses seviyeli fan coil üniteleri standart hale geliyor. EC motorlar aynı zamanda AC motorlara göre %70'e varan enerji tasarrufu sağlıyor.\n\nKablosuz kontrol ve BACnet/Modbus iletişim protokolleri desteği, yeni nesil fan coil ünitelerinin akıllı bina otomasyon sistemlerine sorunsuz entegrasyonunu mümkün kılıyor.",
+      "en": "Next-generation fan coil units are attracting attention with noise levels as low as 19 dB(A) thanks to EC (Electronically Commutated) motor technology. This value is even below the level of rustling leaves.\n\nLow-noise fan coil units are becoming standard in areas where silence is critical, such as hotel rooms, hospital patient rooms, and libraries. EC motors also provide up to 70% energy savings compared to AC motors.\n\nWireless control and BACnet/Modbus communication protocol support enable seamless integration of next-generation fan coil units into smart building automation systems."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Otel odasında gizli tavan tipi fan coil ünitesi",
+      "en": "Concealed ceiling-type fan coil unit in hotel room"
+    },
+    "author": "Zeynep Arslan",
+    "publishDate": "2026-03-30T10:00:00Z",
+    "featured": false,
+    "readingTime": 3,
+    "tags": {
+      "tr": ["fan coil", "EC motor", "sessiz çalışma"],
+      "en": ["fan coil", "EC motor", "silent operation"]
+    }
+  },
+  {
+    "id": "hvac-siber-guvenlik",
+    "slug": {
+      "tr": "hvac-sistemlerinde-siber-guvenlik-tehditleri-artiyor",
+      "en": "cybersecurity-threats-increasing-in-hvac-systems"
+    },
+    "title": {
+      "tr": "HVAC Sistemlerinde Siber Güvenlik Tehditleri Artıyor",
+      "en": "Cybersecurity Threats Increasing in HVAC Systems"
+    },
+    "excerpt": {
+      "tr": "IoT bağlantılı HVAC sistemleri siber saldırılara karşı savunmasız. Uzmanlar güvenlik protokollerini uyarıyor.",
+      "en": "IoT-connected HVAC systems are vulnerable to cyberattacks. Experts warn about security protocols."
+    },
+    "content": {
+      "tr": "IoT ve bulut tabanlı HVAC kontrol sistemlerinin yaygınlaşmasıyla birlikte, siber güvenlik tehditleri sektörün gündemine oturdu. 2025'te dünya genelinde HVAC sistemlerine yönelik siber saldırılar %180 arttı.\n\nBina otomasyon sistemleri (BAS) üzerinden gerçekleştirilen saldırılar, sadece HVAC kontrolünü değil, tüm bina altyapısını tehdit edebiliyor. Fidye yazılımı saldırıları, hastane ve veri merkezi gibi kritik tesislerde ciddi riskler oluşturuyor.\n\nUzmanlar, HVAC sistemlerinde ağ segmentasyonu, güçlü kimlik doğrulama, düzenli güncelleme ve penetrasyon testi uygulamalarını zorunlu tutmayı öneriyor. Sektörde siber güvenlik sertifikasyonu ihtiyacı her geçen gün artıyor.",
+      "en": "With the proliferation of IoT and cloud-based HVAC control systems, cybersecurity threats have become a top agenda item for the sector. Cyberattacks targeting HVAC systems worldwide increased by 180% in 2025.\n\nAttacks carried out through Building Automation Systems (BAS) can threaten not only HVAC control but the entire building infrastructure. Ransomware attacks pose serious risks in critical facilities such as hospitals and data centers.\n\nExperts recommend mandating network segmentation, strong authentication, regular updates, and penetration testing in HVAC systems. The need for cybersecurity certification in the sector grows every day."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Bina otomasyon sistemi ekranında siber güvenlik uyarısı",
+      "en": "Cybersecurity alert on building automation system screen"
+    },
+    "author": "Ali Yıldırım",
+    "publishDate": "2026-03-28T14:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["siber güvenlik", "IoT", "bina otomasyonu"],
+      "en": ["cybersecurity", "IoT", "building automation"]
+    }
+  },
+  {
+    "id": "nzeb-turkiye-hedefleri",
+    "slug": {
+      "tr": "turkiye-nzeb-yaklasik-sifir-enerji-bina-hedeflerini-belirledi",
+      "en": "turkey-sets-nzeb-nearly-zero-energy-building-targets"
+    },
+    "title": {
+      "tr": "Türkiye nZEB (Yaklaşık Sıfır Enerji Bina) Hedeflerini Belirledi",
+      "en": "Turkey Sets nZEB (Nearly Zero Energy Building) Targets"
+    },
+    "excerpt": {
+      "tr": "2030'a kadar tüm yeni kamu binalarında nZEB standardı zorunlu olacak. HVAC sektörü hazırlanıyor.",
+      "en": "nZEB standard will be mandatory for all new public buildings by 2030. HVAC sector is preparing."
+    },
+    "content": {
+      "tr": "Türkiye, Avrupa Birliği uyum sürecinde Yaklaşık Sıfır Enerji Bina (nZEB) hedeflerini resmi olarak belirledi. 2030 yılına kadar tüm yeni kamu binalarının, 2033'e kadar ise tüm yeni yapıların nZEB standardını karşılaması hedefleniyor.\n\nnZEB standartları, binaların enerji ihtiyacının büyük bölümünü yenilenebilir kaynaklardan karşılamasını gerektiriyor. Bu durum, yüksek verimli HVAC sistemleri, ısı pompası ve enerji geri kazanım çözümlerini zorunlu kılıyor.\n\nSektör dernekleri, nZEB hedeflerine ulaşmak için HVAC mühendisliği eğitim programlarının güncellenmesini ve yeni sertifika sistemlerinin oluşturulmasını talep ediyor.",
+      "en": "Turkey has officially set its Nearly Zero Energy Building (nZEB) targets as part of the EU harmonization process. All new public buildings are targeted to meet nZEB standards by 2030, and all new buildings by 2033.\n\nnZEB standards require buildings to meet most of their energy needs from renewable sources. This necessitates high-efficiency HVAC systems, heat pumps, and energy recovery solutions.\n\nIndustry associations are demanding updates to HVAC engineering training programs and the creation of new certification systems to achieve nZEB targets."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Çatısında güneş panelleri olan modern nZEB bina",
+      "en": "Modern nZEB building with solar panels on the roof"
+    },
+    "author": "Mehmet Yılmaz",
+    "publishDate": "2026-03-25T08:00:00Z",
+    "featured": false,
+    "readingTime": 4,
+    "tags": {
+      "tr": ["nZEB", "sıfır enerji bina", "sürdürülebilirlik"],
+      "en": ["nZEB", "zero energy building", "sustainability"]
+    }
+  },
+  {
+    "id": "klima-bakim-ilkbahar",
+    "slug": {
+      "tr": "ilkbahar-klima-bakim-rehberi-sezona-hazirlik",
+      "en": "spring-ac-maintenance-guide-seasonal-preparation"
+    },
+    "title": {
+      "tr": "İlkbahar Klima Bakım Rehberi: Sezona Hazırlık",
+      "en": "Spring AC Maintenance Guide: Seasonal Preparation"
+    },
+    "excerpt": {
+      "tr": "Yaz sezonu öncesi klima bakım kontrol listesi: filtre, soğutkan, elektrik ve drenaj kontrolü.",
+      "en": "Pre-summer AC maintenance checklist: filter, refrigerant, electrical, and drainage inspection."
+    },
+    "content": {
+      "tr": "Yaz sezonunun yaklaşmasıyla birlikte klima sistemlerinin bakımı kritik önem kazanıyor. Sezon başında yapılan kapsamlı bakım, hem enerji verimliliğini artırıyor hem de beklenmedik arızaları önlüyor.\n\nTemel bakım kontrol listesi şunları kapsamalı: filtre temizliği/değişimi, soğutkan basınç kontrolü, kondenser ve evaporatör bobin temizliği, elektrik bağlantıları kontrolü, drenaj hattı temizliği ve termostat kalibrasyonu.\n\nDüzenli bakım yapılan klimalar, bakımsız olanlara göre %15-25 daha az enerji tüketiyor ve ortalama ömürleri 5-7 yıl daha uzun oluyor. Profesyonel bakım hizmeti almanız, garantiyi korumak açısından da önemli.",
+      "en": "As the summer season approaches, air conditioning system maintenance becomes critically important. Comprehensive maintenance at the start of the season both increases energy efficiency and prevents unexpected breakdowns.\n\nThe basic maintenance checklist should include: filter cleaning/replacement, refrigerant pressure check, condenser and evaporator coil cleaning, electrical connection inspection, drainage line cleaning, and thermostat calibration.\n\nRegularly maintained ACs consume 15-25% less energy than unmaintained ones and their average lifespan is 5-7 years longer. Getting professional maintenance service is also important for maintaining your warranty."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Teknisyen klima filtresini temizliyor",
+      "en": "Technician cleaning an air conditioning filter"
+    },
+    "author": "Canan Demir",
+    "publishDate": "2026-03-22T09:00:00Z",
+    "featured": false,
+    "readingTime": 3,
+    "tags": {
+      "tr": ["klima bakım", "mevsimsel bakım", "enerji tasarrufu"],
+      "en": ["AC maintenance", "seasonal maintenance", "energy savings"]
+    }
+  }
+]

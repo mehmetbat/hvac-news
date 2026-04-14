@@ -1,0 +1,42 @@
+---
+import type { Lang } from '../utils/i18n';
+import { t } from '../utils/i18n';
+import { getAllCategories } from '../utils/news';
+
+interface Props {
+  lang: Lang;
+  activeCategory?: string;
+}
+
+const { lang, activeCategory } = Astro.props;
+const categories = getAllCategories();
+const homeUrl = lang === 'tr' ? '/' : '/en/';
+const categoryBasePath = lang === 'tr' ? '/kategori' : '/en/category';
+---
+
+<nav class="flex flex-wrap gap-2 mb-8" aria-label={lang === 'tr' ? 'Kategori filtresi' : 'Category filter'}>
+  <a
+    href={homeUrl}
+    class:list={[
+      'px-4 py-2 rounded-full text-sm font-medium font-body transition-colors',
+      !activeCategory
+        ? 'bg-cyan-500 text-white'
+        : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+    ]}
+  >
+    {t('category.all', lang)}
+  </a>
+  {categories.map((cat) => (
+    <a
+      href={`${categoryBasePath}/${cat.slug}/`}
+      class:list={[
+        'px-4 py-2 rounded-full text-sm font-medium font-body transition-colors',
+        activeCategory === cat.slug
+          ? 'bg-cyan-500 text-white'
+          : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+      ]}
+    >
+      {cat.label[lang]}
+    </a>
+  ))}
+</nav>

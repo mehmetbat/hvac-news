@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-cyan-500;
+  }
+
+  ::selection {
+    @apply bg-cyan-500/20 text-slate-900;
+  }
+}
+
+@layer utilities {
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+/* Prose stillleri - haber detay sayfası */
+.prose {
+  @apply text-slate-700 leading-relaxed font-body;
+}
+
+.prose p {
+  @apply mb-4;
+}
+
+.prose h2 {
+  @apply font-heading font-bold text-slate-900 text-xl mt-8 mb-4;
+}
+
+.prose h3 {
+  @apply font-heading font-semibold text-slate-900 text-lg mt-6 mb-3;
+}
+
+.prose ul {
+  @apply list-disc list-inside mb-4 space-y-1;
+}
+
+.prose ol {
+  @apply list-decimal list-inside mb-4 space-y-1;
+}
+
+.prose a {
+  @apply text-cyan-600 hover:text-cyan-700 underline;
+}
+
+/* Details/summary mobil menü stili */
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary {
+  list-style: none;
+}
+
+details[open] > summary ~ * {
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

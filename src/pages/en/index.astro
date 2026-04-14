@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SEOHead from '../../components/SEOHead.astro';
+import SchemaMarkup from '../../components/SchemaMarkup.astro';
+import FeaturedNews from '../../components/FeaturedNews.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import CategoryFilter from '../../components/CategoryFilter.astro';
+import { t } from '../../utils/i18n';
+import { getAllNews, getFeaturedNews } from '../../utils/news';
+import { generateWebSiteSchema, generateOrganizationSchema, generateItemListSchema } from '../../utils/seo';
+
+const lang = 'en';
+const allNews = getAllNews();
+const featured = getFeaturedNews()[0];
+const restNews = allNews.filter((n) => n.id !== featured?.id);
+
+const schemas = [
+  generateWebSiteSchema(),
+  generateOrganizationSchema(),
+  generateItemListSchema(
+    allNews.map((n, i) => ({
+      name: n.title[lang],
+      url: `/en/${n.slug[lang]}/`,
+      position: i + 1
+    }))
+  )
+];
+---
+
+<BaseLayout lang={lang}>
+  <Fragment slot="head">
+    <SEOHead
+      title={t('site.name', lang)}
+      description={t('site.description', lang)}
+      url="/en/"
+      lang={lang}
+      alternateUrl="/"
+    />
+    <SchemaMarkup schemas={schemas} />
+  </Fragment>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    {featured && <FeaturedNews news={featured} lang={lang} />}
+
+    <CategoryFilter lang={lang} />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {restNews.map((news) => (
+        <NewsCard news={news} lang={lang} />
+      ))}
+    </div>
+
+    <p class="text-center text-sm text-slate-400 mt-10 font-body">
+      {t('news.allLoaded', lang)}
+    </p>
+  </div>
+</BaseLayout>
