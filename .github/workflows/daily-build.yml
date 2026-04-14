@@ -9,6 +9,9 @@ on:
   # Manuel tetikleme (test için)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch-rewrite-build-deploy:
     runs-on: ubuntu-latest
@@ -18,6 +21,8 @@ jobs:
       # 1. Repo'yu çek
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. Node.js kur
       - name: Setup Node.js
