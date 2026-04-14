@@ -1,6 +1,6 @@
 ---
 import type { Lang } from '../utils/i18n';
-import { t, formatDate } from '../utils/i18n';
+import { t, formatDate, withBase } from '../utils/i18n';
 import type { NewsItem } from '../utils/news';
 
 interface Props {
@@ -9,14 +9,14 @@ interface Props {
 }
 
 const { news, lang } = Astro.props;
-const detailUrl = lang === 'tr' ? `/${news.slug.tr}/` : `/en/${news.slug.en}/`;
+const detailUrl = lang === 'tr' ? withBase(`/${news.slug.tr}/`) : withBase(`/en/${news.slug.en}/`);
 ---
 
 <article class="bg-white rounded-xl shadow-sm hover:shadow-lg transition-shadow duration-300 overflow-hidden mb-10">
   <a href={detailUrl} class="block md:flex">
     <div class="md:w-3/5 relative overflow-hidden">
       <img
-        src={`/images/news/${news.image}`}
+        src={withBase(`/images/news/${news.image}`)}
         alt={news.imageAlt[lang]}
         width="720"
         height="405"

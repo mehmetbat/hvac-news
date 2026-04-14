@@ -3,6 +3,8 @@ import enTranslations from '../i18n/en.json';
 
 export type Lang = 'tr' | 'en';
 
+const BASE = '/hvac-news';
+
 const translations: Record<Lang, Record<string, string>> = {
   tr: trTranslations,
   en: enTranslations
@@ -12,9 +14,13 @@ export function t(key: string, lang: Lang): string {
   return translations[lang][key] ?? key;
 }
 
+export function withBase(path: string): string {
+  return `${BASE}${path}`;
+}
+
 export function getLangFromUrl(url: URL): Lang {
   const pathname = url.pathname;
-  if (pathname.startsWith('/en/') || pathname === '/en') {
+  if (pathname.includes('/en/') || pathname.endsWith('/en')) {
     return 'en';
   }
   return 'tr';
@@ -22,9 +28,9 @@ export function getLangFromUrl(url: URL): Lang {
 
 export function getLocalizedUrl(path: string, lang: Lang): string {
   if (lang === 'en') {
-    return `/en${path}`;
+    return withBase(`/en${path}`);
   }
-  return path;
+  return withBase(path);
 }
 
 export function getAlternateUrl(currentPath: string, currentLang: Lang): string {

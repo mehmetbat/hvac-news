@@ -1,6 +1,6 @@
 ---
 import type { Lang } from '../utils/i18n';
-import { t } from '../utils/i18n';
+import { t, withBase } from '../utils/i18n';
 
 interface BreadcrumbItem {
   label: string;
@@ -13,7 +13,7 @@ interface Props {
 }
 
 const { items, lang } = Astro.props;
-const homeUrl = lang === 'tr' ? '/' : '/en/';
+const homeUrl = lang === 'tr' ? withBase('/') : withBase('/en/');
 ---
 
 <nav aria-label={lang === 'tr' ? 'Sayfa izi' : 'Breadcrumb'} class="mb-6">

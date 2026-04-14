@@ -1,6 +1,6 @@
 import type { Lang } from './i18n';
 
-const SITE_URL = 'https://www.hvachaber.com';
+const SITE_URL = 'https://inovair.com.tr/hvac-news';
 const SITE_NAME = 'HVAC Haber';
 
 export interface SEOProps {

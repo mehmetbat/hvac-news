@@ -4,7 +4,8 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   output: 'static',
-  site: 'https://www.hvachaber.com',
+  site: 'https://inovair.com.tr',
+  base: '/hvac-news',
   trailingSlash: 'always',
   build: {
     format: 'directory',

@@ -1,6 +1,6 @@
 ---
 import type { Lang } from '../utils/i18n';
-import { t, getLocalizedUrl } from '../utils/i18n';
+import { t, getLocalizedUrl, withBase } from '../utils/i18n';
 import { getAllCategories } from '../utils/news';
 
 interface Props {
@@ -9,7 +9,7 @@ interface Props {
 
 const { lang } = Astro.props;
 const categories = getAllCategories();
-const categoryBasePath = lang === 'tr' ? '/kategori' : '/en/category';
+const categoryBasePath = lang === 'tr' ? withBase('/kategori') : withBase('/en/category');
 ---
 
 <footer class="bg-navy-950 text-slate-300">

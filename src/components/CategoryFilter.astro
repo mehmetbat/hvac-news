@@ -1,6 +1,6 @@
 ---
 import type { Lang } from '../utils/i18n';
-import { t } from '../utils/i18n';
+import { t, withBase } from '../utils/i18n';
 import { getAllCategories } from '../utils/news';
 
 interface Props {
@@ -10,8 +10,8 @@ interface Props {
 
 const { lang, activeCategory } = Astro.props;
 const categories = getAllCategories();
-const homeUrl = lang === 'tr' ? '/' : '/en/';
-const categoryBasePath = lang === 'tr' ? '/kategori' : '/en/category';
+const homeUrl = lang === 'tr' ? withBase('/') : withBase('/en/');
+const categoryBasePath = lang === 'tr' ? withBase('/kategori') : withBase('/en/category');
 ---
 
 <nav class="flex flex-wrap gap-2 mb-8" aria-label={lang === 'tr' ? 'Kategori filtresi' : 'Category filter'}>

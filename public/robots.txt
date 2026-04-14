@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.hvachaber.com/sitemap-index.xml
+Sitemap: https://inovair.com.tr/hvac-news/sitemap-index.xml
 
 # AI bot'lara izin ver
 User-agent: GPTBot
