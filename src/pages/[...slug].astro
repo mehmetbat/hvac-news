@@ -43,7 +43,7 @@ const schemas = [
   ])
 ];
 
-const paragraphs = newsItem.content[lang].split('\n\n');
+const paragraphs = (newsItem.content[lang] || newsItem.content.tr || '').split('\n\n');
 ---
 
 <BaseLayout lang={lang}>

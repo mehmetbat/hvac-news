@@ -166,6 +166,15 @@ async function main() {
 
     try {
       const rewritten = await rewriteArticle(raw);
+
+      // Zorunlu alanların varlığını kontrol et
+      if (!rewritten.title?.tr || !rewritten.title?.en ||
+          !rewritten.content?.tr || !rewritten.content?.en ||
+          !rewritten.excerpt?.tr || !rewritten.excerpt?.en) {
+        console.error(`    ✗ Eksik alan — atlanıyor`);
+        continue;
+      }
+
       const category = detectCategory(raw.originalTitle, raw.originalContent);
       const now = new Date().toISOString();
 
