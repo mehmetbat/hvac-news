@@ -1,5 +1,515 @@
 [
   {
+    "id": "rocket-group-expands-texas-operations-with-new-partnership",
+    "slug": {
+      "tr": "rocket-group-texasta-genislemeye-devam-ediyor",
+      "en": "rocket-group-expands-texas-operations-with-new-partnership"
+    },
+    "title": {
+      "tr": "Rocket Group Texas'ta Genişlemeye Devam Ediyor",
+      "en": "Rocket Group Expands Texas Operations with New Partnership"
+    },
+    "excerpt": {
+      "tr": "Rocket Group, San Antonio merkezli Roadrunner Plumbing & Air ile 11. ortaklığını imzalayarak Texas'taki varlığını güçlendirdi.",
+      "en": "Rocket Group strengthens Texas presence through 11th strategic partnership with San Antonio-based Roadrunner Plumbing & Air."
+    },
+    "content": {
+      "tr": "Amerikan ev hizmetleri sektörünün öncü şirketlerinden Rocket Group, Texas'taki genişleme stratejisini hızlandırarak San Antonio merkezli Roadrunner Plumbing & Air ile ortaklık anlaşması imzaladı. Bu anlaşma, şirketin Amerika Birleşik Devletleri genelindeki 11. stratejik ortaklığını oluşturuyor ve Texas pazarındaki konumunu önemli ölçüde güçlendiriyor.\n\nRoadrunner Plumbing & Air, 2015 yılından bu yana San Antonio bölgesinde faaliyet gösteren köklü bir aile şirketi olarak dikkat çekiyor. Şirket, Alamo Heights, Boerne, Helotes, New Braunfels ve Stone Oak dahil olmak üzere 21 farklı toplulukta hizmet vererek, 650'den fazla müşteri yorumunda 4.9 yıldızlık mükemmel bir değerlendirme almayı başarmış durumda. Bu güçlü yerel pazar deneyimi, Rocket Group'un kanıtlanmış iş ölçeklendirme sistemleri ile birleşerek sinerjik bir güç oluşturacak.\n\nRocket Group CEO'su Victor Rancour, bu ortaklığın Texas'taki ikinci büyük genişleme hamlesi olduğunu ve bölgedeki büyüme potansiyelinin ev hizmetleri işletmelerinin hızlı gelişimine katkı sağlama misyonlarını desteklediğini belirtti. Bu gelişme, Türkiye'deki HVAC sektörü için de önemli bir örnek teşkil ediyor; özellikle yerel şirketlerin uluslararası ortaklıklar yoluyla nasıl büyüyebileceği konusunda değerli içgörüler sunuyor.",
+      "en": "Home services industry leader Rocket Group has accelerated its Texas expansion strategy by forming a strategic partnership with San Antonio-based Roadrunner Plumbing & Air, marking the company's 11th collaborative agreement across the United States. This significant alliance strengthens Rocket Group's foothold in the lucrative Texas market while bringing together complementary expertise in business scaling and local market knowledge.\n\nRoadrunner Plumbing & Air has established itself as a trusted family-owned enterprise serving the San Antonio region since 2015, demonstrating consistent excellence in plumbing and HVAC services. The company operates across 21 distinct communities including Alamo Heights, Boerne, Helotes, New Braunfels, and Stone Oak, maintaining an impressive 4.9-star rating based on over 650 customer reviews. This strong local market foundation, combined with Rocket Group's proven business acceleration systems, creates a powerful synergy for future growth initiatives.\n\nVictor Rancour, CEO of Rocket Group, emphasized that this partnership represents their second major expansion into Texas, highlighting how the region's growth potential aligns with their mission to help home service businesses achieve rapid scaling. The alliance is expected to enhance specialized service delivery capabilities while fostering local employment opportunities and community investment, setting a valuable precedent for similar partnerships in emerging markets globally."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Rocket Group ve Roadrunner Plumbing & Air ortaklık anlaşması görseli",
+      "en": "Rocket Group and Roadrunner Plumbing & Air partnership announcement visual"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 14:34:09 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC ortaklık",
+        "Texas genişleme",
+        "ev hizmetleri",
+        "sektörel büyüme",
+        "stratejik anlaşma"
+      ],
+      "en": [
+        "HVAC partnership",
+        "Texas expansion",
+        "home services",
+        "strategic alliance",
+        "business growth"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/rocket-group-accelerates-texas-expansion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rocket-group-accelerates-texas-expansion",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "fw-webb-marks-160-year-success-story-with-employee-recognition",
+    "slug": {
+      "tr": "fw-webb-160-yillik-basari-hikayesini-calisanlarla-kutluyor",
+      "en": "fw-webb-marks-160-year-success-story-with-employee-recognition"
+    },
+    "title": {
+      "tr": "F.W. Webb 160 Yıllık Başarı Hikayesini Çalışanlarla Kutluyor",
+      "en": "F.W. Webb Marks 160-Year Success Story with Employee Recognition"
+    },
+    "excerpt": {
+      "tr": "Amerika'nın köklü HVAC distribütörü F.W. Webb, 160. yılında çalışan odaklı büyüme stratejisiyle sektöre örnek oluyor.",
+      "en": "Leading US HVAC distributor F.W. Webb celebrates 160 years with employee-focused growth strategy, setting industry example."
+    },
+    "content": {
+      "tr": "Amerika Birleşik Devletleri'nin önde gelen HVAC ve tesisat malzemeleri distribütörü F.W. Webb Company, 160. kuruluş yıl dönümünde başarısının temelini çalışan memnuniyeti ve müşteri ilişkilerine dayandırdığını açıkladı. 1866 yılında Boston'da kurulan şirket, bugün 2.6 milyar dolarlık ciroya sahip dev bir organizasyon haline geldi.\n\nÜç kuşaktır Pope ailesi kontrolündeki F.W. Webb, günümüzde 16 farklı uzmanlık alanında 3.700'den fazla çalışanı ve bir milyonun üzerinde stok ürünü ile hizmet veriyor. Şirket Sahibi ve Başkanı Jeff Pope, \"Bu dönüm noktasını kutlarken, başarımıza katkıda bulunan tüm insanları tanımak önemli. Yetenekli ekibimizin çalışmalarını değerli buluyoruz ve müşterilerimizin bize duyduğu güveni gerçekten takdir ediyoruz\" açıklamasında bulundu.\n\nF.W. Webb'in bu başarı hikayesi, Türkiye'deki HVAC sektörü için de önemli dersler içeriyor. Özellikle aile şirketlerinin kuşaklar boyu sürdürülebilir büyüme konusunda F.W. Webb modeli, çalışan odaklı yaklaşım ve toplumsal sorumluluk projelerinin önemini gösteriyor. Şirketin Boston Çocuk Hastanesi ve mesleki eğitim programlarına verdiği destek, Türk HVAC firmalarının da benzer sosyal sorumluluk projelerine yönelebileceğine işaret ediyor.",
+      "en": "Leading US HVAC and plumbing supply distributor F.W. Webb Company has attributed its success over 160 years to employee satisfaction and strong customer relationships as it celebrates this significant milestone. Founded in Boston in 1866, the company has evolved into a $2.6 billion organization.\n\nUnder three generations of Pope family ownership, F.W. Webb now operates across 16 specialized areas with over 3,700 employees and more than one million products in inventory. Company Owner and President Jeff Pope stated, \"As we celebrate this milestone, it's important to recognize all the people who have contributed to our success. We value our talented team's work and truly appreciate the trust our customers place in us.\"\n\nF.W. Webb's success story offers valuable insights for Turkey's HVAC sector. Particularly for family businesses, the F.W. Webb model demonstrates the importance of employee-focused approaches and social responsibility projects for sustainable growth across generations. The company's support for Boston Children's Hospital and vocational training programs suggests that Turkish HVAC companies could also benefit from similar community engagement initiatives."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "F.W. Webb şirket binası ve çalışanları 160. yıl kutlaması",
+      "en": "F.W. Webb company building and employees celebrating 160th anniversary"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sat, 11 Apr 2026 12:22:20 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC distribütörü",
+        "F.W. Webb",
+        "çalışan memnuniyeti",
+        "aile şirketi",
+        "sektör lideri"
+      ],
+      "en": [
+        "HVAC distributor",
+        "F.W. Webb",
+        "employee satisfaction",
+        "family business",
+        "industry leader"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/f-w-webb-celebrates-160-years-by-highlighting-customer-relationships-and-employee-contributions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=f-w-webb-celebrates-160-years-by-highlighting-customer-relationships-and-employee-contributions",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "uk-net-zero-boiler-tax-jumps-33-to-36-under-new-policy",
+    "slug": {
+      "tr": "ingilterede-net-sifir-kazan-vergisi-33-artarak-36-sterline-cikti",
+      "en": "uk-net-zero-boiler-tax-jumps-33-to-36-under-new-policy"
+    },
+    "title": {
+      "tr": "İngiltere'de Net Sıfır Kazan Vergisi %33 Artarak 36 Sterline Çıktı",
+      "en": "UK Net Zero Boiler Tax Jumps 33% to £36 Under New Policy"
+    },
+    "excerpt": {
+      "tr": "İngiltere'nin Temiz Isıtma Pazar Mekanizması ikinci yılında kazan üreticilerine yönelik vergiyi %33 artırdı.",
+      "en": "UK's Clean Heat Market Mechanism enters second year with 33% tax increase on boiler manufacturers who miss green targets."
+    },
+    "content": {
+      "tr": "İngiltere'de net sıfır emisyon hedefleri doğrultusunda uygulanan 'kazan vergisi' 1 Nisan itibarıyla %33 artışla 36 sterline yükseldi. Enerji ve Kamu Hizmetleri Birliği'nin açıkladığı verilere göre, Temiz Isıtma Pazar Mekanizması'nın (CHMM) ikinci yılında devreye giren bu artış, kazan üreticileri üzerindeki mali baskıyı artırıyor.\n\nCHMM politikası, yeşil enerji hedeflerini tutturamayan kazan üreticilerine ceza uygulayarak sektörü yenilenebilir enerji çözümlerine yönlendirmeyi amaçlıyor. Bu vergi, üreticilerin belirlenen çevreci standartları karşılayamaması durumunda devreye giriyor ve maliyetin hanehalkına yansıması kaçınılmaz hale geliyor.\n\nTürkiye HVAC sektörü için bu gelişme önemli bir referans noktası oluşturuyor. Ülkemizde de çevre dostu ısıtma teknolojilerine yönelik teşvikler ve düzenlemeler artarken, benzer politikaların gelecekte uygulanma olasılığı sektör temsilcileri tarafından yakından takip ediliyor. Yerli üreticiler, Avrupa pazarına ihracat yapan firmalar başta olmak üzere, çevreci teknolojilere yatırım stratejilerini gözden geçirmek zorunda kalabilir.",
+      "en": "The UK's so-called 'net zero boiler tax' has increased by 33% to £36 effective April 1st, marking the second year of the government's Clean Heat Market Mechanism (CHMM). According to the Energy and Utilities Alliance, this significant increase places additional financial pressure on boiler manufacturers across the industry.\n\nThe CHMM policy is designed to penalize manufacturers who fail to meet environmental targets, pushing the sector toward renewable energy solutions. This tax mechanism activates when producers cannot meet specified green standards, with costs inevitably being passed down to households through higher product prices.\n\nFor Turkey's HVAC sector, this development serves as an important benchmark for future policy directions. As Turkey continues to enhance incentives and regulations for eco-friendly heating technologies, similar policies may be implemented domestically. Turkish manufacturers, particularly those exporting to European markets, may need to reassess their investment strategies in green technologies to remain competitive in an increasingly regulated environment."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Modern kondenzasyon kazanı ve çevreci ısıtma sistemleri görseli",
+      "en": "Modern condensing boiler and eco-friendly heating systems illustration"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 07:07:06 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "net sıfır emisyon",
+        "kazan vergisi",
+        "HVAC politikaları",
+        "çevreci ısıtma",
+        "CHMM"
+      ],
+      "en": [
+        "net zero emissions",
+        "boiler tax",
+        "HVAC policies",
+        "clean heating",
+        "CHMM"
+      ]
+    },
+    "sourceUrl": "https://www.hvnplus.co.uk/news/net-zero-boiler-tax-rises-to-36-as-government-policy-hits-households-13-04-2026/",
+    "sourceName": "H&V News"
+  },
+  {
+    "id": "napit-launches-redesigned-mcs-installer-certification-program",
+    "slug": {
+      "tr": "napit-yenilenen-mcs-kurulum-sertifikasyon-programini-baslatti",
+      "en": "napit-launches-redesigned-mcs-installer-certification-program"
+    },
+    "title": {
+      "tr": "NAPIT Yenilenen MCS Kurulum Sertifikasyon Programını Başlattı",
+      "en": "NAPIT Launches Redesigned MCS Installer Certification Program"
+    },
+    "excerpt": {
+      "tr": "NAPIT, enerji verimliliği odaklı yeni MCS kurulum sertifikasyonunu hayata geçirdi. Program daha adil ve kaliteli hizmet vaadiyor.",
+      "en": "NAPIT introduces redesigned MCS installer certification focusing on efficiency and quality standards for renewable energy systems."
+    },
+    "content": {
+      "tr": "İngiltere merkezli sertifikasyon kuruluşu NAPIT, yenilenen MCS (Microgeneration Certification Scheme) Kurulum Programını resmi olarak faaliyete geçirdi. Dernek yetkililerine göre, yeni program sertifikasyon sürecinde daha verimli, adil ve kalite odaklı bir yaklaşım sunuyor.\n\nYeniden tasarlanan sertifikasyon programı, yenilenebilir enerji sistemleri kurulum teknisyenleri için gelişmiş standartlar getiriyor. Program kapsamında güneş paneli, ısı pompaları ve diğer mikroüretim teknolojileri kurulumu yapan teknisyenler, güncellenmiş kriterler doğrultusunda değerlendiriliyor. Bu gelişme, sektörde kalite kontrol mekanizmalarının güçlendirilmesi açısından önemli bir adım olarak görülüyor.\n\nTürkiye'deki HVAC sektörü için bu tür uluslararası sertifikasyon programlarının gelişimi, özellikle Yeşil Mutabakat kapsamındaki uyum süreçlerinde referans teşkil edebilir. Ülkemizde de benzer kalite standartlarının uygulanması, hem sektörel gelişim hem de enerji verimliliği hedefleri açısından kritik önem taşıyor. NAPIT'in bu yeniliği, Türk HVAC sektörünün uluslararası standartlara uyum sürecinde örnek alınabilecek bir model sunuyor.",
+      "en": "UK-based certification body NAPIT has officially launched its redesigned MCS (Microgeneration Certification Scheme) Installer Program. According to association officials, the new program offers a more efficient, fair, and quality-focused approach to the certification process.\n\nThe redesigned certification program introduces enhanced standards for renewable energy system installation technicians. Under the program, technicians installing solar panels, heat pumps, and other microgeneration technologies are evaluated according to updated criteria. This development is seen as a significant step toward strengthening quality control mechanisms in the industry.\n\nFor the global HVAC sector, such developments in international certification programs serve as important benchmarks for quality standards worldwide. The implementation of similar quality standards in various markets is crucial for both sectoral development and energy efficiency goals. NAPIT's innovation presents a model that can be referenced by HVAC industries globally in their adaptation to international standards and sustainable energy practices."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "NAPIT MCS sertifikasyon programı ve yenilenebilir enerji sistemleri kurulum sürecini gösteren görsel",
+      "en": "Visual representation of NAPIT MCS certification program and renewable energy systems installation process"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 10 Apr 2026 07:12:47 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "MCS Sertifikasyon",
+        "NAPIT",
+        "Yenilenebilir Enerji",
+        "HVAC Kalite",
+        "Enerji Verimliliği"
+      ],
+      "en": [
+        "MCS Certification",
+        "NAPIT",
+        "Renewable Energy",
+        "HVAC Quality",
+        "Energy Efficiency"
+      ]
+    },
+    "sourceUrl": "https://www.hvnplus.co.uk/news/napit-goes-live-with-redeveloped-mcs-installer-scheme-10-04-2026/",
+    "sourceName": "H&V News"
+  },
+  {
+    "id": "bmbi-report-reveals-challenging-trading-period-for-hvac-merchants",
+    "slug": {
+      "tr": "bmbi-raporu-hvac-bayilerinde-zorlu-ticaret-donemi-yasaniyor",
+      "en": "bmbi-report-reveals-challenging-trading-period-for-hvac-merchants"
+    },
+    "title": {
+      "tr": "BMBI Raporu: HVAC Bayilerinde Zorlu Ticaret Dönemi Yaşanıyor",
+      "en": "BMBI Report Reveals Challenging Trading Period for HVAC Merchants"
+    },
+    "excerpt": {
+      "tr": "Son BMBI raporu bayilerin zor dönem geçirdiğini gösteriyor. Tesisat sektörü %4.7 büyüme ile öne çıkıyor.",
+      "en": "Latest BMBI report shows merchants facing difficult period. Plumbing sector stands out with 4.7% growth rate."
+    },
+    "content": {
+      "tr": "Builders Merchants Building Index (BMBI) tarafından yayınlanan son rapor, yapı malzemeleri bayilerinin bu yıl zorlu bir ticaret dönemi yaşadığını ortaya koyuyor. Genel pazar daralmasına rağmen, bazı sektörler pozitif performans sergilemeyi başardı.\n\nRaporda dikkat çeken en önemli bulgu, tesisat, ısıtma ve elektrik kategorilerinde yaşanan büyüme trendi oldu. Bu sektörler yıllık bazda %4,7'lik bir artış kaydederek, genel pazar durgunluğuna karşın güçlü bir performans gösterdi. Bu durum, enerji verimliliği ve sürdürülebilir ısıtma çözümlerine olan talebin arttığına işaret ediyor.\n\nTürkiye HVAC sektörü açısından bu veriler, özellikle ısı pompası teknolojileri ve akıllı iklim sistemlerine yatırım yapan firmaların avantajlı konumda olduğunu gösteriyor. Türk üreticilerin ihracat potansiyeli de bu olumlu trend sayesinde artış gösterebilir. Sektör uzmanları, yeşil dönüşüm ve enerji tasarrufu odaklı projelerin bu büyümeyi desteklediğini belirtiyor.",
+      "en": "The latest report published by the Builders Merchants Building Index (BMBI) reveals that building materials merchants have experienced a challenging trading year. Despite overall market contraction, certain sectors managed to demonstrate positive performance.\n\nThe most significant finding highlighted in the report was the growth trend observed in plumbing, heating, and electrical categories. These sectors recorded a 4.7% year-on-year increase, showing robust performance against the general market stagnation. This situation indicates rising demand for energy efficiency and sustainable heating solutions.\n\nFrom the perspective of Turkey's HVAC sector, these data demonstrate that companies investing in heat pump technologies and smart climate systems are in an advantageous position. Turkish manufacturers' export potential could also increase thanks to this positive trend. Industry experts note that green transformation and energy-saving focused projects are supporting this growth trajectory."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "HVAC bayilerinde ürün satışı ve ticaret verilerini gösteren grafik görseli",
+      "en": "Graph showing product sales and trading data in HVAC merchant stores"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 08 Apr 2026 07:27:32 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "BMBI Raporu",
+        "HVAC Sektörü",
+        "Tesisat Bayileri",
+        "Enerji Verimliliği",
+        "Yapı Sektörü"
+      ],
+      "en": [
+        "BMBI Report",
+        "HVAC Industry",
+        "Merchant Trading",
+        "Energy Efficiency",
+        "Construction Sector"
+      ]
+    },
+    "sourceUrl": "https://www.hvnplus.co.uk/news/latest-bmbi-report-indicates-tough-trading-year-for-merchants-08-04-2026/",
+    "sourceName": "H&V News"
+  },
+  {
+    "id": "vrf-zoning-technology-single-duct-multi-zone-control-system",
+    "slug": {
+      "tr": "vrf-zonlama-teknolojisi-tek-kanal-coklu-bolge-kontrolu",
+      "en": "vrf-zoning-technology-single-duct-multi-zone-control-system"
+    },
+    "title": {
+      "tr": "VRF Zonlama Teknolojisi: Tek Kanal, Çoklu Bölge Kontrolü",
+      "en": "VRF Zoning Technology: Single Duct, Multi-Zone Control System"
+    },
+    "excerpt": {
+      "tr": "VRF sistemlerde modüle damperlerin kullanımı enerji verimliliğini artırıyor ve bypass damperlerin neden olduğu kayıpları önlüyor.",
+      "en": "Modulating dampers in VRF systems boost energy efficiency by eliminating wasteful bypass dampers in multi-zone applications."
+    },
+    "content": {
+      "tr": "VRF (Değişken Soğutucu Akış) sistemlerde yeni zonlama teknolojisi, tek kanallı üniteler üzerinden çoklu bölge kontrolü sağlayarak enerji verimliliğinde devrim yaratıyor. Bu yaklaşım, geleneksel bypass damperlerinin yerini modüle damperlerle almasını öngörüyor.\n\nGeleneksel VRF sistemlerde kullanılan bypass damperleri, fazla havayı geri döngüye sokarak önemli enerji kayıplarına neden oluyor. Yeni hava dağıtım zonlama sistemleri ise modüle damperler kullanarak bu sorunu ortadan kaldırıyor. Bu damperler, her bölgenin ihtiyacına göre hava akışını hassas şekilde ayarlayarak gereksiz enerji tüketimini minimize ediyor.\n\nTürkiye'nin artan enerji maliyetleri ve çevre bilinci göz önüne alındığında, bu teknoloji özellikle büyük ofis binaları ve alışveriş merkezleri için kritik önem taşıyor. HVAC sektöründe faaliyet gösteren firmalar, bu teknolojiye geçişle müşterilerine hem maliyet tasarrufu hem de sürdürülebilir çözümler sunabilecek.",
+      "en": "Variable Refrigerant Flow (VRF) zoning technology revolutionizes energy efficiency by enabling multi-zone control through single ducted units, replacing traditional bypass dampers with modulating damper systems. This innovative approach transforms how commercial buildings manage climate control across different areas.\n\nTraditional bypass dampers in VRF systems create significant energy waste by redirecting excess air back into the circulation loop. Advanced air distribution zoning eliminates this inefficiency through modulating dampers that precisely adjust airflow based on each zone's specific requirements. These smart dampers continuously regulate air distribution, ensuring optimal comfort while minimizing energy consumption.\n\nThis technology represents a crucial advancement for the global HVAC industry, particularly in commercial applications where multiple zones require individual climate control. Building owners and facility managers can achieve substantial operational cost savings while reducing their environmental footprint, making VRF zoning an essential component of modern sustainable building design."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "VRF sistem zonlama teknolojisi ile modüle damperlerin çalışma prensibini gösteren teknik diyagram",
+      "en": "Technical diagram showing VRF zoning technology with modulating dampers operation principle"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 08 Apr 2026 17:21:47 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "VRF sistemleri",
+        "enerji verimliliği",
+        "HVAC zonlama",
+        "modüle damper",
+        "iklimlendirme teknolojisi"
+      ],
+      "en": [
+        "VRF systems",
+        "energy efficiency",
+        "HVAC zoning",
+        "modulating dampers",
+        "climate control technology"
+      ]
+    },
+    "sourceUrl": "https://hvacknowitall.com/blog/vrf-zoning-explained-one-ducted-unit-multiple-zones-zero-bypass",
+    "sourceName": "HVAC Know It All"
+  },
+  {
+    "id": "radon-mitigation-in-older-homes-essential-guide-for-hvac-professionals",
+    "slug": {
+      "tr": "eski-konutlarda-radon-giderme-hvac-uzmanlarinin-bilmesi-gerekenler",
+      "en": "radon-mitigation-in-older-homes-essential-guide-for-hvac-professionals"
+    },
+    "title": {
+      "tr": "Eski Konutlarda Radon Giderme: HVAC Uzmanlarının Bilmesi Gerekenler",
+      "en": "Radon Mitigation in Older Homes: Essential Guide for HVAC Professionals"
+    },
+    "excerpt": {
+      "tr": "Eski konutlarda radon gazı tehlikesi artan bir sorun haline gelirken, HVAC uzmanları bu konuda kritik rol oynuyor.",
+      "en": "Radon gas in older homes poses growing health risks, making HVAC professionals essential for effective mitigation solutions."
+    },
+    "content": {
+      "tr": "Eski konutlarda radon gazı giderme işlemleri, HVAC sektöründe artan öneme sahip bir uzmanlık alanı haline gelmiştir. Üç yıllık bir vaka incelemesi, Atlanta'da bulunan eski bir konutta radon seviyelerinin nasıl tespit edildiği ve sürekli izleme sistemlerinin kurulduğunu göstermektedir. Bu deneyim, HVAC teknisyenlerinin radon giderme konusunda sahip olması gereken temel bilgileri ortaya koymaktadır.\n\nRadon testi sonuçları, özellikle 2023 Nisan ayından itibaren takip edilen verilerde, eski konutlarda bu gazın tehlikeli seviyelere ulaşabileceğini göstermiştir. Temmuz ayında devreye alınan sürekli radon izleme sistemi, HVAC uzmanlarının bu tür durumlarla nasıl başa çıkması gerektiğine dair önemli ipuçları sunmaktadır. Havalandırma sistemlerinin doğru tasarımı ve montajı, radon seviyelerinin kontrolünde kritik öneme sahiptir.\n\nTürkiye'de de özellikle jeolojik yapısı nedeniyle bazı bölgelerde radon riski bulunmaktadır ve bu durum HVAC sektöründe yeni fırsatlar yaratmaktadır. Uzmanlar, eski konutların yenilenmesi sürecinde radon giderme sistemlerini entegre etmeyi öğrenmeli, sürekli izleme teknolojilerini takip etmeli ve müşterilerine kapsamlı çözümler sunabilmelidir. Bu konudaki uzmanlık, sektörde rekabet avantajı sağlayacak önemli bir diferansiyasyon faktörü olmaktadır.",
+      "en": "Radon mitigation in older homes has become an increasingly important specialty area within the HVAC industry. A three-year case study from an older Atlanta residence demonstrates how radon levels were detected and continuous monitoring systems were implemented. This experience highlights the fundamental knowledge HVAC technicians must possess regarding radon mitigation strategies.\n\nRadon testing results, particularly data tracked since April 2023, revealed that older homes can reach dangerous levels of this radioactive gas. The continuous radon monitoring system deployed in July provided crucial insights into how HVAC professionals should address such situations. Proper ventilation system design and installation play a critical role in controlling radon concentrations effectively.\n\nThe growing awareness of radon risks creates new opportunities for HVAC professionals, especially in regions with geological conditions that increase radon presence. Technicians must learn to integrate radon mitigation systems during older home renovations, stay current with continuous monitoring technologies, and provide comprehensive solutions to customers. This specialized knowledge represents a significant competitive advantage and differentiation factor in today's HVAC market."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "Eski bir konutta radon giderme sistemi ve havalandırma ekipmanları",
+      "en": "Radon mitigation system and ventilation equipment in an older home"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 08 Apr 2026 14:02:46 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "radon giderme",
+        "eski konut",
+        "havalandırma sistemleri",
+        "iç hava kalitesi",
+        "HVAC teknolojileri"
+      ],
+      "en": [
+        "radon mitigation",
+        "older homes",
+        "ventilation systems",
+        "indoor air quality",
+        "HVAC technology"
+      ]
+    },
+    "sourceUrl": "https://www.energyvanguard.com/blog/radon-mitigation-basics-for-an-older-home/",
+    "sourceName": "Energy Vanguard"
+  },
+  {
+    "id": "national-trades-program-launched-with-milwaukee-tool-partnership",
+    "slug": {
+      "tr": "milwaukee-tool-destegiyle-meslek-edindirme-programi-baslatildi",
+      "en": "national-trades-program-launched-with-milwaukee-tool-partnership"
+    },
+    "title": {
+      "tr": "Milwaukee Tool Desteğiyle Meslek Edindirme Programı Başlatıldı",
+      "en": "National Trades Program Launched with Milwaukee Tool Partnership"
+    },
+    "excerpt": {
+      "tr": "Bring Back the Trades organizasyonu, Milwaukee Tool sponsorluğunda 2026'ya kadar sürecek ulusal hibe programını duyurdu.",
+      "en": "Bring Back the Trades announces national grant program with Milwaukee Tool providing professional kits through 2026."
+    },
+    "content": {
+      "tr": "Amerika Birleşik Devletleri'nde teknik meslek alanlarındaki işgücü açığını kapatmaya odaklanan Bring Back the Trades organizasyonu, Milwaukee Tool'un desteğiyle kapsamlı bir ulusal hibe programı başlattığını duyurdu. Program, 2026 yılına kadar devam edecek ve meslek liselerindeki öğrencilere profesyonel düzeyde araç gereç setleri sağlayacak.\n\nMilwaukee Tool'un sponsorluğunda yürütülecek bu girişim, HVAC teknisyenliği, elektrik işçiliği ve tesisatçılık gibi kritik meslek alanlarında eğitim alan öğrencilere yüksek kaliteli araç setleri dağıtacak. Program kapsamında verilen araç setleri, öğrencilerin mezuniyet sonrası iş hayatına hazır bir şekilde başlamalarını sağlamayı hedefliyor.\n\nTürkiye'de de benzer işgücü ihtiyaçlarının yaşandığı HVAC sektöründe, bu tür girişimler sektörün geleceği açısından önemli bir örnek teşkil ediyor. Ülkemizde de meslek liselerinde uygulamalı eğitimlerin artırılması ve sektör-okul iş birliklerinin güçlendirilmesi, kalifiye teknisyen açığının kapatılması için kritik öneme sahip bulunuyor.",
+      "en": "The Bring Back the Trades organization, focused on addressing skilled labor shortages in technical professions across the United States, has announced the launch of a comprehensive national grant program with support from Milwaukee Tool. The initiative will run through 2026 and provide professional-grade tool kits to students in vocational schools.\n\nSponsored by Milwaukee Tool, this program will distribute high-quality tool sets to students training in critical trade areas including HVAC technology, electrical work, and plumbing. The tool kits provided under this program aim to ensure students graduate job-ready and equipped with professional-grade equipment for their careers.\n\nThis initiative serves as an important example for the HVAC sector, which faces similar workforce challenges globally including in markets like Turkey. The program demonstrates how industry-education partnerships can effectively address skilled technician shortages by providing hands-on training resources and preparing students with the tools they need to succeed in their chosen trades."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Milwaukee Tool araç setleri ile meslek eğitimi alan HVAC öğrencileri",
+      "en": "HVAC students training with Milwaukee Tool professional equipment sets"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 14 Apr 2026 12:14:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "meslek eğitimi",
+        "HVAC teknisyeni",
+        "Milwaukee Tool",
+        "işgücü geliştirme",
+        "hibe programı"
+      ],
+      "en": [
+        "trades education",
+        "HVAC training",
+        "Milwaukee Tool",
+        "workforce development",
+        "grant program"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23283-bring-back-the-trades-launches-national-grant-program-with-support-from-milwaukee-tool",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "imark-establishes-current-distribution-group-new-era-in-hvac-sector",
+    "slug": {
+      "tr": "imark-current-distribution-groupu-kuruyor-hvac-sektorunde-yeni-donem",
+      "en": "imark-establishes-current-distribution-group-new-era-in-hvac-sector"
+    },
+    "title": {
+      "tr": "IMARK Current Distribution Group'u Kuruyor - HVAC Sektöründe Yeni Dönem",
+      "en": "IMARK Establishes Current Distribution Group - New Era in HVAC Sector"
+    },
+    "excerpt": {
+      "tr": "IMARK, Current Distribution Group lansmanıyla bağımsız distribütörleri güçlendirmeyi hedefliyor. Yenilik ve stratejik uyum odaklı proje.",
+      "en": "IMARK launches Current Distribution Group to strengthen independent distributors through innovation and strategic alignment in HVAC industry."
+    },
+    "content": {
+      "tr": "HVAC sektörünün önde gelen organizasyonu IMARK, Current Distribution Group adlı yeni bir girişimi hayata geçirdiğini duyurdu. Bu yeni yapılanma, bağımsız distribütörlerin sektördeki konumlarını güçlendirmek amacıyla tasarlandı.\n\nCurrent Distribution Group, IMARK'ın uzun süredir sürdürdüğü bağımsız dağıtım kanallarını destekleme misyonunun en yeni aşamasını temsil ediyor. Proje, yenilikçi çözümler, ölçek ekonomisi ve stratejik uyum ilkeleri üzerine kurulu. Bu yaklaşım sayesinde, grup üyesi distribütörler daha rekabetçi bir yapıya kavuşacak ve müşterilerine daha kaliteli hizmet sunabilecek.\n\nTürkiye HVAC pazarı için bu gelişmenin önemli etkileri olması bekleniyor. Özellikle yerli distribütörlerin uluslararası standartlarda hizmet verebilmesi ve küresel tedarik zincirlerine daha etkin entegre olması açısından Current Distribution Group modeli örnek alınabilir. Bu tür girişimler, Türkiye'nin iklim teknolojileri alanındaki rekabet gücünü artırarak sektörün modernizasyonuna katkı sağlayacak.",
+      "en": "Leading HVAC industry organization IMARK has announced the launch of its new initiative called Current Distribution Group, designed to strengthen the market position of independent distributors.\n\nCurrent Distribution Group represents the latest phase of IMARK's long-standing mission to support independent distribution channels. The project is built on principles of innovative solutions, economies of scale, and strategic alignment. Through this approach, member distributors will achieve a more competitive structure and deliver higher quality services to their customers.\n\nThis development is expected to have significant implications for the Turkish HVAC market. The Current Distribution Group model could serve as a template, particularly for enabling local distributors to provide services at international standards and integrate more effectively into global supply chains. Such initiatives will contribute to the modernization of the sector by enhancing Turkey's competitive strength in climate technologies."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "placeholder-1.webp",
+    "imageAlt": {
+      "tr": "IMARK Current Distribution Group logosu ve HVAC ekipmanları",
+      "en": "IMARK Current Distribution Group logo with HVAC equipment"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 14:21:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "IMARK",
+        "Current Distribution",
+        "HVAC distribütör",
+        "iklim teknolojileri",
+        "sektör modernizasyonu"
+      ],
+      "en": [
+        "IMARK",
+        "Current Distribution",
+        "HVAC distributor",
+        "climate technologies",
+        "industry modernization"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23278-imark-announces-the-launch-of-current-distribution-group",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "wolseley-digitalizes-customer-services-with-dispatchtrack",
+    "slug": {
+      "tr": "wolseley-dispatchtrack-ile-musteri-hizmetlerini-dijitallestiriyor",
+      "en": "wolseley-digitalizes-customer-services-with-dispatchtrack"
+    },
+    "title": {
+      "tr": "Wolseley, DispatchTrack ile Müşteri Hizmetlerini Dijitalleştiriyor",
+      "en": "Wolseley Digitalizes Customer Services with DispatchTrack"
+    },
+    "excerpt": {
+      "tr": "Wolseley, DispatchTrack teknolojisiyle HVAC sektöründe teslimat süreçlerini optimize ediyor ve müşteri deneyimini güçlendiriyor.",
+      "en": "Wolseley optimizes delivery processes in HVAC sector with DispatchTrack technology, enhancing customer experience significantly."
+    },
+    "content": {
+      "tr": "HVAC sektörünün önde gelen tedarik zinciri şirketi Wolseley, müşteri deneyimini geliştirmek amacıyla DispatchTrack teknolojisini operasyonlarına entegre ettiğini duyurdu. Bu dijital dönüşüm hamlesi, şirketin teslimat süreçlerinde çığır açan yenilikler getirmeyi hedefliyor.\n\nDispatchTrack sistemi sayesinde Wolseley müşterileri, siparişlerinin anlık durumunu takip edebilecek ve teslimat süreçlerinde tam şeffaflığa sahip olacak. Sistem, zamanında teslimat garantisi sunmanın yanı sıra, müşteriler ile kesintisiz iletişim kurulmasını sağlayan gelişmiş özellikler içeriyor. Bu teknoloji, özellikle acil HVAC malzeme ihtiyaçlarında kritik öneme sahip olan teslimat zamanlamasını optimize ediyor.\n\nTürkiye'de de HVAC sektöründe dijitalleşme trendinin hız kazandığı bu dönemde, Wolseley'in bu adımı sektördeki diğer oyuncular için örnek teşkil ediyor. Uzmanlar, bu tür teknolojik yatırımların özellikle büyük şehirlerdeki HVAC projelerinde zaman yönetimi ve maliyet optimizasyonu açısından önemli avantajlar sağlayacağını belirtiyor.",
+      "en": "Leading HVAC supply chain company Wolseley announced the integration of DispatchTrack technology into its operations to enhance customer experience. This digital transformation initiative aims to bring groundbreaking innovations to the company's delivery processes.\n\nThrough the DispatchTrack system, Wolseley customers will be able to track real-time status of their orders and gain complete transparency in delivery processes. The system offers guaranteed on-time delivery while providing advanced features that enable seamless communication with customers. This technology optimizes delivery scheduling, which is critically important for urgent HVAC material requirements.\n\nAs digitalization trends accelerate in Turkey's HVAC sector, Wolseley's initiative serves as an exemplary model for other industry players. Experts indicate that such technological investments will provide significant advantages in time management and cost optimization, particularly for HVAC projects in major metropolitan areas."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "placeholder-2.webp",
+    "imageAlt": {
+      "tr": "Wolseley HVAC teslimat kamyonu ve dijital takip sistemi görseli",
+      "en": "Wolseley HVAC delivery truck with digital tracking system visualization"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 12:07:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC teknoloji",
+        "teslimat optimizasyonu",
+        "müşteri deneyimi",
+        "dijital dönüşüm",
+        "Wolseley"
+      ],
+      "en": [
+        "HVAC technology",
+        "delivery optimization",
+        "customer experience",
+        "digital transformation",
+        "Wolseley"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23276-wolseley-enhances-customer-experience-with-dispatchtrack",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
     "id": "haiti-ratifies-kigali-amendment-for-hfc-phase-down-agreement",
     "slug": {
       "tr": "haiti-hfc-azaltim-anlasmasi-kigali-degisikligini-onayladi",
@@ -28,7 +538,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Tue, 14 Apr 2026 15:10:40 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
