@@ -58,13 +58,17 @@ jobs:
       - name: Build static site
         run: npm run build
 
-      # 8. FTP ile Hostinger'a deploy
+      # 8. FTP ile Hostinger'a deploy (lftp ile mirror)
       - name: Deploy to Hostinger via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./dist/
-          server-dir: ./public_html/hvac-news/
-          dangerous-clean-slate: false
+        run: |
+          sudo apt-get install -y lftp
+          lftp -e "
+            set ftp:ssl-allow no;
+            set ftp:passive-mode yes;
+            set net:timeout 30;
+            set net:max-retries 3;
+            set net:reconnect-interval-base 5;
+            mirror --reverse --delete --verbose --parallel=4 \
+              ./dist/ /public_html/hvac-news/;
+            quit
+          " -u "${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }}" "${{ secrets.FTP_SERVER }}"
