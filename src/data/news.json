@@ -1,5 +1,515 @@
 [
   {
+    "id": "greenhouse-hvac-systems-boost-water-efficiency-through-rainwater",
+    "slug": {
+      "tr": "sera-hvac-sistemleri-yagmur-hasadiyla-su-verimliligi-artiriyor",
+      "en": "greenhouse-hvac-systems-boost-water-efficiency-through-rainwater"
+    },
+    "title": {
+      "tr": "Sera HVAC Sistemleri Yağmur Hasadıyla Su Verimliliği Artırıyor",
+      "en": "Greenhouse HVAC Systems Boost Water Efficiency Through Rainwater"
+    },
+    "excerpt": {
+      "tr": "Yağmur hasadı sistemleri, seralarda su ihtiyacının %60'ını karşılayarak HVAC maliyetlerini düşürüyor ve sürdürülebilir tarımı destekliyor.",
+      "en": "Rainwater harvesting systems meet 60% of greenhouse water needs, reducing HVAC costs and supporting sustainable agriculture practices."
+    },
+    "content": {
+      "tr": "Sera işletmelerinde yağmur suyu hasadı sistemleri, HVAC altyapısının verimliliğini artırarak su kaynaklarındaki baskıyı önemli ölçüde azaltmaya başladı. İklim değişikliği ve azalan su kaynaklarının tarımsal üretim üzerindeki etkilerinin arttığı günümüzde, seraların su ihtiyacının %25 ila %60'ının yağmur suyundan karşılanabileceği ortaya çıktı.\n\nEkomaxi Genel Müdür Yardımcısı Ömer Bera Yağız'ın açıklamalarına göre, 1.000 m² büyüklüğündeki bir sera tesisinde yıllık ortalama 600 mm yağış alan bölgelerde yaklaşık 510 ton yağmur suyu toplanabiliyor. Bu sistemlerin başarılı olması için sızdırmazlık ve su kalitesi standartlarını karşılayan profesyonel depolama çözümlerine ihtiyaç duyuluyor. Türkiye'nin sera üretiminde öncü illeri olan Antalya, Mersin ve İzmir'de bu tür sistemlerin yaygınlaşması, sektörün su maliyetlerini düşürerek rekabet gücünü artırabileceği öngörülüyor.\n\nSera HVAC sistemlerinin entegrasyonunda yağmur hasadı, hem enerji verimliliği hem de operasyonel maliyet açısından çifte fayda sağlıyor. Doğru planlanmış bu sistemler, özellikle sulama ve nem kontrol sistemleriyle birlikte çalıştığında sera içi iklim kontrolünün daha sürdürülebilir hale gelmesine katkıda bulunuyor. Sektör uzmanları, Türkiye'deki sera işletmelerinin bu teknolojiye yatırım yaparak hem çevre dostu üretim yapabileceğini hem de uzun vadede maliyetlerini optimize edebileceğini belirtiyor.",
+      "en": "Rainwater harvesting systems in greenhouse facilities are significantly reducing pressure on water resources by enhancing HVAC infrastructure efficiency. As climate change and diminishing water supplies increasingly impact agricultural production, it has emerged that 25% to 60% of greenhouse water needs can be met through rainwater collection systems.\n\nAccording to statements by Ömer Bera Yağız, Deputy General Manager of Ekomaxi, approximately 510 tons of rainwater can be collected annually in a 1,000 m² greenhouse facility in regions receiving 600 mm of average annual precipitation. The success of these systems requires professional storage solutions that meet waterproofing and water quality standards. The proliferation of such systems in Turkey's leading greenhouse production provinces including Antalya, Mersin, and Izmir is expected to enhance the sector's competitiveness by reducing water costs.\n\nRainwater harvesting integration with greenhouse HVAC systems provides dual benefits in terms of energy efficiency and operational costs. When properly planned, these systems contribute to making greenhouse climate control more sustainable, especially when operating in conjunction with irrigation and humidity control systems. Industry experts indicate that greenhouse operators in Turkey can achieve both environmentally friendly production and long-term cost optimization by investing in this technology."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Modern sera tesisinde yağmur suyu toplama sistemi ve HVAC ekipmanları",
+      "en": "Modern greenhouse facility with rainwater collection system and HVAC equipment"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 05:36:52 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "sera HVAC",
+        "yağmur hasadı",
+        "su verimliliği",
+        "sürdürülebilir tarım",
+        "iklim kontrolü"
+      ],
+      "en": [
+        "greenhouse HVAC",
+        "rainwater harvesting",
+        "water efficiency",
+        "sustainable agriculture",
+        "climate control"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/seralar-yagmur-hasadi-ile-su-kaynaklari-uzerindeki-baskiyi-azaltiyor/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "critical-factors-in-outdoor-heater-selection-expert-warnings",
+    "slug": {
+      "tr": "acik-alan-isiticisi-seciminde-kritik-faktorler-uzman-uyarilari",
+      "en": "critical-factors-in-outdoor-heater-selection-expert-warnings"
+    },
+    "title": {
+      "tr": "Açık Alan Isıtıcısı Seçiminde Kritik Faktörler: Uzman Uyarıları",
+      "en": "Critical Factors in Outdoor Heater Selection: Expert Warnings"
+    },
+    "excerpt": {
+      "tr": "Bahçe ve teras ısıtıcısı seçiminde güvenlik, verimlilik ve konfor öncelik. Uzmanlar doğru seçim kriterleri konusunda uyarıyor.",
+      "en": "Security, efficiency and comfort priority in garden and terrace heater selection. Experts warn about correct selection criteria."
+    },
+    "content": {
+      "tr": "Bahar sezonuyla birlikte açık alan kullanımının artmasıyla, bahçe, balkon ve teras ısıtıcısı seçimi kritik bir konu haline geliyor. Çukurova Isı firmasından uzmanlar, doğru ısıtıcı seçiminin hem enerji verimliliği hem de güvenlik açısından hayati önem taşıdığını vurguluyor.\n\nÇukurova Isı Yönetim Kurulu Üyesi Osman Ünlü, tüketicilerin serin akşamlarda açık alanlardan kesintisiz faydalanabilmesi için elektrikli ısıtıcı seçiminde teknik özelliklere dikkat etmeleri gerektiğini belirtiyor. Ünlü, \"Açık alanlarda güvenli, kesintisiz ve tasarruflu ısınmanın anahtarı doğru ısıtıcı seçiminden geçiyor\" açıklamasında bulunuyor.\n\nTürkiye'de artan açık alan yaşam trendleriyle birlikte, ısıtıcı pazarında da önemli bir büyüme gözleniyor. Uzmanlar, özellikle IP koruma sınıfı, güç kapasitesi ve enerji verimliliği gibi teknik parametrelerin göz önünde bulundurulması gerektiğini vurguluyor. Bu faktörlerin doğru değerlendirilmesi, hem kullanıcı güvenliğini hem de uzun vadeli maliyet tasarrufunu sağlayacak.",
+      "en": "With the increasing use of outdoor spaces during spring season, selecting garden, balcony and terrace heaters becomes a critical issue. Experts from Çukurova Isı emphasize that proper heater selection is vital for both energy efficiency and safety.\n\nOsman Ünlü, Board Member of Çukurova Isı, states that consumers need to pay attention to technical specifications when selecting electric heaters to enjoy outdoor areas uninterrupted during cool evenings. Ünlü explains, \"The key to safe, uninterrupted and economical heating in outdoor areas lies in proper heater selection.\"\n\nWith the growing outdoor living trends in Turkey, significant growth is observed in the heater market as well. Experts emphasize that technical parameters such as IP protection class, power capacity and energy efficiency should be considered. Proper evaluation of these factors will ensure both user safety and long-term cost savings."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Bahçe terasında elektrikli ısıtıcı kullanan aile",
+      "en": "Family using electric heater on garden terrace"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 14 Apr 2026 05:20:07 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "açık alan ısıtıcısı",
+        "elektrikli ısıtıcı",
+        "bahçe ısıtması",
+        "enerji verimliliği",
+        "HVAC"
+      ],
+      "en": [
+        "outdoor heater",
+        "electric heater",
+        "patio heating",
+        "energy efficiency",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/bahce-balkon-ve-teraslar-icin-isitici-secerken-dikkat-edilmesi-gerekenler/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "sungrow-powertitan-30-launches-energy-storage-revolution",
+    "slug": {
+      "tr": "sungrow-powertitan-30-ile-enerji-depolama-devri-basliyor",
+      "en": "sungrow-powertitan-30-launches-energy-storage-revolution"
+    },
+    "title": {
+      "tr": "Sungrow PowerTitan 3.0 ile Enerji Depolama Devri Başlıyor",
+      "en": "Sungrow PowerTitan 3.0 Launches Energy Storage Revolution"
+    },
+    "excerpt": {
+      "tr": "Sungrow Türkiye, PowerTitan 3.0 ile enerji depolama sistemlerinin artık zorunluluk haline geldiğini vurgulayarak temiz enerji dönüşümünü hızlandırıyor.",
+      "en": "Sungrow Turkey emphasizes energy storage systems as necessity with PowerTitan 3.0, accelerating clean energy transformation nationwide."
+    },
+    "content": {
+      "tr": "Türkiye'nin enerji sektöründe yeni bir dönem başlarken, enerji depolama sistemleri artık lüks değil zorunluluk haline geliyor. Sungrow Türkiye Genel Müdürü Candaş Gültekin, SolarEX İstanbul 2026 fuarında yaptığı açıklamada \"Enerjiyi üretmek yeterli değil, enerjiyi yönetmek gerek\" diyerek sektörün geleceğine dair net bir mesaj verdi.\n\nÇinli teknoloji devi Sungrow, İstanbul'daki fuar kapsamında Türkiye pazarına ilk kez sunduğu PowerTitan 3.0 enerji depolama çözümüyle dikkat çekti. Şirket yetkilileri, Türkiye'nin 25.827 megavata ulaşan güneş enerjisi kurulu gücünün beraberinde getirdiği şebeke tıkanıklığı ve üretim kısıntıları sorunlarına çözüm sunmayı hedeflediklerini belirtti. Bu yeni nesil depolama teknolojisi, yenilenebilir enerji kaynaklarının şebekeye entegrasyonunda yaşanan zorlukları minimize etmeyi amaçlıyor.\n\nTürkiye'nin temiz enerji dönüşümündeki hızlı ilerleyişi, enerji yönetimi konusunda yeni yaklaşımları gerekli kılıyor. Avrupa Güneş Enerjisi Birliği SolarPower Europe'un 2030 projeksiyonları da esnek güç talebinin artacağına işaret ediyor. Bu gelişmeler ışığında, Sungrow gibi küresel teknoloji şirketlerinin Türkiye pazarındaki varlığı, ülkenin enerji bağımsızlığı hedefleri açısından kritik önem taşıyor.",
+      "en": "A new era begins in Turkey's energy sector as energy storage systems transform from luxury to necessity. Sungrow Turkey General Manager Candaş Gültekin delivered a clear message about the industry's future at SolarEX Istanbul 2026, stating \"Producing energy is not enough, energy must be managed.\"\n\nChinese technology giant Sungrow attracted attention at the Istanbul fair with its PowerTitan 3.0 energy storage solution, introduced to the Turkish market for the first time. Company officials emphasized their goal to address grid congestion and production curtailment issues accompanying Turkey's solar energy installed capacity of 25,827 megawatts. This next-generation storage technology aims to minimize challenges experienced in renewable energy integration into the grid.\n\nTurkey's rapid progress in clean energy transformation necessitates new approaches to energy management. SolarPower Europe's 2030 projections indicate increasing flexible power demand ahead. In light of these developments, the presence of global technology companies like Sungrow in the Turkish market carries critical importance for the country's energy independence objectives."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Sungrow PowerTitan 3.0 enerji depolama sistemi SolarEX İstanbul fuarında sergileniyor",
+      "en": "Sungrow PowerTitan 3.0 energy storage system displayed at SolarEX Istanbul exhibition"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 15:48:04 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "enerji depolama",
+        "güneş enerjisi",
+        "PowerTitan 3.0",
+        "yenilenebilir enerji",
+        "şebeke yönetimi"
+      ],
+      "en": [
+        "energy storage",
+        "solar energy",
+        "PowerTitan 3.0",
+        "renewable energy",
+        "grid management"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/sungrow-turkiye-genel-muduru-candas-gultekin-enerjiyi-uretmek-yeterli-degil-enerjiyi-yonetmek-gerek/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "vertiv-acquires-thermokey-to-strengthen-data-center-cooling-solutions",
+    "slug": {
+      "tr": "vertiv-thermokey-satin-alimiyla-veri-merkezi-sogutma-cozumlerini-guclendiriyor",
+      "en": "vertiv-acquires-thermokey-to-strengthen-data-center-cooling-solutions"
+    },
+    "title": {
+      "tr": "Vertiv ThermoKey Satın Alımıyla Veri Merkezi Soğutma Çözümlerini Güçlendiriyor",
+      "en": "Vertiv Acquires ThermoKey to Strengthen Data Center Cooling Solutions"
+    },
+    "excerpt": {
+      "tr": "Vertiv'in ThermoKey satın alımı, yapay zeka veri merkezleri için gelişmiş termal yönetim çözümlerini EMEA bölgesinde genişletiyor.",
+      "en": "Vertiv's ThermoKey acquisition expands advanced thermal management solutions for AI data centers across EMEA region."
+    },
+    "content": {
+      "tr": "Dijital altyapı teknolojilerinin küresel lideri Vertiv, İtalyan ısı atımı teknolojileri uzmanı ThermoKey S.p.A.'yı satın alma kararı aldığını açıkladı. Bu stratejik hamle, şirketin yüksek yoğunluklu yapay zeka veri merkezleri için termal yönetim portföyünü önemli ölçüde güçlendirecek.\n\nThermoKey'in kuru soğutucu sistemleri ve mikro kanal teknolojisi tabanlı ısı transfer çözümleri, Vertiv'in mevcut ürün gamını tamamlayıcı nitelikte. Satın alma işlemi tamamlandığında, özellikle EMEA bölgesinde üretim kapasitesi artacak ve müşterilere uçtan uca termal zincir çözümleri sunma kabiliyeti gelişecek. Vertiv CEO'su Giordano Albertazzi'ye göre, bu birleşme müşterilerin işlem gücünde çoklu nesil ileriye gitmelerine destek olacak.\n\nTürk HVAC sektörü açısından bu gelişme, özellikle veri merkezi projelerinde daha entegre ve verimli soğutma sistemlerine erişim anlamına geliyor. Artan yapay zeka yatırımları ve dijital dönüşüm süreçleriyle birlikte, Türkiye'deki veri merkezi operatörleri ve sistem entegratörleri bu genişletilmiş ürün portföyünden faydalanabilecek. Gelişmiş termal yönetim teknolojileri, enerji verimliliği hedefleri doğrultusunda sektörde yeni standartlar oluşturacak.",
+      "en": "Global digital infrastructure leader Vertiv announced its decision to acquire Italian heat rejection technology specialist ThermoKey S.p.A. This strategic move will significantly strengthen the company's thermal management portfolio for high-density artificial intelligence data centers.\n\nThermoKey's dry cooler systems and microchannel technology-based heat transfer solutions complement Vertiv's existing product range. Upon completion of the acquisition, manufacturing capacity will increase particularly in the EMEA region, enhancing the ability to provide end-to-end thermal chain solutions to customers. According to Vertiv CEO Giordano Albertazzi, this merger will support customers in staying multiple generations ahead in processing power.\n\nFor the Turkish HVAC sector, this development means access to more integrated and efficient cooling systems, especially in data center projects. With increasing artificial intelligence investments and digital transformation processes, data center operators and system integrators in Turkey will benefit from this expanded product portfolio. Advanced thermal management technologies will establish new standards in the sector aligned with energy efficiency objectives."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Modern veri merkezi soğutma sistemleri ve termal yönetim ekipmanları",
+      "en": "Modern data center cooling systems and thermal management equipment"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 15:42:36 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "veri merkezi soğutma",
+        "termal yönetim",
+        "yapay zeka altyapısı",
+        "HVAC teknolojisi",
+        "enerji verimliliği"
+      ],
+      "en": [
+        "data center cooling",
+        "thermal management",
+        "AI infrastructure",
+        "HVAC technology",
+        "energy efficiency"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/vertiv-thermokeyi-satin-alarak-fiziksel-altyapilar-icin-isi-atimi-konusunda-portfoyunu-genisletiyor",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "thermal-insulation-most-effective-solution-against-climate-crisis",
+    "slug": {
+      "tr": "isi-yalitimi-iklim-krizine-karsi-en-etkili-cozum",
+      "en": "thermal-insulation-most-effective-solution-against-climate-crisis"
+    },
+    "title": {
+      "tr": "Isı Yalıtımı İklim Krizine Karşı En Etkili Çözüm",
+      "en": "Thermal Insulation: Most Effective Solution Against Climate Crisis"
+    },
+    "excerpt": {
+      "tr": "Nitelikli ısı yalıtımı binalarda enerji tüketimini %60'a varan oranlarda azaltarak iklim krizine karşı en hızlı çözümlerden birini sunuyor.",
+      "en": "Quality thermal insulation reduces building energy consumption by up to 60%, offering one of the fastest solutions against climate crisis."
+    },
+    "content": {
+      "tr": "İklim değişikliğiyle mücadelede ısı yalıtımı, binalardaki enerji tüketimini dramatik şekilde azaltan en etkili araçlardan biri olarak öne çıkıyor. Türkiye'nin İklim Kanunu ve yeni standartlarıyla birlikte bu teknolojinin önemi daha da artmış durumda.\n\nBaumit Türkiye CEO'su Atalay Özdayı'nın açıklamalarına göre, binaların enerji kullanımının yaklaşık %80'i ısıtma ve soğutma sistemlerinden kaynaklanıyor. Dünya çapında toplam enerji tüketiminin %40'ından sorumlu olan yapılar, profesyonel yalıtım uygulamalarıyla büyük bir değişim yaratma fırsatı sunuyor. Doğru tekniklerle uygulanan ısı yalıtımı sayesinde binaların enerji gereksinimi %50-60 oranında düşürülebiliyor.\n\nTürkiye'deki HVAC sektörü için bu gelişmeler yeni iş fırsatları yaratırken, sera gazı salınımının azaltılmasına da doğrudan katkı sağlıyor. Özdayı'nın vurguladığı gibi \"en temiz enerji hiç tüketilmeyen enerjidir\" yaklaşımı, hem çevresel hem de ekonomik faydalar sunan sürdürülebilir bir model ortaya koyuyor. Bu durum, yalıtım teknolojilerinin sadece çevre dostu değil, aynı zamanda kullanıcılara anında maliyet tasarrufu sağlayan pratik çözümler olduğunu gösteriyor.",
+      "en": "Thermal insulation emerges as one of the most effective tools in combating climate change, dramatically reducing energy consumption in buildings. With Turkey's Climate Law and new standards, the importance of this technology has increased significantly.\n\nAccording to Baumit Turkey CEO Atalay Özdayı's statements, approximately 80% of buildings' energy usage stems from heating and cooling systems. Structures responsible for 40% of global energy consumption offer a tremendous opportunity for transformation through professional insulation applications. With properly applied thermal insulation techniques, buildings' energy requirements can be reduced by 50-60%.\n\nFor Turkey's HVAC sector, these developments create new business opportunities while directly contributing to greenhouse gas emission reductions. Özdayı's emphasized approach that \"the cleanest energy is energy never consumed\" presents a sustainable model offering both environmental and economic benefits. This demonstrates that insulation technologies are not only eco-friendly but also practical solutions providing immediate cost savings to users."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Modern bir binada ısı yalıtımı uygulaması ve enerji tasarrufu gösterimi",
+      "en": "Thermal insulation application on a modern building with energy savings demonstration"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 15:36:03 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ısı yalıtımı",
+        "enerji tasarrufu",
+        "iklim değişikliği",
+        "sürdürülebilirlik",
+        "HVAC"
+      ],
+      "en": [
+        "thermal insulation",
+        "energy efficiency",
+        "climate change",
+        "sustainability",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/isi-yalitiminin-iklim-uzerindeki-5-kritik-rolu/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "izocam-enhances-energy-efficiency-with-holistic-insulation-approach",
+    "slug": {
+      "tr": "izocam-butunsel-yalitim-yaklasimiyla-enerji-verimliligini-artiriyor",
+      "en": "izocam-enhances-energy-efficiency-with-holistic-insulation-approach"
+    },
+    "title": {
+      "tr": "İzocam Bütünsel Yalıtım Yaklaşımıyla Enerji Verimliliğini Artırıyor",
+      "en": "Izocam Enhances Energy Efficiency with Holistic Insulation Approach"
+    },
+    "excerpt": {
+      "tr": "Türkiye'nin önder yalıtım firması İzocam, binaların tamamını kapsayan bütünsel yalıtım sistemiyle %60 enerji tasarrufu hedefliyor.",
+      "en": "Turkey's leading insulation company Izocam targets 60% energy savings through comprehensive building insulation systems."
+    },
+    "content": {
+      "tr": "Türkiye'nin öncü yalıtım üreticilerinden İzocam, binalarda enerji verimliliğini maksimize etmek için geliştirdiği 'bütünsel yalıtım' konseptini hayata geçiriyor. Şirket, yalıtımın sadece tek bir noktaya odaklanan geleneksel uygulamalar yerine, yapının her bileşenini kapsayan sistemli bir yaklaşım gerektirdiğini savunuyor.\n\nYeni yaklaşım kapsamında İzocam, dış cephe duvarlarından çatı sistemlerine, iç mekanlardan tesisat hatlarına kadar binanın tüm kritik noktalarında koordineli yalıtım çözümleri sunuyor. Bu kapsamlı metodoloji sayesinde, standart yalıtımsız yapılara göre %60'ın üzerinde enerji tasarrufu elde edilebileceği belirtiliyor. Özellikle kış aylarındaki ısıtma giderlerinin yanı sıra yaz döneminde soğutma maliyetlerinin de önemli ölçüde düştüğü vurgulanıyor.\n\nTürkiye'nin enerji ithalatına bağımlılığının azaltılması hedefleri doğrultusunda, bu tür entegre yalıtım sistemlerinin yaygınlaşması kritik önem taşıyor. İzocam'ın önerdiği çözüm paketi, yapıların sadece enerji performansını iyileştirmekle kalmayıp, yangın güvenliği, ses yalıtımı ve yapısal dayanıklılık açısından da önemli avantajlar sağlıyor. Bu gelişme, Türkiye'nin yeşil bina standartlarına geçiş sürecinde HVAC sektörü için yeni fırsatlar yaratması bekleniyor.",
+      "en": "Turkey's leading insulation manufacturer Izocam is implementing its 'holistic insulation' concept to maximize energy efficiency in buildings. The company advocates that insulation requires a systematic approach covering every component of a structure, rather than traditional applications focusing on single points.\n\nUnder the new approach, Izocam provides coordinated insulation solutions across all critical building areas, from exterior facade walls to roofing systems, and from interior spaces to piping networks. Through this comprehensive methodology, energy savings exceeding 60% can be achieved compared to standard non-insulated structures. The company emphasizes significant reductions in both winter heating costs and summer cooling expenses.\n\nThe widespread adoption of such integrated insulation systems is critically important for Turkey's goals to reduce energy import dependency. Izocam's proposed solution package not only improves buildings' energy performance but also provides significant advantages in fire safety, acoustic insulation, and structural durability. This development is expected to create new opportunities for the HVAC sector during Turkey's transition to green building standards."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Bütünsel yalıtım sistemi uygulanan modern bina kesiti gösterimi",
+      "en": "Cross-section view of modern building with holistic insulation system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 15:32:03 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "bütünsel yalıtım",
+        "enerji verimliliği",
+        "İzocam",
+        "HVAC",
+        "yeşil bina"
+      ],
+      "en": [
+        "holistic insulation",
+        "energy efficiency",
+        "Izocam",
+        "HVAC",
+        "green building"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/izocamdan-yasam-alanlarinda-butunsel-yalitim-yaklasimi/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "atlas-copco-presents-energy-efficient-hvac-solutions-for-cement-industry",
+    "slug": {
+      "tr": "atlas-copco-cimento-sektorune-enerji-tasarruflu-hvac-cozumleri-sundu",
+      "en": "atlas-copco-presents-energy-efficient-hvac-solutions-for-cement-industry"
+    },
+    "title": {
+      "tr": "Atlas Copco Çimento Sektörüne Enerji Tasarruflu HVAC Çözümleri Sundu",
+      "en": "Atlas Copco Presents Energy-Efficient HVAC Solutions for Cement Industry"
+    },
+    "excerpt": {
+      "tr": "Atlas Copco'nun basınçlı hava sistemleri çimento tesislerinde enerji maliyetlerini önemli ölçüde azaltıyor ve sürdürülebilirlik hedeflerini destekliyor.",
+      "en": "Atlas Copco's compressed air systems significantly reduce energy costs in cement plants while supporting sustainability goals."
+    },
+    "content": {
+      "tr": "Atlas Copco Kompresör Tekniği, çimento endüstrisinde enerji verimliliği konusunda öncü çözümlerini 13. Uluslararası Çimento Endüstrisi ve Teknolojileri Konferansı'nda sergiledi. Şirket, konferansın ana teknoloji sponsoru olarak katıldığı etkinlikte, çimento üretim tesislerinin HVAC ihtiyaçlarına yönelik yenilikçi basınçlı hava sistemlerini tanıttı.\n\nİstanbul Marriott Hotel Pendik'te gerçekleştirilen konferansta Atlas Copco'nun entegre çözümleri büyük ilgi topladı. Şirketin geliştirdiği düşük basınçlı hava sistemleri ve optimizasyon teknolojileri, çimento tesislerinde enerji tüketimini minimize ederken operasyonel verimliliği artırıyor. Bu sistemler özellikle pnömatik taşıma, toz toplama ve soğutma uygulamalarında kritik rol oynuyor.\n\nTürkiye çimento sektörü için bu gelişmeler oldukça önemli. Konferansta ele alınan karbonsuzlaştırma ve sürdürülebilirlik hedefleri doğrultusunda, Atlas Copco'nun enerji tasarruflu HVAC çözümleri yerel üreticilerin hem maliyetlerini düşürmesine hem de çevre dostu üretim süreçlerine geçiş yapmasına yardımcı oluyor. Dijitalleşme ve teknoloji odaklı bu yaklaşım, sektörün geleceğine yön verecek stratejik dönüşümün de bir parçası olarak değerlendiriliyor.",
+      "en": "Atlas Copco Compressor Technique showcased its pioneering energy efficiency solutions for the cement industry at the 13th International Cement Industry and Technologies Conference. As the main technology sponsor of the conference, the company introduced innovative compressed air systems designed for HVAC needs of cement production facilities.\n\nAtlas Copco's integrated solutions garnered significant attention at the conference held at Istanbul Marriott Hotel Pendik. The company's advanced low-pressure air systems and optimization technologies minimize energy consumption while enhancing operational efficiency in cement plants. These systems play a crucial role particularly in pneumatic conveying, dust collection, and cooling applications.\n\nThese developments are particularly significant for Turkey's cement sector. In line with the decarbonization and sustainability goals discussed at the conference, Atlas Copco's energy-efficient HVAC solutions help local manufacturers both reduce costs and transition to environmentally friendly production processes. This digitalization and technology-focused approach is considered part of the strategic transformation that will shape the sector's future."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Atlas Copco'nun çimento tesisleri için geliştirdiği enerji tasarruflu basınçlı hava sistemleri",
+      "en": "Atlas Copco's energy-efficient compressed air systems developed for cement plants"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 15:17:11 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "enerji verimliliği",
+        "çimento sektörü",
+        "basınçlı hava sistemleri",
+        "HVAC teknolojileri",
+        "sürdürülebilirlik"
+      ],
+      "en": [
+        "energy efficiency",
+        "cement industry",
+        "compressed air systems",
+        "HVAC technologies",
+        "sustainability"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/atlas-copcodan-cimento-tesislerinde-enerji-maliyetlerini-dusuren-cozumler/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "electric-heater-selection-for-outdoor-spaces-expert-recommendations",
+    "slug": {
+      "tr": "acik-alanlarda-elektrikli-isitici-secimi-uzman-tavsiyeleri",
+      "en": "electric-heater-selection-for-outdoor-spaces-expert-recommendations"
+    },
+    "title": {
+      "tr": "Açık Alanlarda Elektrikli Isıtıcı Seçimi: Uzman Tavsiyeleri",
+      "en": "Electric Heater Selection for Outdoor Spaces: Expert Recommendations"
+    },
+    "excerpt": {
+      "tr": "Bahçe ve teras ısıtıcısı seçerken enerji verimliliği ve güvenlik kriterleri ön planda tutulmalı.",
+      "en": "Energy efficiency and safety criteria should be prioritized when selecting garden and terrace heaters."
+    },
+    "content": {
+      "tr": "Açık alan elektrikli ısıtıcısı seçimi, konfor ve enerji tasarrufu açısından kritik öneme sahiptir. Çukurova Isı firmasından sektör uzmanı Osman Ünlü, doğru ısıtıcı seçiminin yalnızca kullanıcı konforunu artırmakla kalmayıp, aynı zamanda enerji maliyetlerini düşürdüğünü ve sistem güvenliğini sağladığını vurguluyor.\n\nBahçe ve teras alanları için elektrikli ısıtıcı tercih ederken, cihazın dayanıklılık özellikleri ve hava koşullarına karşı direnci birincil kriterler arasında yer alıyor. Dış mekan kullanımına uygun IP koruma sınıfı, rüzgar dayanımı ve nem geçirmezlik gibi teknik özellikler, uzun vadeli kullanım için vazgeçilmez gereksinimler olarak öne çıkıyor.\n\nTürkiye'de artan açık alan yaşam trendleri ve enerji maliyetlerindeki artış, tüketicileri daha bilinçli seçimler yapmaya yönlendiriyor. HVAC sektöründe faaliyet gösteren uzmanlar, termostat kontrolü, uzaktan kumanda özelliği ve otomatik güvenlik kesicisi bulunan modellerin hem ekonomik hem de güvenli kullanım sağladığını belirtiyor.",
+      "en": "Electric heater selection for outdoor areas is critically important for comfort and energy savings. Industry expert Osman Ünlü from Çukurova Heating emphasizes that proper heater selection not only enhances user comfort but also reduces energy costs and ensures system safety.\n\nWhen choosing electric heaters for garden and terrace areas, the device's durability features and resistance to weather conditions rank among primary criteria. Technical specifications such as appropriate IP protection class for outdoor use, wind resistance, and moisture impermeability emerge as indispensable requirements for long-term usage.\n\nIncreasing outdoor living trends in Turkey and rising energy costs are driving consumers toward more conscious choices. HVAC sector experts indicate that models featuring thermostat control, remote control capability, and automatic safety cutoff provide both economical and safe operation."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Açık havada teras alanında kulanılan modern elektrikli ısıtıcı",
+      "en": "Modern electric heater used in outdoor terrace area"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 14 Apr 2026 11:07:15 +0300",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "açık alan ısıtıcısı",
+        "elektrikli ısıtıcı",
+        "teras ısıtması",
+        "enerji verimliliği",
+        "HVAC"
+      ],
+      "en": [
+        "outdoor heater",
+        "electric heater",
+        "terrace heating",
+        "energy efficiency",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12280-bahce-balkon-ve-teraslar-icin-isitici-secerken-dikkat-edilmesi-gerekenler",
+    "sourceName": "Enerji ve Tesisat"
+  },
+  {
+    "id": "kombi-klima-shop-strengthens-partnership-with-teka",
+    "slug": {
+      "tr": "kombi-klima-shop-ve-teka-is-birligi-guclendi",
+      "en": "kombi-klima-shop-strengthens-partnership-with-teka"
+    },
+    "title": {
+      "tr": "Kombi Klima Shop ve Teka İş Birliği Güçlendi",
+      "en": "Kombi Klima Shop Strengthens Partnership with Teka"
+    },
+    "excerpt": {
+      "tr": "Kombi Klima Shop, Teka ile iş birliğini derinleştirerek 2026 yılında Türkiye HVAC pazarında yeni ürün gamını sunacak.",
+      "en": "Kombi Klima Shop deepens Teka partnership to launch new product line in Turkey's HVAC market for 2026."
+    },
+    "content": {
+      "tr": "Türkiye'nin önde gelen HVAC distribütörlerinden Kombi Klima Shop, Teka markasıyla stratejik ortaklığını güçlendirerek sektördeki konumunu daha da sağlamlaştırdı. Antalya'da gerçekleştirilen lansman etkinliği, her iki şirketin 2026 yılı hedeflerini ve yeni ürün stratejilerini ortaya koydu.\n\nNisan ayının başında Antalya DoubleTree by Hilton'da düzenlenen özel lansman toplantısında, Teka'nın 2026 model yılı klima serisi tanıtıldı. Midea Group'un küresel üretim kapasitesi ve teknolojik altyapısından yararlanan bu yeni ürün hattı, Türk tüketicilerine daha gelişmiş enerji verimliliği ve performans sunacak. Etkinlikte Midea'nın Türkiye İş Geliştirme Direktörü Can Topakoğlu ve Kurumsal Strateji Mühendisi Ceren Sevik de yer aldı.\n\nToplantıya HVAC sektöründe faaliyet gösteren çok sayıda uzman firma katılım gösterdi. Bu yoğun ilgi, Türkiye'deki klima pazarının büyüme potansiyelini ve Teka-Kombi Klima Shop ortaklığının sektördeki beklentileri karşılayabileceğine duyulan güveni yansıtıyor. Midea Group'un global deneyimi ile yerel distribüsyon ağının birleşmesi, Türk HVAC pazarında rekabet dinamiklerini etkileyebilecek nitelikte.",
+      "en": "Leading Turkish HVAC distributor Kombi Klima Shop has strengthened its strategic partnership with Teka brand, further solidifying its position in the industry. The launch event held in Antalya outlined both companies' targets and new product strategies for 2026.\n\nThe exclusive launch meeting at Antalya DoubleTree by Hilton in early April introduced Teka's 2026 model year air conditioning series. This new product line, leveraging Midea Group's global manufacturing capacity and technological infrastructure, will offer Turkish consumers enhanced energy efficiency and performance. The event featured Midea's Turkey Business Development Director Can Topakoğlu and Corporate Strategy Engineer Ceren Sevik.\n\nNumerous specialized HVAC companies attended the meeting, demonstrating significant industry interest. This strong participation reflects the growth potential of Turkey's air conditioning market and confidence in the Teka-Kombi Klima Shop partnership's ability to meet sector expectations. The combination of Midea Group's global expertise with local distribution networks could influence competitive dynamics in the Turkish HVAC market."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Antalya'da düzenlenen Teka klima lansman toplantısından bir kare",
+      "en": "A scene from the Teka air conditioning launch meeting held in Antalya"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 18:03:14 +0300",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC",
+        "klima",
+        "Teka",
+        "Midea",
+        "distribüsyon"
+      ],
+      "en": [
+        "HVAC",
+        "air conditioning",
+        "Teka",
+        "Midea",
+        "distribution"
+      ]
+    },
+    "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12279-kombi-klima-shop-teka-ile-olan-is-birligini-gueclendirdi",
+    "sourceName": "Enerji ve Tesisat"
+  },
+  {
+    "id": "afs-showcases-sustainable-hvac-solutions-at-mce-milano-2026",
+    "slug": {
+      "tr": "afs-milano-mce-2026da-surdurulebilir-hvac-cozumleri-sergiledi",
+      "en": "afs-showcases-sustainable-hvac-solutions-at-mce-milano-2026"
+    },
+    "title": {
+      "tr": "AFS Milano MCE 2026'da Sürdürülebilir HVAC Çözümleri Sergiledi",
+      "en": "AFS Showcases Sustainable HVAC Solutions at MCE Milano 2026"
+    },
+    "excerpt": {
+      "tr": "AFS, Milano MCE 2026 fuarında çevre dostu HVAC teknolojileriyle dikkat çekti ve uluslararası pazarda Türk teknolojisini temsil etti.",
+      "en": "AFS attracted attention at MCE Milano 2026 with eco-friendly HVAC technologies, representing Turkish innovation in the international market."
+    },
+    "content": {
+      "tr": "AFS şirketi, 24-27 Mart 2026 tarihlerinde Milano'da düzenlenen MCE Fuarı'nda çevre dostu HVAC teknolojileriyle önemli bir başarı elde etti. Uluslararası ısıtma, soğutma ve havalandırma sektörünün en prestijli etkinliklerinden biri olan bu fuarda şirket, sürdürülebilirlik odaklı ürün gamıyla ziyaretçilerin beğenisini topladı.\n\nFuar süresince AFS standını ziyaret eden sektör profesyonelleri, şirketin yenilikçi yaklaşımını yakından inceleme fırsatı buldu. Özellikle enerji verimliliği yüksek sistemler ve çevresel etkileri minimize eden teknolojiler, uluslararası müşteriler tarafından büyük ilgiyle karşılandı. Milano'daki bu etkinlik, AFS'nin global pazardaki konumunu güçlendiren önemli bir adım oldu.\n\nTürk HVAC sektörü açısından bu başarı, ülkemizin teknolojik kapasitesinin uluslararası arenada tanıtılması bakımından son derece değerli. AFS'nin MCE 2026'daki performansı, Türkiye merkezli şirketlerin dünya pazarlarında rekabet edebilecek nitelikte ürünler geliştirdiğinin somut bir kanıtı niteliğinde. Bu durum, sektörümüzün ihracat potansiyelini artıran pozitif bir gelişme olarak değerlendiriliyor.",
+      "en": "AFS company achieved significant success with its environmentally friendly HVAC technologies at the MCE Fair held in Milan from March 24-27, 2026. At this prestigious international heating, cooling, and ventilation industry event, the company garnered visitor appreciation with its sustainability-focused product range.\n\nDuring the fair, industry professionals visiting the AFS stand had the opportunity to closely examine the company's innovative approach. Energy-efficient systems and technologies that minimize environmental impact were particularly well-received by international customers. This Milan event marked an important step in strengthening AFS's position in the global market.\n\nThis success represents tremendous value for the Turkish HVAC sector in terms of showcasing our country's technological capabilities on the international stage. AFS's performance at MCE 2026 serves as concrete evidence that Turkey-based companies can develop products capable of competing in world markets. This development is considered a positive advancement that enhances our sector's export potential."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "AFS şirketinin MCE Milano 2026 fuarındaki standında sergilenen sürdürülebilir HVAC sistemleri",
+      "en": "Sustainable HVAC systems displayed at AFS company's booth at MCE Milano 2026 fair"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 13 Apr 2026 15:34:35 +0300",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC",
+        "MCE Milano",
+        "sürdürülebilirlik",
+        "enerji verimliliği",
+        "Türk teknolojisi"
+      ],
+      "en": [
+        "HVAC",
+        "MCE Milano",
+        "sustainability",
+        "energy efficiency",
+        "Turkish technology"
+      ]
+    },
+    "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12278-afs-mce-2026-milano-fuarinda-suerdueruelebilir-ve-yenilikci-hvac-coezuemleriyle-oene-cikti",
+    "sourceName": "Enerji ve Tesisat"
+  },
+  {
     "id": "dayco-systems-introduces-specialized-service-for-sensory-sensitive-customers",
     "slug": {
       "tr": "dayco-systems-duyusal-ihtiyaclari-olan-musteriler-icin-ozel-servis-baslatti",
@@ -29,7 +539,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Mon, 13 Apr 2026 11:29:00 -0400",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -1977,366 +2487,6 @@
         "ISK-SODEX",
         "exhibition",
         "industry event"
-      ]
-    }
-  },
-  {
-    "id": "radyant-isitma-sogutma",
-    "slug": {
-      "tr": "radyant-isitma-sogutma-sistemleri-yukseliste",
-      "en": "radiant-heating-cooling-systems-on-the-rise"
-    },
-    "title": {
-      "tr": "Radyant Isıtma-Soğutma Sistemleri Yükselişte",
-      "en": "Radiant Heating-Cooling Systems on the Rise"
-    },
-    "excerpt": {
-      "tr": "Tavan ve döşemeden radyant ısıtma-soğutma, konfor ve enerji verimliliği avantajlarıyla tercih ediliyor.",
-      "en": "Radiant heating-cooling from ceiling and floor is preferred for its comfort and energy efficiency advantages."
-    },
-    "content": {
-      "tr": "Radyant ısıtma ve soğutma sistemleri, geleneksel konvektif sistemlere göre üstün konfor ve verimlilik sunmasıyla 2026'da popülaritesini artırdı. Bu sistemler, ışınım yoluyla ısı transferi yaparak daha homojen bir sıcaklık dağılımı sağlıyor.\n\nTavan tipi radyant paneller, ofis ve ticari binalarda sessiz çalışma avantajıyla öne çıkıyor. Döşemeden ısıtma ise konut sektöründe, özellikle ısı pompası kombinasyonlarında yüksek verim sunuyor.\n\nRadyant sistemler, düşük su sıcaklığında (35-40°C) çalışabilmeleri sayesinde ısı pompalarıyla mükemmel uyum gösteriyor. Bu kombinasyon, toplam enerji tüketimini konvektif sistemlere göre %25-30 azaltabiliyor.",
-      "en": "Radiant heating and cooling systems increased their popularity in 2026 by offering superior comfort and efficiency compared to traditional convective systems. These systems provide more homogeneous temperature distribution through radiant heat transfer.\n\nCeiling-type radiant panels stand out with their silent operation advantage in office and commercial buildings. Underfloor heating offers high efficiency in the residential sector, especially in heat pump combinations.\n\nRadiant systems show excellent compatibility with heat pumps thanks to their ability to operate at low water temperatures (35-40°C). This combination can reduce total energy consumption by 25-30% compared to convective systems."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Döşemeden ısıtma sistemi kurulumu yapılıyor",
-      "en": "Underfloor heating system being installed"
-    },
-    "author": "Ayşe Kara",
-    "publishDate": "2026-04-04T12:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "radyant ısıtma",
-        "döşemeden ısıtma",
-        "konfor"
-      ],
-      "en": [
-        "radiant heating",
-        "underfloor heating",
-        "comfort"
-      ]
-    }
-  },
-  {
-    "id": "enerji-depolama-hvac",
-    "slug": {
-      "tr": "enerji-depolama-sistemleri-hvac-sektorunde-devrim-yaratiyor",
-      "en": "energy-storage-systems-revolutionize-hvac-sector"
-    },
-    "title": {
-      "tr": "Enerji Depolama Sistemleri HVAC Sektöründe Devrim Yaratıyor",
-      "en": "Energy Storage Systems Revolutionize the HVAC Sector"
-    },
-    "excerpt": {
-      "tr": "Termal ve batarya enerji depolama, HVAC sistemlerinin enerji yönetimini kökten değiştiriyor.",
-      "en": "Thermal and battery energy storage are fundamentally changing HVAC system energy management."
-    },
-    "content": {
-      "tr": "Enerji depolama teknolojileri, HVAC sektöründe yeni bir paradigma oluşturuyor. Termal enerji depolama (TES) ve batarya enerji depolama sistemleri (BESS), pik talep yönetimi ve yenilenebilir enerji entegrasyonunda kritik rol oynuyor.\n\nBuz depolama (ice storage) sistemleri, gece saatlerinde ucuz elektrikle buz üreterek gündüz soğutma yükünü karşılıyor. Bu yöntem, elektrik maliyetlerini %40'a varan oranlarda düşürebiliyor.\n\nGüneş enerjisi ile ısı pompası ve termal depolama kombinasyonu, 'sıfır enerji bina' hedeflerine ulaşmada en umut verici çözümlerden biri olarak değerlendiriliyor. Türkiye'de pilot projeler başarılı sonuçlar veriyor.",
-      "en": "Energy storage technologies are creating a new paradigm in the HVAC sector. Thermal Energy Storage (TES) and Battery Energy Storage Systems (BESS) play critical roles in peak demand management and renewable energy integration.\n\nIce storage systems produce ice using cheap electricity during nighttime to meet daytime cooling loads. This method can reduce electricity costs by up to 40%.\n\nThe combination of solar energy with heat pumps and thermal storage is considered one of the most promising solutions for achieving 'zero energy building' targets. Pilot projects in Turkey are yielding successful results."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Bina bodrum katında termal enerji depolama tankları",
-      "en": "Thermal energy storage tanks in building basement"
-    },
-    "author": "Burak Aydın",
-    "publishDate": "2026-04-03T14:30:00Z",
-    "featured": false,
-    "readingTime": 5,
-    "tags": {
-      "tr": [
-        "enerji depolama",
-        "termal depolama",
-        "buz depolama"
-      ],
-      "en": [
-        "energy storage",
-        "thermal storage",
-        "ice storage"
-      ]
-    }
-  },
-  {
-    "id": "kanal-tipi-klima-rehber",
-    "slug": {
-      "tr": "kanal-tipi-klima-sistemleri-secim-rehberi",
-      "en": "ducted-air-conditioning-systems-selection-guide"
-    },
-    "title": {
-      "tr": "Kanal Tipi Klima Sistemleri Seçim Rehberi",
-      "en": "Ducted Air Conditioning Systems Selection Guide"
-    },
-    "excerpt": {
-      "tr": "Doğru kanal tipi klima sistemi seçimi için teknik kriterler ve uygulama ipuçları.",
-      "en": "Technical criteria and application tips for selecting the right ducted AC system."
-    },
-    "content": {
-      "tr": "Kanal tipi klima sistemleri, estetik görünüm ve homojen hava dağılımı avantajlarıyla konut ve ticari projelerde tercih ediliyor. Doğru sistem seçimi için soğutma/ısıtma kapasitesi, statik basınç, ses seviyesi ve enerji sınıfı gibi teknik kriterler dikkate alınmalı.\n\nKanal tasarımı, sistem verimliliğini doğrudan etkileyen en kritik faktör. Yetersiz kanal boyutlandırma, basınç kayıplarına ve enerji israfına neden olur. ASHRAE standartlarına uygun kanal hesaplaması zorunludur.\n\nYeni nesil kanal tipi üniteler, EC fan motorları ve değişken hava debisi (VAV) kontrolü ile enerji verimliliğini %35 artırabiliyor. Isı geri kazanım özellikli modeller, taze hava ihtiyacını karşılarken enerji kayıplarını minimize ediyor.",
-      "en": "Ducted air conditioning systems are preferred in residential and commercial projects for their aesthetic appearance and homogeneous air distribution. Technical criteria such as cooling/heating capacity, static pressure, noise level, and energy class should be considered for proper system selection.\n\nDuct design is the most critical factor directly affecting system efficiency. Inadequate duct sizing causes pressure losses and energy waste. Duct calculation compliant with ASHRAE standards is mandatory.\n\nNext-generation ducted units can increase energy efficiency by 35% with EC fan motors and Variable Air Volume (VAV) control. Models with heat recovery features minimize energy losses while meeting fresh air requirements."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Asma tavan içinde kanal tipi klima iç ünitesi kurulumu",
-      "en": "Ducted AC indoor unit installation inside suspended ceiling"
-    },
-    "author": "Canan Demir",
-    "publishDate": "2026-04-02T09:00:00Z",
-    "featured": false,
-    "readingTime": 6,
-    "tags": {
-      "tr": [
-        "kanal tipi klima",
-        "kanal tasarımı",
-        "VAV"
-      ],
-      "en": [
-        "ducted AC",
-        "duct design",
-        "VAV"
-      ]
-    }
-  },
-  {
-    "id": "hvac-dijital-ikiz",
-    "slug": {
-      "tr": "dijital-ikiz-teknolojisi-hvac-bakim-maliyetlerini-dusuruyor",
-      "en": "digital-twin-technology-reduces-hvac-maintenance-costs"
-    },
-    "title": {
-      "tr": "Dijital İkiz Teknolojisi HVAC Bakım Maliyetlerini Düşürüyor",
-      "en": "Digital Twin Technology Reduces HVAC Maintenance Costs"
-    },
-    "excerpt": {
-      "tr": "HVAC sistemlerinin dijital ikizleri, prediktif bakım ile arıza sürelerini %60 azaltıyor.",
-      "en": "Digital twins of HVAC systems reduce downtime by 60% through predictive maintenance."
-    },
-    "content": {
-      "tr": "Dijital ikiz teknolojisi, fiziksel HVAC sistemlerinin sanal kopyalarını oluşturarak gerçek zamanlı izleme ve prediktif bakım imkânı sunuyor. Bu teknoloji, beklenmedik arızaları %60 oranında azaltarak bakım maliyetlerini önemli ölçüde düşürüyor.\n\nDijital ikizler, sensör verilerini sürekli analiz ederek kompresör aşınması, filtre tıkanması ve soğutkan kaçağı gibi sorunları arıza oluşmadan önce tespit edebiliyor. Bu yaklaşım, reaktif bakımdan proaktif bakıma geçişi sağlıyor.\n\nBüyük ölçekli ticari binalarda dijital ikiz uygulamaları, yıllık bakım bütçelerinde %35-45 tasarruf sağladığı raporlanıyor. Türkiye'de de özellikle AVM ve hastane projelerinde dijital ikiz kullanımı artıyor.",
-      "en": "Digital twin technology offers real-time monitoring and predictive maintenance by creating virtual copies of physical HVAC systems. This technology significantly reduces maintenance costs by decreasing unexpected failures by 60%.\n\nDigital twins can detect issues such as compressor wear, filter clogging, and refrigerant leaks before failures occur by continuously analyzing sensor data. This approach enables the transition from reactive to proactive maintenance.\n\nDigital twin implementations in large-scale commercial buildings are reported to save 35-45% on annual maintenance budgets. In Turkey, digital twin usage is also increasing, particularly in shopping center and hospital projects."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "Tablet ekranında HVAC sisteminin dijital ikiz modeli",
-      "en": "Digital twin model of HVAC system on tablet screen"
-    },
-    "author": "Hakan Türk",
-    "publishDate": "2026-04-01T11:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "dijital ikiz",
-        "prediktif bakım",
-        "IoT"
-      ],
-      "en": [
-        "digital twin",
-        "predictive maintenance",
-        "IoT"
-      ]
-    }
-  },
-  {
-    "id": "fan-coil-teknolojisi",
-    "slug": {
-      "tr": "yeni-nesil-fan-coil-unitelerinde-sessiz-calisma-teknolojisi",
-      "en": "silent-operation-technology-in-next-gen-fan-coil-units"
-    },
-    "title": {
-      "tr": "Yeni Nesil Fan Coil Ünitelerinde Sessiz Çalışma Teknolojisi",
-      "en": "Silent Operation Technology in Next-Gen Fan Coil Units"
-    },
-    "excerpt": {
-      "tr": "EC motorlu yeni fan coil üniteleri, 19 dB(A) ses seviyesiyle otel ve hastane projelerinde tercih ediliyor.",
-      "en": "New fan coil units with EC motors are preferred in hotel and hospital projects with 19 dB(A) noise levels."
-    },
-    "content": {
-      "tr": "Yeni nesil fan coil üniteleri, EC (Elektronik Komütasyonlu) motor teknolojisi sayesinde 19 dB(A)'ya kadar düşen ses seviyeleriyle dikkat çekiyor. Bu değer, yaprak hışırtısı seviyesinin bile altında kalıyor.\n\nOtel odaları, hastane hasta odaları ve kütüphaneler gibi sessizliğin kritik olduğu alanlarda, düşük ses seviyeli fan coil üniteleri standart hale geliyor. EC motorlar aynı zamanda AC motorlara göre %70'e varan enerji tasarrufu sağlıyor.\n\nKablosuz kontrol ve BACnet/Modbus iletişim protokolleri desteği, yeni nesil fan coil ünitelerinin akıllı bina otomasyon sistemlerine sorunsuz entegrasyonunu mümkün kılıyor.",
-      "en": "Next-generation fan coil units are attracting attention with noise levels as low as 19 dB(A) thanks to EC (Electronically Commutated) motor technology. This value is even below the level of rustling leaves.\n\nLow-noise fan coil units are becoming standard in areas where silence is critical, such as hotel rooms, hospital patient rooms, and libraries. EC motors also provide up to 70% energy savings compared to AC motors.\n\nWireless control and BACnet/Modbus communication protocol support enable seamless integration of next-generation fan coil units into smart building automation systems."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Otel odasında gizli tavan tipi fan coil ünitesi",
-      "en": "Concealed ceiling-type fan coil unit in hotel room"
-    },
-    "author": "Zeynep Arslan",
-    "publishDate": "2026-03-30T10:00:00Z",
-    "featured": false,
-    "readingTime": 3,
-    "tags": {
-      "tr": [
-        "fan coil",
-        "EC motor",
-        "sessiz çalışma"
-      ],
-      "en": [
-        "fan coil",
-        "EC motor",
-        "silent operation"
-      ]
-    }
-  },
-  {
-    "id": "hvac-siber-guvenlik",
-    "slug": {
-      "tr": "hvac-sistemlerinde-siber-guvenlik-tehditleri-artiyor",
-      "en": "cybersecurity-threats-increasing-in-hvac-systems"
-    },
-    "title": {
-      "tr": "HVAC Sistemlerinde Siber Güvenlik Tehditleri Artıyor",
-      "en": "Cybersecurity Threats Increasing in HVAC Systems"
-    },
-    "excerpt": {
-      "tr": "IoT bağlantılı HVAC sistemleri siber saldırılara karşı savunmasız. Uzmanlar güvenlik protokollerini uyarıyor.",
-      "en": "IoT-connected HVAC systems are vulnerable to cyberattacks. Experts warn about security protocols."
-    },
-    "content": {
-      "tr": "IoT ve bulut tabanlı HVAC kontrol sistemlerinin yaygınlaşmasıyla birlikte, siber güvenlik tehditleri sektörün gündemine oturdu. 2025'te dünya genelinde HVAC sistemlerine yönelik siber saldırılar %180 arttı.\n\nBina otomasyon sistemleri (BAS) üzerinden gerçekleştirilen saldırılar, sadece HVAC kontrolünü değil, tüm bina altyapısını tehdit edebiliyor. Fidye yazılımı saldırıları, hastane ve veri merkezi gibi kritik tesislerde ciddi riskler oluşturuyor.\n\nUzmanlar, HVAC sistemlerinde ağ segmentasyonu, güçlü kimlik doğrulama, düzenli güncelleme ve penetrasyon testi uygulamalarını zorunlu tutmayı öneriyor. Sektörde siber güvenlik sertifikasyonu ihtiyacı her geçen gün artıyor.",
-      "en": "With the proliferation of IoT and cloud-based HVAC control systems, cybersecurity threats have become a top agenda item for the sector. Cyberattacks targeting HVAC systems worldwide increased by 180% in 2025.\n\nAttacks carried out through Building Automation Systems (BAS) can threaten not only HVAC control but the entire building infrastructure. Ransomware attacks pose serious risks in critical facilities such as hospitals and data centers.\n\nExperts recommend mandating network segmentation, strong authentication, regular updates, and penetration testing in HVAC systems. The need for cybersecurity certification in the sector grows every day."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Bina otomasyon sistemi ekranında siber güvenlik uyarısı",
-      "en": "Cybersecurity alert on building automation system screen"
-    },
-    "author": "Ali Yıldırım",
-    "publishDate": "2026-03-28T14:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "siber güvenlik",
-        "IoT",
-        "bina otomasyonu"
-      ],
-      "en": [
-        "cybersecurity",
-        "IoT",
-        "building automation"
-      ]
-    }
-  },
-  {
-    "id": "nzeb-turkiye-hedefleri",
-    "slug": {
-      "tr": "turkiye-nzeb-yaklasik-sifir-enerji-bina-hedeflerini-belirledi",
-      "en": "turkey-sets-nzeb-nearly-zero-energy-building-targets"
-    },
-    "title": {
-      "tr": "Türkiye nZEB (Yaklaşık Sıfır Enerji Bina) Hedeflerini Belirledi",
-      "en": "Turkey Sets nZEB (Nearly Zero Energy Building) Targets"
-    },
-    "excerpt": {
-      "tr": "2030'a kadar tüm yeni kamu binalarında nZEB standardı zorunlu olacak. HVAC sektörü hazırlanıyor.",
-      "en": "nZEB standard will be mandatory for all new public buildings by 2030. HVAC sector is preparing."
-    },
-    "content": {
-      "tr": "Türkiye, Avrupa Birliği uyum sürecinde Yaklaşık Sıfır Enerji Bina (nZEB) hedeflerini resmi olarak belirledi. 2030 yılına kadar tüm yeni kamu binalarının, 2033'e kadar ise tüm yeni yapıların nZEB standardını karşılaması hedefleniyor.\n\nnZEB standartları, binaların enerji ihtiyacının büyük bölümünü yenilenebilir kaynaklardan karşılamasını gerektiriyor. Bu durum, yüksek verimli HVAC sistemleri, ısı pompası ve enerji geri kazanım çözümlerini zorunlu kılıyor.\n\nSektör dernekleri, nZEB hedeflerine ulaşmak için HVAC mühendisliği eğitim programlarının güncellenmesini ve yeni sertifika sistemlerinin oluşturulmasını talep ediyor.",
-      "en": "Turkey has officially set its Nearly Zero Energy Building (nZEB) targets as part of the EU harmonization process. All new public buildings are targeted to meet nZEB standards by 2030, and all new buildings by 2033.\n\nnZEB standards require buildings to meet most of their energy needs from renewable sources. This necessitates high-efficiency HVAC systems, heat pumps, and energy recovery solutions.\n\nIndustry associations are demanding updates to HVAC engineering training programs and the creation of new certification systems to achieve nZEB targets."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Çatısında güneş panelleri olan modern nZEB bina",
-      "en": "Modern nZEB building with solar panels on the roof"
-    },
-    "author": "Mehmet Yılmaz",
-    "publishDate": "2026-03-25T08:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "nZEB",
-        "sıfır enerji bina",
-        "sürdürülebilirlik"
-      ],
-      "en": [
-        "nZEB",
-        "zero energy building",
-        "sustainability"
-      ]
-    }
-  },
-  {
-    "id": "klima-bakim-ilkbahar",
-    "slug": {
-      "tr": "ilkbahar-klima-bakim-rehberi-sezona-hazirlik",
-      "en": "spring-ac-maintenance-guide-seasonal-preparation"
-    },
-    "title": {
-      "tr": "İlkbahar Klima Bakım Rehberi: Sezona Hazırlık",
-      "en": "Spring AC Maintenance Guide: Seasonal Preparation"
-    },
-    "excerpt": {
-      "tr": "Yaz sezonu öncesi klima bakım kontrol listesi: filtre, soğutkan, elektrik ve drenaj kontrolü.",
-      "en": "Pre-summer AC maintenance checklist: filter, refrigerant, electrical, and drainage inspection."
-    },
-    "content": {
-      "tr": "Yaz sezonunun yaklaşmasıyla birlikte klima sistemlerinin bakımı kritik önem kazanıyor. Sezon başında yapılan kapsamlı bakım, hem enerji verimliliğini artırıyor hem de beklenmedik arızaları önlüyor.\n\nTemel bakım kontrol listesi şunları kapsamalı: filtre temizliği/değişimi, soğutkan basınç kontrolü, kondenser ve evaporatör bobin temizliği, elektrik bağlantıları kontrolü, drenaj hattı temizliği ve termostat kalibrasyonu.\n\nDüzenli bakım yapılan klimalar, bakımsız olanlara göre %15-25 daha az enerji tüketiyor ve ortalama ömürleri 5-7 yıl daha uzun oluyor. Profesyonel bakım hizmeti almanız, garantiyi korumak açısından da önemli.",
-      "en": "As the summer season approaches, air conditioning system maintenance becomes critically important. Comprehensive maintenance at the start of the season both increases energy efficiency and prevents unexpected breakdowns.\n\nThe basic maintenance checklist should include: filter cleaning/replacement, refrigerant pressure check, condenser and evaporator coil cleaning, electrical connection inspection, drainage line cleaning, and thermostat calibration.\n\nRegularly maintained ACs consume 15-25% less energy than unmaintained ones and their average lifespan is 5-7 years longer. Getting professional maintenance service is also important for maintaining your warranty."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Teknisyen klima filtresini temizliyor",
-      "en": "Technician cleaning an air conditioning filter"
-    },
-    "author": "Canan Demir",
-    "publishDate": "2026-03-22T09:00:00Z",
-    "featured": false,
-    "readingTime": 3,
-    "tags": {
-      "tr": [
-        "klima bakım",
-        "mevsimsel bakım",
-        "enerji tasarrufu"
-      ],
-      "en": [
-        "AC maintenance",
-        "seasonal maintenance",
-        "energy savings"
       ]
     }
   }
