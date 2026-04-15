@@ -1,5 +1,515 @@
 [
   {
+    "id": "besa-issues-competence-guide-for-building-safety-act-compliance",
+    "slug": {
+      "tr": "besadan-bina-guvenlik-yasasi-uyumu-icin-yetkinlik-rehberi",
+      "en": "besa-issues-competence-guide-for-building-safety-act-compliance"
+    },
+    "title": {
+      "tr": "BESA'dan Bina Güvenlik Yasası Uyumu İçin Yetkinlik Rehberi",
+      "en": "BESA Issues Competence Guide for Building Safety Act Compliance"
+    },
+    "excerpt": {
+      "tr": "İngiltere Yapı Mühendisliği Hizmetleri Derneği, şirketlere bina güvenlik mevzuatı uyumu için yetkinlik kanıtlama rehberi yayınladı.",
+      "en": "UK's Building Engineering Services Association releases toolkit to help companies demonstrate competence under new building safety legislation."
+    },
+    "content": {
+      "tr": "İngiltere Yapı Mühendisliği Hizmetleri Derneği (BESA), şirketlerin yeni bina güvenlik mevzuatına uyum sağlamaları ve yetkinliklerini kanıtlamaları için kapsamlı bir rehber yayınladı. \"Bina Güvenlik Yasası Kapsamında Yetkinlik Gösterimi\" başlıklı bu kılavuz, özellikle resmi sertifikasyon sistemlerinin henüz tam olarak gelişmediği alanlarda faaliyet gösteren işverenlere yol haritası sunuyor.\n\nGrenfell Kulesi faciasının ardından yapılan Hackitt İncelemesi, inşaat sektöründeki yetkinlik eksikliklerini trajedinin temel nedenlerinden biri olarak belirledi. Bu durum karşısında geliştirilen rehber, organizasyonların beceri, bilgi, deneyim ve davranış (SKEB) prensiplerini nasıl uygulayacaklarını ve belgeleyeceklerini detaylı olarak açıklıyor. Ücretsiz indirilebilen araç seti, yetkinliği tek seferlik bir eğitim veya sertifikasyon süreci olarak değil, risk yönetiminin dinamik bir parçası olarak ele alma yaklaşımını benimsiyor.\n\nTürkiye'de de benzer güvenlik standartları ve yetkinlik gereklilikleri giderek önem kazanıyor. HVAC sektöründe faaliyet gösteren Türk firmaları, özellikle uluslararası projelerde yer alırken bu tür yetkinlik çerçevelerini yakından takip etmeli ve kendi kalite yönetim sistemlerini bu standartlara göre güncellemeli. Sektörün profesyonelleri için sürekli gelişim ve yetkinlik kanıtlama süreçleri, gelecekte rekabet avantajı sağlayacak kritik faktörler haline geliyor.",
+      "en": "The Building Engineering Services Association (BESA) has released a comprehensive guide to assist companies in demonstrating compliance with the UK's stringent building safety regulations. The publication titled \"Demonstrating Competence under the Building Safety Act\" provides a structured approach for employers to meet legislative requirements, particularly in sectors where formal qualification frameworks remain underdeveloped.\n\nFollowing the Grenfell Tower tragedy, the subsequent Hackitt Review identified systemic competence failures within the construction industry as a primary contributing factor to the disaster. BESA's new toolkit addresses this critical gap by offering practical guidance on understanding, evidencing, and implementing the skills, knowledge, experience, and behaviours (SKEB) principles that now define professional competence in post-Grenfell construction practices. The freely downloadable resource emphasizes treating competence as an ongoing, dynamic component of organizational risk management rather than a static certification process.\n\nThe guide arrives at a crucial time when construction professionals must demonstrate to the Building Safety Regulator that personnel appointed for safety-critical tasks possess appropriate competence for their specific roles. This requirement applies even in sectors where comprehensive competence frameworks are still under development. The toolkit's systematic approach to competence management offers a valuable template for HVAC professionals globally, as building safety standards continue to evolve and strengthen across international markets."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "Bina güvenlik yasası uyumu için yetkinlik rehberi kapağı",
+      "en": "Building Safety Act compliance competence guide cover"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 18:01:23 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "bina güvenliği",
+        "yetkinlik yönetimi",
+        "HVAC mevzuat",
+        "Grenfell",
+        "BESA"
+      ],
+      "en": [
+        "building safety",
+        "competence management",
+        "HVAC regulation",
+        "Grenfell",
+        "BESA"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/training/guide-to-building-safety-act-compliance/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "ashrae-and-nasrc-partner-for-natural-refrigerant-transition",
+    "slug": {
+      "tr": "ashrae-ve-nasrc-dogal-sogutucu-akiskan-gecisinde-is-birligi",
+      "en": "ashrae-and-nasrc-partner-for-natural-refrigerant-transition"
+    },
+    "title": {
+      "tr": "ASHRAE ve NASRC Doğal Soğutucu Akışkan Geçişinde İş Birliği",
+      "en": "ASHRAE and NASRC Partner for Natural Refrigerant Transition"
+    },
+    "excerpt": {
+      "tr": "ASHRAE ve NASRC, doğal soğutucu akışkanların yaygınlaşması için 3 yıllık iş birliği anlaşması imzaladı.",
+      "en": "ASHRAE and NASRC sign 3-year partnership agreement to accelerate adoption of natural refrigerants in commercial applications."
+    },
+    "content": {
+      "tr": "Küresel ısıtma potansiyeli düşük soğutucu akışkanlara geçiş sürecinde önemli bir adım atıldı. Amerikan Isıtma, Soğutma ve İklimlendirme Mühendisleri Derneği (ASHRAE) ile Kuzey Amerika Sürdürülebilir Soğutma Konseyi (NASRC), doğal soğutucu akışkanların yaygınlaştırılması için üç yıllık bir mutabakat zaptı imzaladı.\n\nİmzalanan anlaşma, araştırma geliştirme, bilgi paylaşımı, işgücü eğitimi ve ileri düzey öğretim alanlarında iş birliğini kapsıyor. ASHRAE Başkanı Bill McQuade ve NASRC İcra Direktörü Danielle Wright tarafından imzalanan protokol, 55.000'den fazla gıda perakende noktasına sahip NASRC'nin deneyimini, ASHRAE'nin küresel liderliğindeki araştırma ve standartlarla birleştiriyor. İki kuruluş, sistem performansını artıran ve sürdürülebilir soğutucu teknolojilerinin benimsenmesini hızlandıran pratik çözümler geliştirmeyi hedefliyor.\n\nBu iş birliğinin Türkiye soğutma sektörü için de önemli etkileri olacağı değerlendiriliyor. ASHRAE'nin global standartları ve NASRC'nin pratik deneyimleri, ülkemizdeki HVAC profesyonellerinin doğal soğutucu akışkanlara geçiş sürecinde yol haritası sunacak. Özellikle gıda perakende sektöründe faaliyet gösteren zincir marketler ve soğuk hava depoları, bu iş birliğinden çıkacak teknik rehberlik ve eğitim programlarından faydalanabilecek.",
+      "en": "A significant milestone has been reached in the transition to low global warming potential refrigerants. The American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) and the North American Sustainable Refrigeration Council (NASRC) have signed a three-year memorandum of understanding to accelerate the adoption of natural refrigerants.\n\nThe signed agreement encompasses collaboration in research and development, knowledge sharing, workforce training, and advanced education. The protocol, signed by ASHRAE President Bill McQuade and NASRC Executive Director Danielle Wright, combines NASRC's experience across more than 55,000 food retail locations with ASHRAE's global leadership in research and standards. The two organizations aim to develop practical solutions that enhance system performance and accelerate the adoption of sustainable refrigerant technologies.\n\nThis partnership is expected to have significant implications for Turkey's refrigeration sector as well. ASHRAE's global standards and NASRC's practical experience will provide a roadmap for HVAC professionals in Turkey during the transition to natural refrigerants. Particularly, chain supermarkets and cold storage facilities operating in the food retail sector will benefit from the technical guidance and training programs emerging from this collaboration."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "ASHRAE Başkanı Bill McQuade ve NASRC İcra Direktörü Danielle Wright anlaşmayı imzalarken",
+      "en": "ASHRAE President Bill McQuade and NASRC Executive Director Danielle Wright signing the partnership agreement"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 17:51:31 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ASHRAE",
+        "doğal soğutucu akışkan",
+        "NASRC",
+        "sürdürülebilir soğutma",
+        "HVAC"
+      ],
+      "en": [
+        "ASHRAE",
+        "natural refrigerants",
+        "NASRC",
+        "sustainable refrigeration",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/ashrae-signs-mou-with-naturals-group-nasrc/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "aalberts-relocates-apollo-powerpress-production-to-united-states",
+    "slug": {
+      "tr": "aalberts-apollo-powerpress-uretimini-abdye-tasiyor",
+      "en": "aalberts-relocates-apollo-powerpress-production-to-united-states"
+    },
+    "title": {
+      "tr": "Aalberts Apollo PowerPress Üretimini ABD'ye Taşıyor",
+      "en": "Aalberts Relocates Apollo PowerPress Production to United States"
+    },
+    "excerpt": {
+      "tr": "Aalberts entegre boru sistemleri lideri, Apollo PowerPress üretimini ABD'deki South Carolina tesisine taşıyarak yerel üretim stratejisini güçlendiriyor.",
+      "en": "Aalberts integrated piping systems leader moves Apollo PowerPress manufacturing to South Carolina facility, strengthening local production strategy."
+    },
+    "content": {
+      "tr": "Entegre boru sistemleri alanında küresel lider Aalberts, Apollo PowerPress teknolojisinin üretimini Amerika Birleşik Devletleri'ne taşıma kararı aldı. Hollanda merkezli şirketin bu stratejik hamlesi, yerel üretim modelini güçlendirirken teslimat sürelerini önemli ölçüde kısaltmayı hedefliyor.\n\nSouth Carolina'daki Pageland tesisinde gerçekleştirilecek yatırım, 2027 yılına kadar aşamalar halinde tamamlanacak. İlk ABD üretimi Apollo PowerPress ürünlerinin 2027 başında piyasaya çıkması bekleniyor. Tesis faaliyete geçtiğinde, bu yüksek performanslı pres teknolojisinin küresel merkezi haline gelecek ve Kuzey Amerika müşterilerine daha hızlı teslimat ile yerelleştirilmiş teknik destek sunacak.\n\nAalberts IPS Americas CEO'su Jacob Speight, bu yatırımın şirketin 2030 yılına kadar Kuzey Amerika pazarındaki işlerini iki katına çıkarma hedefini desteklediğini belirtti. Türkiye HVAC sektörü için bu gelişme, global tedarik zincirindeki yerelleşme trendinin güçlendiğinin işareti olarak değerlendiriliyor. Özellikle entegre boru sistemleri alanında faaliyet gösteren Türk firmaları, benzer yerelleşme stratejileri geliştirerek rekabet avantajı elde edebilir.",
+      "en": "Global integrated piping systems leader Aalberts has decided to relocate Apollo PowerPress technology production to the United States. This strategic move by the Netherlands-based company aims to strengthen its local production model while significantly reducing delivery times.\n\nThe investment at the Pageland facility in South Carolina will be completed in phases through 2027. The first U.S.-manufactured Apollo PowerPress products are expected to enter the market in early 2027. Once operational, the facility will become the global hub for this high-performance press technology, offering North American customers faster delivery and localized technical support.\n\nJacob Speight, CEO of Aalberts IPS Americas, stated that this investment supports the company's goal of doubling its North American business by 2030. For Turkey's HVAC sector, this development signals a strengthening trend toward localization in global supply chains. Turkish companies operating in integrated piping systems can gain competitive advantages by developing similar localization strategies."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Aalberts Apollo PowerPress üretim tesisi ve entegre boru sistemleri teknolojisi",
+      "en": "Aalberts Apollo PowerPress manufacturing facility and integrated piping systems technology"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 13:41:21 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Aalberts",
+        "Apollo PowerPress",
+        "Entegre Boru Sistemleri",
+        "HVAC Üretim",
+        "Yerel Üretim"
+      ],
+      "en": [
+        "Aalberts",
+        "Apollo PowerPress",
+        "Integrated Piping Systems",
+        "HVAC Manufacturing",
+        "Local Production"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/aalberts-brings-apollo-powerpress-manufacturing-to-the-united-states/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aalberts-brings-apollo-powerpress-manufacturing-to-the-united-states",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "concretta-fs-offers-new-solution-for-shower-wall-applications",
+    "slug": {
+      "tr": "concretta-fs-dus-duvarlari-icin-yeni-cozum-sunuyor",
+      "en": "concretta-fs-offers-new-solution-for-shower-wall-applications"
+    },
+    "title": {
+      "tr": "Concretta FS Duş Duvarları İçin Yeni Çözüm Sunuyor",
+      "en": "Concretta FS Offers New Solution for Shower Wall Applications"
+    },
+    "excerpt": {
+      "tr": "Mevcut fayanslar üzerine uygulanabilen Concretta FS, banyo renovasyonlarında pratik çözüm sunarak HVAC sektörünün dikkatini çekiyor.",
+      "en": "Concretta FS coating system applied over existing tiles offers practical renovation solutions, gaining attention in HVAC industry."
+    },
+    "content": {
+      "tr": "Banyo renovasyonu projelerinde kullanılan Concretta FS kaplama sistemi, mevcut fayanslar üzerine doğrudan uygulanabilme özelliğiyle sektörde dikkat çekmeye başladı. Bu yenilikçi ürün, geleneksel fayans sökme işlemlerini ortadan kaldırarak hem zaman hem de maliyet tasarrufu sağlıyor.\n\nMeoded Paint firması tarafından geliştirilen Concretta FS, özellikle duş alanlarında estetik ve fonksiyonel bir çözüm sunuyor. Ürünün su geçirmezlik özellikleri sayesinde nemli ortamlarda güvenle kullanılabiliyor. Renovasyon projelerinde görülen başarılı uygulamalar, bu sistemin dayanıklılığını ve görsel kalitesini kanıtlıyor.\n\nTürkiye'deki HVAC ve banyo sektörü için bu tür yenilikçi kaplama sistemleri, özellikle otel ve konut projelerinde önem kazanıyor. Hızlı uygulama süreci ve minimal müdahale gerektirmesi nedeniyle, işletmelerin operasyonel kesintilerini azaltarak renovasyon projelerini daha verimli şekilde tamamlamalarını sağlıyor. Sektör uzmanları, bu tür çözümlerin Türkiye pazarında da yaygınlaşacağını öngörüyor.",
+      "en": "The Concretta FS coating system used in bathroom renovation projects is gaining attention in the industry with its ability to be applied directly over existing tiles. This innovative product eliminates traditional tile removal processes, providing both time and cost savings.\n\nDeveloped by Meoded Paint company, Concretta FS offers an aesthetic and functional solution particularly for shower areas. Thanks to its waterproofing properties, the product can be safely used in humid environments. Successful applications seen in renovation projects demonstrate the durability and visual quality of this system.\n\nFor Turkey's HVAC and bathroom sector, such innovative coating systems are gaining importance especially in hotel and residential projects. Due to its rapid application process and minimal intervention requirements, it enables businesses to complete renovation projects more efficiently by reducing operational disruptions. Industry experts predict that such solutions will become widespread in the Turkish market as well."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Modern banyo duşunda Concretta FS kaplama sistemi uygulaması",
+      "en": "Concretta FS coating system application in modern bathroom shower"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 17:40:11 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "banyo renovasyonu",
+        "duş duvarı",
+        "kaplama sistemi",
+        "fayans üzeri uygulama",
+        "su yalıtımı"
+      ],
+      "en": [
+        "bathroom renovation",
+        "shower wall",
+        "coating system",
+        "tile overlay",
+        "waterproofing"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/concretta-for-shower-wall",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "manual-j-calculation-methods-accuracy-check-in-hvac-design",
+    "slug": {
+      "tr": "manual-j-hesaplama-yontemleri-hvac-tasariminda-dogruluk-kontrolu",
+      "en": "manual-j-calculation-methods-accuracy-check-in-hvac-design"
+    },
+    "title": {
+      "tr": "Manual J Hesaplama Yöntemleri: HVAC Tasarımında Doğruluk Kontrolü",
+      "en": "Manual J Calculation Methods: Accuracy Check in HVAC Design"
+    },
+    "excerpt": {
+      "tr": "Manual J hesaplamalarında doğruluk kontrolü, HVAC sistem tasarımının temel taşıdır. Uzmanlar dikkat edilmesi gereken noktaları açıklıyor.",
+      "en": "Manual J calculation accuracy check is fundamental in HVAC system design. Experts explain key points to consider for proper implementation."
+    },
+    "content": {
+      "tr": "Manual J hesaplama yöntemi, HVAC sektöründe yapı yük analizlerinin doğru bir şekilde yapılması için kritik öneme sahip bir standarttır. Bu yöntem, binaların ısıtma ve soğutma ihtiyaçlarının belirlenmesinde temel referans noktası olarak kullanılır ve sistem boyutlandırmasının temelini oluşturur.\n\nPortland gibi değişken iklim koşullarına sahip bölgelerde, Manual J hesaplamalarının dikkatli bir şekilde gözden geçirilmesi özellikle önemlidir. Eski yapıların yenileme ve genişletme projelerinde, mevcut yapısal özellikler ve yeni eklenen alanların farklı termal karakteristikleri birlikte değerlendirilmelidir. Yalıtım değerleri, pencere özellikleri, hava sızıntı oranları ve yerel iklim verileri bu hesaplamalarda kritik parametreler olarak yer alır.\n\nTürkiye'de de benzer şekilde, özellikle İstanbul, Ankara ve İzmir gibi büyük şehirlerde yapılan yenileme projelerinde Manual J benzeri hesaplama yöntemlerinin önemi artmaktadır. TSE standartları ve ulusal yönetmeliklerle uyumlu sistem tasarımı, enerji verimliliği hedeflerine ulaşmak için vazgeçilmezdir. HVAC uzmanları, bu tür hesaplamalarda bağımsız doğrulama yapmalarını ve farklı yazılım araçlarıyla sonuçları karşılaştırmalarını önemle tavsiye etmektedir.",
+      "en": "Manual J calculation methodology represents a critical standard in the HVAC industry for conducting accurate building load analyses. This method serves as the fundamental reference point for determining heating and cooling requirements of buildings and forms the foundation for proper system sizing.\n\nIn regions with variable climate conditions like Portland, careful review of Manual J calculations becomes particularly crucial. During renovation and expansion projects of older buildings, existing structural characteristics and thermal properties of newly added areas must be evaluated together. Insulation values, window specifications, air leakage rates, and local climate data serve as critical parameters in these calculations.\n\nSimilarly in Turkey, especially in major cities like Istanbul, Ankara, and Izmir, the importance of Manual J-equivalent calculation methods is increasing for renovation projects. System design compliant with TSE standards and national regulations is essential for achieving energy efficiency targets. HVAC professionals strongly recommend conducting independent verification of such calculations and cross-referencing results using different software tools."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "HVAC sistem tasarımı için Manual J hesaplama yöntemi ve yük analizi sürecini gösteren teknik diagram",
+      "en": "Technical diagram showing Manual J calculation method and load analysis process for HVAC system design"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 16:10:28 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Manual J",
+        "HVAC Hesaplama",
+        "Yük Analizi",
+        "Enerji Verimliliği",
+        "Sistem Tasarımı"
+      ],
+      "en": [
+        "Manual J",
+        "HVAC Calculation",
+        "Load Analysis",
+        "Energy Efficiency",
+        "System Design"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/manual-j-sanity-check",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "diy-blown-in-insulation-technique-for-attic-thermal-bridge-prevention",
+    "slug": {
+      "tr": "cati-izolasyonunda-ufleme-teknigi-ile-termal-kopru-onlemi",
+      "en": "diy-blown-in-insulation-technique-for-attic-thermal-bridge-prevention"
+    },
+    "title": {
+      "tr": "Çatı İzolasyonunda Üfleme Tekniği ile Termal Köprü Önlemi",
+      "en": "DIY Blown-In Insulation Technique for Attic Thermal Bridge Prevention"
+    },
+    "excerpt": {
+      "tr": "Havalandırmalı çatılarda mevcut batt izolasyon üzerine üfleme izolasyon uygulaması termal köprüleri engellemede etkili çözüm sunuyor.",
+      "en": "Blown-in insulation over existing batts in vented attics provides effective solution for preventing thermal bridging in HVAC applications."
+    },
+    "content": {
+      "tr": "Havalandırmalı çatı alanlarında mevcut batt izolasyon malzemelerin üzerine uygulanan üfleme izolasyon tekniği, binalarda enerji verimliliğini artırmak için giderek daha popüler hale geliyor. Knauf EcoBatt R-38 gibi geleneksel batt izolasyon malzemelerin tek başına yeterli olmadığı durumlarda, üst katmana eklenen üfleme izolasyon termal köprüleri önlemede kritik rol oynuyor.\n\nUygulamada öncelikle mevcut batt izolasyonun durumu kontrol ediliyor ve gerekli onarımlar yapılıyor. Ardından özel üfleme ekipmanı kullanılarak selüloz, cam elyafı veya mineral yün bazlı izolasyon malzemesi homojen şekilde dağıtılıyor. Bu yöntem özellikle ahşap çerçeve sistemlerde oluşan termal köprüleri minimize ederek ısı kaybını önemli ölçüde azaltıyor.\n\nTürkiye'de artan enerji maliyetleri ve çevre bilinci ile birlikte, bu tür DIY izolasyon çözümleri özellikle konut renovasyonu projelerinde tercih ediliyor. HVAC sektöründe faaliyet gösteren uzmanlar, doğru uygulama ile %20-30 oranında enerji tasarrufu sağlanabileceğini belirtiyor ve bu durumun hem tüketiciler hem de sektör için önemli avantajlar getirdiğini vurguluyor.",
+      "en": "Blown-in insulation applied over existing batt insulation materials in vented attic spaces is becoming increasingly popular for enhancing energy efficiency in buildings. When traditional batt insulation materials like Knauf EcoBatt R-38 prove insufficient on their own, blown-in insulation added as a top layer plays a critical role in preventing thermal bridging.\n\nThe application process begins with inspecting the condition of existing batt insulation and performing necessary repairs. Subsequently, cellulose, fiberglass, or mineral wool-based insulation material is distributed homogeneously using specialized blowing equipment. This method significantly reduces heat loss by minimizing thermal bridges, particularly in wood frame systems.\n\nWith rising energy costs and environmental awareness, such DIY insulation solutions are increasingly preferred in residential renovation projects globally. HVAC industry experts indicate that proper application can achieve 20-30% energy savings, emphasizing that this situation brings significant advantages for both consumers and the industry while supporting sustainable building practices and reducing carbon footprint."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Çatı alanında üfleme izolasyon malzemesi uygulaması ve termal köprü önleme tekniği",
+      "en": "Blown-in insulation material application in attic space and thermal bridge prevention technique"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 13:12:12 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "üfleme izolasyon",
+        "termal köprü",
+        "enerji verimliliği",
+        "çatı izolasyonu",
+        "DIY renovasyon"
+      ],
+      "en": [
+        "blown-in insulation",
+        "thermal bridging",
+        "energy efficiency",
+        "attic insulation",
+        "DIY renovation"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/diy-blown-in-insulation",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "sustainable-hvac-solutions-from-ecovillage-communities",
+    "slug": {
+      "tr": "ekokoylerin-hvac-sektorune-sundugu-surdurulebilir-cozumler",
+      "en": "sustainable-hvac-solutions-from-ecovillage-communities"
+    },
+    "title": {
+      "tr": "Ekoköylerin HVAC Sektörüne Sunduğu Sürdürülebilir Çözümler",
+      "en": "Sustainable HVAC Solutions from Ecovillage Communities"
+    },
+    "excerpt": {
+      "tr": "Missouri'deki Dancing Rabbit Ekoköyü'nden sürdürülebilir iklimlendirme sistemleri ve enerji verimliliği dersleri.",
+      "en": "Learning sustainable HVAC practices and energy efficiency from Missouri's Dancing Rabbit Ecovillage community."
+    },
+    "content": {
+      "tr": "Missouri eyaletindeki Dancing Rabbit Ekoköyü, geleneksel HVAC sistemlerine alternatif olarak doğal yapı teknikleri ve düşük enerji tüketimli iklimlendirme çözümleri geliştirerek sektöre yeni bir bakış açısı sunuyor.\n\nEkoköyde uygulanan doğal yapı malzemeleri ve ortak alanların iklimlendirilmesi, enerji performansının ötesinde topluluk odaklı sürdürülebilirlik yaklaşımları ortaya koyuyor. Pasif güneş enerjisi kullanımı, doğal havalandırma sistemleri ve yüksek termal kütleli yapı malzemeleri sayesinde, geleneksel mekanik sistemlere olan bağımlılık önemli ölçüde azaltılıyor.\n\nTürkiye'deki HVAC sektörü için bu deneyimler, özellikle kentsel dönüşüm projeleri ve sürdürülebilir bina sertifikasyonları açısından önemli dersler içeriyor. Yerel iklim koşullarına uygun pasif tasarım stratejileri ve topluluk merkezli iklimlendirme çözümleri, enerji maliyetlerini düşürürken çevre dostu alternatifler geliştirilmesine katkı sağlayabilir.",
+      "en": "Missouri's Dancing Rabbit Ecovillage demonstrates innovative alternatives to traditional HVAC systems through natural building techniques and low-energy climate control solutions, offering the industry fresh perspectives on sustainable design.\n\nThe community's implementation of natural building materials and shared space conditioning reveals sustainability approaches that extend far beyond conventional energy performance metrics. Through passive solar design, natural ventilation systems, and high thermal mass construction materials, dependence on traditional mechanical systems is significantly reduced while maintaining comfortable living conditions.\n\nFor HVAC professionals worldwide, these community-based experiments provide valuable insights into integrating passive design strategies with minimal mechanical intervention. The ecovillage model demonstrates how thoughtful building orientation, material selection, and shared resource management can create resilient climate control systems that prioritize both environmental responsibility and occupant comfort."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Ekoköyde doğal malzemelerle inşa edilmiş binaların pasif iklimlendirme sistemleri",
+      "en": "Natural building materials and passive climate control systems in ecovillage architecture"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 08:00:04 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "sürdürülebilir HVAC",
+        "ekoköy",
+        "pasif tasarım",
+        "enerji verimliliği",
+        "doğal havalandırma"
+      ],
+      "en": [
+        "sustainable HVAC",
+        "ecovillage",
+        "passive design",
+        "energy efficiency",
+        "natural ventilation"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/article/what-an-ecovillage-can-teach-us-about-sustainable-communities",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "trane-sintesis-excellent-gvaf-chiller-sets-data-center-cooling",
+    "slug": {
+      "tr": "trane-sintesis-excellent-gvaf-chiller-ile-veri-merkezi-sogutma",
+      "en": "trane-sintesis-excellent-gvaf-chiller-sets-data-center-cooling"
+    },
+    "title": {
+      "tr": "Trane Sintesis™ eXcellent GVAF Chiller ile Veri Merkezi Soğutma",
+      "en": "Trane Sintesis™ eXcellent GVAF Chiller Sets Data Center Cooling"
+    },
+    "excerpt": {
+      "tr": "Trane, 2.5MW kapasiteli yeni GVAF chiller serisi ile veri merkezi soğutma teknolojisinde önemli bir adım attı.",
+      "en": "Trane introduces new GVAF chiller series with 2.5MW capacity, marking significant advancement in data center cooling technology."
+    },
+    "content": {
+      "tr": "Trane Technologies, veri merkezi soğutma sektöründe çığır açan Sintesis™ eXcellent GVAF hava soğutmalı chiller platformunun yeni yüksek kapasiteli modellerini piyasaya sundu. Termal yönetim çözümlerinde dünya lideri konumundaki şirket, bu yeni serisiyle kritik altyapıların enerji ihtiyacını azaltırken performansı artırmayı hedefliyor.\n\nYeni GVAF serisi, 2.5MW'a kadar uzanan kapasite aralığı ve 54°C ortam sıcaklığına kadar güvenilir soğutma sağlama kabiliyeti ile dikkat çekiyor. Genişletilmiş çalışma haritaları sayesinde, büyük endüstriyel tesisler ve veri merkezi operatörleri daha kompakt bir tasarımda yüksek verimlilik elde edebiliyor. Platform, artan raf yoğunlukları ve yükselen sıcaklıklara karşı geliştirilmiş tam yük performansı, gelişmiş serbest soğutma özellikleri ve hızlı yeniden başlatma kapasitesi sunuyor.\n\nTürkiye'nin büyüyen veri merkezi pazarında, enerji maliyetleri ve çevresel sürdürülebilirlik giderek önem kazanıyor. Yeni GVAF chiller serisi, değişken koşullar altında istikrarlı performans gereksinimine yanıt vererek, Türk veri merkezi operatörlerine daha verimli ve güvenilir soğutma çözümleri sunacak. Bu teknoloji, özellikle İstanbul ve Ankara gibi büyük şehirlerdeki kritik altyapı projelerinde tercih edilebilir.",
+      "en": "Trane Technologies has launched breakthrough high-capacity models of its Sintesis™ eXcellent GVAF air-cooled chiller platform, setting new standards in data center cooling technology. The global leader in thermal management solutions aims to reduce energy demands from critical infrastructure while enhancing overall performance through this innovative series.\n\nThe new GVAF series features impressive capacity ranges extending up to 2.5MW and delivers reliable cooling performance even at ambient temperatures reaching 54°C. With expanded operating maps, large industrial facilities and data center operators can achieve superior efficiency within a more compact footprint. The platform offers enhanced full-load performance against increasing rack densities and rising temperatures, advanced free cooling capabilities, and rapid restart functionality for mission-critical operations.\n\nAs Turkey's data center market continues expanding, energy costs and environmental sustainability become increasingly crucial factors. The new GVAF chiller series addresses the need for stable performance under variable conditions, providing Turkish data center operators with more efficient and reliable cooling solutions. This technology will be particularly valuable for critical infrastructure projects in major cities like Istanbul and Ankara, where consistent uptime and energy efficiency are paramount."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Trane Sintesis eXcellent GVAF chiller sistemi veri merkezi uygulaması",
+      "en": "Trane Sintesis eXcellent GVAF chiller system for data center applications"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 16:19:00 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "veri merkezi",
+        "chiller",
+        "soğutma teknolojisi",
+        "enerji verimliliği",
+        "HVAC"
+      ],
+      "en": [
+        "data center",
+        "chiller",
+        "cooling technology",
+        "energy efficiency",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/trane-yeni-sintesis-excellent-gvaf-chiller-modelleri-ile-veri-merkezi-sogutmasinda-yeni-bir-olcut-belirledi/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "atlantic-group-strengthens-heat-pump-market-position-with-20-years",
+    "slug": {
+      "tr": "atlantik-grup-20-yillik-deneyimle-isi-pompasi-pazarinda-gucleniyor",
+      "en": "atlantic-group-strengthens-heat-pump-market-position-with-20-years"
+    },
+    "title": {
+      "tr": "Atlantik Grup 20 Yıllık Deneyimle Isı Pompası Pazarında Güçleniyor",
+      "en": "Atlantic Group Strengthens Heat Pump Market Position with 20 Years"
+    },
+    "excerpt": {
+      "tr": "Atlantik Grup Satış Müdürü Bahadır Oğuz Bodur, şirketin enerji verimliliği odaklı vizyonunu ve HVAC sektöründeki hedeflerini açıkladı.",
+      "en": "Atlantic Group Sales Manager Bahadır Oğuz Bodur reveals company's energy-efficient vision and HVAC sector goals in detailed interview."
+    },
+    "content": {
+      "tr": "Türkiye HVAC sektöründe enerji verimliliği ve sürdürülebilirlik alanında faaliyet gösteren Atlantik Grup, iki dekatlık deneyimiyle ısı pompası pazarında önemli bir oyuncu haline geldi. Şirketin Satış Müdürü Bahadır Oğuz Bodur, Atlantik Grup'un sadece ürün tedarikçisi değil, aynı zamanda entegre çözüm geliştiren ve performans odaklı iş ortaklığı sunan bir teknoloji firması olduğunu vurguluyor.\n\nAtlantik Grup'un Türkiye'deki organizasyon yapısı, satış süreçlerinden teknik desteğe, proje yönetiminden satış sonrası hizmetlere kadar kapsamlı bir hizmet ağını içeriyor. Şirketin ana faaliyet kolları arasında ısı pompası sistemleri, yenilenebilir enerji uygulamaları ve yüksek performanslı HVAC çözümleri bulunuyor. Bodur'un açıklamasına göre, özellikle karbon emisyonlarını düşüren ve işletme giderlerini minimize eden projelerle sektörde güçlü bir konum elde ettiler.\n\nŞirketin ürün portföyü, farklı müşteri ihtiyaçlarına cevap verecek şekilde tasarlanmış ve yüksek enerji verimliliği, sessiz çalışma, geniş operasyon aralıkları ve kolay bakım özellikleri ile öne çıkıyor. Atlantik Grup'un bu yaklaşımı, Türkiye'nin enerji verimliliği hedefleri ve çevre dostu teknolojilere geçiş süreciyle de uyumlu bir strateji izlediğini gösteriyor.",
+      "en": "Atlantic Group has emerged as a significant player in Turkey's heat pump market through two decades of experience in energy efficiency and sustainability within the HVAC sector. Sales Manager Bahadır Oğuz Bodur emphasizes that Atlantic Group operates not merely as a product supplier, but as a technology firm that develops integrated solutions and offers performance-focused business partnerships.\n\nThe company's organizational structure in Turkey encompasses a comprehensive service network spanning from sales processes to technical support, project management to after-sales services. Atlantic Group's core business areas include heat pump systems, renewable energy applications, and high-performance HVAC solutions. According to Bodur's statements, they have achieved a strong market position particularly through projects that reduce carbon emissions and minimize operational costs.\n\nThe company's product portfolio is designed to address diverse customer requirements, featuring high energy efficiency, quiet operation, wide operational ranges, and easy maintenance characteristics. Atlantic Group's approach demonstrates a strategy that aligns with Turkey's energy efficiency targets and the transition toward environmentally friendly technologies."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Atlantik Grup Satış Müdürü Bahadır Oğuz Bodur HVAC sektörü röportajında",
+      "en": "Atlantic Group Sales Manager Bahadır Oğuz Bodur in HVAC industry interview"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 16:10:29 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ısı pompası",
+        "enerji verimliliği",
+        "HVAC",
+        "sürdürülebilirlik",
+        "Atlantik Grup"
+      ],
+      "en": [
+        "heat pump",
+        "energy efficiency",
+        "HVAC",
+        "sustainability",
+        "Atlantic Group"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/atlantik-grup-satis-muduru-bahadir-oguz-bodur/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "bosch-home-comfort-meets-partners-in-cyprus",
+    "slug": {
+      "tr": "bosch-home-comfort-kibrista-is-ortaklariyla-bulustu",
+      "en": "bosch-home-comfort-meets-partners-in-cyprus"
+    },
+    "title": {
+      "tr": "Bosch Home Comfort Kıbrıs'ta İş Ortaklarıyla Buluştu",
+      "en": "Bosch Home Comfort Meets Partners in Cyprus"
+    },
+    "excerpt": {
+      "tr": "Bosch Home Comfort Group, Kıbrıs'taki toplantıda Hitachi ve York markalarının entegrasyonunu ve 2025 stratejilerini paylaştı.",
+      "en": "Bosch Home Comfort Group shared Hitachi and York integration strategies and 2025 plans at Cyprus partner meeting."
+    },
+    "content": {
+      "tr": "Bosch Home Comfort Group, iklimlendirme sektöründe güçlenen konumunu pekiştirmek amacıyla düzenlediği stratejik iş ortakları toplantısını 8-10 Nisan tarihleri arasında Kıbrıs'ta gerçekleştirdi. Türkiye genelinden katılan Bosch, Hitachi ve York marka temsilcilerinin yer aldığı organizasyonda, \"Climate Comfort Champion\" vizyonu çerçevesinde gelecek dönem planları masaya yatırıldı.\n\nToplantının odak noktasını, Bosch'un grup tarihindeki en büyük yatırımı olan Hitachi ve York markalarının satın alınması ve bu markaların mevcut yapıya entegrasyonu oluşturdu. Bu stratejik hamlenin ardından şirket, küresel iklimlendirme pazarında liderlik hedefini güçlendirirken, iş ortaklarına sunduğu ürün ve çözüm portföyünü genişletti. Katılımcılar, bu yeni yapılanmanın sahada nasıl değer yaratacağı ve büyüme fırsatları konusunda detaylı bilgilendirme aldı.\n\nEtkinlik kapsamında 2025 yılı satış stratejileri, iletişim planları ve pazar analizi sunumları gerçekleştirildi. Türkiye'nin iklimlendirme sektöründe artan talebi karşılamak üzere geliştirilen yeni iş ortaklığı modelleri ve büyüme hedefleri detaylandırıldı. Bu toplantı, Bosch Home Comfort Group'un Türkiye pazarındaki varlığını güçlendirme ve iş ortaklarıyla sinerjisini artırma yönündeki kararlılığını gözler önüne serdi.",
+      "en": "Bosch Home Comfort Group conducted its strategic partner meeting in Cyprus from April 8-10 to strengthen its position in the HVAC sector. The event brought together representatives of Bosch, Hitachi, and York brands from across Turkey, focusing on future plans within the \"Climate Comfort Champion\" vision framework.\n\nThe meeting centered on Bosch's largest acquisition in company history - the purchase of Hitachi and York brands and their integration into the existing structure. Following this strategic move, the company reinforced its global HVAC market leadership goals while expanding the product and solution portfolio offered to partners. Participants received detailed briefings on how this new structure will create value in the field and growth opportunities.\n\nThe event featured presentations on 2025 sales strategies, communication plans, and market analysis. New partnership models and growth targets developed to meet Turkey's increasing HVAC sector demand were outlined in detail. This gathering demonstrated Bosch Home Comfort Group's commitment to strengthening its presence in the Turkish market and enhancing synergy with business partners."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "Bosch Home Comfort Group iş ortakları toplantısı katılımcıları",
+      "en": "Bosch Home Comfort Group business partners meeting participants"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 13:21:01 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Bosch Home Comfort",
+        "iklimlendirme",
+        "Hitachi",
+        "York",
+        "HVAC"
+      ],
+      "en": [
+        "Bosch Home Comfort",
+        "HVAC",
+        "Hitachi",
+        "York",
+        "air conditioning"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/bosch-home-comfort-iklimlendirme-sektorundeki-klima-is-ortaklariyla-kibrista-bulustu/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
     "id": "boiler-water-leakage-issues-causes-and-solutions",
     "slug": {
       "tr": "kombi-su-sizintisi-sorunu-nedenleri-ve-cozum-yollari",
@@ -29,7 +539,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Sat, 11 Apr 2026 16:06:52 +0300",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2037,469 +2547,5 @@
     },
     "sourceUrl": "https://hvacinsider.com/posifa-technologies-sensors-converge-exhibitor-preview-may-6-7-2026-santa-clara-convention-center-booth-509/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=posifa-technologies-sensors-converge-exhibitor-preview-may-6-7-2026-santa-clara-convention-center-booth-509",
     "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "apm-steam-and-aquatomic-form-thermal-energy-partnership",
-    "slug": {
-      "tr": "apm-steam-ve-aquatomic-termal-enerji-isbirligi-acikladi",
-      "en": "apm-steam-and-aquatomic-form-thermal-energy-partnership"
-    },
-    "title": {
-      "tr": "APM Steam ve Aquatomic Termal Enerji İşbirliği Açıkladı",
-      "en": "APM Steam and Aquatomic Form Thermal Energy Partnership"
-    },
-    "excerpt": {
-      "tr": "İki uzman şirket, kritik tesislere kapsamlı termal enerji çözümleri sunmak için stratejik ortaklık kurdu.",
-      "en": "Two specialized companies establish strategic partnership to deliver comprehensive thermal energy solutions to critical facilities."
-    },
-    "content": {
-      "tr": "Buhar sistemi hizmetlerinde öncü American Plant Maintenance (APM Steam) ile su arıtma uzmanı Aquatomic Products Company, kritik tesislere kapsamlı termal enerji çözümleri sunmak üzere stratejik bir işbirliği anlaşması imzaladı. Bu ortaklık, Kuzeydoğu ve Orta Atlantik bölgelerindeki tesis yöneticilerine bütünleşik enerji verimliliği yaklaşımı sunmayı hedefliyor.\n\nAquatomic'in kazan ve soğutma kulesi su arıtma konusundaki onlarca yıllık deneyimi, APM'in buhar tuzağı analizleri, sistem değerlendirmeleri ve enerji verimliliği geliştirme uzmanlığıyla birleşecek. İki şirket bağımsızlığını korurken, koordineli hizmet sunarak müşterilere hem buhar hem de su sistemleri için tek noktadan çözüm sağlayacak. Bu yaklaşım, Türkiye'deki HVAC sektörü için de örnek teşkil edebilir, özellikle büyük endüstriyel tesislerin enerji verimliliği projelerinde benzer işbirlikleri önem kazanabilir.\n\nOrtaklık kapsamında Aquatomic, APM'in proje yönetimi ve raporlama araçlarından yararlanarak hizmet kalitesini artıracak. Bu entegrasyon sayesinde müşteriler daha az kesinti, düşük işletme maliyetleri ve gelişmiş sistem performansı elde edecek. Şirketler mevcut markalarını ve müşteri ilişkilerini koruyarak, sadece teknik kapasitelerini genişletmeye odaklanacak.",
-      "en": "Steam system services leader American Plant Maintenance (APM Steam) and water treatment specialist Aquatomic Products Company have announced a strategic collaboration to deliver comprehensive thermal energy solutions to mission-critical facilities. This partnership targets facility managers in the Northeast and Mid-Atlantic regions with an integrated approach to energy efficiency and system optimization.\n\nAquatomic's decades of expertise in boiler and cooling tower water treatment will combine with APM's specialized knowledge in steam trap surveys, system assessments, and energy efficiency improvements. While maintaining their independence, the two companies will coordinate services to provide customers with unified solutions for both steam and water systems. This collaboration model could serve as a blueprint for Turkey's HVAC sector, particularly as large industrial facilities increasingly seek integrated energy efficiency partnerships.\n\nUnder the partnership framework, Aquatomic will utilize APM's project management and reporting infrastructure to enhance service delivery capabilities. This integration promises customers reduced operational disruptions, lower costs, and improved overall system performance. Both companies will preserve their established brands and customer relationships while focusing exclusively on expanding their technical service capabilities."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Endüstriyel tesisin buhar ve su arıtma sistemleri",
-      "en": "Industrial facility steam and water treatment systems"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 13:46:33 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "termal enerji",
-        "buhar sistemleri",
-        "enerji verimliliği",
-        "HVAC işbirliği",
-        "endüstriyel tesisler"
-      ],
-      "en": [
-        "thermal energy",
-        "steam systems",
-        "energy efficiency",
-        "HVAC partnership",
-        "industrial facilities"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/apm-steam-and-aquatomic-announce-strategic-collaboration-to-deliver-comprehensive-thermal-energy-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apm-steam-and-aquatomic-announce-strategic-collaboration-to-deliver-comprehensive-thermal-energy-solutions",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "women-in-hvac-industry-organizing-empowerment-summit-in-houston",
-    "slug": {
-      "tr": "hvac-sektorunde-kadinlar-houstonda-guclenme-zirvesi-duzenliyor",
-      "en": "women-in-hvac-industry-organizing-empowerment-summit-in-houston"
-    },
-    "title": {
-      "tr": "HVAC Sektöründe Kadınlar Houston'da Güçlenme Zirvesi Düzenliyor",
-      "en": "Women in HVAC Industry Organizing Empowerment Summit in Houston"
-    },
-    "excerpt": {
-      "tr": "WHVACR organizasyonu Mayıs ayında Houston'da kadın profesyoneller için liderlik ve networking etkinliği düzenleyecek.",
-      "en": "WHVACR will host leadership and networking event for female professionals in Houston this May."
-    },
-    "content": {
-      "tr": "HVAC sektöründe kadınları güçlendirmeyi amaçlayan kar amacı gütmeyen kuruluş Women in HVACR (WHVACR), 12-13 Mayıs tarihlerinde Houston Marriott Westchase'te 'Step Into Your Power' adlı bölgesel toplantısını gerçekleştirecek. İki günlük etkinlik, ısıtma, soğutma, havalandırma ve soğutma teknolojileri alanında çalışan kadın profesyonelleri bir araya getirerek networking, eğitim ve liderlik gelişimi fırsatları sunacak.\n\nWHVACR Başkanı Jane Sidebottom, bu tür bölgesel toplantıların kariyerlerinin her aşamasındaki kadınları desteklemede kritik rol oynadığını belirtti. Araştırmaların mentor desteği alan kadınların terfi alma, zorlu görevler talep etme ve üst düzey liderlik pozisyonlarına yönelme konusunda daha başarılı olduğunu vurgulayan Sidebottom, skilled trades alanında kadınların işbirliği yapabileceği alanlar yaratmanın tüm HVAC sektörünün geleceğini güçlendirdiğini ifade etti.\n\nEtkinliğin ana konuşmacısı Angela Gargano, katılımcıları cesur adımlar atmaya, özgüven geliştirmeye ve amaçlı liderlik yapmaya ilham verecek bir sunum gerçekleştirecek. Altı kez American Ninja Warrior'a katılan, eski biyokimyager ve Miss Fitness America olan Gargano, ulusal televizyonda ACL sakatlığı yaşamasına rağmen hem vücudunu hem de hayatını yeniden inşa ederek setbacklerin nasıl fırsata dönüştürülebileceğini kanıtlamış bir isim. Türkiye'de de HVAC sektöründe kadın istihdamının artırılması konusunda benzer girişimlere ihtiyaç duyulduğu, bu tür etkinliklerin sektörel dönüşüm için önemli bir model oluşturabileceği değerlendiriliyor.",
-      "en": "The nonprofit organization Women in HVACR (WHVACR), dedicated to empowering women in the heating, ventilation, air conditioning, and refrigeration industry, will conduct its regional 'Step Into Your Power' meeting on May 12-13 at Houston Marriott Westchase. The two-day event will bring together female professionals working in HVAC technologies, offering networking, education, and leadership development opportunities.\n\nWHVACR President Jane Sidebottom emphasized that such regional meetings play a crucial role in supporting women at every stage of their careers. Highlighting research showing that women with mentorship support are more successful in securing promotions, requesting challenging assignments, and pursuing senior leadership positions, Sidebottom stated that creating collaborative spaces for women in skilled trades strengthens the entire HVAC industry's future.\n\nThe event's keynote speaker Angela Gargano will deliver an inspiring presentation encouraging participants to take bold actions, build confidence, and practice purposeful leadership. A six-time American Ninja Warrior participant, former biochemist, and Miss Fitness America, Gargano demonstrated how setbacks can transform into opportunities by rebuilding both her body and life after suffering an ACL injury on national television. This initiative serves as an important model for similar efforts needed globally, including in emerging markets like Turkey, where increasing female participation in the HVAC sector could drive significant industrial transformation."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "HVAC sektöründe çalışan kadın profesyonellerin networking etkinliğinde bir araya gelmesi",
-      "en": "Female HVAC professionals networking at an industry empowerment event"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 14:39:42 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC kadınları",
-        "liderlik gelişimi",
-        "sektörel networking",
-        "kadın güçlenmesi",
-        "HVAC kariyeri"
-      ],
-      "en": [
-        "women in HVAC",
-        "leadership development",
-        "industry networking",
-        "female empowerment",
-        "HVAC careers"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/women-in-hvacr-to-host-regional-meeting-in-houston-in-may/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=women-in-hvacr-to-host-regional-meeting-in-houston-in-may",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "isi-pompasi-pazar-buyumesi-2026",
-    "slug": {
-      "tr": "isi-pompasi-pazari-2026da-rekor-buyume-kaydetti",
-      "en": "heat-pump-market-records-growth-in-2026"
-    },
-    "title": {
-      "tr": "Isı Pompası Pazarı 2026'da Rekor Büyüme Kaydetti",
-      "en": "Heat Pump Market Records Unprecedented Growth in 2026"
-    },
-    "excerpt": {
-      "tr": "Avrupa ve Türkiye'de ısı pompası satışları %34 artış gösterdi. Enerji verimliliği teşvikleri talebi hızlandırdı.",
-      "en": "Heat pump sales surged 34% across Europe and Turkey. Energy efficiency incentives accelerated demand."
-    },
-    "content": {
-      "tr": "Isı pompası pazarı 2026 yılının ilk çeyreğinde %34 oranında büyüme kaydetti. Avrupa Isı Pompası Birliği (EHPA) verilerine göre, Türkiye bu büyümede lider konumda yer alıyor.\n\nEnerji verimliliği teşvikleri ve karbon emisyonu düzenlemeleri, tüketicileri geleneksel ısıtma sistemlerinden ısı pompalarına yönlendiriyor. Özellikle hava kaynaklı ısı pompaları konut sektöründe en çok tercih edilen çözüm oldu.\n\nSektör uzmanları, 2026 sonuna kadar Türkiye'de ısı pompası kurulum sayısının 500.000'i aşacağını öngörüyor. Bu büyüme, yerli üreticiler için de önemli fırsatlar sunuyor.",
-      "en": "The heat pump market recorded 34% growth in the first quarter of 2026. According to European Heat Pump Association (EHPA) data, Turkey leads this growth trajectory.\n\nEnergy efficiency incentives and carbon emission regulations are driving consumers from traditional heating systems to heat pumps. Air-source heat pumps have become the most preferred solution in the residential sector.\n\nIndustry experts forecast that heat pump installations in Turkey will exceed 500,000 by the end of 2026. This growth presents significant opportunities for domestic manufacturers."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Modern ısı pompası ünitesi bir evin dış cephesinde kurulu",
-      "en": "Modern heat pump unit installed on the exterior of a house"
-    },
-    "author": "Mehmet Yılmaz",
-    "publishDate": "2026-04-14T09:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "ısı pompası",
-        "enerji verimliliği",
-        "pazar büyümesi"
-      ],
-      "en": [
-        "heat pump",
-        "energy efficiency",
-        "market growth"
-      ]
-    }
-  },
-  {
-    "id": "vrf-sistemleri-ticari-binalarda",
-    "slug": {
-      "tr": "vrf-sistemleri-ticari-binalarda-enerji-tasarrufu-sagliyor",
-      "en": "vrf-systems-deliver-energy-savings-in-commercial-buildings"
-    },
-    "title": {
-      "tr": "VRF Sistemleri Ticari Binalarda Enerji Tasarrufu Sağlıyor",
-      "en": "VRF Systems Deliver Energy Savings in Commercial Buildings"
-    },
-    "excerpt": {
-      "tr": "Değişken soğutucu akışkanlı sistemler, ofis binalarında %40'a varan enerji tasarrufu sağlıyor.",
-      "en": "Variable refrigerant flow systems achieve up to 40% energy savings in office buildings."
-    },
-    "content": {
-      "tr": "Değişken Soğutucu Akışkanlı (VRF) sistemler, ticari binalarda enerji tüketimini önemli ölçüde azaltıyor. Yeni nesil VRF üniteleri, geleneksel merkezi klima sistemlerine göre %40'a varan enerji tasarrufu sunuyor.\n\nVRF teknolojisi, farklı zonlarda eşzamanlı ısıtma ve soğutma yapabilme kapasitesiyle öne çıkıyor. Bu özellik özellikle büyük ofis binalarında konfor ve verimlilik dengesini mükemmel şekilde kuruyor.\n\nTürkiye'de VRF sistem kurulumları son iki yılda %55 artış gösterdi. Lider markalar, R-32 soğutucu akışkan kullanan yeni nesil modelleriyle düşük GWP değerlerine ulaşarak çevresel sürdürülebilirliğe katkı sağlıyor.",
-      "en": "Variable Refrigerant Flow (VRF) systems significantly reduce energy consumption in commercial buildings. Next-generation VRF units offer up to 40% energy savings compared to traditional central air conditioning systems.\n\nVRF technology stands out with its capacity for simultaneous heating and cooling across different zones. This feature establishes a perfect balance between comfort and efficiency, especially in large office buildings.\n\nVRF system installations in Turkey have increased by 55% over the past two years. Leading brands contribute to environmental sustainability by achieving low GWP values with next-generation models using R-32 refrigerant."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Ticari binanın çatısında kurulu VRF dış üniteleri",
-      "en": "VRF outdoor units installed on a commercial building rooftop"
-    },
-    "author": "Ayşe Kara",
-    "publishDate": "2026-04-13T10:30:00Z",
-    "featured": false,
-    "readingTime": 5,
-    "tags": {
-      "tr": [
-        "VRF",
-        "enerji tasarrufu",
-        "ticari bina"
-      ],
-      "en": [
-        "VRF",
-        "energy savings",
-        "commercial building"
-      ]
-    }
-  },
-  {
-    "id": "havalandirma-ic-hava-kalitesi",
-    "slug": {
-      "tr": "ic-hava-kalitesi-standartlari-2026da-guncellendi",
-      "en": "indoor-air-quality-standards-updated-in-2026"
-    },
-    "title": {
-      "tr": "İç Hava Kalitesi Standartları 2026'da Güncellendi",
-      "en": "Indoor Air Quality Standards Updated in 2026"
-    },
-    "excerpt": {
-      "tr": "ASHRAE ve WHO, iç hava kalitesi için yeni standartlar yayımladı. CO2 ve PM2.5 limitleri sıkılaştırıldı.",
-      "en": "ASHRAE and WHO published new indoor air quality standards. CO2 and PM2.5 limits have been tightened."
-    },
-    "content": {
-      "tr": "ASHRAE (Amerikan Isıtma, Soğutma ve İklimlendirme Mühendisleri Derneği) ve Dünya Sağlık Örgütü (WHO), 2026 yılı için güncellenmiş iç hava kalitesi standartlarını yayımladı. Yeni standartlar, CO2 seviyesini 800 ppm'in altında tutmayı ve PM2.5 konsantrasyonunu 15 µg/m³ ile sınırlamayı hedefliyor.\n\nPandemi sonrası dönemde artan farkındalık, havalandırma sistemlerinin tasarımında köklü değişikliklere yol açtı. Isı geri kazanımlı mekanik havalandırma (MVHR) sistemleri, yeni yapılarda standart hale geliyor.\n\nTürkiye'de Çevre ve Şehircilik Bakanlığı da bu standartları ulusal yönetmeliklere entegre etme çalışmalarını sürdürüyor. 2027'den itibaren yeni ticari binalarda iç hava kalitesi izleme sistemi zorunluluğu bekleniyor.",
-      "en": "ASHRAE and the World Health Organization (WHO) published updated indoor air quality standards for 2026. The new standards aim to keep CO2 levels below 800 ppm and limit PM2.5 concentration to 15 µg/m³.\n\nIncreased awareness in the post-pandemic era has led to fundamental changes in ventilation system design. Mechanical Ventilation with Heat Recovery (MVHR) systems are becoming standard in new constructions.\n\nTurkey's Ministry of Environment and Urbanization continues efforts to integrate these standards into national regulations. Mandatory indoor air quality monitoring systems are expected in new commercial buildings from 2027."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "Modern ofiste iç hava kalitesi ölçüm cihazı",
-      "en": "Indoor air quality monitoring device in a modern office"
-    },
-    "author": "Dr. Emre Özcan",
-    "publishDate": "2026-04-12T08:00:00Z",
-    "featured": false,
-    "readingTime": 5,
-    "tags": {
-      "tr": [
-        "iç hava kalitesi",
-        "ASHRAE",
-        "havalandırma"
-      ],
-      "en": [
-        "indoor air quality",
-        "ASHRAE",
-        "ventilation"
-      ]
-    }
-  },
-  {
-    "id": "r290-dogal-sogutkan",
-    "slug": {
-      "tr": "r290-propan-dogal-sogutkan-gecisi-hizlaniyor",
-      "en": "r290-propane-natural-refrigerant-transition-accelerates"
-    },
-    "title": {
-      "tr": "R-290 Propan Doğal Soğutkan Geçişi Hızlanıyor",
-      "en": "R-290 Propane Natural Refrigerant Transition Accelerates"
-    },
-    "excerpt": {
-      "tr": "F-gaz düzenlemeleri kapsamında R-290 propan soğutkana geçiş dünya genelinde hız kazanıyor.",
-      "en": "The transition to R-290 propane refrigerant is gaining momentum globally under F-gas regulations."
-    },
-    "content": {
-      "tr": "Avrupa Birliği'nin F-gaz düzenlemelerinin sıkılaşmasıyla birlikte, HVAC sektörü düşük küresel ısınma potansiyeline (GWP) sahip soğutkanlara yöneliyor. R-290 (propan), GWP değeri sadece 3 olan doğal bir soğutkan olarak öne çıkıyor.\n\nBüyük üreticiler, split klima ve ısı pompası ürün gamlarını R-290 uyumlu modellere dönüştürüyor. Japonya ve Avrupa'da R-290 kullanan cihazların pazar payı %25'i aştı.\n\nTürkiye'de de R-290 uyumlu cihazların ithalatı ve yerli üretimi artıyor. Ancak yanıcı soğutkan kullanımına yönelik güvenlik standartları ve teknisyen eğitimi konularında hâlâ önemli adımlar atılması gerekiyor.",
-      "en": "With the tightening of EU F-gas regulations, the HVAC industry is shifting toward refrigerants with low Global Warming Potential (GWP). R-290 (propane) stands out as a natural refrigerant with a GWP of only 3.\n\nMajor manufacturers are converting their split AC and heat pump product lines to R-290 compatible models. The market share of R-290 devices has exceeded 25% in Japan and Europe.\n\nImports and domestic production of R-290 compatible devices are also increasing in Turkey. However, significant steps still need to be taken regarding safety standards for flammable refrigerant use and technician training."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "R-290 propan soğutkan kullanan modern klima sistemi",
-      "en": "Modern air conditioning system using R-290 propane refrigerant"
-    },
-    "author": "Canan Demir",
-    "publishDate": "2026-04-11T14:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "R-290",
-        "doğal soğutkan",
-        "F-gaz"
-      ],
-      "en": [
-        "R-290",
-        "natural refrigerant",
-        "F-gas"
-      ]
-    }
-  },
-  {
-    "id": "akilli-bina-otomasyon-trend",
-    "slug": {
-      "tr": "akilli-bina-otomasyon-sistemleri-2026-trendleri",
-      "en": "smart-building-automation-systems-2026-trends"
-    },
-    "title": {
-      "tr": "Akıllı Bina Otomasyon Sistemleri: 2026 Trendleri",
-      "en": "Smart Building Automation Systems: 2026 Trends"
-    },
-    "excerpt": {
-      "tr": "IoT ve yapay zeka destekli bina otomasyon sistemleri, enerji yönetiminde devrim yaratıyor.",
-      "en": "IoT and AI-powered building automation systems are revolutionizing energy management."
-    },
-    "content": {
-      "tr": "Akıllı bina otomasyon sistemleri (BAS), 2026'da yapay zeka ve IoT entegrasyonuyla yeni bir seviyeye ulaştı. Prediktif analitik kullanan sistemler, bina enerji tüketimini gerçek zamanlı optimize ederek %30'a varan tasarruf sağlıyor.\n\nYeni nesil BAS platformları, HVAC, aydınlatma, güneş enerji ve enerji depolama sistemlerini tek bir merkezden yönetiyor. Makine öğrenimi algoritmaları, hava durumu verileri ve doluluk sensörlerini kullanarak ısıtma-soğutma programlarını otomatik ayarlıyor.\n\nTürkiye'de akıllı bina pazarı yıllık %28 büyüme oranıyla dikkat çekiyor. Özellikle yeni AVM, otel ve ofis projelerinde BAS kurulumu standart hale geliyor.",
-      "en": "Smart Building Automation Systems (BAS) reached a new level in 2026 with AI and IoT integration. Systems using predictive analytics optimize building energy consumption in real-time, achieving savings of up to 30%.\n\nNext-generation BAS platforms manage HVAC, lighting, solar energy, and energy storage systems from a single center. Machine learning algorithms automatically adjust heating-cooling schedules using weather data and occupancy sensors.\n\nThe smart building market in Turkey is attracting attention with an annual growth rate of 28%. BAS installation is becoming standard, especially in new shopping centers, hotels, and office projects."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "Akıllı bina kontrol paneli ekranında HVAC verileri",
-      "en": "HVAC data displayed on smart building control panel screen"
-    },
-    "author": "Burak Aydın",
-    "publishDate": "2026-04-10T11:00:00Z",
-    "featured": false,
-    "readingTime": 5,
-    "tags": {
-      "tr": [
-        "akıllı bina",
-        "otomasyon",
-        "IoT",
-        "yapay zeka"
-      ],
-      "en": [
-        "smart building",
-        "automation",
-        "IoT",
-        "artificial intelligence"
-      ]
-    }
-  },
-  {
-    "id": "chiller-verimlilik-sinifi",
-    "slug": {
-      "tr": "yeni-chiller-verimlilik-siniflari-yururluge-girdi",
-      "en": "new-chiller-efficiency-classes-take-effect"
-    },
-    "title": {
-      "tr": "Yeni Chiller Verimlilik Sınıfları Yürürlüğe Girdi",
-      "en": "New Chiller Efficiency Classes Take Effect"
-    },
-    "excerpt": {
-      "tr": "AB'nin güncel Ecodesign düzenlemesiyle chiller'larda minimum verimlilik sınıfı A olarak belirlendi.",
-      "en": "The EU's updated Ecodesign regulation sets minimum chiller efficiency class to A."
-    },
-    "content": {
-      "tr": "Avrupa Birliği'nin güncellenmiş Ecodesign düzenlemesi, 2026'dan itibaren piyasaya sürülen tüm chiller ünitelerinde minimum A sınıfı enerji verimliliği zorunluluğu getirdi. Bu düzenleme, eski ve verimsiz soğutma sistemlerinin aşamalı olarak piyasadan çekilmesini hedefliyor.\n\nYeni verimlilik standartları, SEER (Mevsimsel Enerji Verimlilik Oranı) ve SCOP (Mevsimsel Performans Katsayısı) değerlerini baz alıyor. Üreticiler, manyetik yatak teknolojisi ve değişken hızlı kompresörlerle bu standartları karşılıyor.\n\nTürkiye'de faaliyet gösteren uluslararası üreticiler, ürün gamlarını güncellemeye başladı. Yerli üreticiler için de uyum süreci 2027 sonuna kadar tamamlanması gereken bir hedef olarak belirlendi.",
-      "en": "The European Union's updated Ecodesign regulation mandates minimum A-class energy efficiency for all chiller units placed on the market from 2026. This regulation aims to phase out old and inefficient cooling systems from the market.\n\nThe new efficiency standards are based on SEER (Seasonal Energy Efficiency Ratio) and SCOP (Seasonal Coefficient of Performance) values. Manufacturers are meeting these standards with magnetic bearing technology and variable-speed compressors.\n\nInternational manufacturers operating in Turkey have begun updating their product lines. Compliance for domestic manufacturers has been set as a target to be completed by the end of 2027."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Endüstriyel chiller ünitesi fabrika tesisinde",
-      "en": "Industrial chiller unit in a factory facility"
-    },
-    "author": "Hakan Türk",
-    "publishDate": "2026-04-09T13:00:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "chiller",
-        "Ecodesign",
-        "enerji verimliliği"
-      ],
-      "en": [
-        "chiller",
-        "Ecodesign",
-        "energy efficiency"
-      ]
-    }
-  },
-  {
-    "id": "mekanik-havalandirma-konut",
-    "slug": {
-      "tr": "konutlarda-mekanik-havalandirma-zorunlulugu-geliyor",
-      "en": "mechanical-ventilation-requirement-coming-to-residences"
-    },
-    "title": {
-      "tr": "Konutlarda Mekanik Havalandırma Zorunluluğu Geliyor",
-      "en": "Mechanical Ventilation Requirement Coming to Residences"
-    },
-    "excerpt": {
-      "tr": "Yeni yapı yönetmeliği ile konutlarda ısı geri kazanımlı mekanik havalandırma sistemi zorunlu olacak.",
-      "en": "New building regulations will make heat recovery ventilation systems mandatory in residences."
-    },
-    "content": {
-      "tr": "Türkiye Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, konutlarda mekanik havalandırma sistemini zorunlu kılacak yeni yapı yönetmeliği taslağını hazırladı. Taslak, özellikle ısı geri kazanımlı havalandırma (HRV/ERV) sistemlerinin kullanımını teşvik ediyor.\n\nMevcut yapı stokunda doğal havalandırmaya dayalı sistemler, enerji kayıplarının %25-35'inden sorumlu tutuluyor. Isı geri kazanımlı mekanik havalandırma, egzoz havasından ısının %85-95'ini geri kazanarak hem enerji tasarrufu hem de iç hava kalitesi sağlıyor.\n\nSektör temsilcileri yönetmeliği olumlu karşılarken, uygulama takvimi ve mevcut binalara yönelik teşvik paketleri konusundaki belirsizliklerin giderilmesini talep ediyor.",
-      "en": "Turkey's Ministry of Environment, Urbanization and Climate Change has prepared a draft building regulation that will mandate mechanical ventilation systems in residences. The draft specifically promotes the use of Heat Recovery Ventilation (HRV/ERV) systems.\n\nNatural ventilation-based systems in the existing building stock are held responsible for 25-35% of energy losses. Mechanical ventilation with heat recovery recovers 85-95% of heat from exhaust air, providing both energy savings and indoor air quality.\n\nIndustry representatives welcome the regulation while demanding clarification on the implementation timeline and incentive packages for existing buildings."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "Konut tipi ısı geri kazanımlı havalandırma ünitesi",
-      "en": "Residential heat recovery ventilation unit"
-    },
-    "author": "Zeynep Arslan",
-    "publishDate": "2026-04-08T09:30:00Z",
-    "featured": false,
-    "readingTime": 4,
-    "tags": {
-      "tr": [
-        "mekanik havalandırma",
-        "HRV",
-        "yapı yönetmeliği"
-      ],
-      "en": [
-        "mechanical ventilation",
-        "HRV",
-        "building regulation"
-      ]
-    }
-  },
-  {
-    "id": "hvac-teknisyen-acigi",
-    "slug": {
-      "tr": "turkiyede-hvac-teknisyen-acigi-buyuyor",
-      "en": "hvac-technician-shortage-grows-in-turkey"
-    },
-    "title": {
-      "tr": "Türkiye'de HVAC Teknisyen Açığı Büyüyor",
-      "en": "HVAC Technician Shortage Grows in Turkey"
-    },
-    "excerpt": {
-      "tr": "Sektördeki hızlı büyüme, nitelikli HVAC teknisyeni ihtiyacını kritik seviyelere taşıdı.",
-      "en": "Rapid growth in the sector has pushed the need for qualified HVAC technicians to critical levels."
-    },
-    "content": {
-      "tr": "HVAC sektöründeki hızlı büyüme, nitelikli teknisyen açığını derinleştiriyor. Sektör derneklerinin verilerine göre, Türkiye'de 2026 yılında 50.000'den fazla nitelikli HVAC teknisyenine ihtiyaç duyuluyor.\n\nÖzellikle ısı pompası, VRF ve akıllı bina otomasyon sistemleri konusunda uzmanlaşmış teknisyen bulmak giderek zorlaşıyor. Geleneksel klima montajı bilgisi artık yeterli olmuyor; yeni teknolojiler sürekli eğitim gerektiriyor.\n\nMesleki eğitim kurumları ve sektör dernekleri, bu açığı kapatmak için ortak sertifika programları başlatıyor. Bazı büyük üreticiler de kendi akademi programlarıyla teknisyen yetiştirmeye başladı.",
-      "en": "Rapid growth in the HVAC sector is deepening the qualified technician shortage. According to industry association data, Turkey needs more than 50,000 qualified HVAC technicians in 2026.\n\nFinding technicians specialized in heat pumps, VRF, and smart building automation systems is becoming increasingly difficult. Traditional AC installation knowledge is no longer sufficient; new technologies require continuous training.\n\nVocational training institutions and industry associations are launching joint certification programs to close this gap. Some major manufacturers have also started training technicians through their own academy programs."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "HVAC teknisyeni klima dış ünitesinde bakım yapıyor",
-      "en": "HVAC technician performing maintenance on an outdoor AC unit"
-    },
-    "author": "Ali Yıldırım",
-    "publishDate": "2026-04-07T10:00:00Z",
-    "featured": false,
-    "readingTime": 3,
-    "tags": {
-      "tr": [
-        "teknisyen",
-        "istihdam",
-        "mesleki eğitim"
-      ],
-      "en": [
-        "technician",
-        "employment",
-        "vocational training"
-      ]
-    }
   }
 ]
