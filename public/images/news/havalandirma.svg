@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 338">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c1a3a"/>
+      <stop offset="40%" style="stop-color:#1e3a8a"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#22d3ee;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="600" height="338" fill="url(#bg)"/>
+  <rect width="600" height="338" fill="url(#grid)"/>
+
+  <!-- Decorative elements -->
+  <circle cx="500" cy="80" r="100" fill="rgba(6,182,212,0.05)"/>
+  <circle cx="100" cy="260" r="70" fill="rgba(6,182,212,0.04)"/>
+
+  <!-- Duct system -->
+  <g transform="translate(140, 80)">
+    <!-- Main horizontal duct -->
+    <rect x="0" y="60" width="320" height="50" rx="4" fill="rgba(6,182,212,0.08)" stroke="url(#accent)" stroke-width="1.5" opacity="0.9"/>
+
+    <!-- Left vertical duct -->
+    <rect x="20" y="110" width="40" height="100" rx="3" fill="rgba(6,182,212,0.06)" stroke="rgba(6,182,212,0.5)" stroke-width="1.5"/>
+    <!-- Left vent grille -->
+    <g transform="translate(24, 180)">
+      <line x1="0" y1="0" x2="32" y2="0" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
+      <line x1="0" y1="5" x2="32" y2="5" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+      <line x1="0" y1="10" x2="32" y2="10" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+      <line x1="0" y1="15" x2="32" y2="15" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+    </g>
+
+    <!-- Center vertical duct -->
+    <rect x="140" y="110" width="40" height="100" rx="3" fill="rgba(6,182,212,0.06)" stroke="rgba(6,182,212,0.5)" stroke-width="1.5"/>
+    <!-- Center vent grille -->
+    <g transform="translate(144, 180)">
+      <line x1="0" y1="0" x2="32" y2="0" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
+      <line x1="0" y1="5" x2="32" y2="5" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+      <line x1="0" y1="10" x2="32" y2="10" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+      <line x1="0" y1="15" x2="32" y2="15" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+    </g>
+
+    <!-- Right vertical duct -->
+    <rect x="260" y="110" width="40" height="100" rx="3" fill="rgba(6,182,212,0.06)" stroke="rgba(6,182,212,0.5)" stroke-width="1.5"/>
+    <!-- Right vent grille -->
+    <g transform="translate(264, 180)">
+      <line x1="0" y1="0" x2="32" y2="0" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
+      <line x1="0" y1="5" x2="32" y2="5" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+      <line x1="0" y1="10" x2="32" y2="10" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+      <line x1="0" y1="15" x2="32" y2="15" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+    </g>
+
+    <!-- AHU unit on left -->
+    <rect x="-60" y="45" width="60" height="80" rx="5" fill="rgba(6,182,212,0.1)" stroke="url(#accent)" stroke-width="1.5"/>
+    <!-- AHU fan -->
+    <circle cx="-30" cy="75" r="18" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <circle cx="-30" cy="75" r="4" fill="url(#accent)" opacity="0.6"/>
+    <line x1="-30" y1="57" x2="-30" y2="93" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <line x1="-48" y1="75" x2="-12" y2="75" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <!-- Filter indicator -->
+    <rect x="-50" y="100" width="40" height="3" rx="1.5" fill="rgba(34,211,238,0.4)"/>
+
+    <!-- Air flow arrows -->
+    <g filter="url(#glow)" opacity="0.5">
+      <!-- Flow line 1 -->
+      <path d="M30,200 Q30,230 50,240" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+      <polygon points="50,237 50,243 58,240" fill="url(#accent)" opacity="0.7"/>
+      <!-- Flow line 2 -->
+      <path d="M150,200 Q150,225 165,235" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+      <polygon points="165,232 165,238 173,235" fill="url(#accent)" opacity="0.7"/>
+      <!-- Flow line 3 -->
+      <path d="M270,200 Q270,230 285,240" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+      <polygon points="285,237 285,243 293,240" fill="url(#accent)" opacity="0.7"/>
+    </g>
+
+    <!-- Airflow particles -->
+    <circle cx="35" cy="220" r="2" fill="rgba(34,211,238,0.3)"/>
+    <circle cx="45" cy="225" r="1.5" fill="rgba(34,211,238,0.2)"/>
+    <circle cx="155" cy="215" r="2" fill="rgba(34,211,238,0.3)"/>
+    <circle cx="165" cy="222" r="1.5" fill="rgba(34,211,238,0.2)"/>
+    <circle cx="275" cy="218" r="2" fill="rgba(34,211,238,0.3)"/>
+    <circle cx="285" cy="228" r="1.5" fill="rgba(34,211,238,0.2)"/>
+
+    <!-- IAQ sensor -->
+    <g transform="translate(340, 55)">
+      <rect x="0" y="0" width="30" height="22" rx="4" fill="rgba(6,182,212,0.15)" stroke="rgba(34,211,238,0.5)" stroke-width="1"/>
+      <circle cx="10" cy="11" r="3" fill="rgba(34,211,238,0.5)"/>
+      <rect x="17" y="7" width="8" height="2" rx="1" fill="rgba(255,255,255,0.3)"/>
+      <rect x="17" y="12" width="6" height="2" rx="1" fill="rgba(255,255,255,0.2)"/>
+    </g>
+  </g>
+
+  <!-- Corner accents -->
+  <path d="M0,0 L50,0 L0,50 Z" fill="rgba(6,182,212,0.06)"/>
+  <path d="M600,338 L550,338 L600,288 Z" fill="rgba(6,182,212,0.06)"/>
+</svg>

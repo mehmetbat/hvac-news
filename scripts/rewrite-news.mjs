@@ -158,7 +158,6 @@ async function main() {
   console.log(`📝 ${toProcess.length} haber yeniden yazılacak...\n`);
 
   const newArticles = [];
-  const placeholderImages = ['placeholder-1.webp', 'placeholder-2.webp'];
 
   for (let i = 0; i < toProcess.length; i++) {
     const raw = toProcess[i];
@@ -193,7 +192,7 @@ async function main() {
         content: rewritten.content,
         category: category.slug,
         categoryLabel: { tr: category.tr, en: category.en },
-        image: placeholderImages[i % 2],
+        image: `${category.slug}.svg`,
         imageAlt: rewritten.imageAlt || { tr: rewritten.title.tr, en: rewritten.title.en },
         author: 'HVAC Haber',
         publishDate: raw.pubDate || now,

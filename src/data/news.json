@@ -1041,7 +1041,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Kigali Değişikliği anlaşmasını temsil eden dünya haritası ve HFC azaltım hedefleri",
       "en": "World map representing Kigali Amendment agreement and HFC reduction targets"
@@ -1092,7 +1092,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-2.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Sanhua SEC711 bipolar elektronik genişleme vana kontrolörü teknik görünüm",
       "en": "Sanhua SEC711 bipolar electronic expansion valve controller technical view"
@@ -1143,7 +1143,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Klima kompresöründen nadir toprak mıknatısı çıkarma işlemi",
       "en": "Rare earth magnet extraction from air conditioning compressor"
@@ -1194,7 +1194,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-2.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Daikin'in yeni kiralama filosunda yer alan yüksek kapasiteli HVAC sistemleri",
       "en": "High-capacity HVAC systems in Daikin's expanded rental fleet"
@@ -1245,7 +1245,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Trane Sintesis eXcellent GVAF serisi hava soğutmalı chiller sistemi",
       "en": "Trane Sintesis eXcellent GVAF series air-cooled chiller system"
@@ -1296,7 +1296,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-2.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "Yasadışı soğutucu gaz konteynerleri ve güvenlik kontrolü",
       "en": "Illegal refrigerant containers under security inspection"
@@ -1347,7 +1347,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-1.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "HVAC teknisyenleri güvenlik eğitimi alırken",
       "en": "HVAC technicians receiving safety training"
@@ -1398,7 +1398,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-2.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Posifa Technologies MEMS sensör teknolojileri ve HVAC uygulamaları",
       "en": "Posifa Technologies MEMS sensor technologies and HVAC applications"
@@ -1449,7 +1449,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Endüstriyel tesisin buhar ve su arıtma sistemleri",
       "en": "Industrial facility steam and water treatment systems"
@@ -1500,7 +1500,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-2.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "HVAC sektöründe çalışan kadın profesyonellerin networking etkinliğinde bir araya gelmesi",
       "en": "Female HVAC professionals networking at an industry empowerment event"
@@ -1551,7 +1551,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Modern ısı pompası ünitesi bir evin dış cephesinde kurulu",
       "en": "Modern heat pump unit installed on the exterior of a house"
@@ -1596,7 +1596,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-2.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "Ticari binanın çatısında kurulu VRF dış üniteleri",
       "en": "VRF outdoor units installed on a commercial building rooftop"
@@ -1641,7 +1641,7 @@
       "tr": "Havalandırma",
       "en": "Ventilation"
     },
-    "image": "placeholder-1.webp",
+    "image": "havalandirma.svg",
     "imageAlt": {
       "tr": "Modern ofiste iç hava kalitesi ölçüm cihazı",
       "en": "Indoor air quality monitoring device in a modern office"
@@ -1686,7 +1686,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-2.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "R-290 propan soğutkan kullanan modern klima sistemi",
       "en": "Modern air conditioning system using R-290 propane refrigerant"
@@ -1731,7 +1731,7 @@
       "tr": "Sektör Haberleri",
       "en": "Industry News"
     },
-    "image": "placeholder-1.webp",
+    "image": "sektor-haberleri.svg",
     "imageAlt": {
       "tr": "Akıllı bina kontrol paneli ekranında HVAC verileri",
       "en": "HVAC data displayed on smart building control panel screen"
@@ -1778,7 +1778,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-2.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Endüstriyel chiller ünitesi fabrika tesisinde",
       "en": "Industrial chiller unit in a factory facility"
@@ -1823,7 +1823,7 @@
       "tr": "Havalandırma",
       "en": "Ventilation"
     },
-    "image": "placeholder-1.webp",
+    "image": "havalandirma.svg",
     "imageAlt": {
       "tr": "Konut tipi ısı geri kazanımlı havalandırma ünitesi",
       "en": "Residential heat recovery ventilation unit"
@@ -1868,7 +1868,7 @@
       "tr": "Sektör Haberleri",
       "en": "Industry News"
     },
-    "image": "placeholder-2.webp",
+    "image": "sektor-haberleri.svg",
     "imageAlt": {
       "tr": "HVAC teknisyeni klima dış ünitesinde bakım yapıyor",
       "en": "HVAC technician performing maintenance on an outdoor AC unit"
@@ -1913,7 +1913,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Jeotermal ısı pompası için toprak sondajı yapılıyor",
       "en": "Ground drilling for geothermal heat pump installation"
@@ -1958,7 +1958,7 @@
       "tr": "Sektör Haberleri",
       "en": "Industry News"
     },
-    "image": "placeholder-2.webp",
+    "image": "sektor-haberleri.svg",
     "imageAlt": {
       "tr": "ISK-SODEX fuar alanında HVAC ekipmanları sergileniyor",
       "en": "HVAC equipment displayed at ISK-SODEX exhibition area"
@@ -2003,7 +2003,7 @@
       "tr": "Isıtma & Soğutma",
       "en": "Heating & Cooling"
     },
-    "image": "placeholder-1.webp",
+    "image": "isitma-sogutma.svg",
     "imageAlt": {
       "tr": "Döşemeden ısıtma sistemi kurulumu yapılıyor",
       "en": "Underfloor heating system being installed"
@@ -2048,7 +2048,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-2.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "Bina bodrum katında termal enerji depolama tankları",
       "en": "Thermal energy storage tanks in building basement"
@@ -2093,7 +2093,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-1.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "Asma tavan içinde kanal tipi klima iç ünitesi kurulumu",
       "en": "Ducted AC indoor unit installation inside suspended ceiling"
@@ -2138,7 +2138,7 @@
       "tr": "Sektör Haberleri",
       "en": "Industry News"
     },
-    "image": "placeholder-2.webp",
+    "image": "sektor-haberleri.svg",
     "imageAlt": {
       "tr": "Tablet ekranında HVAC sisteminin dijital ikiz modeli",
       "en": "Digital twin model of HVAC system on tablet screen"
@@ -2183,7 +2183,7 @@
       "tr": "İklimlendirme",
       "en": "Air Conditioning"
     },
-    "image": "placeholder-1.webp",
+    "image": "iklimlendirme.svg",
     "imageAlt": {
       "tr": "Otel odasında gizli tavan tipi fan coil ünitesi",
       "en": "Concealed ceiling-type fan coil unit in hotel room"
@@ -2228,7 +2228,7 @@
       "tr": "Haber",
       "en": "News"
     },
-    "image": "placeholder-2.webp",
+    "image": "haber.svg",
     "imageAlt": {
       "tr": "Bina otomasyon sistemi ekranında siber güvenlik uyarısı",
       "en": "Cybersecurity alert on building automation system screen"
@@ -2273,7 +2273,7 @@
       "tr": "Haber",
       "en": "News"
     },
-    "image": "placeholder-1.webp",
+    "image": "haber.svg",
     "imageAlt": {
       "tr": "Çatısında güneş panelleri olan modern nZEB bina",
       "en": "Modern nZEB building with solar panels on the roof"
@@ -2318,7 +2318,7 @@
       "tr": "Haber",
       "en": "News"
     },
-    "image": "placeholder-2.webp",
+    "image": "haber.svg",
     "imageAlt": {
       "tr": "Teknisyen klima filtresini temizliyor",
       "en": "Technician cleaning an air conditioning filter"
