@@ -1,5 +1,511 @@
 [
   {
+    "id": "uk-heat-pump-association-demands-commercial-sector-support-from-government",
+    "slug": {
+      "tr": "birlesik-krallik-isi-pompasi-birligi-ticari-sektor-icin-destek-talep-etti",
+      "en": "uk-heat-pump-association-demands-commercial-sector-support-from-government"
+    },
+    "title": {
+      "tr": "Birleşik Krallık Isı Pompası Birliği Ticari Sektör İçin Destek Talep Etti",
+      "en": "UK Heat Pump Association Demands Commercial Sector Support From Government"
+    },
+    "excerpt": {
+      "tr": "HPA UK, ticari ve endüstriyel ısı pompaları için hükümet desteği ve açık yol haritası talep ediyor. 2050 hedefleri için elektrikleşme şart.",
+      "en": "HPA UK demands government support and clear roadmap for commercial heat pumps. Electrification essential for 2050 climate targets achievement."
+    },
+    "content": {
+      "tr": "Birleşik Krallık Isı Pompası Birliği (HPA UK), ticari ve endüstriyel alanların elektrikleştirilmesi için hükümetten acil destek talebinde bulundu. Yakın zamanda birleşen ticaret örgütü, ısı pompalarının konut dışı sektörlerdeki yaygınlaştırılması için net politika yönlendirmesi, uyumlu teşvikler ve sürdürülebilir pratik destek istiyor.\n\nHPA UK'nin açıklamalarına göre, ısı pompası satışları ülkede artmaya devam etse de büyük çoğunluk konut uygulamalarında gerçekleşiyor. Ticari ve endüstriyel alanlardaki ısı pompaları, ülkenin toplam ısı talebinin önemli bir payını temsil etmesine rağmen pazarın küçük bir bölümünü oluşturuyor. İklim Değişikliği Komitesi'nin projeksiyonlarına göre, 2040 yılına kadar konut dışı ısıtmanın %88'inin düşük karbonlu kaynaklardan sağlanması bekleniyor.\n\nBirlik, konut dışı ısıtmanın elektrikleştirilmesi için ulusal bir planın yayınlanmasını ve bunu destekleyecek özel bir görev gucunun kurulmasını öneriyor. Ayrıca, tüm ticari enerji kullanıcıları için elektrik maliyetlerinin fosil yakıtlara göre düşürülmesini ve kamu sektörü karbonsuzlaştırma programının kapanmasının ardından gelecek finansman mekanizmalarında netlik sağlanmasını talep ediyor. Bu gelişmeler, Türkiye'deki HVAC sektörü için de önemli ipuçları sunuyor, özellikle ülkemizin yeşil dönüşüm hedefleri doğrultusunda benzer politika adımlarının değerlendirilmesi gerekebilir.",
+      "en": "The Heat Pump Association UK (HPA UK) has urgently called for government support to accelerate electrification in commercial and industrial sectors. The recently merged trade organization demands clear policy direction, aligned incentives, and sustained practical support for expanding heat pump deployment beyond residential applications.\n\nAccording to HPA UK's statements, while heat pump sales continue growing nationwide, the vast majority occurs in residential applications. Commercial and industrial heat pumps represent only a small market fraction despite accounting for a significant share of the country's total heat demand. Climate Change Committee projections indicate that 88% of non-residential heating should come from low-carbon sources by 2040.\n\nThe association recommends publishing a national plan for non-domestic heating electrification supported by a dedicated task force. Additionally, they demand reducing electricity costs relative to fossil fuels for all commercial energy users and clarifying future funding mechanisms following the announced closure of the public sector decarbonization scheme. These developments offer important insights for Turkey's HVAC sector, particularly as similar policy steps may need evaluation in line with our country's green transformation objectives."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Ticari binada kurulu büyük kapasiteli ısı pompası sistemi",
+      "en": "Large capacity heat pump system installed in commercial building"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 13:38:14 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ısı pompası",
+        "ticari HVAC",
+        "karbonsuzlaştırma",
+        "enerji politikası",
+        "elektrikleşme"
+      ],
+      "en": [
+        "heat pump",
+        "commercial HVAC",
+        "decarbonization",
+        "energy policy",
+        "electrification"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/uk-news/hpa-seeks-support-for-non-domestic-heat-pumps/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "lg-expands-therma-v-heat-pump-series-with-new-residential-models",
+    "slug": {
+      "tr": "lg-therma-v-isi-pompasi-serisini-yeni-modellerde-genisletti",
+      "en": "lg-expands-therma-v-heat-pump-series-with-new-residential-models"
+    },
+    "title": {
+      "tr": "LG, Therma V Isı Pompası Serisini Yeni Modellerde Genişletti",
+      "en": "LG Expands Therma V Heat Pump Series with New Residential Models"
+    },
+    "excerpt": {
+      "tr": "LG Electronics, İngiltere'de Therma V isı pompası serisine konut ve ticari uygulamalar için iki yeni model ekledi.",
+      "en": "LG Electronics adds two new heat pump models to its Therma V range for residential and commercial applications in the UK market."
+    },
+    "content": {
+      "tr": "LG Electronics, İngiltere pazarında Therma V isı pompası ürün gamını konut ve ticari sektörlere yönelik iki yeni model ile genişletme kararı aldı. Şirket, hem bireysel ev kullanıcıları hem de büyük ölçekli projeler için optimize edilmiş çözümler sunuyor.\n\nYeni ürün serisinin öne çıkan modeli olan Therma V Monobloc S, konutlar için tasarlanmış R290 soğutucu gazlı hava-su kaynaklı isı pompasıdır. 5kW ile 16kW arasında değişen kapasitelerde sunulan bu model, önceki nesile kıyasla %41'e varan oranda daha küçük boyutlarda ve %22 daha hafif tasarıma sahip. Sistem -25°C'ye kadar çalışabilme kabiliyeti gösterirken, 75°C'ye kadar su sıcaklığı sağlayabiliyor. A+++/A++ ErP enerji sınıfına sahip olan cihaz, LG ThinQ uygulaması üzerinden kontrol edilebiliyor.\n\nTicari uygulamalar için geliştirilen Therma V R32 Monobloc ise 51kW ısıtma kapasitesi sunuyor. Sadece 1.35m² alan kaplayan ve 335kg ağırlığında olan bu model, çok katlı konutlar, ofisler ve okullar gibi yüksek enerji talebi olan mekanlar için tasarlandı. -10°C'ye kadar %100 ısıtma kapasitesi koruyabilen sistem, kademeli bağlantı ile 408kW'a kadar proje ihtiyaçlarına cevap verebiliyor. Türkiye'nin artan enerji verimliliği hedefleri ve sürdürülebilir ısıtma çözümlerine yönelik politikaları göz önüne alındığında, bu tür yenilikçi isı pompası teknolojilerinin yerel pazar için de önem taşıdığı değerlendiriliyor.",
+      "en": "LG Electronics has announced the expansion of its Therma V heat pump product line in the UK market with two new models targeting both residential and commercial sectors. The company is delivering optimized solutions for individual homeowners as well as large-scale project applications.\n\nThe standout model in the new product series is the Therma V Monobloc S, an R290 refrigerant air-to-water heat pump designed for residential use. Available in capacities ranging from 5kW to 16kW, this model features a design that is up to 41% more compact and 22% lighter compared to its predecessor. The system demonstrates operational capability down to -25°C while providing water temperatures up to 75°C. With an A+++/A++ ErP energy rating, the unit can be controlled through the LG ThinQ application.\n\nDeveloped for commercial applications, the Therma V R32 Monobloc delivers 51kW heating capacity. Occupying only 1.35m² of space and weighing 335kg, this model is designed for high-energy-demand environments such as multi-story residential buildings, offices, and schools. The system maintains 100% heating capacity down to -10°C and can address project requirements up to 408kW through cascade connections. Remote monitoring and diagnostics are managed through LG's BECON cloud platform, enabling installers to perform maintenance and updates efficiently."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "LG Therma V isı pompası sistemlerinin dış mekan kurulumu",
+      "en": "LG Therma V heat pump systems outdoor installation"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 12:50:59 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "LG isı pompası",
+        "Therma V",
+        "R290 soğutucu gaz",
+        "enerji verimliliği",
+        "HVAC teknolojisi"
+      ],
+      "en": [
+        "LG heat pump",
+        "Therma V",
+        "R290 refrigerant",
+        "energy efficiency",
+        "HVAC technology"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/products/lg-expands-therma-v-heat-pump-range/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "nordic-climate-acquires-ten-have-installatie-in-netherlands",
+    "slug": {
+      "tr": "nordic-climate-hollandada-ten-have-installatieyi-satin-aldi",
+      "en": "nordic-climate-acquires-ten-have-installatie-in-netherlands"
+    },
+    "title": {
+      "tr": "Nordic Climate Hollanda'da Ten Have Installatie'yi Satın Aldı",
+      "en": "Nordic Climate Acquires Ten Have Installatie in Netherlands"
+    },
+    "excerpt": {
+      "tr": "İsveçli HVAC devi Nordic Climate, Amsterdam merkezli Ten Have Installatie'yi satın alarak Hollanda'daki operasyonlarını genişletti.",
+      "en": "Swedish HVAC giant Nordic Climate expands Netherlands operations by acquiring Amsterdam-based Ten Have Installatie BV."
+    },
+    "content": {
+      "tr": "İsveçli HVAC sektörü lideri Nordic Climate Group, Hollanda pazarındaki büyümesini sürdürerek Amsterdam merkezli Ten Have Installatie BV şirketini bünyesine kattı. Bu stratejik satın alma, Nordic Climate'ın Hollanda'daki 14. şirketini oluşturuyor ve grubun bölgedeki toplam yıllık cirosunu yaklaşık 100 milyon Euro'ya çıkarıyor.\n\n2002 yılında kurulan Ten Have Installatie, klima, ısı pompası, hava işleme ve ısıtma sistemlerinin tasarımı, kurulumu ve bakımı konularında uzmanlaşmış bir firma olarak ticari segmentte güçlü bir konum edinmiş durumda. Şirket, otomotiv, perakende ve gayrimenkul sektörlerinden müşterilere hizmet veriyor ve teknik yetenekleri ile pazar konumu Nordic Climate'ın dikkatini çekti.\n\nNordic Climate Group Hollanda CEO'su Erik Snijder, Ten Have'ın iyi yönetilen bir şirket olduğunu ve mevcut operasyonlarını tamamlayıcı nitelikte olduğunu belirtti. Şirketin yerel liderlik yapısını koruyarak faaliyetlerini sürdüreceğini, ancak daha büyük bir grubun parçası olmanın avantajlarından yararlanacağını açıkladı. Bu gelişme, Türk HVAC sektörü için de önemli bir referans oluştururken, uluslararası konsolidasyon trendinin devam ettiğini gösteriyor.",
+      "en": "Swedish HVAC industry leader Nordic Climate Group continues its Netherlands market expansion by acquiring Amsterdam-based Ten Have Installatie BV. This strategic acquisition marks Nordic Climate's 14th company operation in the Netherlands, bringing the group's combined annual revenue in the region to approximately €100 million.\n\nFounded in 2002, Ten Have Installatie specializes in the design, installation, and maintenance of air conditioning, heat pump, air handling, and heating systems, establishing a strong position in the commercial segment. The company serves clients across automotive, retail, and real estate industries, with its solid technical capabilities and market position attracting Nordic Climate's attention.\n\nErik Snijder, CEO of Nordic Climate Group Netherlands, emphasized that Ten Have is a well-managed company that complements their existing operations while adding valuable expertise to the organization. He stated that the company will maintain its local leadership structure and customer relationships while benefiting from being part of a larger group. This development represents a significant reference point for the Turkish HVAC sector, demonstrating the continued international consolidation trend in the industry."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Nordic Climate Group logo ve Amsterdam şehir manzarası",
+      "en": "Nordic Climate Group logo with Amsterdam cityscape"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 12:31:45 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Nordic Climate",
+        "HVAC satın alma",
+        "Hollanda HVAC",
+        "klima sektörü",
+        "ısı pompası"
+      ],
+      "en": [
+        "Nordic Climate",
+        "HVAC acquisition",
+        "Netherlands HVAC",
+        "climate control",
+        "heat pump systems"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/nordic-climate-expands-dutch-interests/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "aiir-products-partners-with-airtelligence-to-transform-hvac-sector",
+    "slug": {
+      "tr": "aiir-products-ve-airtelligence-ortakligi-hvac-sektorunu-donusturuyor",
+      "en": "aiir-products-partners-with-airtelligence-to-transform-hvac-sector"
+    },
+    "title": {
+      "tr": "AIIR Products ve AirTelligence Ortaklığı HVAC Sektörünü Dönüştürüyor",
+      "en": "AIIR Products Partners with AirTelligence to Transform HVAC Sector"
+    },
+    "excerpt": {
+      "tr": "Yapay zeka destekli HVAC çözümleri konaklama, yaşam alanları ve öğrenci konutlarında enerji verimliliğini artırıyor.",
+      "en": "AI-powered HVAC solutions boost energy efficiency in hospitality, residential, and student housing sectors."
+    },
+    "content": {
+      "tr": "Yapay zeka teknolojisine dayalı ısıtma ve soğutma sistemleri üreticisi AIIR Products, hava kontrol sistemleri alanında faaliyet gösteren AirTelligence ile stratejik ortaklık imzaladı. Bu işbirliği, konaklama sektörü, yüksek katlı residanslar, öğrenci konutları ve yaşlı bakım tesisleri gibi büyüme potansiyeli yüksek segmentlerde akıllı HVAC teknolojilerinin yaygınlaşmasını hedefliyor.\n\n2012 yılından bu yana Amerika Birleşik Devletleri'nin güneybatı bölgesinde faaliyet gösteren AirTelligence, üreticiler, mühendisler ve mimari danışmanlarla yakın çalışarak laboratuvar kalitesinde hava kontrol sistemleri sunuyor. Şirket, farklı sistemleri entegre ederek üstün performans sağlayan anahtar teslimi çözümler geliştiriyor. AIIR ile gerçekleştirilen bu ortaklık sayesinde, iç hava kalitesini artıran, enerji tüketimini azaltan ve kullanıcı konforunu maksimize eden entegre HVAC paketleri sunulacak.\n\nAIIR Holdings CEO'su Trevor Schick, \"Yeni bölgelere genişlerken, ürünlerimizin temelinde olan hassasiyet, güvenilirlik ve özen gösterenlerin yanında olmaya odaklanıyoruz\" açıklamasında bulundu. Bu gelişme, Türkiye'deki HVAC sektörü için de önemli ipuçları taşıyor. Ülkemizde büyüyen otel zincirleri, rezidans projeleri ve öğrenci yurtları gibi alanlarda enerji verimli ve akıllı hava kontrol sistemlerine olan talep artıyor. Yapay zeka destekli HVAC teknolojilerinin yaygınlaşması, Türk inşaat sektöründe de benzer inovasyonları tetikleyebilir.",
+      "en": "AI-powered heating and cooling systems manufacturer AIIR Products has signed a strategic partnership with AirTelligence, a specialist in air control systems. This collaboration aims to expand smart HVAC technologies in high-growth segments including hospitality sector, high-rise residential buildings, student housing, and senior living facilities.\n\nOperating in the southwestern United States since 2012, AirTelligence works closely with manufacturers, engineers, and architectural consultants to deliver laboratory-grade air control systems. The company develops turnkey solutions that integrate various systems to achieve superior performance. Through this partnership with AIIR, integrated HVAC packages that enhance indoor air quality, reduce energy consumption, and maximize user comfort will be offered.\n\nTrevor Schick, CEO of AIIR Holdings, stated, \"As we expand into new territories, we focus on collaborating with those who demonstrate the same level of precision, reliability, and care that our products are built upon.\" This development also carries important implications for Turkey's HVAC sector. The demand for energy-efficient and smart air control systems is growing in Turkey's expanding hotel chains, residential projects, and student dormitories. The proliferation of AI-powered HVAC technologies could trigger similar innovations in the Turkish construction industry."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "Yapay zeka destekli HVAC sistemi kontrol paneli ve akıllı bina teknolojileri",
+      "en": "AI-powered HVAC system control panel and smart building technologies"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 12:51:59 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC teknolojisi",
+        "yapay zeka",
+        "enerji verimliliği",
+        "akıllı bina sistemleri",
+        "hava kalitesi"
+      ],
+      "en": [
+        "HVAC technology",
+        "artificial intelligence",
+        "energy efficiency",
+        "smart building systems",
+        "air quality"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/aiir-products-partners-with-airtelligence-to-become-key-provider-for-hospitality-residential-and-senior-living-hvac-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aiir-products-partners-with-airtelligence-to-become-key-provider-for-hospitality-residential-and-senior-living-hvac-technology",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "posifa-technologies-hvac-sensors-at-sensors-converge-2026",
+    "slug": {
+      "tr": "posifa-technologies-hvac-sensorleriyle-sensors-converge-2026da",
+      "en": "posifa-technologies-hvac-sensors-at-sensors-converge-2026"
+    },
+    "title": {
+      "tr": "Posifa Technologies HVAC Sensörleriyle Sensors Converge 2026'da",
+      "en": "Posifa Technologies HVAC Sensors at Sensors Converge 2026"
+    },
+    "excerpt": {
+      "tr": "Posifa, MEMS tabanlı sensör teknolojileriyle HVAC güvenliğini artıracağını duyurdu. EV batarya güvenliği ve gaz algılamada yenilik.",
+      "en": "Posifa announces MEMS-based sensor technologies to enhance HVAC safety. Innovation in EV battery safety and gas detection systems."
+    },
+    "content": {
+      "tr": "Posifa Technologies, 6-7 Mayıs 2026 tarihlerinde Santa Clara Kongre Merkezi'nde düzenlenecek Sensors Converge fuarında, HVAC sistemleri için geliştirilmiş MEMS tabanlı sensör çözümlerini tanıtacak. Şirket, 509 numaralı standında EV batarya güvenliği, soğutucu sızıntı tespiti, HVAC hava akımı izleme ve vakum ölçümü uygulamalarında güvenliği artıran teknolojilerini sergileyecek.\n\nFuarda öne çıkan ürün, erken tespit sistemleri için geliştirilen hidrojen sensör teknolojisi olacak. PGS5100 Serisi, MEMS termal iletkenlik teknolojisini kullanarak %0 ile %25 arasındaki hidrojen konsantrasyonlarını algılayabiliyor. Bu sensör, EV batarya paketlerinde ve yakıt hücresi sistemlerinde anormal durumları erken tespit ederek, termal kaçak olayları gerçekleşmeden önce kritik bir güvenlik penceresi sunuyor. Entegre nem ve basınç kompansasyonu ile değişen koşullarda hassas ölçüm yapabilen sensör, 15 yıldan uzun kararlılık sağlıyor.\n\nTürkiye'nin artan elektrikli araç pazarı ve gelişen HVAC teknolojileri sektörü için bu gelişmeler büyük önem taşıyor. Posifa'nın sunduğu PVC4001-C MEMS Pirani vakum sensörü ise geniş aralıklı ve taşınabilir ölçüm imkanı sunarak, yerli HVAC üreticilerinin rekabet gücünü artırabilecek çözümler içeriyor. Dijital RS-485 çıkışı ve sağlam paketlemesi ile zorlu çevre koşullarında güvenilir çalışma imkanı sağlayan bu teknolojiler, Türkiye'deki HVAC sektörünün teknolojik dönüşümüne katkı sağlayacak.",
+      "en": "Posifa Technologies will showcase its MEMS-based sensor solutions for HVAC applications at Sensors Converge, taking place May 6-7, 2026, at the Santa Clara Convention Center. The company will demonstrate at booth 509 how its sensing technologies enhance safety and enable early detection of critical conditions in EV battery safety, refrigerant leak detection, HVAC airflow monitoring, and vacuum measurement applications.\n\nThe exhibition will highlight new hydrogen sensing technology designed for early detection systems. The PGS5100 Series utilizes MEMS thermal conductivity technology to detect hydrogen concentrations ranging from 0% to 25%. This sensor identifies abnormal conditions in EV battery packs and fuel cell systems, providing a crucial safety window before thermal runaway escalation occurs. With integrated humidity and pressure compensation, the sensor delivers precise measurements across changing conditions while maintaining stability for over 15 years.\n\nThese developments hold significant importance for Turkey's growing electric vehicle market and advancing HVAC technology sector. Posifa's PVC4001-C MEMS Pirani vacuum sensor offers wide-range and portable measurement capabilities that could enhance the competitive edge of local HVAC manufacturers. Featuring digital RS-485 output and robust packaging for reliable operation in harsh environments, these technologies will contribute to the technological transformation of Turkey's HVAC industry."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Posifa Technologies MEMS tabanlı HVAC sensör teknolojileri ve hidrojen algılama sistemleri",
+      "en": "Posifa Technologies MEMS-based HVAC sensor technologies and hydrogen detection systems"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 14 Apr 2026 16:18:13 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC sensörleri",
+        "MEMS teknolojisi",
+        "EV batarya güvenliği",
+        "hidrojen algılama",
+        "vakum sensörleri"
+      ],
+      "en": [
+        "HVAC sensors",
+        "MEMS technology",
+        "EV battery safety",
+        "hydrogen detection",
+        "vacuum sensors"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/posifa-technologies-sensors-converge-exhibitor-preview-may-6-7-2026-santa-clara-convention-center-booth-509/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=posifa-technologies-sensors-converge-exhibitor-preview-may-6-7-2026-santa-clara-convention-center-booth-509",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "heat-loss-calculations-in-diy-home-construction-practical-solutions",
+    "slug": {
+      "tr": "diy-ev-insaatinda-isi-kaybi-hesaplamalari-pratik-cozumler",
+      "en": "heat-loss-calculations-in-diy-home-construction-practical-solutions"
+    },
+    "title": {
+      "tr": "DIY Ev İnşaatında Isı Kaybı Hesaplamaları: Pratik Çözümler",
+      "en": "Heat Loss Calculations in DIY Home Construction: Practical Solutions"
+    },
+    "excerpt": {
+      "tr": "Kendi evini yapanlar için ısı kaybı hesaplama yöntemleri ve HVAC sektöründeki yeni yaklaşımlar.",
+      "en": "Heat loss calculation methods for DIY builders and new approaches in the HVAC industry."
+    },
+    "content": {
+      "tr": "Kendi evini inşa eden bireyler için ısı kaybı hesaplamaları, enerji verimliliği açısından kritik öneme sahip olmaya devam ediyor. Profesyonel yazılımların karmaşıklığı karşısında, DIY inşaat projelerinde daha basit ve erişilebilir hesaplama yöntemlerine olan talep artıyor.\n\nGeleneksel HVAC hesaplama yazılımları, endüstriyel projelere yönelik detaylı parametreler içerdiğinden, bireysel ev yapımcıları için fazla karmaşık kalabiliyor. Bu durum, sektörde daha kullanıcı dostu araçların geliştirilmesi ihtiyacını ortaya çıkarıyor. Türkiye'de artan DIY ev inşaatı trendi, yerel HVAC firmalarının da bu pazara yönelik danışmanlık hizmetlerini genişletmesine neden oluyor.\n\nUzmanlar, DIY projelerde temel ısı kaybı hesaplamalarının yapılabilmesi için basitleştirilmiş yöntemler öneriyor. Bu yaklaşım, hem bireysel müşterilere hem de küçük ölçekli HVAC firmalarına yeni iş fırsatları sunuyor. Sektörde dijital dönüşümün etkisiyle, mobil uygulamalar ve web tabanlı hesaplama araçları da popülerlik kazanıyor.",
+      "en": "Heat loss calculations for individuals building their own homes continue to be critically important for energy efficiency. Faced with the complexity of professional software, demand is growing for simpler and more accessible calculation methods in DIY construction projects.\n\nTraditional HVAC calculation software can be overly complex for individual home builders since it contains detailed parameters designed for industrial projects. This situation reveals the need for developing more user-friendly tools in the industry. The growing DIY home construction trend in Turkey is also causing local HVAC companies to expand their consulting services for this market.\n\nExperts recommend simplified methods for basic heat loss calculations in DIY projects. This approach offers new business opportunities for both individual customers and small-scale HVAC companies. With the impact of digital transformation in the industry, mobile applications and web-based calculation tools are also gaining popularity."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Laptop ekranında ısı kaybı hesaplama yazılımı gösteren DIY ev inşaatçısı",
+      "en": "DIY home builder showing heat loss calculation software on laptop screen"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 13:44:06 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ısı kaybı hesabı",
+        "DIY inşaat",
+        "enerji verimliliği",
+        "HVAC yazılımı",
+        "ev yapımı"
+      ],
+      "en": [
+        "heat loss calculation",
+        "DIY construction",
+        "energy efficiency",
+        "HVAC software",
+        "home building"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/heat-loss-calc",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "weather-exposure-duration-limits-for-hvac-equipment",
+    "slug": {
+      "tr": "hvac-sistemlerinin-hava-kosullarina-dayaniklilik-suresi",
+      "en": "weather-exposure-duration-limits-for-hvac-equipment"
+    },
+    "title": {
+      "tr": "HVAC Sistemlerinin Hava Koşullarına Dayanıklılık Süresi",
+      "en": "Weather Exposure Duration Limits for HVAC Equipment"
+    },
+    "excerpt": {
+      "tr": "İklim sistemleri güneş, yağmur ve rüzgara ne kadar süre maruz kalabilir? Uzmanlar 30-90 günlük sınırları değerlendiriyor.",
+      "en": "How long can HVAC systems withstand sun, rain and wind exposure? Experts evaluate 30-90 day duration limits for equipment."
+    },
+    "content": {
+      "tr": "HVAC ekipmanlarının hava koşullarına maruz kalma süreleri, sistem performansı ve ömrü açısından kritik önem taşıyor. Sektör uzmanları, iklim sistemlerinin güneş, yağmur ve rüzgar gibi dış etmenlere dayanıklılık sürelerini değerlendiriyor.\n\nKurulum öncesi depolama aşamasında, HVAC ekipmanları genellikle 30 ila 90 gün arası açık havada bekletilebiliyor. Ancak bu süre, bölgesel iklim koşullarına göre değişiklik gösteriyor. Gece sıcaklıklarının 20°C'nin altına düştüğü dönemlerde, ekipmanların metal parçalarında yoğuşma riski artıyor. Türkiye'nin farklı iklim bölgelerinde faaliyet gösteren HVAC firmaları, özellikle Karadeniz'in yüksek nemli koşulları ile Güneydoğu Anadolu'nun sıcak ve kuru iklimi arasındaki farkları göz önünde bulundurmak zorunda.\n\nÜlkemizdeki HVAC sektörü temsilcileri, ekipman korunmasında artan bilinç düzeyine işaret ediyor. Özellikle büyük ölçekli projelerde, iklim sistemlerinin geçici depolama süreçlerinde koruyucu örtüler kullanılması yaygınlaşıyor. Sektör uzmanları, 30 günü aşan açık hava maruziyetinde düzenli kontrol yapılmasını ve gerektiğinde koruyucu tedbirler alınmasını öneriyor.",
+      "en": "Weather exposure duration for HVAC equipment represents a critical factor affecting system performance and longevity. Industry professionals are evaluating the resilience timeframes for climate control systems exposed to sun, rain, and wind conditions.\n\nDuring pre-installation storage phases, HVAC equipment can typically withstand outdoor exposure for 30 to 90 days. However, this duration varies according to regional climate conditions. When nighttime temperatures drop below 20°C, condensation risks increase on metal components of the equipment. Turkish HVAC companies operating across different climate zones must consider the variations between the Black Sea's high humidity conditions and the hot, dry climate of Southeastern Anatolia.\n\nHVAC industry representatives in Turkey point to increasing awareness levels in equipment protection practices. Particularly in large-scale projects, the use of protective covers during temporary storage of climate systems is becoming widespread. Sector experts recommend regular inspections for outdoor exposure exceeding 30 days and implementing protective measures when necessary."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Hava koşullarına maruz kalan HVAC ekipmanları ve koruyucu örtüler",
+      "en": "HVAC equipment exposed to weather conditions with protective covers"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 13:04:00 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC ekipman koruması",
+        "iklim sistemleri dayanıklılık",
+        "hava koşulları etkileri"
+      ],
+      "en": [
+        "HVAC equipment protection",
+        "climate systems durability",
+        "weather exposure effects"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/home-need-repair-ahr0chm6ly93d3cuz3jlzw5idwlszgluz2fkdmlzb3iuy29t",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "erv-and-hrv-systems-balanced-ventilation-for-indoor-air-quality",
+    "slug": {
+      "tr": "erv-ve-hrv-sistemleri-ic-hava-kalitesi-icin-dengeli-havalandirma",
+      "en": "erv-and-hrv-systems-balanced-ventilation-for-indoor-air-quality"
+    },
+    "title": {
+      "tr": "ERV ve HRV Sistemleri: İç Hava Kalitesi için Dengeli Havalandırma",
+      "en": "ERV and HRV Systems: Balanced Ventilation for Indoor Air Quality"
+    },
+    "excerpt": {
+      "tr": "ERV ve HRV sistemleri, enerji tasarrufu sağlarken iç hava kalitesini optimize eden modern havalandırma çözümleridir.",
+      "en": "ERV and HRV systems are modern ventilation solutions that optimize indoor air quality while providing energy savings."
+    },
+    "content": {
+      "tr": "Enerji geri kazanımlı havalandırma (ERV) ve ısı geri kazanımlı havalandırma (HRV) sistemleri, günümüzde sağlıklı iç ortam koşulları oluşturmak için kritik önem taşıyan teknolojilerdir. Bu sistemler, taze hava temini ile enerji verimliliği arasında mükemmel bir denge kurarak, modern binaların havalandırma ihtiyaçlarına çözüm sunar.\n\nERV sistemleri, dış havadan gelen taze hava ile iç ortamdan atılan havanın hem sıcaklık hem de nem değerlerini değiştirerek enerji tasarrufu sağlar. HRV sistemleri ise sadece sıcaklık transferi yaparak çalışır ve daha kuru iklimlerde tercih edilir. Her iki sistem de dengeli havalandırma prensibi ile çalışarak, iç ortama giren hava miktarının çıkan hava miktarına eşit olmasını garanti eder.\n\nTürkiye'de artan enerji maliyetleri ve çevre bilinci ile birlikte, bu sistemlere olan talep hızla artmaktadır. Özellikle yeni yapılan konut projelerinde ve ticari binalarda ERV/HRV sistemlerinin kurulumu, hem enerji sertifikası açısından hem de yaşam kalitesi için tercih edilmektedir. Uzmanlar, doğru sistem seçimi ve profesyonel kurulum ile yıllık enerji maliyetlerinde %30'a kadar tasarruf sağlanabileceğini belirtmektedir.",
+      "en": "Energy Recovery Ventilation (ERV) and Heat Recovery Ventilation (HRV) systems represent critical technologies for creating healthy indoor environments in today's buildings. These systems provide an excellent balance between fresh air supply and energy efficiency, offering solutions to modern building ventilation requirements.\n\nERV systems achieve energy savings by exchanging both temperature and humidity levels between incoming fresh outdoor air and outgoing indoor air. HRV systems operate by transferring only temperature and are preferred in drier climates. Both systems work on the principle of balanced ventilation, ensuring that the amount of air entering the indoor space equals the amount of air being exhausted.\n\nWith rising energy costs and environmental awareness in Turkey, demand for these systems is rapidly increasing. Particularly in newly constructed residential projects and commercial buildings, ERV/HRV system installation is preferred both for energy certification purposes and quality of life improvements. Experts indicate that proper system selection and professional installation can achieve up to 30% savings in annual energy costs."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "ERV ve HRV havalandırma sistemi kurulum görünümü",
+      "en": "ERV and HRV ventilation system installation view"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 08:00:46 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ERV",
+        "HRV",
+        "havalandırma",
+        "enerji tasarrufu",
+        "iç hava kalitesi"
+      ],
+      "en": [
+        "ERV",
+        "HRV",
+        "ventilation",
+        "energy recovery",
+        "indoor air quality"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/article/installing-an-erv-or-hrv",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "turkish-hvac-exporters-strengthen-north-african-market-ties",
+    "slug": {
+      "tr": "isib-cezayir-ticaret-heyeti-kuzey-afrika-pazarini-guclendirdi",
+      "en": "turkish-hvac-exporters-strengthen-north-african-market-ties"
+    },
+    "title": {
+      "tr": "İSİB Cezayir Ticaret Heyeti Kuzey Afrika Pazarını Güçlendirdi",
+      "en": "Turkish HVAC Exporters Strengthen North African Market Ties"
+    },
+    "excerpt": {
+      "tr": "İklimlendirme sektörü temsilcileri Cezayir ve Oran'da B2B görüşmelerle yeni iş fırsatları yakaladı.",
+      "en": "Turkish HVAC industry representatives secured new business opportunities through B2B meetings in Algeria and Oran."
+    },
+    "content": {
+      "tr": "Türkiye iklimlendirme sektörü, Kuzey Afrika pazarındaki varlığını güçlendirmek için önemli bir adım attı. İklimlendirme Sanayi İhracatçıları Birliği (İSİB) bünyesinde 19 üye firma, Nisan ayında gerçekleştirilen Cezayir ticaret heyeti programıyla bölgedeki ticari ağını genişletti.\n\nSektörel ticaret heyeti, 5-9 Nisan tarihleri arasında Cezayir'in başkenti ve Oran şehrinde düzenlenen yoğun iş görüşmeleriyle tamamlandı. Hyatt Regency Hotel'de gerçekleştirilen Cezayir ayağında, İSİB Yönetim Kurulu Üyeleri Zeki Özen ve Okan Murat Erenoğlu'nun liderliğindeki heyet, yerel iş dünyasıyla kapsamlı B2B toplantıları gerçekleştirdi. T.C. Cezayir Ticaret Müşavirleri Mehtap Atakan Özkan ve Özgür Saman'ın da destek verdiği program kapsamında, Büyükelçi Muhammet Mücahit Küçükyılmaz'a nezaket ziyareti düzenlendi.\n\nOran'da Le Meridien Hotel'de sürdürülen program, T.C. Oran Başkonsolosu Hasan Solak'ın katılımıyla gerçekleşti. Bu organizasyon, Türk firmalarının hedef pazarı yakından incelemelerine ve potansiyel distribütörlerle doğrudan iletişim kurmalarına olanak sağladı. Program, Türkiye'nin iklimlendirme sektöründe Kuzey Afrika bölgesindeki ihracat hedeflerinin desteklenmesi açısından stratejik önem taşıyor.",
+      "en": "Turkey's HVAC industry has taken a significant step to strengthen its presence in the North African market. Under the umbrella of the Air Conditioning Industry Exporters Association (İSİB), 19 member companies expanded their commercial network in the region through an Algerian trade mission conducted in April.\n\nThe sectoral trade delegation completed its program with intensive business meetings held in Algeria's capital and the city of Oran between April 5-9. In the Algeria leg held at the Hyatt Regency Hotel, the delegation led by İSİB Board Members Zeki Özen and Okan Murat Erenoğlu conducted comprehensive B2B meetings with the local business community. The program, supported by Turkish Commercial Counselors Mehtap Atakan Özkan and Özgür Saman, included a courtesy visit to Ambassador Muhammet Mücahit Küçükyılmaz.\n\nThe program continued in Oran at Le Meridien Hotel with the participation of Turkish Consul General Hasan Solak. This organization enabled Turkish companies to closely examine their target market and establish direct communication with potential distributors. The program holds strategic importance in supporting Turkey's export targets in the North African region within the HVAC sector."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "İSİB Cezayir ticaret heyeti üyeleri B2B görüşmeler sırasında",
+      "en": "İSİB Algeria trade delegation members during B2B meetings"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 17:13:30 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "iklimlendirme ihracatı",
+        "Cezayir ticaret",
+        "HVAC sektörü",
+        "B2B görüşmeleri",
+        "Kuzey Afrika"
+      ],
+      "en": [
+        "HVAC exports",
+        "Algeria trade",
+        "air conditioning",
+        "B2B meetings",
+        "North Africa"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/isib-cezayir-ve-oranda-sektorel-is-birliklerini-guclendirdi/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "karyer-presents-innovative-evaporator-studies-at-iir-cold-chain-conference",
+    "slug": {
+      "tr": "karyer-iir-soguk-zincir-konferansinda-inovatif-evaporator-calismalarini-sundu",
+      "en": "karyer-presents-innovative-evaporator-studies-at-iir-cold-chain-conference"
+    },
+    "title": {
+      "tr": "KARYER, IIR Soğuk Zincir Konferansında İnovatif Evaporatör Çalışmalarını Sundu",
+      "en": "KARYER Presents Innovative Evaporator Studies at IIR Cold Chain Conference"
+    },
+    "excerpt": {
+      "tr": "KARYER'in IIR konferansında sunduğu evaporatör tasarımları %47,8 hacim azalması sağlıyor ve soğuk zincir verimliliğini artırıyor.",
+      "en": "KARYER's evaporator designs presented at IIR conference achieve 47.8% volume reduction while boosting cold chain efficiency."
+    },
+    "content": {
+      "tr": "Türk soğutma teknolojileri firması KARYER, 12-14 Nisan 2026 tarihlerinde düzenlenen 9. IIR Soğuk Zincir Sürdürülebilirlik Konferansı'nda gümüş sponsor olarak katılım gösterdi ve iki önemli teknik çalışmasını uluslararası platformda paylaştı. Firma, soğutmalı taşımacılık sektörüne yönelik geliştirdiği yenilikçi evaporatör tasarımlarıyla dikkat çekti.\n\nİlk sunumunda \"Soğuk Zincir Soğutma Ünitelerinde Verimli Evaporatör Tasarımı\" başlığı altında kompakt kanatlı borulu evaporatör teknolojisini ele alan KARYER, sınırlı hacim içerisinde maksimum ısı transferi sağlayan çözümler geliştirdiğini açıkladı. Ar-Ge ekibi tarafından gerçekleştirilen araştırmada, 7 mm, 8 mm ve 10 mm boru çapları detaylı olarak karşılaştırıldı. Çalışma sonuçları, boru çapının küçültülmesiyle ısı transfer veriminin artırılabildiğini ve çapraz boru dizilimleri ile optimize edilmiş fin geometrilerinin kullanılmasıyla iç batarya hacminde %47,8'e kadar azalma sağlanabildiğini ortaya koydu.\n\nBu teknolojik gelişme, Türkiye'nin soğuk zincir sektöründe rekabet gücünü artırırken, daha az soğutucu akışkan kullanımıyla yüksek performans elde edilmesine olanak tanıyor. KARYER'in geliştirdiği çözümler, enerji verimliliğini artırmasının yanı sıra çevresel etkiyi azaltarak sürdürülebilir soğuk zincir operasyonlarına katkı sağlıyor. İkinci sunumu olan \"Soğuk Depolama Evaporatör Türlerinin Karşılaştırmalı Analizi\" çalışmasıyla da sektöre yönelik kapsamlı çözümler sunduğunu gösteren firma, uluslararası pazarlardaki konumunu güçlendiriyor.",
+      "en": "Turkish refrigeration technology company KARYER participated as a silver sponsor at the 9th IIR Conference on Sustainability and the Cold Chain held from April 12-14, 2026, presenting two significant technical studies on the international platform. The company drew attention with its innovative evaporator designs developed for the refrigerated transportation sector.\n\nIn its first presentation titled \"Efficient Evaporator Design in Cold Chain Refrigeration Units,\" KARYER addressed compact finned-tube evaporator technology, revealing solutions that achieve maximum heat transfer within limited volume constraints. The research conducted by the R&D team provided detailed comparisons of 7mm, 8mm, and 10mm tube diameters. Study results demonstrated that reducing tube diameter enhances heat transfer efficiency, and utilizing cross-tube arrangements with optimized fin geometries can achieve up to 47.8% reduction in internal battery volume.\n\nThis technological advancement strengthens Turkey's competitive position in the cold chain sector while enabling high performance with reduced refrigerant usage. KARYER's developed solutions contribute to sustainable cold chain operations by increasing energy efficiency and reducing environmental impact. With its second presentation, \"Sustainable Cold Chain Solutions: Comparative Analysis of Evaporator Types in Cold Storage,\" the company demonstrates comprehensive sector solutions while strengthening its position in international markets."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "KARYER evaporatör teknolojisi ve soğuk zincir konferans sunumu",
+      "en": "KARYER evaporator technology and cold chain conference presentation"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 16:28:36 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "soğuk zincir",
+        "evaporatör teknolojisi",
+        "enerji verimliliği",
+        "sürdürülebilirlik",
+        "HVAC"
+      ],
+      "en": [
+        "cold chain",
+        "evaporator technology",
+        "energy efficiency",
+        "sustainability",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/soguk-zincirde-surdurulebilirlik-ve-verimlilik-uzerine-duzenlenen-9-iir-konferansinda-karyerden-iki-teknik-calisma/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
     "id": "apm-steam-and-aquatomic-partner-for-thermal-energy-solutions",
     "slug": {
       "tr": "apm-steam-ve-aquatomic-termal-enerji-cozumleri-icin-ortaklik",
@@ -29,7 +535,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Tue, 14 Apr 2026 13:46:33 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2038,514 +2544,5 @@
     },
     "sourceUrl": "https://www.hvnplus.co.uk/news/net-zero-boiler-tax-rises-to-36-as-government-policy-hits-households-13-04-2026/",
     "sourceName": "H&V News"
-  },
-  {
-    "id": "napit-launches-redesigned-mcs-installer-certification-program",
-    "slug": {
-      "tr": "napit-yenilenen-mcs-kurulum-sertifikasyon-programini-baslatti",
-      "en": "napit-launches-redesigned-mcs-installer-certification-program"
-    },
-    "title": {
-      "tr": "NAPIT Yenilenen MCS Kurulum Sertifikasyon Programını Başlattı",
-      "en": "NAPIT Launches Redesigned MCS Installer Certification Program"
-    },
-    "excerpt": {
-      "tr": "NAPIT, enerji verimliliği odaklı yeni MCS kurulum sertifikasyonunu hayata geçirdi. Program daha adil ve kaliteli hizmet vaadiyor.",
-      "en": "NAPIT introduces redesigned MCS installer certification focusing on efficiency and quality standards for renewable energy systems."
-    },
-    "content": {
-      "tr": "İngiltere merkezli sertifikasyon kuruluşu NAPIT, yenilenen MCS (Microgeneration Certification Scheme) Kurulum Programını resmi olarak faaliyete geçirdi. Dernek yetkililerine göre, yeni program sertifikasyon sürecinde daha verimli, adil ve kalite odaklı bir yaklaşım sunuyor.\n\nYeniden tasarlanan sertifikasyon programı, yenilenebilir enerji sistemleri kurulum teknisyenleri için gelişmiş standartlar getiriyor. Program kapsamında güneş paneli, ısı pompaları ve diğer mikroüretim teknolojileri kurulumu yapan teknisyenler, güncellenmiş kriterler doğrultusunda değerlendiriliyor. Bu gelişme, sektörde kalite kontrol mekanizmalarının güçlendirilmesi açısından önemli bir adım olarak görülüyor.\n\nTürkiye'deki HVAC sektörü için bu tür uluslararası sertifikasyon programlarının gelişimi, özellikle Yeşil Mutabakat kapsamındaki uyum süreçlerinde referans teşkil edebilir. Ülkemizde de benzer kalite standartlarının uygulanması, hem sektörel gelişim hem de enerji verimliliği hedefleri açısından kritik önem taşıyor. NAPIT'in bu yeniliği, Türk HVAC sektörünün uluslararası standartlara uyum sürecinde örnek alınabilecek bir model sunuyor.",
-      "en": "UK-based certification body NAPIT has officially launched its redesigned MCS (Microgeneration Certification Scheme) Installer Program. According to association officials, the new program offers a more efficient, fair, and quality-focused approach to the certification process.\n\nThe redesigned certification program introduces enhanced standards for renewable energy system installation technicians. Under the program, technicians installing solar panels, heat pumps, and other microgeneration technologies are evaluated according to updated criteria. This development is seen as a significant step toward strengthening quality control mechanisms in the industry.\n\nFor the global HVAC sector, such developments in international certification programs serve as important benchmarks for quality standards worldwide. The implementation of similar quality standards in various markets is crucial for both sectoral development and energy efficiency goals. NAPIT's innovation presents a model that can be referenced by HVAC industries globally in their adaptation to international standards and sustainable energy practices."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "NAPIT MCS sertifikasyon programı ve yenilenebilir enerji sistemleri kurulum sürecini gösteren görsel",
-      "en": "Visual representation of NAPIT MCS certification program and renewable energy systems installation process"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Fri, 10 Apr 2026 07:12:47 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "MCS Sertifikasyon",
-        "NAPIT",
-        "Yenilenebilir Enerji",
-        "HVAC Kalite",
-        "Enerji Verimliliği"
-      ],
-      "en": [
-        "MCS Certification",
-        "NAPIT",
-        "Renewable Energy",
-        "HVAC Quality",
-        "Energy Efficiency"
-      ]
-    },
-    "sourceUrl": "https://www.hvnplus.co.uk/news/napit-goes-live-with-redeveloped-mcs-installer-scheme-10-04-2026/",
-    "sourceName": "H&V News"
-  },
-  {
-    "id": "bmbi-report-reveals-challenging-trading-period-for-hvac-merchants",
-    "slug": {
-      "tr": "bmbi-raporu-hvac-bayilerinde-zorlu-ticaret-donemi-yasaniyor",
-      "en": "bmbi-report-reveals-challenging-trading-period-for-hvac-merchants"
-    },
-    "title": {
-      "tr": "BMBI Raporu: HVAC Bayilerinde Zorlu Ticaret Dönemi Yaşanıyor",
-      "en": "BMBI Report Reveals Challenging Trading Period for HVAC Merchants"
-    },
-    "excerpt": {
-      "tr": "Son BMBI raporu bayilerin zor dönem geçirdiğini gösteriyor. Tesisat sektörü %4.7 büyüme ile öne çıkıyor.",
-      "en": "Latest BMBI report shows merchants facing difficult period. Plumbing sector stands out with 4.7% growth rate."
-    },
-    "content": {
-      "tr": "Builders Merchants Building Index (BMBI) tarafından yayınlanan son rapor, yapı malzemeleri bayilerinin bu yıl zorlu bir ticaret dönemi yaşadığını ortaya koyuyor. Genel pazar daralmasına rağmen, bazı sektörler pozitif performans sergilemeyi başardı.\n\nRaporda dikkat çeken en önemli bulgu, tesisat, ısıtma ve elektrik kategorilerinde yaşanan büyüme trendi oldu. Bu sektörler yıllık bazda %4,7'lik bir artış kaydederek, genel pazar durgunluğuna karşın güçlü bir performans gösterdi. Bu durum, enerji verimliliği ve sürdürülebilir ısıtma çözümlerine olan talebin arttığına işaret ediyor.\n\nTürkiye HVAC sektörü açısından bu veriler, özellikle ısı pompası teknolojileri ve akıllı iklim sistemlerine yatırım yapan firmaların avantajlı konumda olduğunu gösteriyor. Türk üreticilerin ihracat potansiyeli de bu olumlu trend sayesinde artış gösterebilir. Sektör uzmanları, yeşil dönüşüm ve enerji tasarrufu odaklı projelerin bu büyümeyi desteklediğini belirtiyor.",
-      "en": "The latest report published by the Builders Merchants Building Index (BMBI) reveals that building materials merchants have experienced a challenging trading year. Despite overall market contraction, certain sectors managed to demonstrate positive performance.\n\nThe most significant finding highlighted in the report was the growth trend observed in plumbing, heating, and electrical categories. These sectors recorded a 4.7% year-on-year increase, showing robust performance against the general market stagnation. This situation indicates rising demand for energy efficiency and sustainable heating solutions.\n\nFrom the perspective of Turkey's HVAC sector, these data demonstrate that companies investing in heat pump technologies and smart climate systems are in an advantageous position. Turkish manufacturers' export potential could also increase thanks to this positive trend. Industry experts note that green transformation and energy-saving focused projects are supporting this growth trajectory."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "placeholder-1.webp",
-    "imageAlt": {
-      "tr": "HVAC bayilerinde ürün satışı ve ticaret verilerini gösteren grafik görseli",
-      "en": "Graph showing product sales and trading data in HVAC merchant stores"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 08 Apr 2026 07:27:32 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "BMBI Raporu",
-        "HVAC Sektörü",
-        "Tesisat Bayileri",
-        "Enerji Verimliliği",
-        "Yapı Sektörü"
-      ],
-      "en": [
-        "BMBI Report",
-        "HVAC Industry",
-        "Merchant Trading",
-        "Energy Efficiency",
-        "Construction Sector"
-      ]
-    },
-    "sourceUrl": "https://www.hvnplus.co.uk/news/latest-bmbi-report-indicates-tough-trading-year-for-merchants-08-04-2026/",
-    "sourceName": "H&V News"
-  },
-  {
-    "id": "vrf-zoning-technology-single-duct-multi-zone-control-system",
-    "slug": {
-      "tr": "vrf-zonlama-teknolojisi-tek-kanal-coklu-bolge-kontrolu",
-      "en": "vrf-zoning-technology-single-duct-multi-zone-control-system"
-    },
-    "title": {
-      "tr": "VRF Zonlama Teknolojisi: Tek Kanal, Çoklu Bölge Kontrolü",
-      "en": "VRF Zoning Technology: Single Duct, Multi-Zone Control System"
-    },
-    "excerpt": {
-      "tr": "VRF sistemlerde modüle damperlerin kullanımı enerji verimliliğini artırıyor ve bypass damperlerin neden olduğu kayıpları önlüyor.",
-      "en": "Modulating dampers in VRF systems boost energy efficiency by eliminating wasteful bypass dampers in multi-zone applications."
-    },
-    "content": {
-      "tr": "VRF (Değişken Soğutucu Akış) sistemlerde yeni zonlama teknolojisi, tek kanallı üniteler üzerinden çoklu bölge kontrolü sağlayarak enerji verimliliğinde devrim yaratıyor. Bu yaklaşım, geleneksel bypass damperlerinin yerini modüle damperlerle almasını öngörüyor.\n\nGeleneksel VRF sistemlerde kullanılan bypass damperleri, fazla havayı geri döngüye sokarak önemli enerji kayıplarına neden oluyor. Yeni hava dağıtım zonlama sistemleri ise modüle damperler kullanarak bu sorunu ortadan kaldırıyor. Bu damperler, her bölgenin ihtiyacına göre hava akışını hassas şekilde ayarlayarak gereksiz enerji tüketimini minimize ediyor.\n\nTürkiye'nin artan enerji maliyetleri ve çevre bilinci göz önüne alındığında, bu teknoloji özellikle büyük ofis binaları ve alışveriş merkezleri için kritik önem taşıyor. HVAC sektöründe faaliyet gösteren firmalar, bu teknolojiye geçişle müşterilerine hem maliyet tasarrufu hem de sürdürülebilir çözümler sunabilecek.",
-      "en": "Variable Refrigerant Flow (VRF) zoning technology revolutionizes energy efficiency by enabling multi-zone control through single ducted units, replacing traditional bypass dampers with modulating damper systems. This innovative approach transforms how commercial buildings manage climate control across different areas.\n\nTraditional bypass dampers in VRF systems create significant energy waste by redirecting excess air back into the circulation loop. Advanced air distribution zoning eliminates this inefficiency through modulating dampers that precisely adjust airflow based on each zone's specific requirements. These smart dampers continuously regulate air distribution, ensuring optimal comfort while minimizing energy consumption.\n\nThis technology represents a crucial advancement for the global HVAC industry, particularly in commercial applications where multiple zones require individual climate control. Building owners and facility managers can achieve substantial operational cost savings while reducing their environmental footprint, making VRF zoning an essential component of modern sustainable building design."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "VRF sistem zonlama teknolojisi ile modüle damperlerin çalışma prensibini gösteren teknik diyagram",
-      "en": "Technical diagram showing VRF zoning technology with modulating dampers operation principle"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 08 Apr 2026 17:21:47 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "VRF sistemleri",
-        "enerji verimliliği",
-        "HVAC zonlama",
-        "modüle damper",
-        "iklimlendirme teknolojisi"
-      ],
-      "en": [
-        "VRF systems",
-        "energy efficiency",
-        "HVAC zoning",
-        "modulating dampers",
-        "climate control technology"
-      ]
-    },
-    "sourceUrl": "https://hvacknowitall.com/blog/vrf-zoning-explained-one-ducted-unit-multiple-zones-zero-bypass",
-    "sourceName": "HVAC Know It All"
-  },
-  {
-    "id": "radon-mitigation-in-older-homes-essential-guide-for-hvac-professionals",
-    "slug": {
-      "tr": "eski-konutlarda-radon-giderme-hvac-uzmanlarinin-bilmesi-gerekenler",
-      "en": "radon-mitigation-in-older-homes-essential-guide-for-hvac-professionals"
-    },
-    "title": {
-      "tr": "Eski Konutlarda Radon Giderme: HVAC Uzmanlarının Bilmesi Gerekenler",
-      "en": "Radon Mitigation in Older Homes: Essential Guide for HVAC Professionals"
-    },
-    "excerpt": {
-      "tr": "Eski konutlarda radon gazı tehlikesi artan bir sorun haline gelirken, HVAC uzmanları bu konuda kritik rol oynuyor.",
-      "en": "Radon gas in older homes poses growing health risks, making HVAC professionals essential for effective mitigation solutions."
-    },
-    "content": {
-      "tr": "Eski konutlarda radon gazı giderme işlemleri, HVAC sektöründe artan öneme sahip bir uzmanlık alanı haline gelmiştir. Üç yıllık bir vaka incelemesi, Atlanta'da bulunan eski bir konutta radon seviyelerinin nasıl tespit edildiği ve sürekli izleme sistemlerinin kurulduğunu göstermektedir. Bu deneyim, HVAC teknisyenlerinin radon giderme konusunda sahip olması gereken temel bilgileri ortaya koymaktadır.\n\nRadon testi sonuçları, özellikle 2023 Nisan ayından itibaren takip edilen verilerde, eski konutlarda bu gazın tehlikeli seviyelere ulaşabileceğini göstermiştir. Temmuz ayında devreye alınan sürekli radon izleme sistemi, HVAC uzmanlarının bu tür durumlarla nasıl başa çıkması gerektiğine dair önemli ipuçları sunmaktadır. Havalandırma sistemlerinin doğru tasarımı ve montajı, radon seviyelerinin kontrolünde kritik öneme sahiptir.\n\nTürkiye'de de özellikle jeolojik yapısı nedeniyle bazı bölgelerde radon riski bulunmaktadır ve bu durum HVAC sektöründe yeni fırsatlar yaratmaktadır. Uzmanlar, eski konutların yenilenmesi sürecinde radon giderme sistemlerini entegre etmeyi öğrenmeli, sürekli izleme teknolojilerini takip etmeli ve müşterilerine kapsamlı çözümler sunabilmelidir. Bu konudaki uzmanlık, sektörde rekabet avantajı sağlayacak önemli bir diferansiyasyon faktörü olmaktadır.",
-      "en": "Radon mitigation in older homes has become an increasingly important specialty area within the HVAC industry. A three-year case study from an older Atlanta residence demonstrates how radon levels were detected and continuous monitoring systems were implemented. This experience highlights the fundamental knowledge HVAC technicians must possess regarding radon mitigation strategies.\n\nRadon testing results, particularly data tracked since April 2023, revealed that older homes can reach dangerous levels of this radioactive gas. The continuous radon monitoring system deployed in July provided crucial insights into how HVAC professionals should address such situations. Proper ventilation system design and installation play a critical role in controlling radon concentrations effectively.\n\nThe growing awareness of radon risks creates new opportunities for HVAC professionals, especially in regions with geological conditions that increase radon presence. Technicians must learn to integrate radon mitigation systems during older home renovations, stay current with continuous monitoring technologies, and provide comprehensive solutions to customers. This specialized knowledge represents a significant competitive advantage and differentiation factor in today's HVAC market."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "placeholder-1.webp",
-    "imageAlt": {
-      "tr": "Eski bir konutta radon giderme sistemi ve havalandırma ekipmanları",
-      "en": "Radon mitigation system and ventilation equipment in an older home"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 08 Apr 2026 14:02:46 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "radon giderme",
-        "eski konut",
-        "havalandırma sistemleri",
-        "iç hava kalitesi",
-        "HVAC teknolojileri"
-      ],
-      "en": [
-        "radon mitigation",
-        "older homes",
-        "ventilation systems",
-        "indoor air quality",
-        "HVAC technology"
-      ]
-    },
-    "sourceUrl": "https://www.energyvanguard.com/blog/radon-mitigation-basics-for-an-older-home/",
-    "sourceName": "Energy Vanguard"
-  },
-  {
-    "id": "national-trades-program-launched-with-milwaukee-tool-partnership",
-    "slug": {
-      "tr": "milwaukee-tool-destegiyle-meslek-edindirme-programi-baslatildi",
-      "en": "national-trades-program-launched-with-milwaukee-tool-partnership"
-    },
-    "title": {
-      "tr": "Milwaukee Tool Desteğiyle Meslek Edindirme Programı Başlatıldı",
-      "en": "National Trades Program Launched with Milwaukee Tool Partnership"
-    },
-    "excerpt": {
-      "tr": "Bring Back the Trades organizasyonu, Milwaukee Tool sponsorluğunda 2026'ya kadar sürecek ulusal hibe programını duyurdu.",
-      "en": "Bring Back the Trades announces national grant program with Milwaukee Tool providing professional kits through 2026."
-    },
-    "content": {
-      "tr": "Amerika Birleşik Devletleri'nde teknik meslek alanlarındaki işgücü açığını kapatmaya odaklanan Bring Back the Trades organizasyonu, Milwaukee Tool'un desteğiyle kapsamlı bir ulusal hibe programı başlattığını duyurdu. Program, 2026 yılına kadar devam edecek ve meslek liselerindeki öğrencilere profesyonel düzeyde araç gereç setleri sağlayacak.\n\nMilwaukee Tool'un sponsorluğunda yürütülecek bu girişim, HVAC teknisyenliği, elektrik işçiliği ve tesisatçılık gibi kritik meslek alanlarında eğitim alan öğrencilere yüksek kaliteli araç setleri dağıtacak. Program kapsamında verilen araç setleri, öğrencilerin mezuniyet sonrası iş hayatına hazır bir şekilde başlamalarını sağlamayı hedefliyor.\n\nTürkiye'de de benzer işgücü ihtiyaçlarının yaşandığı HVAC sektöründe, bu tür girişimler sektörün geleceği açısından önemli bir örnek teşkil ediyor. Ülkemizde de meslek liselerinde uygulamalı eğitimlerin artırılması ve sektör-okul iş birliklerinin güçlendirilmesi, kalifiye teknisyen açığının kapatılması için kritik öneme sahip bulunuyor.",
-      "en": "The Bring Back the Trades organization, focused on addressing skilled labor shortages in technical professions across the United States, has announced the launch of a comprehensive national grant program with support from Milwaukee Tool. The initiative will run through 2026 and provide professional-grade tool kits to students in vocational schools.\n\nSponsored by Milwaukee Tool, this program will distribute high-quality tool sets to students training in critical trade areas including HVAC technology, electrical work, and plumbing. The tool kits provided under this program aim to ensure students graduate job-ready and equipped with professional-grade equipment for their careers.\n\nThis initiative serves as an important example for the HVAC sector, which faces similar workforce challenges globally including in markets like Turkey. The program demonstrates how industry-education partnerships can effectively address skilled technician shortages by providing hands-on training resources and preparing students with the tools they need to succeed in their chosen trades."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "Milwaukee Tool araç setleri ile meslek eğitimi alan HVAC öğrencileri",
-      "en": "HVAC students training with Milwaukee Tool professional equipment sets"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 12:14:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "meslek eğitimi",
-        "HVAC teknisyeni",
-        "Milwaukee Tool",
-        "işgücü geliştirme",
-        "hibe programı"
-      ],
-      "en": [
-        "trades education",
-        "HVAC training",
-        "Milwaukee Tool",
-        "workforce development",
-        "grant program"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23283-bring-back-the-trades-launches-national-grant-program-with-support-from-milwaukee-tool",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "imark-establishes-current-distribution-group-new-era-in-hvac-sector",
-    "slug": {
-      "tr": "imark-current-distribution-groupu-kuruyor-hvac-sektorunde-yeni-donem",
-      "en": "imark-establishes-current-distribution-group-new-era-in-hvac-sector"
-    },
-    "title": {
-      "tr": "IMARK Current Distribution Group'u Kuruyor - HVAC Sektöründe Yeni Dönem",
-      "en": "IMARK Establishes Current Distribution Group - New Era in HVAC Sector"
-    },
-    "excerpt": {
-      "tr": "IMARK, Current Distribution Group lansmanıyla bağımsız distribütörleri güçlendirmeyi hedefliyor. Yenilik ve stratejik uyum odaklı proje.",
-      "en": "IMARK launches Current Distribution Group to strengthen independent distributors through innovation and strategic alignment in HVAC industry."
-    },
-    "content": {
-      "tr": "HVAC sektörünün önde gelen organizasyonu IMARK, Current Distribution Group adlı yeni bir girişimi hayata geçirdiğini duyurdu. Bu yeni yapılanma, bağımsız distribütörlerin sektördeki konumlarını güçlendirmek amacıyla tasarlandı.\n\nCurrent Distribution Group, IMARK'ın uzun süredir sürdürdüğü bağımsız dağıtım kanallarını destekleme misyonunun en yeni aşamasını temsil ediyor. Proje, yenilikçi çözümler, ölçek ekonomisi ve stratejik uyum ilkeleri üzerine kurulu. Bu yaklaşım sayesinde, grup üyesi distribütörler daha rekabetçi bir yapıya kavuşacak ve müşterilerine daha kaliteli hizmet sunabilecek.\n\nTürkiye HVAC pazarı için bu gelişmenin önemli etkileri olması bekleniyor. Özellikle yerli distribütörlerin uluslararası standartlarda hizmet verebilmesi ve küresel tedarik zincirlerine daha etkin entegre olması açısından Current Distribution Group modeli örnek alınabilir. Bu tür girişimler, Türkiye'nin iklim teknolojileri alanındaki rekabet gücünü artırarak sektörün modernizasyonuna katkı sağlayacak.",
-      "en": "Leading HVAC industry organization IMARK has announced the launch of its new initiative called Current Distribution Group, designed to strengthen the market position of independent distributors.\n\nCurrent Distribution Group represents the latest phase of IMARK's long-standing mission to support independent distribution channels. The project is built on principles of innovative solutions, economies of scale, and strategic alignment. Through this approach, member distributors will achieve a more competitive structure and deliver higher quality services to their customers.\n\nThis development is expected to have significant implications for the Turkish HVAC market. The Current Distribution Group model could serve as a template, particularly for enabling local distributors to provide services at international standards and integrate more effectively into global supply chains. Such initiatives will contribute to the modernization of the sector by enhancing Turkey's competitive strength in climate technologies."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "placeholder-1.webp",
-    "imageAlt": {
-      "tr": "IMARK Current Distribution Group logosu ve HVAC ekipmanları",
-      "en": "IMARK Current Distribution Group logo with HVAC equipment"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 14:21:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "IMARK",
-        "Current Distribution",
-        "HVAC distribütör",
-        "iklim teknolojileri",
-        "sektör modernizasyonu"
-      ],
-      "en": [
-        "IMARK",
-        "Current Distribution",
-        "HVAC distributor",
-        "climate technologies",
-        "industry modernization"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23278-imark-announces-the-launch-of-current-distribution-group",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "wolseley-digitalizes-customer-services-with-dispatchtrack",
-    "slug": {
-      "tr": "wolseley-dispatchtrack-ile-musteri-hizmetlerini-dijitallestiriyor",
-      "en": "wolseley-digitalizes-customer-services-with-dispatchtrack"
-    },
-    "title": {
-      "tr": "Wolseley, DispatchTrack ile Müşteri Hizmetlerini Dijitalleştiriyor",
-      "en": "Wolseley Digitalizes Customer Services with DispatchTrack"
-    },
-    "excerpt": {
-      "tr": "Wolseley, DispatchTrack teknolojisiyle HVAC sektöründe teslimat süreçlerini optimize ediyor ve müşteri deneyimini güçlendiriyor.",
-      "en": "Wolseley optimizes delivery processes in HVAC sector with DispatchTrack technology, enhancing customer experience significantly."
-    },
-    "content": {
-      "tr": "HVAC sektörünün önde gelen tedarik zinciri şirketi Wolseley, müşteri deneyimini geliştirmek amacıyla DispatchTrack teknolojisini operasyonlarına entegre ettiğini duyurdu. Bu dijital dönüşüm hamlesi, şirketin teslimat süreçlerinde çığır açan yenilikler getirmeyi hedefliyor.\n\nDispatchTrack sistemi sayesinde Wolseley müşterileri, siparişlerinin anlık durumunu takip edebilecek ve teslimat süreçlerinde tam şeffaflığa sahip olacak. Sistem, zamanında teslimat garantisi sunmanın yanı sıra, müşteriler ile kesintisiz iletişim kurulmasını sağlayan gelişmiş özellikler içeriyor. Bu teknoloji, özellikle acil HVAC malzeme ihtiyaçlarında kritik öneme sahip olan teslimat zamanlamasını optimize ediyor.\n\nTürkiye'de de HVAC sektöründe dijitalleşme trendinin hız kazandığı bu dönemde, Wolseley'in bu adımı sektördeki diğer oyuncular için örnek teşkil ediyor. Uzmanlar, bu tür teknolojik yatırımların özellikle büyük şehirlerdeki HVAC projelerinde zaman yönetimi ve maliyet optimizasyonu açısından önemli avantajlar sağlayacağını belirtiyor.",
-      "en": "Leading HVAC supply chain company Wolseley announced the integration of DispatchTrack technology into its operations to enhance customer experience. This digital transformation initiative aims to bring groundbreaking innovations to the company's delivery processes.\n\nThrough the DispatchTrack system, Wolseley customers will be able to track real-time status of their orders and gain complete transparency in delivery processes. The system offers guaranteed on-time delivery while providing advanced features that enable seamless communication with customers. This technology optimizes delivery scheduling, which is critically important for urgent HVAC material requirements.\n\nAs digitalization trends accelerate in Turkey's HVAC sector, Wolseley's initiative serves as an exemplary model for other industry players. Experts indicate that such technological investments will provide significant advantages in time management and cost optimization, particularly for HVAC projects in major metropolitan areas."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "Wolseley HVAC teslimat kamyonu ve dijital takip sistemi görseli",
-      "en": "Wolseley HVAC delivery truck with digital tracking system visualization"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 12:07:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC teknoloji",
-        "teslimat optimizasyonu",
-        "müşteri deneyimi",
-        "dijital dönüşüm",
-        "Wolseley"
-      ],
-      "en": [
-        "HVAC technology",
-        "delivery optimization",
-        "customer experience",
-        "digital transformation",
-        "Wolseley"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23276-wolseley-enhances-customer-experience-with-dispatchtrack",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "haiti-ratifies-kigali-amendment-for-hfc-phase-down-agreement",
-    "slug": {
-      "tr": "haiti-hfc-azaltim-anlasmasi-kigali-degisikligini-onayladi",
-      "en": "haiti-ratifies-kigali-amendment-for-hfc-phase-down-agreement"
-    },
-    "title": {
-      "tr": "Haiti, HFC Azaltım Anlaşması Kigali Değişikliği'ni Onayladı",
-      "en": "Haiti Ratifies Kigali Amendment for HFC Phase-down Agreement"
-    },
-    "excerpt": {
-      "tr": "Haiti, HFC gazlarını aşamalı olarak azaltmayı hedefleyen Kigali Değişikliği'ni onaylayan en son ülke oldu. 2045'e kadar %80 azaltım hedefi.",
-      "en": "Haiti becomes latest nation to ratify Kigali Amendment targeting HFC phase-down. Commits to 80% reduction in production and consumption by 2045."
-    },
-    "content": {
-      "en": "The Republic of Haiti has emerged as the most recent nation to ratify the Kigali Amendment, which targets the gradual phase-down of hydrofluorocarbon (HFC) gases. Through this significant commitment, Haiti has pledged to reduce HFC production and consumption by more than 80 percent by the year 2045.\n\nThe Kigali Amendment represents a crucial addition to the Montreal Protocol, designed to accelerate the transition toward climate-friendly refrigeration technologies. This amendment plays a vital role in combating climate change by restricting the use of HFC gases, which possess high global warming potential. For the HVAC industry, this regulation signifies the need for developing and implementing alternative refrigerant solutions across various applications.\n\nThis global movement, which includes participation from numerous developed and developing nations, creates both opportunities and obligations for HVAC manufacturers and technicians worldwide. Industry professionals must develop expertise in natural refrigerants and low-GWP alternatives to prepare for upcoming regulations. This transformation will provide competitive advantages to companies investing in green technologies and sustainable cooling solutions."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Kigali Değişikliği anlaşmasını temsil eden dünya haritası ve HFC azaltım hedefleri",
-      "en": "World map representing Kigali Amendment agreement and HFC reduction targets"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 15:10:40 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "Kigali Değişikliği",
-        "HFC Azaltım",
-        "İklimlendirme",
-        "Soğutucu Akışkan",
-        "Çevre Düzenlemeleri"
-      ],
-      "en": [
-        "Kigali Amendment",
-        "HFC Phase-down",
-        "HVAC",
-        "Refrigerant",
-        "Environmental Regulations"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/world-news/haiti-ratifies-the-kigali-amendment/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "sanhua-sec711-bipolar-eev-controller-for-commercial-refrigeration",
-    "slug": {
-      "tr": "sanhua-sec711-bipolar-eev-kontroloru-ticari-sogutma-sektorunde",
-      "en": "sanhua-sec711-bipolar-eev-controller-for-commercial-refrigeration"
-    },
-    "title": {
-      "tr": "Sanhua SEC711 Bipolar EEV Kontrolörü Ticari Soğutma Sektöründe",
-      "en": "Sanhua SEC711 Bipolar EEV Controller for Commercial Refrigeration"
-    },
-    "excerpt": {
-      "tr": "Sanhua SEC711 serisi bipolar elektronik genişleme vana kontrolörü, ticari soğutma ve klima sistemlerinde hassas superheat kontrolü sunuyor.",
-      "en": "Sanhua SEC711 series bipolar electronic expansion valve controller offers precise superheat control for commercial refrigeration and HVAC systems."
-    },
-    "content": {
-      "tr": "Sanhua şirketi, ticari soğutma ve klima sistemlerinde yeni nesil hassasiyet standardı belirleyen SEC711 serisi bipolar elektronik genişleme vana (EEV) kontrolörünü piyasaya sürdüğünü duyurdu. Bu yenilikçi kontrolör, evaporatör verimliliğini maksimuma çıkarırken superheat kontrolünde üstün performans sunmayı hedefliyor.\n\nSEC711 kontrolörü, Sanhua'nın mevcut bileşen portföyü ile tam uyumluluk gösteriyor. VPF elektronik genişleme vanaları, EBV (bipolar) iki yollu ve üç yollu elektronik küresel vanalar ile YCQB/YCQC basınç sensörü serisi gibi kritik bileşenlerle sorunsuz entegrasyon sağlıyor. Bu uyumluluk, sistem tasarımcılarına hem maliyet hem de performans avantajı sunuyor.\n\nTürkiye'nin büyüyen HVAC pazarında, özellikle ticari soğutma sektöründeki teknolojik gelişmeler büyük önem taşıyor. SEC711 kontrolörü, hem OEM entegrasyonu hem de mevcut sistem yükseltmeleri için tasarlandığından, Türk HVAC sektörünün modernizasyon sürecine önemli katkı sağlayabilir. Enerji verimliliği odaklı yeni nesil kontrol sistemleri, sektördeki sürdürülebilirlik hedeflerine de doğrudan destek oluşturuyor.",
-      "en": "Sanhua has introduced its SEC711 series bipolar electronic expansion valve (EEV) controllers, setting new precision standards in commercial refrigeration and air conditioning applications. This innovative controller aims to deliver superior performance in superheat control while maximizing evaporator efficiency across various HVAC applications.\n\nThe SEC711 controller demonstrates full compatibility with Sanhua's existing component portfolio. It seamlessly integrates with VPF electronic expansion valves, EBV (bipolar) two-way and three-way electronic ball valves, and the YCQB/YCQC pressure sensor series. This compatibility offers system designers significant advantages in both cost efficiency and performance optimization.\n\nThis new generation controller has been specifically engineered for both original equipment manufacturer (OEM) integration and existing system upgrades. The versatile design approach allows for flexible implementation across heat pump systems, commercial refrigeration units, and air conditioning installations. By focusing on precise control mechanisms, the SEC711 contributes to enhanced energy efficiency and operational reliability in modern HVAC applications."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Sanhua SEC711 bipolar elektronik genişleme vana kontrolörü teknik görünüm",
-      "en": "Sanhua SEC711 bipolar electronic expansion valve controller technical view"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 14:57:41 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "elektronik genişleme vanası",
-        "HVAC kontrolörü",
-        "ticari soğutma",
-        "Sanhua",
-        "superheat kontrolü"
-      ],
-      "en": [
-        "electronic expansion valve",
-        "HVAC controller",
-        "commercial refrigeration",
-        "Sanhua",
-        "superheat control"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/products/bipolar-eev-controller/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "daikin-launches-rare-earth-magnet-recycling-initiative-in-japan",
-    "slug": {
-      "tr": "daikin-japonyada-nadir-toprak-magnetlerini-geri-donusturecek",
-      "en": "daikin-launches-rare-earth-magnet-recycling-initiative-in-japan"
-    },
-    "title": {
-      "tr": "Daikin Japonya'da Nadir Toprak Magnetlerini Geri Dönüştürecek",
-      "en": "Daikin Launches Rare Earth Magnet Recycling Initiative in Japan"
-    },
-    "excerpt": {
-      "tr": "Daikin, Hitachi ve Shin-Etsu Chemical ile işbirliği yaparak klima kompresörlerindeki nadir toprak magnetleri geri dönüştürecek.",
-      "en": "Daikin partners with Hitachi and Shin-Etsu Chemical to create Japan's first circular recycling scheme for rare earth magnets."
-    },
-    "content": {
-      "tr": "Daikin, Japonya'nın ilk dairesel nadir toprak mıknatısı geri dönüşüm projesine katılarak HVAC sektöründe sürdürülebilirlik alanında önemli bir adım attı. Şirket, ticari klima kompresörlerinden nadir toprak magnetlerini geri kazanmak ve yeniden kullanmak için Hitachi ve Shin-Etsu Chemical ile stratejik işbirliği başlattı.\n\nProje kapsamında Tokyo Eco Recycle, Daikin'in topladığı ticari klima kompresörlerini sökecek, manyetik özelliklerini giderecek ve nadir toprak magnetleri çıkaracak. Süreç, yapay zeka destekli görüntü tanıma teknolojisi ve robotlarla optimize edilecek. Çevresel etkiyi azaltmak için rezonans sönümleme teknolojisi kullanılacak, bu yöntem geleneksel elektrikli fırınlardan farklı olarak doğrudan CO2 üretmiyor. Son aşamada Shin-Etsu Chemical, geri kazanılan malzemelerden yeni magnetler üretecek.\n\nTam kapasiteli operasyonların 2027'de başlaması planlanan bu proje, Türkiye'deki HVAC sektörü için de önemli bir örnek teşkil ediyor. Ülkemizdeki klima üreticileri ve ithalatçıları için sürdürülebilir üretim modellerinin geliştirilmesi konusunda yol gösterici olacak bu girişim, aynı zamanda nadir toprak elementlerinin tedarik zincirindeki riskleri azaltma potansiyeli taşıyor.",
-      "en": "Daikin has embarked on a groundbreaking sustainability initiative by joining Japan's first circular recycling scheme specifically designed to recover rare earth magnets from commercial air conditioning systems. The Japanese HVAC giant has formed a strategic partnership with Hitachi and Shin-Etsu Chemical to create an innovative closed-loop system for these critical materials.\n\nThe comprehensive recycling process involves multiple advanced technologies working in coordination. Tokyo Eco Recycle, Hitachi's specialized subsidiary, will handle the collection and disassembly of Daikin's commercial air conditioning compressors, utilizing AI-powered image recognition systems and robotic automation to enhance efficiency. The demagnetization process employs resonance damping technology, which applies alternating magnetic fields with gradually decreasing amplitude, eliminating the need for traditional electric furnaces and significantly reducing CO2 emissions during the process.\n\nScheduled to reach full operational capacity by 2027, this initiative represents a significant shift toward circular economy principles in the HVAC industry. Shin-Etsu Chemical will complete the cycle by manufacturing new rare earth magnets from the recovered materials, creating a sustainable supply chain that reduces dependency on virgin raw materials. This collaborative approach not only addresses environmental concerns but also provides a strategic solution to supply chain vulnerabilities associated with rare earth elements, setting a precedent for similar initiatives in global HVAC markets."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Klima kompresöründen nadir toprak mıknatısı çıkarma işlemi",
-      "en": "Rare earth magnet extraction from air conditioning compressor"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 11:03:52 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "geri dönüşüm",
-        "nadir toprak",
-        "sürdürülebilirlik",
-        "klima teknolojisi",
-        "çevre dostu"
-      ],
-      "en": [
-        "recycling",
-        "rare earth",
-        "sustainability",
-        "HVAC technology",
-        "circular economy"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/world-news/daikin-joins-rare-earth-recycling-scheme/",
-    "sourceName": "Cooling Post"
   }
 ]
