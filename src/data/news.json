@@ -1,5 +1,413 @@
 [
   {
+    "id": "danfoss-eke-315-simplifies-superheat-control-technology",
+    "slug": {
+      "tr": "danfoss-eke-315-ile-asiri-isitma-kontrolu-kolaylastiriyor",
+      "en": "danfoss-eke-315-simplifies-superheat-control-technology"
+    },
+    "title": {
+      "tr": "Danfoss EKE 315 ile Aşırı Isıtma Kontrolü Kolaylaştırıyor",
+      "en": "Danfoss EKE 315 Simplifies Superheat Control Technology"
+    },
+    "excerpt": {
+      "tr": "Danfoss'un yeni EKE 315 aşırı ısıtma kontrol cihazı, hızlı kurulum ve gelişmiş algoritmalarla endüstriyel soğutma sistemlerini optimize ediyor.",
+      "en": "Danfoss's new EKE 315 superheat controller optimizes industrial cooling systems with quick installation and advanced control algorithms."
+    },
+    "content": {
+      "tr": "Danimarka merkezli Danfoss, endüstriyel soğutma sistemlerinde aşırı ısıtma kontrolünü kolaylaştıran EKE 315 kontrol cihazını piyasaya sürdü. Yeni ürün, hızlı kurulum imkanı sunarak işletmelerin bakım sürelerini ve işçilik maliyetlerini önemli ölçüde azaltmayı hedefliyor.\n\nEKE 315, sezgisel kurulum sihirbazı sayesinde devreye alma sürecini oldukça basitleştiriyor. Cihaz, tek 24V AC veya DC güç kaynağı ile çalışarak mevcut sistemlerle tam uyumluluk sağlıyor ve AKV ya da AKVA selenoid bobinli genleşme valfleri ile sorunsuz entegre oluyor. Endüstriyel kullanım için tasarlanan kontrol cihazı, 4-20mA analog giriş ve çıkışla hassas kontrol sunuyor. Modbus RTU RS 485 protokolü üzerinden iletişim kurabilen sistem, gelişmiş kontrol algoritmaları içeriyor.\n\nTürk HVAC sektöründe artan otomasyon talebi göz önüne alındığında, EKE 315'in sunduğu özellikler önemli avantajlar sağlayabilir. Cihazın modüle eden termostat (MTR), minimum kararlı aşırı ısıtma (MSS), yük tanımlı aşırı ısıtma için LoadApp ve emme basıncı optimizasyonu gibi fonksiyonları bulunuyor. CoolConfig PC aracı ile proje yönetimi kolaylaştırılıyor ve ayarlar birden fazla ünite arasında kopyalanabiliyor. Bu özellikler, Türkiye'deki büyük ölçekli endüstriyel tesisler için özellikle faydalı olacak.",
+      "en": "Denmark-based Danfoss has launched the EKE 315 control device that simplifies superheat control in industrial refrigeration systems. The new product aims to significantly reduce maintenance downtime and labor costs for businesses by offering rapid installation capabilities.\n\nThe EKE 315 greatly simplifies the commissioning process through its intuitive setup wizard. The device operates with a single 24V AC or DC power supply, ensuring full compatibility with existing systems and seamless integration with AKV or AKVA solenoid coil expansion valves. Designed for industrial applications, the controller provides precise control through 4-20mA analog input and output. The system can communicate via Modbus RTU RS 485 protocol and incorporates advanced control algorithms.\n\nConsidering the increasing automation demand in the global HVAC sector, the features offered by the EKE 315 can provide significant advantages. The device includes functions such as modulating thermostat (MTR), minimum stable superheat (MSS), LoadApp for load-defined superheat, and suction pressure optimization. The CoolConfig PC tool facilitates project management and allows settings to be replicated across multiple units. These features will be particularly beneficial for large-scale industrial facilities worldwide, offering improved efficiency and reduced operational complexity."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Danfoss EKE 315 aşırı ısıtma kontrol cihazı endüstriyel soğutma sisteminde",
+      "en": "Danfoss EKE 315 superheat controller in industrial refrigeration system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 13:14:04 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Danfoss",
+        "aşırı ısıtma kontrolü",
+        "endüstriyel soğutma",
+        "HVAC otomasyonu",
+        "genleşme valfi"
+      ],
+      "en": [
+        "Danfoss",
+        "superheat control",
+        "industrial refrigeration",
+        "HVAC automation",
+        "expansion valve"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/products/superheat-control-made-easy/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "hubbard-systems-appoints-martin-allen-as-skope-brand-manager",
+    "slug": {
+      "tr": "hubbard-systems-skope-marka-yoneticisi-olarak-martin-alleni-atadi",
+      "en": "hubbard-systems-appoints-martin-allen-as-skope-brand-manager"
+    },
+    "title": {
+      "tr": "Hubbard Systems, Skope Marka Yöneticisi Olarak Martin Allen'ı Atadı",
+      "en": "Hubbard Systems Appoints Martin Allen as Skope Brand Manager"
+    },
+    "excerpt": {
+      "tr": "İngiltere'deki Hubbard Systems, Skope soğutma ürünleri için marka yöneticisi olarak deneyimli Martin Allen'ı görevlendirdi.",
+      "en": "UK-based Hubbard Systems has named experienced professional Martin Allen as brand manager for Skope refrigeration products."
+    },
+    "content": {
+      "tr": "İngiltere'nin önde gelen ticari yemek servisi ekipmanları distribütörü Hubbard Systems, Yeni Zelanda menşeli Skope soğutma ürünleri portföyü için marka yöneticisi pozisyonuna Martin Allen'ı atadığını duyurdu. Ipswich merkezli şirket, bu stratejik hamleyle Skope markasının İngiltere pazarındaki konumunu güçlendirmeyi hedefliyor.\n\nGeniş bir saha deneyimine sahip Allen, yeni görevinde bayi katılımını artırmak, satış ortaklarının büyümesini desteklemek ve Skope markasının İngiltere genelindeki stratejik lansmanını yönetmek gibi kritik sorumluluklar üstlenecek. Allen, Hubbard Systems'a Hupfer UK'den katıldı; burada ulusal satış müdürü olarak bayi satışlarından sorumluydu. Kariyerinde daha önce Cedabond, Parts Town UK, Chefquip ve Blue Seal Catering Equipment gibi sektörün köklü firmalarında çalışmış durumda.\n\nBu gelişme, Türkiye'deki HVAC ve ticari soğutma sektörü için de önemli referans noktaları sunuyor. Avrupa pazarındaki marka yönetimi stratejilerinin başarısı, benzer yaklaşımların Türk distributörleri tarafından da benimsenmesine örnek teşkil edebilir. Özellikle uluslararası markaların yerel pazarlarda etkin konumlandırılması konusunda sektöre yol gösterici bir model oluşturmaktadır.",
+      "en": "Leading UK commercial foodservice equipment distributor Hubbard Systems has announced the appointment of Martin Allen as brand manager for its New Zealand-based Skope refrigeration product portfolio. The Ipswich-headquartered company aims to strengthen Skope's market position across the UK through this strategic move.\n\nAllen brings extensive field experience to his new role, where he will focus on enhancing dealer engagement, supporting partner growth, and overseeing the strategic rollout of the Skope brand throughout the United Kingdom. He joins Hubbard Systems from Hupfer UK, where he served as national sales manager for dealer operations. His career background includes previous positions at established industry players such as Cedabond, Parts Town UK, Chefquip, and Blue Seal Catering Equipment.\n\nThis development offers valuable insights for the HVAC and commercial refrigeration sector in Turkey as well. The success of European brand management strategies could serve as a blueprint for Turkish distributors to adopt similar approaches. This creates a particularly relevant model for the industry regarding effective positioning of international brands in local markets, potentially guiding sector practices in brand development and market penetration strategies."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "Martin Allen'ın Hubbard Systems'daki Skope marka yöneticisi ataması",
+      "en": "Martin Allen's appointment as Skope brand manager at Hubbard Systems"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 12:54:07 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Skope",
+        "ticari soğutma",
+        "marka yöneticisi",
+        "Hubbard Systems",
+        "Martin Allen"
+      ],
+      "en": [
+        "Skope",
+        "commercial refrigeration",
+        "brand manager",
+        "Hubbard Systems",
+        "Martin Allen"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/uk-news/allen-to-lead-skope-brand-in-uk/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "trane-technologies-opens-worlds-largest-hvac-training-center-in-us",
+    "slug": {
+      "tr": "trane-technologies-abdde-dunyanin-en-buyuk-hvac-egitim-merkezini-acti",
+      "en": "trane-technologies-opens-worlds-largest-hvac-training-center-in-us"
+    },
+    "title": {
+      "tr": "Trane Technologies ABD'de Dünya'nın En Büyük HVAC Eğitim Merkezini Açtı",
+      "en": "Trane Technologies Opens World's Largest HVAC Training Center in US"
+    },
+    "excerpt": {
+      "tr": "4,180 m² büyüklüğündeki tesis yılda 4,500 öğrenciyi ağırlayacak. Teknisyenler için hibrit öğrenme modelini kullanacak.",
+      "en": "45,000 sq ft facility will train 4,500 students annually. Features hybrid learning model for technicians worldwide."
+    },
+    "content": {
+      "tr": "Trane Technologies, Kuzey Karolina'daki merkez ofisinde dünyanın en büyük ve teknolojik olarak en gelişmiş HVAC eğitim tesisini hizmete açtı. 4,180 metrekare büyüklüğündeki Trane İleri Teknoloji Eğitim Merkezi (ATTC), yılda 4,500 öğrenciye eğitim verebilecek kapasiteye sahip olup, yılda 100,000 saatlik eğitim programı sunacak.\n\nTesis, teknisyenlerin giderek karmaşıklaşan iklim kontrol sistemlerini devreye alma, bakım yapma, onarma ve optimize etme konularında pratik deneyim kazanmalarını sağlayacak. ATTC, kariyer hayatlarının her aşamasındaki teknisyenleri desteklemek amacıyla tasarlanmış olup, yüz yüze laboratuvar eğitimlerini e-öğrenme modülleriyle birleştiren hibrit bir yaklaşım benimsiyor. Bu model sayesinde, sektör lideri eğitim programlarına ülke genelinde erişim sağlanırken, teknisyenlerin en son teknolojilerle gerçek dünya deneyimi kazanması hedefleniyor.\n\nTürkiye HVAC sektörü için de önemli bir gelişme olan bu yatırım, uluslararası eğitim standartlarının yükselmesine katkı sağlayacak. Trane Technologies Ticari HVAC Amerika Başkanı Holly Paeper, \"ATTC'nin açılışı sektörümüzün geleceği için önemli bir yatırımı temsil ediyor. Bina sistemleri daha bağlantılı, verimli ve sofistike hale geldikçe, bunlara hizmet etmek için gereken uzmanlık da artıyor\" açıklamasında bulundu.",
+      "en": "Trane Technologies has launched the world's largest and most technologically advanced HVAC training facility at its North Carolina headquarters. The 45,000-square-foot Trane Advanced Technology Training Centre (ATTC) can accommodate up to 4,500 students annually and deliver over 100,000 hours of training programs per year.\n\nThe facility will provide hands-on experience for technicians to commission, maintain, repair, and optimize increasingly complex climate control systems. Designed to support technicians at every career stage, the ATTC offers multiple learning pathways that combine face-to-face laboratory instruction with complementary e-learning modules. This hybrid approach expands access to industry-leading training nationwide while ensuring technicians gain real-world experience with cutting-edge technologies.\n\nThis investment represents a significant development for the global HVAC sector, potentially raising international training standards and impacting markets worldwide, including emerging economies like Turkey. Holly Paeper, President of Commercial HVAC Americas at Trane Technologies, stated: \"The launch of the ATTC represents an important investment in the future of our industry. As building systems become more connected, efficient, and sophisticated, the expertise required to service them continues to grow.\""
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Trane İleri Teknoloji Eğitim Merkezi'nde HVAC teknisyenleri için modern eğitim laboratuvarı",
+      "en": "Modern training laboratory for HVAC technicians at Trane Advanced Technology Training Centre"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 07:23:22 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC eğitimi",
+        "Trane Technologies",
+        "teknisyen eğitimi",
+        "iklim kontrol",
+        "hibrit öğrenme"
+      ],
+      "en": [
+        "HVAC training",
+        "Trane Technologies",
+        "technician education",
+        "climate control",
+        "hybrid learning"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/trane-opens-advanced-us-training-centre/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "ior-launches-new-event-series-for-refrigeration-industry",
+    "slug": {
+      "tr": "ior-sogutma-sektoru-icin-yeni-etkinlik-serisi-baslatiyor",
+      "en": "ior-launches-new-event-series-for-refrigeration-industry"
+    },
+    "title": {
+      "tr": "IOR Soğutma Sektörü için Yeni Etkinlik Serisi Başlatıyor",
+      "en": "IOR Launches New Event Series for Refrigeration Industry"
+    },
+    "excerpt": {
+      "tr": "IOR, soğutma ve klima sektörü profesyonelleri için uzman konuşmaları ve teknik gezileri içeren yeni etkinlik programını duyurdu.",
+      "en": "IOR announces new event program featuring expert talks and technical tours for refrigeration and air conditioning professionals."
+    },
+    "content": {
+      "tr": "Soğutma ve İklimlendirme Enstitüsü (IOR), sektör profesyonelleri için yenilikçi 'Talk & Tour' etkinlik serisini hayata geçirdiğini açıkladı. Bu yüz yüze etkinlikler, uzman konuşmacılar tarafından sunulacak teknik sunumları ve sahne arkası erişim imkanlarını bir araya getiriyor.\n\nEtkinlik serisi, soğutma ve klima teknolojilerindeki güncel gelişmeleri kapsayan uzman sunumlarının yanı sıra, katılımcılara endüstriyel tesislerde perde arkası deneyimi yaşama fırsatı sunacak. Bu format, teorik bilgiyi pratik uygulamalarla birleştirerek sektör profesyonellerine kapsamlı öğrenme deneyimi sağlamayı hedefliyor.\n\nTürkiye'nin büyüyen HVAC pazarında bu tür etkinliklerin önemi giderek artıyor. Özellikle enerji verimliliği ve çevresel sürdürülebilirlik konularında artan bilinç, Türk soğutma sektörü uzmanlarının uluslararası gelişmeleri yakından takip etmesini gerektiriyor. IOR'un bu girişimi, Türkiye'deki sektör profesyonellerinin küresel trendlere uyum sağlamasına katkı sağlayabilir.",
+      "en": "The Institute of Refrigeration (IOR) has announced the launch of its innovative 'Talk & Tour' event series designed for industry professionals. These in-person events combine expert-led technical presentations with behind-the-scenes access opportunities to industrial facilities.\n\nThe event series will feature expert presentations covering current developments in refrigeration and air conditioning technologies, alongside offering participants exclusive behind-the-scenes experiences at industrial facilities. This format aims to provide comprehensive learning experiences for industry professionals by combining theoretical knowledge with practical applications.\n\nSuch events are becoming increasingly important in Turkey's growing HVAC market. The rising awareness of energy efficiency and environmental sustainability requires Turkish refrigeration sector experts to closely follow international developments. IOR's initiative could contribute to helping industry professionals in Turkey adapt to global trends and technological advancements."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "IOR Talk & Tour etkinlik serisinde uzman sunumu yapan konuşmacı ve katılımcılar",
+      "en": "Expert presenter and participants at IOR Talk & Tour event series"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 14:19:34 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "IOR",
+        "soğutma teknolojisi",
+        "HVAC etkinlikleri",
+        "sektörel eğitim",
+        "klima sektörü"
+      ],
+      "en": [
+        "IOR",
+        "refrigeration technology",
+        "HVAC events",
+        "professional development",
+        "industry training"
+      ]
+    },
+    "sourceUrl": "https://www.racplus.com/news/ior-launches-talk-tour-event-series-17-04-2026/",
+    "sourceName": "RAC Magazine"
+  },
+  {
+    "id": "ashrae-studies-global-co-reduction-through-bacnet-automation",
+    "slug": {
+      "tr": "ashrae-bacnet-otomasyonu-ile-kuresel-co-azaltimi-arastirmasi",
+      "en": "ashrae-studies-global-co-reduction-through-bacnet-automation"
+    },
+    "title": {
+      "tr": "ASHRAE BACnet Otomasyonu ile Küresel CO₂ Azaltımı Araştırması",
+      "en": "ASHRAE Studies Global CO₂ Reduction Through BACnet Automation"
+    },
+    "excerpt": {
+      "tr": "ASHRAE, bina otomasyonu teknolojilerinin karbon emisyonlarını ne ölçüde azalttığını belirlemek için yeni araştırma başlattı.",
+      "en": "ASHRAE launches research to quantify carbon emission reductions achieved through building automation technologies and BACnet systems."
+    },
+    "content": {
+      "tr": "Amerikan Isıtma, Soğutma ve İklimlendirme Mühendisleri Derneği (ASHRAE), bina otomasyon sistemlerinin küresel karbon ayak izini azaltmadaki rolünü inceleyecek kapsamlı bir araştırma projesi duyurdu. Bu çalışma, özellikle BACnet protokolü kullanan akıllı bina sistemlerinin CO₂ emisyonlarında sağladığı azalımı somut verilerle ortaya koymayı hedefliyor.\n\nAraştırma, modern bina otomasyon teknolojilerinin enerji verimliliği üzerindeki etkilerini ölçümleyerek, HVAC sistemlerinin çevresel performansını optimize etme potansiyelini değerlendirecek. BACnet protokolü sayesinde birbirleriyle entegre çalışan ısıtma, soğutma ve havalandırma sistemlerinin, geleneksel yöntemlere kıyasla ne oranda tasarruf sağladığı bilimsel yöntemlerle analiz edilecek.\n\nTürkiye'deki HVAC sektörü için bu araştırmanın sonuçları büyük önem taşıyor. Ülkemizde yeşil bina sertifikasyonu alan projelerin artması ve enerji verimliliği yönetmeliklerinin sıkılaşmasıyla birlikte, akıllı bina otomasyonu çözümlerine olan talep hızla yükseliyor. ASHRAE'nin bulgularının, Türk müteahhitleri ve HVAC uzmanlarının gelecekteki proje kararlarında rehber görevi görmesi bekleniyor.",
+      "en": "The American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) has unveiled a comprehensive research initiative examining the role of building automation systems in reducing global carbon footprint. This study specifically aims to quantify CO₂ emission reductions achieved through intelligent building systems utilizing the BACnet protocol, providing concrete data on their environmental impact.\n\nThe research will measure the effects of modern building automation technologies on energy efficiency, evaluating the potential for optimizing environmental performance of HVAC systems. Through scientific analysis, the study will determine how much energy savings heating, cooling, and ventilation systems integrated via BACnet protocol can achieve compared to conventional methods.\n\nFor Turkey's HVAC sector, the results of this research carry significant importance. With the increasing number of green building certified projects in the country and tightening energy efficiency regulations, demand for smart building automation solutions is rapidly growing. ASHRAE's findings are expected to serve as guidance for Turkish contractors and HVAC professionals in their future project decisions."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Akıllı bina otomasyon sistemi kontrol paneli ve CO₂ emisyon grafiği",
+      "en": "Smart building automation system control panel with CO₂ emission reduction chart"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 15 Apr 2026 14:29:40 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ASHRAE",
+        "BACnet",
+        "karbon azaltım",
+        "bina otomasyonu",
+        "enerji verimliliği"
+      ],
+      "en": [
+        "ASHRAE",
+        "BACnet",
+        "carbon reduction",
+        "building automation",
+        "energy efficiency"
+      ]
+    },
+    "sourceUrl": "https://www.racplus.com/news/ashrae-announces-new-study-on-global-co%e2%82%82-reduction-through-automation-15-04-2026/",
+    "sourceName": "RAC Magazine"
+  },
+  {
+    "id": "wesgarde-introduces-advanced-thermocouple-temperature-meter-for-hvac",
+    "slug": {
+      "tr": "wesgardedan-hvac-sektorune-yeni-termokaplin-sicaklik-olcer",
+      "en": "wesgarde-introduces-advanced-thermocouple-temperature-meter-for-hvac"
+    },
+    "title": {
+      "tr": "Wesgarde'dan HVAC Sektörüne Yeni Termokaplin Sıcaklık Ölçer",
+      "en": "Wesgarde Introduces Advanced Thermocouple Temperature Meter for HVAC"
+    },
+    "excerpt": {
+      "tr": "Elektromekanyak bileşen distribütörü Wesgarde, HVAC sistemleri için gelişmiş Trumeter APM sıcaklık ölçeri tanıttı.",
+      "en": "Electromechanical component distributor Wesgarde introduces advanced Trumeter APM temperature meter for HVAC systems."
+    },
+    "content": {
+      "tr": "Elektromekanyak ve elektronik güç bileşenleri distribütörlüğünde ABD'de lider konumda olan Wesgarde, endüstriyel ve HVAC uygulamaları için tasarlanan Trumeter APM Sıcaklık Ölçeri'ni sektöre sundu. Bu gelişmiş panel ölçer, hassas ölçüm, kolay görselleştirme ve esnek kontrol özellikleri ile dikkat çekiyor.\n\nAPM Sıcaklık Ölçeri, B, E, J, K, N, R, S ve T tipi termokaplınları destekleyerek geniş bir kullanım alanı sunuyor. Cihaz, Trumeter'in girdi sinyali optimizasyonu ve 20 noktaya kadar konfigüre edilebilen doğrusallaştırma teknolojisi sayesinde karmaşık sıcaklık profillerinde yüksek doğruluk sağlıyor. Bu özellik, özellikle hava işlem üniteleri, chiller'lar ve kazan sistemlerinde kritik önem taşıyor.\n\nTürkiye'nin büyüyen HVAC sektörü için bu tür teknolojik gelişmeler büyük önem taşıyor. Cihazın 30 dakika sonra 0,5°C, 40 dakika sonra 0,2°C doğruluk seviyesi, enerji verimliliği odaklı modern binaların sıkı kontrol gereksinimlerini karşılıyor. Büyük çok formatlı ekranı, 40 segmentli kavisli çubuk grafik ve 4 haneli okuma alanı ile operatörlere net görünürlük sağlayan sistem, programlanabilir ölçek ve özel gösterge seçenekleri de sunuyor.",
+      "en": "Wesgarde, a leading US distributor of electromechanical and electronic power components, has introduced the Trumeter APM Temperature Meter designed specifically for demanding industrial and HVAC applications. This advanced panel meter stands out with its precise measurement capabilities, intuitive visualization, and flexible control features.\n\nThe APM Temperature Meter offers extensive compatibility by supporting thermocouple types B, E, J, K, N, R, S, and T, providing broad application coverage. The device utilizes Trumeter's advanced input signal optimization and user-configurable linearization technology with up to 20-point conversion tables, ensuring high accuracy across complex temperature profiles. This feature proves particularly critical in air handling units, chillers, and boiler systems.\n\nFor the growing HVAC sector, such technological advancements represent significant value propositions. The meter's precision levels of 0.5°C accuracy after 30 minutes and 0.2°C after 40 minutes meet the stringent control requirements of modern energy-efficient buildings. The large multi-format display incorporates a 40-segment curved bar graph and full 4-digit readout, providing clear visibility to operators. Additionally, the system offers programmable scaling and custom annunciator options, allowing users to present critical parameters exactly as required for their specific applications."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Trumeter APM sıcaklık ölçer cihazının büyük dijital ekran ve kontrol paneli görünümü",
+      "en": "Trumeter APM temperature meter showing large digital display and control panel interface"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 13:28:36 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC teknolojisi",
+        "sıcaklık ölçümü",
+        "termokaplin",
+        "endüstriyel kontrol",
+        "panel ölçer"
+      ],
+      "en": [
+        "HVAC technology",
+        "temperature measurement",
+        "thermocouple",
+        "industrial control",
+        "panel meter"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/wesgarde-highlights-the-trumeter-apm-temperature-meter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wesgarde-highlights-the-trumeter-apm-temperature-meter",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "egan-promotes-26-year-veteran-chris-weaver-to-president-role",
+    "slug": {
+      "tr": "egan-firmasi-26-yillik-deneyimli-chris-weaveri-baskan-yapti",
+      "en": "egan-promotes-26-year-veteran-chris-weaver-to-president-role"
+    },
+    "title": {
+      "tr": "Egan Firması 26 Yıllık Deneyimli Chris Weaver'ı Başkan Yaptı",
+      "en": "Egan Promotes 26-Year Veteran Chris Weaver to President Role"
+    },
+    "excerpt": {
+      "tr": "HVAC sektöründe faaliyet gösteren Egan firması, 26 yıldır şirkette çalışan Chris Weaver'ı başkanlık görevine getirdi.",
+      "en": "HVAC industry company Egan promotes Chris Weaver, a 26-year company veteran, to president position in strategic leadership move."
+    },
+    "content": {
+      "tr": "HVAC sektöründe faaliyet gösteren Egan firması, şirket içi yetenek gelişimi stratejisinin bir parçası olarak 26 yıllık deneyimli çalışanı Chris Weaver'ı başkanlık pozisyonuna terfi ettirdiğini duyurdu.\n\nPlanlı geçiş sürecinin bir parçası olan bu hamle, şirketin kurumsal sürekliliğine verdiği önemi gösteriyor. Eski başkan Andy Jasper, pozisyonundan ayrılmasına rağmen Egan'da aktif olarak kalmaya devam edecek ve iş geliştirme alanında odaklanırken Weaver'a destek sağlayacak. Bu yaklaşım, deneyimli liderlerin bilgisini yeni nesle aktarması açısından önemli bir örnek teşkil ediyor.\n\nTürkiye HVAC sektörü için bu tür liderlik geçişleri, sektörün profesyonelleşmesi ve sürdürülebilir büyümesi açısından kritik öneme sahip. Özellikle enerji verimliliği ve çevre dostu teknolojilerin ön plana çıktığı günümüzde, deneyimli liderlerin rehberliğinde gerçekleşen bu geçişler, sektörün geleceğine dair umut verici işaretler sunuyor.",
+      "en": "HVAC industry company Egan announced the promotion of Chris Weaver, a 26-year company veteran, to the president position as part of their internal talent development strategy.\n\nThis move, which represents a planned leadership transition, demonstrates the company's commitment to organizational continuity. Former president Andy Jasper will continue his involvement with Egan despite stepping down from his leadership role, focusing his efforts on business development activities while providing ongoing support to Weaver. This approach exemplifies effective knowledge transfer between experienced leaders and emerging executives.\n\nSuch leadership transitions hold significant importance for the global HVAC industry, particularly as companies navigate evolving market demands and technological advances. The structured approach to succession planning demonstrated by Egan reflects broader industry trends toward sustainable growth and professional development, setting a positive example for other organizations in the heating, ventilation, and air conditioning sector."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "HVAC sektöründe liderlik değişimi ve yönetim geçişi görseli",
+      "en": "HVAC industry leadership transition and management succession visual"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 12:04:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC yönetimi",
+        "liderlik geçişi",
+        "Egan",
+        "sektör haberleri",
+        "Chris Weaver"
+      ],
+      "en": [
+        "HVAC leadership",
+        "executive transition",
+        "Egan company",
+        "industry news",
+        "Chris Weaver"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23295-egan-advances-26-year-company-leader-chris-weaver-to-president-in-planned-transition",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "trane-technologies-opens-new-advanced-hvac-training-center",
+    "slug": {
+      "tr": "trane-technologies-yeni-hvac-egitim-merkezini-acti",
+      "en": "trane-technologies-opens-new-advanced-hvac-training-center"
+    },
+    "title": {
+      "tr": "Trane Technologies Yeni HVAC Eğitim Merkezini Açtı",
+      "en": "Trane Technologies Opens New Advanced HVAC Training Center"
+    },
+    "excerpt": {
+      "tr": "Trane Technologies, HVAC teknisyenleri için uygulamalı eğitim sunan yeni İleri Teknoloji Eğitim Merkezi'ni hizmete aldı.",
+      "en": "Trane Technologies launches new Advanced Technology Training Center offering hands-on HVAC technician education and skills development."
+    },
+    "content": {
+      "tr": "Küresel HVAC devi Trane Technologies, sektörün öncü teknisyen kadrosuna yönelik uygulamalı eğitim hizmetleri sunacak yeni İleri Teknoloji Eğitim Merkezi'ni resmen açtığını duyurdu. Bu yenilikçi tesis, şirketin endüstri lideri pozisyonunu güçlendirirken, teknisyen yetiştirme alanındaki yatırımlarını artırdığını gösteriyor.\n\nYeni eğitim merkezi, HVAC teknisyenlerinin gerçek çalışma koşullarını simüle eden ortamlarda pratik deneyim kazanmalarını sağlamak üzere tasarlandı. Merkez, modern iklimlendirme sistemleri, enerji verimliliği çözümleri ve dijital teknolojiler konularında kapsamlı eğitim programları sunacak. Bu yaklaşım, teorik bilgiyi pratikte uygulama fırsatı vererek, teknisyenlerin sahada karşılaştıkları zorluklara hazırlanmalarına yardımcı oluyor.\n\nTürkiye HVAC sektörü açısından bu gelişme, uluslararası standartlarda eğitim alan teknisyen sayısının artması ve sektörün genel kalite seviyesinin yükselmesi anlamına geliyor. Özellikle enerji verimliliği ve sürdürülebilirlik konularında artan farkındalık ile birlikte, bu tür eğitim merkezlerinin Türkiye'deki benzer girişimlere ilham vereceği ve yerel HVAC profesyonellerinin uluslararası standartları yakalamasına katkı sağlayacağı öngörülüyor.",
+      "en": "Global HVAC leader Trane Technologies officially announced the opening of its new Advanced Technology Training Center, designed to provide hands-on educational services for the company's industry-leading technician workforce. This innovative facility demonstrates the company's increased investment in technician development while strengthening its position as an industry leader.\n\nThe new training center is specifically designed to enable HVAC technicians to gain practical experience in environments that simulate real working conditions. The facility will offer comprehensive training programs covering modern HVAC systems, energy efficiency solutions, and digital technologies. This approach provides opportunities to apply theoretical knowledge in practice, helping technicians prepare for the challenges they encounter in the field.\n\nFor the global HVAC industry, this development signifies an increase in the number of technicians trained to international standards and an overall elevation of industry quality levels. With growing awareness of energy efficiency and sustainability issues, such training centers are expected to inspire similar initiatives worldwide and contribute to helping local HVAC professionals meet international standards and best practices."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Trane Technologies'in yeni HVAC eğitim merkezinde uygulamalı eğitim alan teknisyenler",
+      "en": "HVAC technicians receiving hands-on training at Trane Technologies' new training center"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 17 Apr 2026 11:34:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC Eğitimi",
+        "Teknisyen Yetiştirme",
+        "Trane Technologies",
+        "İklimlendirme",
+        "Enerji Verimliliği"
+      ],
+      "en": [
+        "HVAC Training",
+        "Technician Development",
+        "Trane Technologies",
+        "Air Conditioning",
+        "Energy Efficiency"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23294-trane-technologies-unveils-new-hvac-training-center",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
     "id": "service-experts-expands-franchise-network-into-texas-market",
     "slug": {
       "tr": "service-experts-texasta-franchise-agini-genisletiyor",
@@ -29,7 +437,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Thu, 16 Apr 2026 14:05:00 -0400",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2136,413 +2544,5 @@
     },
     "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12280-bahce-balkon-ve-teraslar-icin-isitici-secerken-dikkat-edilmesi-gerekenler",
     "sourceName": "Enerji ve Tesisat"
-  },
-  {
-    "id": "kombi-klima-shop-strengthens-partnership-with-teka",
-    "slug": {
-      "tr": "kombi-klima-shop-ve-teka-is-birligi-guclendi",
-      "en": "kombi-klima-shop-strengthens-partnership-with-teka"
-    },
-    "title": {
-      "tr": "Kombi Klima Shop ve Teka İş Birliği Güçlendi",
-      "en": "Kombi Klima Shop Strengthens Partnership with Teka"
-    },
-    "excerpt": {
-      "tr": "Kombi Klima Shop, Teka ile iş birliğini derinleştirerek 2026 yılında Türkiye HVAC pazarında yeni ürün gamını sunacak.",
-      "en": "Kombi Klima Shop deepens Teka partnership to launch new product line in Turkey's HVAC market for 2026."
-    },
-    "content": {
-      "tr": "Türkiye'nin önde gelen HVAC distribütörlerinden Kombi Klima Shop, Teka markasıyla stratejik ortaklığını güçlendirerek sektördeki konumunu daha da sağlamlaştırdı. Antalya'da gerçekleştirilen lansman etkinliği, her iki şirketin 2026 yılı hedeflerini ve yeni ürün stratejilerini ortaya koydu.\n\nNisan ayının başında Antalya DoubleTree by Hilton'da düzenlenen özel lansman toplantısında, Teka'nın 2026 model yılı klima serisi tanıtıldı. Midea Group'un küresel üretim kapasitesi ve teknolojik altyapısından yararlanan bu yeni ürün hattı, Türk tüketicilerine daha gelişmiş enerji verimliliği ve performans sunacak. Etkinlikte Midea'nın Türkiye İş Geliştirme Direktörü Can Topakoğlu ve Kurumsal Strateji Mühendisi Ceren Sevik de yer aldı.\n\nToplantıya HVAC sektöründe faaliyet gösteren çok sayıda uzman firma katılım gösterdi. Bu yoğun ilgi, Türkiye'deki klima pazarının büyüme potansiyelini ve Teka-Kombi Klima Shop ortaklığının sektördeki beklentileri karşılayabileceğine duyulan güveni yansıtıyor. Midea Group'un global deneyimi ile yerel distribüsyon ağının birleşmesi, Türk HVAC pazarında rekabet dinamiklerini etkileyebilecek nitelikte.",
-      "en": "Leading Turkish HVAC distributor Kombi Klima Shop has strengthened its strategic partnership with Teka brand, further solidifying its position in the industry. The launch event held in Antalya outlined both companies' targets and new product strategies for 2026.\n\nThe exclusive launch meeting at Antalya DoubleTree by Hilton in early April introduced Teka's 2026 model year air conditioning series. This new product line, leveraging Midea Group's global manufacturing capacity and technological infrastructure, will offer Turkish consumers enhanced energy efficiency and performance. The event featured Midea's Turkey Business Development Director Can Topakoğlu and Corporate Strategy Engineer Ceren Sevik.\n\nNumerous specialized HVAC companies attended the meeting, demonstrating significant industry interest. This strong participation reflects the growth potential of Turkey's air conditioning market and confidence in the Teka-Kombi Klima Shop partnership's ability to meet sector expectations. The combination of Midea Group's global expertise with local distribution networks could influence competitive dynamics in the Turkish HVAC market."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Antalya'da düzenlenen Teka klima lansman toplantısından bir kare",
-      "en": "A scene from the Teka air conditioning launch meeting held in Antalya"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 18:03:14 +0300",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC",
-        "klima",
-        "Teka",
-        "Midea",
-        "distribüsyon"
-      ],
-      "en": [
-        "HVAC",
-        "air conditioning",
-        "Teka",
-        "Midea",
-        "distribution"
-      ]
-    },
-    "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12279-kombi-klima-shop-teka-ile-olan-is-birligini-gueclendirdi",
-    "sourceName": "Enerji ve Tesisat"
-  },
-  {
-    "id": "afs-showcases-sustainable-hvac-solutions-at-mce-milano-2026",
-    "slug": {
-      "tr": "afs-milano-mce-2026da-surdurulebilir-hvac-cozumleri-sergiledi",
-      "en": "afs-showcases-sustainable-hvac-solutions-at-mce-milano-2026"
-    },
-    "title": {
-      "tr": "AFS Milano MCE 2026'da Sürdürülebilir HVAC Çözümleri Sergiledi",
-      "en": "AFS Showcases Sustainable HVAC Solutions at MCE Milano 2026"
-    },
-    "excerpt": {
-      "tr": "AFS, Milano MCE 2026 fuarında çevre dostu HVAC teknolojileriyle dikkat çekti ve uluslararası pazarda Türk teknolojisini temsil etti.",
-      "en": "AFS attracted attention at MCE Milano 2026 with eco-friendly HVAC technologies, representing Turkish innovation in the international market."
-    },
-    "content": {
-      "tr": "AFS şirketi, 24-27 Mart 2026 tarihlerinde Milano'da düzenlenen MCE Fuarı'nda çevre dostu HVAC teknolojileriyle önemli bir başarı elde etti. Uluslararası ısıtma, soğutma ve havalandırma sektörünün en prestijli etkinliklerinden biri olan bu fuarda şirket, sürdürülebilirlik odaklı ürün gamıyla ziyaretçilerin beğenisini topladı.\n\nFuar süresince AFS standını ziyaret eden sektör profesyonelleri, şirketin yenilikçi yaklaşımını yakından inceleme fırsatı buldu. Özellikle enerji verimliliği yüksek sistemler ve çevresel etkileri minimize eden teknolojiler, uluslararası müşteriler tarafından büyük ilgiyle karşılandı. Milano'daki bu etkinlik, AFS'nin global pazardaki konumunu güçlendiren önemli bir adım oldu.\n\nTürk HVAC sektörü açısından bu başarı, ülkemizin teknolojik kapasitesinin uluslararası arenada tanıtılması bakımından son derece değerli. AFS'nin MCE 2026'daki performansı, Türkiye merkezli şirketlerin dünya pazarlarında rekabet edebilecek nitelikte ürünler geliştirdiğinin somut bir kanıtı niteliğinde. Bu durum, sektörümüzün ihracat potansiyelini artıran pozitif bir gelişme olarak değerlendiriliyor.",
-      "en": "AFS company achieved significant success with its environmentally friendly HVAC technologies at the MCE Fair held in Milan from March 24-27, 2026. At this prestigious international heating, cooling, and ventilation industry event, the company garnered visitor appreciation with its sustainability-focused product range.\n\nDuring the fair, industry professionals visiting the AFS stand had the opportunity to closely examine the company's innovative approach. Energy-efficient systems and technologies that minimize environmental impact were particularly well-received by international customers. This Milan event marked an important step in strengthening AFS's position in the global market.\n\nThis success represents tremendous value for the Turkish HVAC sector in terms of showcasing our country's technological capabilities on the international stage. AFS's performance at MCE 2026 serves as concrete evidence that Turkey-based companies can develop products capable of competing in world markets. This development is considered a positive advancement that enhances our sector's export potential."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "AFS şirketinin MCE Milano 2026 fuarındaki standında sergilenen sürdürülebilir HVAC sistemleri",
-      "en": "Sustainable HVAC systems displayed at AFS company's booth at MCE Milano 2026 fair"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 15:34:35 +0300",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC",
-        "MCE Milano",
-        "sürdürülebilirlik",
-        "enerji verimliliği",
-        "Türk teknolojisi"
-      ],
-      "en": [
-        "HVAC",
-        "MCE Milano",
-        "sustainability",
-        "energy efficiency",
-        "Turkish technology"
-      ]
-    },
-    "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12278-afs-mce-2026-milano-fuarinda-suerdueruelebilir-ve-yenilikci-hvac-coezuemleriyle-oene-cikti",
-    "sourceName": "Enerji ve Tesisat"
-  },
-  {
-    "id": "dayco-systems-introduces-specialized-service-for-sensory-sensitive-customers",
-    "slug": {
-      "tr": "dayco-systems-duyusal-ihtiyaclari-olan-musteriler-icin-ozel-servis-baslatti",
-      "en": "dayco-systems-introduces-specialized-service-for-sensory-sensitive-customers"
-    },
-    "title": {
-      "tr": "Dayco Systems Duyusal İhtiyaçları Olan Müşteriler İçin Özel Servis Başlattı",
-      "en": "Dayco Systems Introduces Specialized Service for Sensory-Sensitive Customers"
-    },
-    "excerpt": {
-      "tr": "Dayco Systems, KultureCity ile iş birliği yaparak duyusal ihtiyaçları olan müşteriler için özel eğitimli teknisyenlerle hizmet sunuyor.",
-      "en": "Dayco Systems partners with KultureCity to provide specialized training for technicians serving customers with sensory sensitivities."
-    },
-    "content": {
-      "tr": "HVAC sektöründe faaliyet gösteren Dayco Systems, duyusal hassasiyeti olan müşterilere daha iyi hizmet sunmak amacıyla KultureCity ile stratejik bir ortaklık başlattı. Bu yenilikçi girişim, teknisyenlerin evde servis hizmeti verirken duyusal ihtiyaçları olan bireylere daha uygun yaklaşım sergilemelerini sağlamayı hedefliyor.\n\nKultureCity iş birliği kapsamında, Dayco'nun tüm saha teknisyenleri özel eğitim programlarından geçirilecek ve duyusal hassasiyeti olan müşterilerle etkileşimde kullanabilecekleri araç gereçlerle donatılacak. Bu eğitimler, otizm spektrum bozukluğu, ADHD ve diğer nörogelişimsel farklılıkları olan bireylerin evlerinde daha rahat hissedebilmeleri için gerekli teknikleri içeriyor.\n\nTürkiye'de de benzer uygulamaların yaygınlaşması, HVAC sektörünün sosyal sorumluluk anlayışını güçlendirebilir ve özel ihtiyaçları olan ailelerin teknik servis deneyimini iyileştirebilir. Bu tür yaklaşımlar, sektörün müşteri memnuniyetini artırırken, toplumsal farkındalığa da katkı sağlayarak rekabet avantajı yaratabilir.",
-      "en": "HVAC industry leader Dayco Systems has launched a groundbreaking partnership with KultureCity to enhance service delivery for customers with sensory sensitivities. This innovative initiative aims to equip field technicians with specialized skills and tools needed when providing in-home services to individuals with various sensory processing needs.\n\nUnder this collaboration, all Dayco technicians will undergo comprehensive training programs designed by KultureCity, receiving both educational resources and practical tools to better serve customers with sensory challenges. The training focuses on understanding autism spectrum disorders, ADHD, and other neurodevelopmental differences, enabling technicians to create more comfortable service experiences in customers' homes.\n\nThis pioneering approach in the HVAC sector demonstrates how technical service companies can expand their social responsibility initiatives while improving customer satisfaction. Such programs could serve as a model for the global HVAC industry, showing how companies can better serve diverse communities while maintaining high service standards and potentially gaining competitive advantages through inclusive practices."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "placeholder-1.webp",
-    "imageAlt": {
-      "tr": "Dayco Systems teknisyeninin evde müşteri ile duyarlı bir şekilde çalışırken gösterdiği profesyonel yaklaşım",
-      "en": "Dayco Systems technician demonstrating sensitive professional approach while working with customer at home"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 11:29:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC hizmet",
-        "duyusal ihtiyaçlar",
-        "teknisyen eğitimi",
-        "müşteri memnuniyeti",
-        "sosyal sorumluluk"
-      ],
-      "en": [
-        "HVAC service",
-        "sensory needs",
-        "technician training",
-        "customer experience",
-        "social responsibility"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23273-dayco-systems-launches-sensory-inclusive-at-home-service-with-kulturecity",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "watsco-announces-q1-2026-earnings-conference-call-date",
-    "slug": {
-      "tr": "watsco-2026-ilk-ceyrek-sonuclari-icin-toplanti-tarihi-acikladi",
-      "en": "watsco-announces-q1-2026-earnings-conference-call-date"
-    },
-    "title": {
-      "tr": "Watsco 2026 İlk Çeyrek Sonuçları için Toplantı Tarihi Açıkladı",
-      "en": "Watsco Announces Q1 2026 Earnings Conference Call Date"
-    },
-    "excerpt": {
-      "tr": "HVAC dağıtım lideri Watsco, 2026 birinci çeyrek mali sonuçlarını görüşmek üzere 28 Nisan'da yatırımcı toplantısı düzenleyecek.",
-      "en": "HVAC distribution leader Watsco will hold investor conference call on April 28 to discuss first quarter 2026 financial results."
-    },
-    "content": {
-      "tr": "HVAC sektörünün önde gelen dağıtım şirketi Watsco, 2026 yılının birinci çeyrek mali sonuçlarını değerlendirmek amacıyla yatırımcı toplantısı düzenleyeceğini duyurdu. Şirket, 28 Nisan 2026 Salı günü saat 10:00'da (EDT) gerçekleşecek konferans çağrısında üst düzey yöneticilerinin katılımıyla çeyreklik performansını analiz edecek.\n\nYatırımcılar ve sektör analistleri, Watsco'nun iklimlendirme ekipmanları dağıtımındaki performansını yakından takip ediyor. Şirketin çeyreklik sonuçları, özellikle Kuzey Amerika'daki HVAC pazarının genel durumu hakkında önemli ipuçları sunacak. Bu toplantıda, şirketin gelir rakamları, karlılık oranları ve gelecek dönem projeksiyonları detaylı olarak ele alınacak.\n\nWatsco'nun açıklayacağı sonuçlar, Türkiye'deki HVAC sektörü için de referans niteliği taşıyor. Küresel iklimlendirme pazarındaki trendler ve teknolojik gelişmeler, Türk şirketlerinin stratejik planlamalarını etkilerken, dağıtım kanallarındaki değişimler de yerel oyuncular tarafından yakından izleniyor. Sektör profesyonelleri, bu tür uluslararası toplantıları pazar dinamiklerini anlama açısından kritik buluyor.",
-      "en": "Leading HVAC distribution company Watsco has announced it will conduct an investor conference call to review its first quarter 2026 financial results. The company will hold the earnings call on Tuesday, April 28, 2026, at 10:00 a.m. EDT, featuring participation from senior executives to analyze quarterly performance.\n\nInvestors and industry analysts are closely monitoring Watsco's performance in air conditioning equipment distribution. The company's quarterly results will provide significant insights into the overall HVAC market conditions in North America. During this meeting, the company's revenue figures, profitability ratios, and future period projections will be discussed in detail.\n\nWatsco's upcoming results serve as a reference point for Turkey's HVAC sector as well. Global trends in the air conditioning market and technological developments influence strategic planning for Turkish companies, while changes in distribution channels are closely watched by local players. Industry professionals consider such international meetings critical for understanding market dynamics."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "Watsco şirket logosu ve HVAC ekipmanları",
-      "en": "Watsco company logo with HVAC equipment"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Fri, 10 Apr 2026 12:38:26 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "Watsco",
-        "HVAC sektörü",
-        "çeyrek sonuçları",
-        "yatırımcı toplantısı",
-        "iklimlendirme"
-      ],
-      "en": [
-        "Watsco",
-        "HVAC industry",
-        "quarterly results",
-        "earnings call",
-        "air conditioning"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23269-watsco-schedules-first-quarter-conference-call-on-tuesday-april-28-2026",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "wall-thickness-calculator-new-tool-for-hvac-industry",
-    "slug": {
-      "tr": "duvar-kalinligi-hesaplama-hvac-sektoru-icin-yeni-arac",
-      "en": "wall-thickness-calculator-new-tool-for-hvac-industry"
-    },
-    "title": {
-      "tr": "Duvar Kalınlığı Hesaplama: HVAC Sektörü İçin Yeni Araç",
-      "en": "Wall Thickness Calculator: New Tool for HVAC Industry"
-    },
-    "excerpt": {
-      "tr": "İnşaat sektöründe duvar kalınlığı optimizasyonu için geliştirilen hesaplama aracı, HVAC verimliliğini artırıyor.",
-      "en": "New wall thickness optimization calculator helps construction industry improve HVAC efficiency and energy performance."
-    },
-    "content": {
-      "tr": "İnşaat sektöründe enerji verimliliği konusunda yeni bir gelişme yaşanıyor ve bu durum HVAC sistemlerinin performansını doğrudan etkiliyor. Bir inşaat uzmanının geliştirdiği duvar kalınlığı hesaplama aracı, binaların ısıl performansını optimize etmek için matematiksel modelleme kullanıyor. Bu yenilik, Türkiye'deki yeşil bina sertifikasyonu hedefleri doğrultusunda önem kazanıyor.\n\nGeliştirilen hesaplama sistemi, farklı duvar kalınlıklarının maliyet-fayda analizini yaparak optimal değeri belirliyor. Sistem, yalıtım malzemesi özellikleri, iklim koşulları ve enerji tasarrufu hedeflerini birleştirerek sonuç üretiyor. Bu yaklaşım, HVAC sistemlerinin boyutlandırılması ve enerji tüketimi tahminleri için kritik veri sağlıyor.\n\nTürkiye'de Binalarda Enerji Performansı Yönetmeliği'nin güncellendiği bu dönemde, bu tür hesaplama araçları sektör profesyonelleri için vazgeçilmez hale geliyor. HVAC tasarımcıları, doğru duvar kalınlığı seçimi ile sistem kapasitelerini %15-20 oranında optimize edebiliyor. Bu durum hem ilk yatırım maliyetlerini düşürüyor hem de işletme giderlerini azaltıyor.",
-      "en": "A significant development in the construction industry is directly impacting HVAC system performance through innovative wall thickness optimization tools. A construction expert has developed a mathematical modeling calculator that determines optimal wall thickness for building thermal performance. This innovation gains importance in line with green building certification targets globally.\n\nThe developed calculation system determines optimal values by conducting cost-benefit analysis of different wall thicknesses. The system combines insulation material properties, climate conditions, and energy saving targets to produce results. This approach provides critical data for HVAC system sizing and energy consumption predictions.\n\nAs building energy performance regulations are being updated worldwide, such calculation tools are becoming indispensable for industry professionals. HVAC designers can optimize system capacities by 15-20% through proper wall thickness selection. This reduces both initial investment costs and operational expenses significantly."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "placeholder-1.webp",
-    "imageAlt": {
-      "tr": "Duvar kalınlığı hesaplama tablosu ve HVAC sistem şeması",
-      "en": "Wall thickness calculation spreadsheet and HVAC system diagram"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 19:01:18 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "duvar kalınlığı",
-        "HVAC optimizasyonu",
-        "enerji verimliliği",
-        "bina performansı",
-        "yalıtım hesaplama"
-      ],
-      "en": [
-        "wall thickness",
-        "HVAC optimization",
-        "energy efficiency",
-        "building performance",
-        "insulation calculation"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/wall-thickness-calculator-check-my-math",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "18-million-sf-campus-project-design-build-integration-success",
-    "slug": {
-      "tr": "18-milyon-mlik-kampus-projesi-tasarim-yapim-entegrasyonu",
-      "en": "18-million-sf-campus-project-design-build-integration-success"
-    },
-    "title": {
-      "tr": "1.8 Milyon m²'lik Kampüs Projesi: Tasarım-Yapım Entegrasyonu",
-      "en": "1.8 Million SF Campus Project: Design-Build Integration Success"
-    },
-    "excerpt": {
-      "tr": "Altı binadan oluşan dev kampüs projesinde tasarım-yapım entegrasyonu ile yüksek performans HVAC hedefleri nasıl korundu.",
-      "en": "How design-build integration preserved high-performance HVAC goals in a massive six-building campus development project."
-    },
-    "content": {
-      "tr": "Büyük ölçekli HVAC projelerinde tasarım-yapım entegrasyonu, yüksek performans hedeflerine ulaşmada kritik rol oynuyor ve 1.8 milyon metrekarelik kampüs geliştirme projesi bu yaklaşımın başarısını gözler önüne seriyor. Altı farklı binadan oluşan bu kompleks projesinde, erken planlama aşamasından itibaren koordineli çalışma yürütülmesi sayesinde enerji verimliliği ve iç hava kalitesi standartları korunabildi.\n\nProjenin HVAC sistemlerinde dikkat çeken nokta, tasarım ve uygulama ekiplerinin başlangıçtan itibaren ortak çalışması oldu. Bu entegre yaklaşım, bina performans kriterlerinin yapım sürecinde kaybolmasını engelledi ve her binanın kendine özgü iklimlendirme ihtiyaçlarına uygun çözümler geliştirilmesine olanak tanıdı. Özellikle merkezi sistem seçenekleri ile binanın enerji tüketim hedefleri arasındaki denge, koordineli planlama sayesinde sağlandı.\n\nTürkiye'de artan büyük ölçekli kampüs ve karma kullanım projelerinde bu deneyim önemli dersler sunuyor. Özellikle yeşil bina sertifikasyonu hedefleyen projelerde, HVAC sistemlerinin erken tasarım aşamasından itibaren entegre edilmesi, hem maliyet kontrolü hem de performans hedeflerine ulaşım açısından kritik öneme sahip. Sektör profesyonelleri için bu yaklaşım, gelecek projelerde referans alınabilecek bir model oluşturuyor.",
-      "en": "Design-build integration plays a crucial role in achieving high-performance goals in large-scale HVAC projects, as demonstrated by a massive 1.8 million square foot campus development that successfully maintained energy efficiency and indoor air quality standards through coordinated planning from the earliest phases. This complex six-building project showcased how integrated teamwork from design inception prevented performance criteria from being compromised during construction phases.\n\nThe standout feature of this project's HVAC systems was the collaborative approach between design and construction teams from the very beginning. This integrated methodology prevented building performance criteria from being lost during the construction process and enabled the development of customized solutions for each building's unique climate control requirements. The balance between central system options and the building's energy consumption targets was successfully achieved through coordinated planning efforts.\n\nThis experience offers valuable lessons for Turkey's growing large-scale campus and mixed-use projects. Particularly for developments targeting green building certification, integrating HVAC systems from the early design phase is critically important for both cost control and achieving performance objectives. For industry professionals, this approach creates a referenceable model for future projects in the evolving construction landscape."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "Büyük kampüs kompleksi binalarında modern HVAC sistemleri kurulumu",
-      "en": "Modern HVAC systems installation in large campus complex buildings"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 08:00:21 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "tasarım-yapım",
-        "kampüs HVAC",
-        "enerji verimliliği",
-        "büyük ölçekli projeler",
-        "entegre planlama"
-      ],
-      "en": [
-        "design-build",
-        "campus HVAC",
-        "energy efficiency",
-        "large-scale projects",
-        "integrated planning"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/article/design-build-lessons-from-a-1-8-million-square-foot-campus-neighborhood",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "steel-beam-foundation-wall-penetration-detailing-techniques",
-    "slug": {
-      "tr": "celik-kiris-temel-duvar-gecislerinde-detaylandirma-teknikleri",
-      "en": "steel-beam-foundation-wall-penetration-detailing-techniques"
-    },
-    "title": {
-      "tr": "Çelik Kiriş Temel Duvar Geçişlerinde Detaylandırma Teknikleri",
-      "en": "Steel Beam Foundation Wall Penetration Detailing Techniques"
-    },
-    "excerpt": {
-      "tr": "Yapı sektöründe çelik kiriş temel duvar geçişleri için kritik detaylandırma yöntemleri ve uygulamada dikkat edilecek noktalar.",
-      "en": "Critical detailing methods for steel beam foundation wall penetrations in construction and key application considerations."
-    },
-    "content": {
-      "tr": "Modern yapı projelerinde çelik kirişlerin temel duvarlarından geçiş detayları, yapısal bütünlük ve enerji verimliliği açısından kritik öneme sahiptir. Özellikle karma duvar sistemlerinde bu detaylandırma süreçleri doğru planlanmazsa ciddi yapısal sorunlar ortaya çıkabilmektedir.\n\nStandart duvar kompozisyonu alçı levha, 50x150 mm ahşap çerçeve, 12 mm yapısal levha, 75 mm mineral yün yalıtım, hava boşluklu cephe sistemi ve karma dış kaplama (tuğla, çelik panel, fiber çimento) içeren projelerde, çelik kirişlerin temel duvarlarından geçiş noktaları özel dikkat gerektirmektedir. Bu geçiş noktalarında su sızıntısı, termal köprü oluşumu ve yapısal zayıflamanın önlenmesi için uygun sızdırmazlık malzemeleri ve detaylandırma teknikleri kullanılması zorunludur.\n\nTürkiye'deki yapı sektöründe özellikle deprem yönetmelikleri ve enerji verimlilik standartları dikkate alındığında, çelik kiriş geçiş detayları daha da kritik hale gelmektedir. TS EN standartlarına uygun olarak hazırlanan bu detaylar, hem yapısal güvenliği hem de bina enerji performansını doğrudan etkilemektedir. Sektör profesyonellerinin bu konudaki teknik bilgilerini güncel tutması, kaliteli ve sürdürülebilir yapılar inşa edilmesi açısından büyük önem taşımaktadır.",
-      "en": "Steel beam penetrations through foundation walls in modern construction projects hold critical importance for structural integrity and energy efficiency. When these detailing processes are not properly planned in composite wall systems, serious structural issues can emerge.\n\nIn projects featuring standard wall composition of drywall, 2\"x6\" timber frame, 1/2\" structural sheathing, 3\" mineral wool insulation, rainscreen system, and mixed exterior cladding (brick, steel panels, fiber cement), steel beam penetration points through foundation walls require special attention. At these penetration points, appropriate sealing materials and detailing techniques must be utilized to prevent water infiltration, thermal bridging, and structural weakening.\n\nConsidering Turkey's seismic regulations and energy efficiency standards in the construction sector, steel beam penetration details become even more critical. These details, prepared in accordance with TS EN standards, directly affect both structural safety and building energy performance. It is crucial for industry professionals to keep their technical knowledge current in this area for constructing quality and sustainable buildings."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "placeholder-1.webp",
-    "imageAlt": {
-      "tr": "Çelik kirişin temel duvarından geçiş detayı teknik çizimi",
-      "en": "Technical drawing of steel beam foundation wall penetration detail"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 23:55:04 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "çelik kiriş",
-        "temel duvar",
-        "yapı detayları",
-        "sızdırmazlık",
-        "enerji verimliliği"
-      ],
-      "en": [
-        "steel beam",
-        "foundation wall",
-        "building details",
-        "waterproofing",
-        "energy efficiency"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/help-with-detailing-steel-beam-penetrations-in-the-foundation-wall",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "roof-insulation-in-historic-buildings-modern-solutions-techniques",
-    "slug": {
-      "tr": "tarihi-yapilarda-cati-izolasyonu-modern-cozumler-ve-teknikler",
-      "en": "roof-insulation-in-historic-buildings-modern-solutions-techniques"
-    },
-    "title": {
-      "tr": "Tarihi Yapılarda Çatı İzolasyonu: Modern Çözümler ve Teknikler",
-      "en": "Roof Insulation in Historic Buildings: Modern Solutions & Techniques"
-    },
-    "excerpt": {
-      "tr": "1960'lar döneminden kalma yapılarda çatı izolasyonu ve membran değişimi için modern HVAC çözümleri ve uygulamaları.",
-      "en": "Modern HVAC solutions for roof insulation and membrane replacement in 1960s buildings with technical applications."
-    },
-    "content": {
-      "tr": "Tarihi yapılarda enerji verimliliği artırımı, özellikle çatı izolasyonu konusunda uzmanlaşmış yaklaşımlar gerektiriyor. 1960'lı yıllardan kalma Mid-Century Modern mimari tarzındaki yapılarda, düz kil kiremit ve düz çatı kombinasyonları özel izolasyon teknikleri ile ele alınmalıdır.\n\nEski EPDM membranların yerine PVC membranların tercih edilmesi, sadece su yalıtımı açısından değil aynı zamanda termal performans bakımından da avantajlar sunuyor. Cathedral tavan tasarımına sahip bu tip yapılarda, geleneksel izolasyon yöntemlerinin yanı sıra modern spray foam ve rijit izolasyon levhaları gibi çözümler değerlendiriliyor. Türkiye'deki benzer dönem yapılarda da görülen bu mimari tarzda, iklim koşulları göz önünde bulundurularak izolasyon malzemesi seçimi kritik önem taşıyor.\n\nSektör uzmanları, bu tip projelerde öncelikle yapısal analiz yapılması gerektiğini vurguluyor. Türk HVAC sektörü için bu yaklaşım, özellikle büyük şehirlerdeki tarihi yapıların yenilenmesinde önemli bir iş kolu oluşturuyor. Modern izolasyon teknolojilerinin tarihi yapılarla uyumlu şekilde entegrasyonu, hem enerji tasarrufu hem de yapısal dayanıklılık açısından uzun vadeli çözümler sunmaktadır.",
-      "en": "Energy efficiency improvements in historic buildings require specialized approaches, particularly regarding roof insulation systems. Buildings from the 1960s featuring Mid-Century Modern architectural style, with their combination of flat clay tiles and flat roof sections, demand specific insulation techniques tailored to their unique structural characteristics.\n\nReplacing old EPDM membranes with PVC alternatives offers advantages not only in waterproofing but also in thermal performance optimization. In structures featuring cathedral ceiling designs, traditional insulation methods are being supplemented with modern solutions including spray foam applications and rigid insulation boards. This architectural style, also found in similar-period Turkish buildings, requires careful insulation material selection considering local climate conditions and structural requirements.\n\nIndustry experts emphasize the importance of conducting thorough structural analysis before implementing such projects. For the Turkish HVAC sector, this approach represents a significant business opportunity, particularly in renovating historic buildings in major cities. The integration of modern insulation technologies with historic structures provides long-term solutions that address both energy savings and structural durability requirements."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "placeholder-2.webp",
-    "imageAlt": {
-      "tr": "1960'lar döneminden kalma düz çatılı yapıda modern PVC membran ve izolasyon uygulaması",
-      "en": "Modern PVC membrane and insulation application on flat roof of 1960s building"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 13 Apr 2026 19:23:00 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "çatı izolasyonu",
-        "EPDM membran",
-        "PVC membran",
-        "enerji verimliliği",
-        "tarihi yapılar"
-      ],
-      "en": [
-        "roof insulation",
-        "EPDM membrane",
-        "PVC membrane",
-        "energy efficiency",
-        "historic buildings"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/insulation-for-old-flat-tile-roof-with-cathedral-ceiling",
-    "sourceName": "Green Building Advisor"
   }
 ]
