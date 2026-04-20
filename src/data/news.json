@@ -1,5 +1,464 @@
 [
   {
+    "id": "danfoss-axv-series-new-pressure-regulator-for-hvac-industry",
+    "slug": {
+      "tr": "danfoss-axv-serisi-hvac-sektorunde-yeni-basinc-regulatoru",
+      "en": "danfoss-axv-series-new-pressure-regulator-for-hvac-industry"
+    },
+    "title": {
+      "tr": "Danfoss AXV Serisi: HVAC Sektöründe Yeni Basınç Regülatörü",
+      "en": "Danfoss AXV Series: New Pressure Regulator for HVAC Industry"
+    },
+    "excerpt": {
+      "tr": "Danfoss'un yeni AXV mekanik basınç regülatörü, sıcak gaz bypass ve sıvı genleşme uygulamaları için geliştirildi.",
+      "en": "Danfoss introduces AXV mechanical pressure regulator designed for hot gas bypass and liquid expansion applications."
+    },
+    "content": {
+      "tr": "Danimarka merkezli HVAC devi Danfoss, soğutma sistemlerinde yeni bir çığır açacak AXV mekanik basınç regülatörünü piyasaya sundu. Bu yenilikçi ürün, hem sıcak gaz bypass hem de sıvı genleşme uygulamaları için özel olarak tasarlanmış olup, performans, dayanıklılık ve kolay kurulum özelliklerini bir arada sunuyor.\n\nAXV serisi, superheat regülatörü değil, tamamen basınç regülatörü olarak çalışacak şekilde mühendislik hesaplarıyla geliştirildi. Hava kurutucuları, su soğutma grupları, dondurma makineleri ve donmuş içecek dispenserleri gibi kritik uygulamalarda evaporatör basıncını kontrol ederek, tüm evaporatör yüzeyi boyunca stabil buharlaşma sıcaklığı sağlıyor. İki farklı varyanttan oluşan platform, AXV-H sıcak gaz bypass uygulamaları için tasarlanırken, AXV-I ise buharlaşma basıncına dayalı sıvı enjeksiyonu için optimize edildi.\n\nTürkiye HVAC sektörü açısından bu gelişme önemli fırsatlar sunuyor. AXV-H modelinin mevcut TUH ve TCHE sıcak gaz bypass valflerini değiştirme kapasitesi ve aynı uygulama aralığında %20'ye kadar daha yüksek kapasite sunması, yerel soğutma sistemleri üreticileri ve servis sağlayıcıları için maliyet etkin çözümler anlamına geliyor. Özellikle endüstriyel soğutma ve gıda sektöründe faaliyet gösteren Türk firmalar, bu teknoloji sayesinde daha verimli ve güvenilir sistemler kurabilecek.",
+      "en": "Denmark-based HVAC giant Danfoss has launched the revolutionary AXV mechanical pressure regulator, set to transform refrigeration systems. This innovative product is specifically engineered for both hot gas bypass and liquid expansion applications, combining superior performance, robustness, and simplified installation in a single solution.\n\nThe AXV series operates purely as a pressure regulator rather than a superheat regulator, engineered with precision calculations for optimal performance. Designed for critical applications including air dryers, water chillers, ice cream machines, and frozen beverage dispensers, it controls evaporator pressure to ensure stable evaporation temperature across the entire evaporator surface. The versatile platform features two dedicated variants: AXV-H for hot gas bypass applications and AXV-I optimized for liquid injection based on evaporation pressure.\n\nThis development presents significant opportunities for the global HVAC industry. The AXV-H model's capability to replace existing TUH and TCHE hot gas bypass valves while delivering up to 20% higher capacity within the same application range represents a cost-effective solution for refrigeration system manufacturers and service providers worldwide. Companies operating in industrial refrigeration and food sectors can leverage this technology to build more efficient and reliable systems, ultimately reducing operational costs and improving system stability across varying load conditions."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Danfoss AXV mekanik basınç regülatörü ve HVAC sistem bileşenleri",
+      "en": "Danfoss AXV mechanical pressure regulator and HVAC system components"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 12:43:43 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Danfoss AXV",
+        "basınç regülatörü",
+        "HVAC teknolojisi",
+        "soğutma sistemleri",
+        "sıcak gaz bypass"
+      ],
+      "en": [
+        "Danfoss AXV",
+        "pressure regulator",
+        "HVAC technology",
+        "refrigeration systems",
+        "hot gas bypass"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/products/expansion-valve-and-constant-pressure-regulator/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "hvac-excellence-strengthens-accreditation-with-new-assessment-team",
+    "slug": {
+      "tr": "hvac-excellence-akreditasyon-surecini-yeni-degerlendiricilerle-guclendiriyor",
+      "en": "hvac-excellence-strengthens-accreditation-with-new-assessment-team"
+    },
+    "title": {
+      "tr": "HVAC Excellence Akreditasyon Sürecini Yeni Değerlendiricilerle Güçlendiriyor",
+      "en": "HVAC Excellence Strengthens Accreditation with New Assessment Team"
+    },
+    "excerpt": {
+      "tr": "HVAC Excellence, eğitim programlarının kalitesini artırmak için yeni akreditasyon değerlendiricileri atadı.",
+      "en": "HVAC Excellence appoints new accreditation assessors to enhance educational program quality and industry alignment."
+    },
+    "content": {
+      "tr": "HVAC Excellence, sektördeki hızlı teknolojik gelişmelere ayak uydurmak için akreditasyon sürecine yeni değerlendiriciler eklediğini duyurdu. Bu hamle, Amerika Birleşik Devletleri'ndeki HVACR eğitim programlarının sektör ihtiyaçlarıyla uyumlu ve kaliteli kalmasını sağlamaya yönelik proaktif adımların bir parçası olarak değerlendiriliyor.\n\nProgramatik akreditasyon süreci, eğitim kurumları için basit bir sertifikadan çok daha fazlasını ifade ediyor. Bağımsız üçüncü taraf değerlendirmesi olarak sunulan bu sistem, okulların ulusal standartları ne derece karşıladığını objektif bir şekilde ölçümlüyor. Okul yöneticileri için akreditasyon, program kredibilitesi ve kurumsal hesap verebilirlik açısından güçlü bir gösterge işlevi görüyor.\n\nTürkiye'deki HVAC sektörü de benzer kalite standartları arayışında bulunuyor. Ülkemizde artan yapı yalıtım gereklilikleri ve enerji verimliliği odaklı projeler, kalifiye teknik personel ihtiyacını artırıyor. HVAC Excellence'ın bu yaklaşımı, Türkiye'deki meslek okulları ve teknik üniversiteler için de örnek teşkil edebilecek nitelikte. Sektörün gelişimi için eğitim kalitesinin artırılması ve uluslararası standartlara uyum sağlanması kritik önem taşıyor.",
+      "en": "HVAC Excellence has announced the appointment of new accreditation assessors to strengthen its programmatic accreditation process, responding to the rapidly evolving demands of the HVACR industry. This strategic move represents part of ongoing proactive efforts to ensure training programs across the United States remain current, rigorous, and properly aligned with industry requirements.\n\nProgrammatic accreditation extends far beyond a simple certification credential. As an independent, third-party validation system, it provides educational institutions with objective measurements of how effectively their programs meet established national standards. For school administrators, this accreditation process serves as a powerful indicator of program credibility and demonstrates institutional commitment to accountability.\n\nThe enhanced accreditation framework addresses the unprecedented pace of technological advancement in HVACR systems and service requirements. Educational programs must now prepare students for emerging technologies including smart building systems, advanced refrigeration methods, and energy-efficient climate control solutions. By expanding its assessment team, HVAC Excellence ensures that accreditation reviews can thoroughly evaluate programs against these evolving industry benchmarks, ultimately supporting institutions dedicated to delivering exceptional technical training."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "HVAC Excellence akreditasyon değerlendiricilerinin grup fotoğrafı",
+      "en": "Group photo of HVAC Excellence accreditation assessors"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 15:01:39 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC Eğitimi",
+        "Akreditasyon",
+        "Teknik Eğitim",
+        "Sektör Standartları",
+        "Kalite Güvencesi"
+      ],
+      "en": [
+        "HVAC Education",
+        "Accreditation",
+        "Technical Training",
+        "Industry Standards",
+        "Quality Assurance"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/strengthening-hvacr-education-through-leadership-and-accreditation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=strengthening-hvacr-education-through-leadership-and-accreditation",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "q-pac-multimotor-plenum-fan-receives-seismic-certification",
+    "slug": {
+      "tr": "q-pac-coklu-motor-plenum-fani-sismik-sertifika-aldi",
+      "en": "q-pac-multimotor-plenum-fan-receives-seismic-certification"
+    },
+    "title": {
+      "tr": "Q-PAC Çoklu Motor Plenum Fanı Sismik Sertifika Aldı",
+      "en": "Q-PAC Multimotor Plenum Fan Receives Seismic Certification"
+    },
+    "excerpt": {
+      "tr": "Q-PAC'ın çoklu motor plenum fanı HCAI OSP-0875 sismik sertifikası aldı. Kritik tesisler için yeni çözüm.",
+      "en": "Q-PAC's multimotor plenum fan receives HCAI OSP-0875 seismic certification for critical facilities and high-seismic zones."
+    },
+    "content": {
+      "tr": "Ticari HVAC fan sistemleri üretiminde lider konumda bulunan Q-PAC şirketi, Çoklu Motor Plenum Fanı (MPF) ürününün HCAI Özel Sismik Sertifika Ön Onayı OSP-0875 kapsamına girdiğini duyurdu. Bu gelişme, mühendislere kritik tesisler ve yüksek sismik aktivite bulunan bölgeler için sismik olarak onaylanmış fan seçeneği sunuyor.\n\nQ-PAC fanı, yapısal olmayan bileşenler için ICC-ES AC156 kriterlerine göre tam ölçekli üç boyutlu sarsıntı masası testine dayalı olarak HCAI'nin Özel Sismik Sertifika Ön Onay programı kapsamında OSP-0875 olarak sertifikalandırıldı. Nevada Üniversitesi Reno'da test edilen ve Pre Compliance tarafından IBC 2024 ve CBC 2025 için onaylanan sistem, bağımsız bir Kaliforniya yapı mühendisi ve HCAI tarafından da incelendi.\n\nOSP-0875 kapsamında Q-PAC Fanı, zemin seviyesi kurulumlar için SDS 2.50 g'ye, çatı veya yüksek kurulumlar için ise yükseklik etkilerini de içeren SDS 1.61 g'ye kadar sertifikalıdır. Bu değerler Amerika Birleşik Devletleri'nin neredeyse tamamını ve Kaliforniya'nın büyük bölümünü kapsamaktadır. Türkiye'nin deprem kuşağında yer alması göz önüne alındığında, bu tür sismik sertifikalı HVAC ekipmanlarına olan ihtiyaç ülkemiz için de kritik önem taşımaktadır.",
+      "en": "Q-PAC, a leading manufacturer of commercial HVAC fan systems, has announced that its Multimotor Plenum Fan (MPF) is now covered under HCAI Special Seismic Certification Preapproval OSP-0875. This development provides engineers with a seismically certified fan solution specifically designed for critical facilities and regions with high seismic activity.\n\nThe Q-PAC fan achieved certification through HCAI's Special Seismic Certification Preapproval program as OSP-0875, following comprehensive full-scale three-dimensional shake table testing according to ICC-ES AC156 standards for nonstructural components. The complete MPF system underwent rigorous testing at the University of Nevada, Reno, and received certification from Pre Compliance for IBC 2024 and CBC 2025 compliance. These results were subsequently reviewed and validated by an independent California structural engineer and HCAI.\n\nUnder the OSP-0875 certification, the Q-PAC Fan is approved for installations up to SDS 2.50 g at grade level and up to SDS 1.61 g for rooftop or elevated installations, including height considerations. This certification coverage encompasses nearly the entire United States and most of California, positioning the MPF as a code-compliant solution for both new construction and retrofit air handler projects that must meet International Building Code and California Building Code seismic requirements."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "Q-PAC çoklu motor plenum fanının sismik test laboratuvarında test edilmesi",
+      "en": "Q-PAC multimotor plenum fan undergoing seismic testing in laboratory"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 14:36:11 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "sismik sertifika",
+        "HVAC fanları",
+        "plenum fan",
+        "kritik tesisler",
+        "deprem güvenliği"
+      ],
+      "en": [
+        "seismic certification",
+        "HVAC fans",
+        "plenum fan",
+        "critical facilities",
+        "earthquake safety"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/q-pac-announces-seismic-certification-for-multimotor-plenum-fan/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=q-pac-announces-seismic-certification-for-multimotor-plenum-fan",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "hvac-workforce-crisis-trade-schools-could-be-the-solution",
+    "slug": {
+      "tr": "hvac-sektorunde-isgucu-krizi-meslek-okullari-cozum-olabilir",
+      "en": "hvac-workforce-crisis-trade-schools-could-be-the-solution"
+    },
+    "title": {
+      "tr": "HVAC Sektöründe İşgücü Krizi: Meslek Okulları Çözüm Olabilir",
+      "en": "HVAC Workforce Crisis: Trade Schools Could Be the Solution"
+    },
+    "excerpt": {
+      "tr": "HVAC müteahhitleri neden sürekli işçi bulma sorunu yaşıyor? Soğutma sektöründe kalifiye eleman sıkıntısının çözüm yolları.",
+      "en": "Why do HVAC contractors struggle with hiring? Exploring solutions to skilled worker shortage in commercial refrigeration."
+    },
+    "content": {
+      "tr": "HVAC sektöründeki müteahhitler, kalifiye işçi bulmakta yaşadıkları zorlukların temel nedeninin yanlış arama stratejileri olduğunu fark etmeye başlıyor. Özellikle ticari soğutma alanında deneyimli teknisyen eksikliği, şirketlerin büyüme planlarını sekteye uğratıyor ve mevcut çalışanlar üzerindeki iş yükünü artırıyor.\n\nMeslek liseleri ve teknik okullar, bu soruna kalıcı çözüm sunabilecek en önemli kaynak olarak öne çıkıyor. Geleneksel üniversite eğitimi yerine pratik beceriler kazandıran bu kurumlardan mezun olan gençler, HVAC sektörünün ihtiyaç duyduğu temel teknik bilgilere sahip oluyor. Ancak sektör temsilcileri, bu potansiyel çalışanlarla bağlantı kurmak için yeterince çaba göstermediğini kabul ediyor.\n\nTürkiye'deki HVAC sektörü de benzer sorunlarla karşı karşıya kalırken, özellikle büyük şehirlerdeki inşaat patlaması ve alışveri merkezi projelerinde ticari soğutma uzmanlarına olan talep hızla artıyor. Sektör liderleri, meslek okulları ile daha güçlü ortaklıklar kurmanın ve genç yeteneklere erken yatırım yapmanın, uzun vadeli başarı için kritik öneme sahip olduğunu vurguluyor. Bu yaklaşım, hem işsizlik sorununa çözüm üretecek hem de sektörün sürdürülebilir büyümesini destekleyecek.",
+      "en": "HVAC contractors are beginning to realize that their persistent hiring challenges stem primarily from flawed recruitment strategies rather than a genuine shortage of potential workers. The shortage of experienced technicians, particularly in commercial refrigeration, is disrupting company growth plans and increasing workload pressure on existing staff members.\n\nTrade schools and vocational training institutions emerge as the most promising solution to this persistent problem. Young graduates from these practical-focused programs possess the fundamental technical knowledge that the HVAC industry desperately needs, unlike traditional university graduates. However, industry representatives acknowledge they haven't invested sufficient effort in building connections with these potential employees and understanding their career motivations.\n\nTurkey's HVAC sector faces similar workforce challenges, with rapidly growing demand for commercial refrigeration specialists driven by urban construction booms and shopping center developments. Industry leaders emphasize that establishing stronger partnerships with vocational schools and investing early in young talent development is crucial for long-term success. This approach will not only address unemployment issues but also support the industry's sustainable growth trajectory in an increasingly competitive market."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Meslek okulu öğrencileri HVAC sistem bakımı yapıyor",
+      "en": "Trade school students performing HVAC system maintenance"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 16 Apr 2026 11:21:17 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC işgücü",
+        "meslek okulları",
+        "ticari soğutma",
+        "teknisyen eksikliği",
+        "sektör istihdamı"
+      ],
+      "en": [
+        "HVAC workforce",
+        "trade schools",
+        "commercial refrigeration",
+        "technician shortage",
+        "industry employment"
+      ]
+    },
+    "sourceUrl": "https://hvacknowitall.com/blog/trade-schools-commercial-refrigeration-and-managing-real-people",
+    "sourceName": "HVAC Know It All"
+  },
+  {
+    "id": "energy-management-association-hosts-free-building-optimization-webinar",
+    "slug": {
+      "tr": "enerji-yonetimi-dernegi-ucretsiz-bina-optimizasyonu-webinari-duzenliyor",
+      "en": "energy-management-association-hosts-free-building-optimization-webinar"
+    },
+    "title": {
+      "tr": "Enerji Yönetimi Derneği Ücretsiz Bina Optimizasyonu Webinarı Düzenliyor",
+      "en": "Energy Management Association Hosts Free Building Optimization Webinar"
+    },
+    "excerpt": {
+      "tr": "McKinstry'nin veri odaklı enerji tasarrufu yaklaşımı ve dijital araçları ücretsiz AIA onaylı webinarda ele alınacak.",
+      "en": "McKinstry's data-driven energy savings approach and digital tools to be featured in free AIA-approved webinar session."
+    },
+    "content": {
+      "tr": "Enerji Yönetimi Derneği ve CxAlloy işbirliğinde düzenlenecek ücretsiz webinar, veri tabanlı bina optimizasyonu konusunda sektör profesyonellerine önemli bilgiler sunacak.\n\nWebinar kapsamında McKinstry firmasının devreye alma (commissioning) temelli metodolojisi detaylandırılacak. Şirketin binalar ve kampüs alanlarında enerji tasarrufunu belirleme, izleme ve sürdürülebilir kılma konusundaki dijital çözümleri katılımcılarla paylaşılacak. Bu yaklaşım, bina performansını artırmak için veri analitiği ve akıllı teknolojileri bir araya getiriyor.\n\nAmerikan Mimarlar Enstitüsü (AIA) onayı taşıyan bu eğitim, Türkiye'deki HVAC sektörü için de değerli içgörüler sunuyor. Ülkemizde artan enerji verimliliği talepleri ve yeşil bina sertifikasyonu süreçleri göz önüne alındığında, bu tür veri odaklı optimizasyon yöntemleri yerli firmaların rekabet gücünü artırabilir. Webinar, sektör profesyonellerinin uluslararası en iyi uygulamaları öğrenmeleri için ücretsiz bir fırsat sunuyor.",
+      "en": "A collaborative webinar between the Energy Management Association and CxAlloy will provide industry professionals with crucial insights into data-driven building optimization strategies.\n\nThe session will showcase McKinstry's commissioning-based methodology in detail. The company's digital solutions for identifying, monitoring, and maintaining energy savings across building portfolios and campus environments will be shared with participants. This approach combines data analytics with smart technologies to enhance building performance outcomes.\n\nThis American Institute of Architects (AIA) approved training offers valuable insights for the global HVAC industry. As energy efficiency demands continue rising worldwide and green building certification processes expand, these data-driven optimization methods can strengthen companies' competitive positioning. The webinar presents a complimentary opportunity for industry professionals to learn international best practices and advanced building management techniques."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Dijital bina yönetim sistemi kontrol paneli ve enerji tasarrufu grafikleri",
+      "en": "Digital building management system control panel with energy savings charts"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 12:28:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "enerji verimliliği",
+        "bina optimizasyonu",
+        "HVAC teknolojileri",
+        "veri analitiği",
+        "commissioning"
+      ],
+      "en": [
+        "energy efficiency",
+        "building optimization",
+        "HVAC technology",
+        "data analytics",
+        "commissioning"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23308-how-mckinstry-uses-cxalloy-to-track-and-visualize-energy-savings-opportunities",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "attic-insulation-with-xps-and-rockwool-professional-application-guide",
+    "slug": {
+      "tr": "xps-ve-tas-yunu-ile-cati-izolasyonu-profesyonel-uygulama-rehberi",
+      "en": "attic-insulation-with-xps-and-rockwool-professional-application-guide"
+    },
+    "title": {
+      "tr": "XPS ve Taş Yünü ile Çatı İzolasyonu: Profesyonel Uygulama Rehberi",
+      "en": "Attic Insulation with XPS and Rockwool: Professional Application Guide"
+    },
+    "excerpt": {
+      "tr": "Çatı alanlarında XPS ve taş yünü kombinasyonu ile etkili termal izolasyon uygulaması için uzman tavsiyeleri ve teknik detaylar.",
+      "en": "Expert recommendations and technical details for effective thermal insulation using XPS and rockwool combination in attic spaces."
+    },
+    "content": {
+      "tr": "Çatı katı izolasyonunda XPS (Extruded Polystyrene) ve taş yünü kombinasyonu, soğuk iklim bölgelerinde optimum enerji verimliliği sağlayan etkili bir yöntem olarak öne çıkıyor. Bu hibrit yaklaşım, her iki malzemenin güçlü yönlerini birleştirerek üstün termal performans ve nem kontrolü sunuyor.\n\nXPS panellerin yüksek basınç dayanımı ve düşük su emme özelliği, taş yününün mükemmel ses yalıtımı ve yangın direnci ile birleştiğinde kapsamlı bir izolasyon sistemi oluşturuyor. Uygulama sırasında XPS panellerin sıcak köprüleri önlemek için sürekli katman oluşturması, taş yününün ise boşlukları doldurup hava sızıntılarını engellemesi kritik önem taşıyor. Özellikle kuzey bölgelerinde iklim koşullarının zorlu olduğu alanlarda bu kombinasyon, uzun vadeli performans ve dayanıklılık sağlıyor.\n\nTürkiye'deki HVAC sektöründe artan enerji verimliliği talepleri, bu tür hibrit izolasyon çözümlerinin popülaritesini artırıyor. Yeni yapı yönetmeliklerinin getirdiği sıkı termal performans kriterleri, müteahhitleri ve HVAC profesyonellerini innovative izolasyon teknikleri aramaya yönlendiriyor. Bu durum, XPS ve taş yünü kombinasyonunun ticari ve konut projelerinde daha yaygın kullanımına zemin hazırlıyor.",
+      "en": "The combination of XPS (Extruded Polystyrene) and rockwool in attic insulation emerges as an effective method that provides optimal energy efficiency in cold climate regions. This hybrid approach offers superior thermal performance and moisture control by combining the strengths of both materials.\n\nThe high compressive strength and low water absorption properties of XPS panels, combined with rockwool's excellent sound insulation and fire resistance, create a comprehensive insulation system. During application, it's crucial that XPS panels form a continuous layer to prevent thermal bridging, while rockwool fills gaps and prevents air leakage. Particularly in northern regions where climate conditions are harsh, this combination provides long-term performance and durability.\n\nThe increasing energy efficiency demands in Turkey's HVAC sector are boosting the popularity of such hybrid insulation solutions. Strict thermal performance criteria introduced by new building codes are driving contractors and HVAC professionals to seek innovative insulation techniques. This situation paves the way for more widespread use of XPS and rockwool combinations in commercial and residential projects."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Çatı katında XPS panelleri ve taş yünü ile yapılan profesyonel izolasyon uygulaması",
+      "en": "Professional insulation application with XPS panels and rockwool in attic space"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 14:24:46 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "çatı izolasyonu",
+        "XPS",
+        "taş yünü",
+        "enerji verimliliği",
+        "termal izolasyon"
+      ],
+      "en": [
+        "attic insulation",
+        "XPS",
+        "rockwool",
+        "energy efficiency",
+        "thermal insulation"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/insulating-attic-with-xps-and-rockwool",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "water-resistant-barriers-in-timber-frame-homes-key-application-considerations",
+    "slug": {
+      "tr": "ahsap-cerceveli-evlerde-su-bariyeri-uygulamalari-ve-dikkat-edilmesi-gerekenler",
+      "en": "water-resistant-barriers-in-timber-frame-homes-key-application-considerations"
+    },
+    "title": {
+      "tr": "Ahşap Çerçeveli Evlerde Su Bariyeri Uygulamaları ve Dikkat Edilmesi Gerekenler",
+      "en": "Water Resistant Barriers in Timber Frame Homes: Key Application Considerations"
+    },
+    "excerpt": {
+      "tr": "Ahşap çerçeveli evlerde su bariyeri seçimi ve uygulaması, yapının uzun vadeli dayanıklılığını doğrudan etkileyen kritik bir konudur.",
+      "en": "Water barrier selection and application in timber frame homes is a critical factor directly affecting long-term structural durability."
+    },
+    "content": {
+      "tr": "Ahşap çerçeveli yapılarda su dirençli bariyerlerin (WRB) doğru seçimi ve uygulaması, yapının uzun vadeli performansını belirleyen en kritik faktörlerden biridir. Özellikle küçük ölçekli konut projelerinde, açıkta bırakılan ahşap çerçevelerin korunması için uygun su bariyeri sistemi seçimi büyük önem taşımaktadır.\n\nGeleneksel ahşap çerçeveli yapılarda, çerçeve elemanlarının görünür bırakılması estetik açıdan tercih edilse de, nem kontrolü ve hava sızdırmazlığı konularında ek önlemler gerektirmektedir. Su bariyeri sisteminin ahşap yüzeylerle uyumlu şekilde detaylandırılması, özellikle bağlantı noktalarında ve geçiş bölgelerinde özel dikkat gösterilmesi gereken konulardır. Bu tip uygulamalarda, buhar geçirgenliği olan membranların tercih edilmesi, ahşabın doğal nefes almasına olanak tanırken nem birikimini önlemektedir.\n\nTürkiye'deki ahşap yapı sektöründe de benzer uygulamalar giderek yaygınlaşmaktadır. Özellikle dağlık bölgelerdeki tatil konutları ve sürdürülebilir yapı projelerinde, ahşap çerçeveli sistemlerin popülaritesi artmaktadır. Bu trend, yerli HVAC sektörü için yeni fırsatlar yaratırken, özel uygulamalar gerektiren bu tip yapılar için uzman bilgi birikiminin geliştirilmesi ihtiyacını da ortaya koymaktadır.",
+      "en": "Proper selection and application of water resistant barriers (WRB) in timber frame structures is one of the most critical factors determining long-term building performance. Particularly in small-scale residential projects, choosing appropriate water barrier systems to protect exposed timber frames is of paramount importance.\n\nIn traditional timber frame construction, leaving frame members exposed may be aesthetically preferred, but it requires additional measures for moisture control and air sealing. Detailing the water barrier system to be compatible with timber surfaces requires special attention, especially at connection points and transition areas. In such applications, choosing vapor-permeable membranes allows timber to breathe naturally while preventing moisture accumulation.\n\nSimilar applications are becoming increasingly common in Turkey's timber construction sector. Especially in vacation homes in mountainous regions and sustainable building projects, timber frame systems are gaining popularity. While this trend creates new opportunities for the domestic HVAC sector, it also highlights the need to develop specialized expertise for such structures that require unique applications."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Ahşap çerçeveli evde su dirençli bariyer uygulaması",
+      "en": "Water resistant barrier application in timber frame house"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 12:56:23 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ahşap çerçeve",
+        "su bariyeri",
+        "nem kontrolü",
+        "sürdürülebilir yapı",
+        "HVAC"
+      ],
+      "en": [
+        "timber frame",
+        "water barrier",
+        "moisture control",
+        "sustainable building",
+        "HVAC"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/questions-about-wrb-on-my-timber-framed-home",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "whole-home-dehumidifiers-combined-with-erv-systems",
+    "slug": {
+      "tr": "ev-tipi-nem-alma-cihazlari-ve-erv-sistemlerinin-birlikte-kullanimi",
+      "en": "whole-home-dehumidifiers-combined-with-erv-systems"
+    },
+    "title": {
+      "tr": "Ev Tipi Nem Alma Cihazları ve ERV Sistemlerinin Birlikte Kullanımı",
+      "en": "Whole Home Dehumidifiers Combined with ERV Systems"
+    },
+    "excerpt": {
+      "tr": "Yeni yapı evlerde ERV sistemi ile birlikte nem alma cihazlarının kullanımı optimal iç hava kalitesi sağlıyor.",
+      "en": "New construction homes benefit from combining ERV systems with dehumidifiers for optimal indoor air quality control."
+    },
+    "content": {
+      "tr": "Modern konut yapılarında enerji verimliliği kaygıları, ev tipi nem alma sistemleri ile enerji geri kazanım ventilatörlerinin (ERV) birlikte kullanımını gündeme getiriyor.\n\nYeni inşa edilen binalarda kurulan ERV sistemleri, sürekli düşük hızda çalışarak temel havalandırmayı sağlarken, banyo ve mutfak gibi yoğun nem oluşan alanlarda otomatik olarak hızını artırıyor. Bu durum, özellikle kapalı mekan tasarımlarında nem kontrolünün kritik önem kazandığını gösteriyor. ERV'ler dış havadan gelen nemi kontrol etse de, iç kaynaklardan oluşan fazla nem için ek çözümlere ihtiyaç duyuluyor.\n\nTürkiye'de artan enerji verimliliği standartları ve sıkı yalıtım uygulamaları, benzer teknoloji kombinasyonlarının yaygınlaşmasını destekliyor. HVAC sektöründe uzmanlar, özellikle yüksek nem oranlarının yaşandığı sahil bölgelerde bu tür hibrit sistemlerin daha fazla tercih edileceğini öngörüyor. Nem alma cihazları ile ERV'lerin entegre çalışması, hem enerji tasarrufu hem de optimal konfor koşulları sağlama açısından gelecekte standart hale gelebilir.",
+      "en": "Energy efficiency concerns in modern residential construction are driving the combined use of whole-home dehumidification systems with Energy Recovery Ventilators (ERVs).\n\nERV systems installed in newly constructed buildings operate continuously at low speeds to provide baseline ventilation while automatically boosting when moisture-intensive activities occur in bathrooms and kitchens. This highlights the critical importance of humidity control in tightly sealed building designs. While ERVs manage incoming outdoor humidity, additional solutions are needed to address excess moisture from internal sources.\n\nThe growing emphasis on energy efficiency standards and tight building envelopes is making such technology combinations increasingly relevant for HVAC professionals. Industry experts anticipate greater adoption of these hybrid systems, particularly in high-humidity regions where moisture management becomes challenging. The integrated operation of dehumidifiers with ERVs represents a promising approach for achieving both energy savings and optimal indoor comfort conditions in future building designs."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "ERV sistemi ile entegre edilmiş ev tipi nem alma cihazının şematik görünümü",
+      "en": "Schematic view of whole-home dehumidifier integrated with ERV system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 11:43:19 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ERV sistem",
+        "nem alma cihazı",
+        "enerji verimliliği",
+        "iç hava kalitesi",
+        "HVAC teknolojisi"
+      ],
+      "en": [
+        "ERV system",
+        "dehumidifier",
+        "energy efficiency",
+        "indoor air quality",
+        "HVAC technology"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/whole-home-dehumidifier-w-erv",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "prefab-construction-fails-to-meet-cost-reduction-expectations",
+    "slug": {
+      "tr": "prefabrik-yapi-teknolojisi-maliyet-beklentilerini-karsilayamadi",
+      "en": "prefab-construction-fails-to-meet-cost-reduction-expectations"
+    },
+    "title": {
+      "tr": "Prefabrik Yapı Teknolojisi Maliyet Beklentilerini Karşılayamadı",
+      "en": "Prefab Construction Fails to Meet Cost Reduction Expectations"
+    },
+    "excerpt": {
+      "tr": "Endüstriyel prefabrik yapım yöntemleri beklenen maliyet düşüşünü sağlayamadı. Türkiye HVAC sektörüne etkileri değerlendiriliyor.",
+      "en": "Industrial prefab construction methods failed to deliver expected cost savings. Impact on Turkey's HVAC sector being evaluated."
+    },
+    "content": {
+      "tr": "Prefabrik yapı teknolojilerinin inşaat maliyetlerinde sağlayacağı devrim, sektörün beklentilerini karşılamakta yetersiz kaldı. Endüstriyel üretim mantığının geleneksel şantiye ortamına uyarlanması, öngörülen tasarrufları gerçekleştirmede önemli engeller yaratmıştır.\n\nGeleneksel şantiye koşullarında faaliyet gösteren HVAC firmaları, prefabrik sistemlerin montaj süreçlerinde beklenmedik karmaşıklıklarla karşılaştıklarını bildirmektedir. Standartlaştırılmış üretim süreçlerinin her proje için farklı olan ihtiyaçlarla uyumlu hale getirilmesi, ek maliyet kalemleri oluşturmaktadır. Ayrıca, kalifiye işgücü ihtiyacı ve özel ekipman gereksinimleri de maliyet artışlarına neden olmaktadır.\n\nTürkiye'deki HVAC sektörü temsilcileri, prefabrik teknolojilerin belirli proje türlerinde avantaj sağladığını, ancak yaygın kullanım için daha fazla gelişime ihtiyaç duyduğunu belirtmektedir. Özellikle büyük ölçekli konut projelerinde kısmi başarılar elde edilse de, özel projelerde hala geleneksel yöntemlerin tercih edildiği görülmektedir. Sektör uzmanları, teknolojinin olgunlaşması için daha fazla zaman ve yatırım gerektiğini vurgulamaktadır.",
+      "en": "The revolutionary cost reductions promised by prefabricated construction technologies have fallen short of industry expectations. Adapting industrial production logic to traditional construction site environments has created significant barriers to achieving the anticipated savings.\n\nHVAC companies operating under conventional site conditions report encountering unexpected complexities during prefab system installations. Adapting standardized production processes to meet the unique requirements of each project creates additional cost items. Furthermore, skilled labor requirements and specialized equipment needs contribute to cost escalations.\n\nRepresentatives from Turkey's HVAC sector indicate that prefab technologies provide advantages in certain project types but require further development for widespread adoption. While partial success has been achieved in large-scale residential projects, traditional methods remain preferred for custom applications. Industry experts emphasize that more time and investment are needed for the technology to mature."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Prefabrik HVAC sistemlerinin şantiyede montaj işlemi",
+      "en": "Installation of prefabricated HVAC systems on construction site"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 08:00:44 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "prefabrik HVAC",
+        "inşaat maliyetleri",
+        "endüstriyel yapı",
+        "HVAC teknolojileri",
+        "yapı sektörü"
+      ],
+      "en": [
+        "prefab HVAC",
+        "construction costs",
+        "industrial building",
+        "HVAC technologies",
+        "construction industry"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/article/the-limits-of-industrial-thinking-in-a-site-built-world",
+    "sourceName": "Green Building Advisor"
+  },
+  {
     "id": "apm-steam-and-aquatomic-form-alliance-for-thermal-energy-solutions",
     "slug": {
       "tr": "apm-steam-ve-aquatomic-termal-enerji-cozumlerinde-guc-birligi",
@@ -29,7 +488,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Tue, 14 Apr 2026 13:46:33 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2089,460 +2548,5 @@
     },
     "sourceUrl": "https://airnewsturkey.com/2026/04/treemec-geleneksellesen-teknik-seminerlerine-bir-yenisini-daha-ekledi/",
     "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "hvac-industry-faces-new-fire-risks-solar-panel-and-battery-hazards-emerge",
-    "slug": {
-      "tr": "hvac-sektoru-yeni-yangin-riskleriyle-karsi-karsiya-solar-panel-ve-batarya-tehlik",
-      "en": "hvac-industry-faces-new-fire-risks-solar-panel-and-battery-hazards-emerge"
-    },
-    "title": {
-      "tr": "HVAC Sektörü Yeni Yangın Riskleriyle Karşı Karşıya: Solar Panel ve Batarya Tehlikesi",
-      "en": "HVAC Industry Faces New Fire Risks: Solar Panel and Battery Hazards Emerge"
-    },
-    "excerpt": {
-      "tr": "Güneş panelleri ve lityum bataryalar HVAC sistemlerinde yeni yangın riskleri yaratıyor. Son beş yılda hasar taleplerinin %36'sı yangın kaynaklı.",
-      "en": "Solar panels and lithium batteries create new fire risks in HVAC systems. Fire accounts for 36% of insurance claims over the past five years."
-    },
-    "content": {
-      "tr": "HVAC sektörü, güneş panelleri ve lityum-iyon batarya teknolojilerinin yaygınlaşmasıyla birlikte daha önce hiç karşılaşmadığı yangın riskleriyle yüzleşiyor. Küresel sigorta verilerine göre, son beş yıllık dönemde yangınlar hasar taleplerinin yüzde 36'sını oluşturarak en maliyetli zarar nedenlerinin başında gelmeye devam ediyor.\n\nEnerji depolama sistemlerinde meydana gelen 'termal kaçış' olayları, HVAC uzmanlarının acil olarak dikkat etmesi gereken kritik bir güvenlik sorunu haline geldi. Bu durum, batarya hücrelerinde başlayan kontrolsüz ısı artışının komşu hücrelere yayılmasıyla zincirleme patlamalara yol açabiliyor. Özellikle çatı üstü güneş enerjisi sistemleriyle entegre edilen HVAC kurulumlarında, invertörlerin yetersiz soğutulması ve hatalı montaj uygulamaları riski katlanarak artırıyor. Üretim kusurları, yanlış şarj prosedürleri veya mekanik hasarların neden olduğu bu yangınlar, geleneksel söndürme yöntemleriyle müdahale edilemediği için toksik gazlar yayarak büyük çapta zararlara sebep oluyor.\n\nAvrupa'daki acil durum servislerinden gelen istatistikler, durumun ciddiyetini gözler önüne seriyor: İngiltere'de her 48 saatte bir güneş paneli bağlantılı yangın vakası bildiriliyor. Türkiye'de de artan güneş enerjisi yatırımları ve HVAC sektöründe hibrit sistemlere geçişle birlikte, sektör profesyonellerinin bu yeni risk faktörlerine karşı önlem geliştirmesi ve teknik personelin özel eğitim alması kaçınılmaz hale geldi.",
-      "en": "The HVAC industry is confronting unprecedented fire hazards as solar panels and lithium-ion battery technologies become increasingly integrated into building systems. According to global insurance data, fires continue to dominate damage claims, accounting for 36 percent of all reported losses over the past five years.\n\nThermal runaway events in energy storage systems have emerged as a critical safety concern requiring immediate attention from HVAC professionals. This phenomenon occurs when uncontrolled heat generation in battery cells spreads to adjacent units, potentially triggering cascading explosions. Rooftop solar installations integrated with HVAC systems face particularly elevated risks due to inadequate inverter cooling and improper installation practices. These fires, stemming from manufacturing defects, incorrect charging procedures, or physical damage, resist conventional suppression methods while releasing toxic gases that cause extensive property damage.\n\nEmergency service statistics from Europe underscore the severity of this trend: the United Kingdom reports solar panel-related fire incidents every 48 hours on average. As Turkey expands its renewable energy investments and the HVAC sector transitions toward hybrid systems, industry professionals must develop comprehensive risk mitigation strategies and ensure specialized training for technical personnel to address these emerging fire hazards effectively."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Çatı üstündeki güneş panelleri ve HVAC sistemlerinin yangın güvenliği açısından değerlendirilmesi",
-      "en": "Fire safety assessment of rooftop solar panels and HVAC systems integration"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 15 Apr 2026 14:52:39 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "yangın güvenliği",
-        "güneş paneli riskleri",
-        "lityum batarya",
-        "HVAC güvenlik",
-        "termal kaçış"
-      ],
-      "en": [
-        "fire safety",
-        "solar panel risks",
-        "lithium battery",
-        "HVAC security",
-        "thermal runaway"
-      ]
-    },
-    "sourceUrl": "https://sogutmadunyasi.com/gunes-panelleri-lityum-bataryalar-ve-yapay-zeka-cipleri-yangin-riskini-artiriyor/",
-    "sourceName": "Soğutma Dünyası"
-  },
-  {
-    "id": "uk-heat-pump-association-demands-commercial-sector-support-from-government",
-    "slug": {
-      "tr": "birlesik-krallik-isi-pompasi-birligi-ticari-sektor-icin-destek-talep-etti",
-      "en": "uk-heat-pump-association-demands-commercial-sector-support-from-government"
-    },
-    "title": {
-      "tr": "Birleşik Krallık Isı Pompası Birliği Ticari Sektör İçin Destek Talep Etti",
-      "en": "UK Heat Pump Association Demands Commercial Sector Support From Government"
-    },
-    "excerpt": {
-      "tr": "HPA UK, ticari ve endüstriyel ısı pompaları için hükümet desteği ve açık yol haritası talep ediyor. 2050 hedefleri için elektrikleşme şart.",
-      "en": "HPA UK demands government support and clear roadmap for commercial heat pumps. Electrification essential for 2050 climate targets achievement."
-    },
-    "content": {
-      "tr": "Birleşik Krallık Isı Pompası Birliği (HPA UK), ticari ve endüstriyel alanların elektrikleştirilmesi için hükümetten acil destek talebinde bulundu. Yakın zamanda birleşen ticaret örgütü, ısı pompalarının konut dışı sektörlerdeki yaygınlaştırılması için net politika yönlendirmesi, uyumlu teşvikler ve sürdürülebilir pratik destek istiyor.\n\nHPA UK'nin açıklamalarına göre, ısı pompası satışları ülkede artmaya devam etse de büyük çoğunluk konut uygulamalarında gerçekleşiyor. Ticari ve endüstriyel alanlardaki ısı pompaları, ülkenin toplam ısı talebinin önemli bir payını temsil etmesine rağmen pazarın küçük bir bölümünü oluşturuyor. İklim Değişikliği Komitesi'nin projeksiyonlarına göre, 2040 yılına kadar konut dışı ısıtmanın %88'inin düşük karbonlu kaynaklardan sağlanması bekleniyor.\n\nBirlik, konut dışı ısıtmanın elektrikleştirilmesi için ulusal bir planın yayınlanmasını ve bunu destekleyecek özel bir görev gucunun kurulmasını öneriyor. Ayrıca, tüm ticari enerji kullanıcıları için elektrik maliyetlerinin fosil yakıtlara göre düşürülmesini ve kamu sektörü karbonsuzlaştırma programının kapanmasının ardından gelecek finansman mekanizmalarında netlik sağlanmasını talep ediyor. Bu gelişmeler, Türkiye'deki HVAC sektörü için de önemli ipuçları sunuyor, özellikle ülkemizin yeşil dönüşüm hedefleri doğrultusunda benzer politika adımlarının değerlendirilmesi gerekebilir.",
-      "en": "The Heat Pump Association UK (HPA UK) has urgently called for government support to accelerate electrification in commercial and industrial sectors. The recently merged trade organization demands clear policy direction, aligned incentives, and sustained practical support for expanding heat pump deployment beyond residential applications.\n\nAccording to HPA UK's statements, while heat pump sales continue growing nationwide, the vast majority occurs in residential applications. Commercial and industrial heat pumps represent only a small market fraction despite accounting for a significant share of the country's total heat demand. Climate Change Committee projections indicate that 88% of non-residential heating should come from low-carbon sources by 2040.\n\nThe association recommends publishing a national plan for non-domestic heating electrification supported by a dedicated task force. Additionally, they demand reducing electricity costs relative to fossil fuels for all commercial energy users and clarifying future funding mechanisms following the announced closure of the public sector decarbonization scheme. These developments offer important insights for Turkey's HVAC sector, particularly as similar policy steps may need evaluation in line with our country's green transformation objectives."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Ticari binada kurulu büyük kapasiteli ısı pompası sistemi",
-      "en": "Large capacity heat pump system installed in commercial building"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 13:38:14 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ısı pompası",
-        "ticari HVAC",
-        "karbonsuzlaştırma",
-        "enerji politikası",
-        "elektrikleşme"
-      ],
-      "en": [
-        "heat pump",
-        "commercial HVAC",
-        "decarbonization",
-        "energy policy",
-        "electrification"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/uk-news/hpa-seeks-support-for-non-domestic-heat-pumps/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "lg-expands-therma-v-heat-pump-series-with-new-residential-models",
-    "slug": {
-      "tr": "lg-therma-v-isi-pompasi-serisini-yeni-modellerde-genisletti",
-      "en": "lg-expands-therma-v-heat-pump-series-with-new-residential-models"
-    },
-    "title": {
-      "tr": "LG, Therma V Isı Pompası Serisini Yeni Modellerde Genişletti",
-      "en": "LG Expands Therma V Heat Pump Series with New Residential Models"
-    },
-    "excerpt": {
-      "tr": "LG Electronics, İngiltere'de Therma V isı pompası serisine konut ve ticari uygulamalar için iki yeni model ekledi.",
-      "en": "LG Electronics adds two new heat pump models to its Therma V range for residential and commercial applications in the UK market."
-    },
-    "content": {
-      "tr": "LG Electronics, İngiltere pazarında Therma V isı pompası ürün gamını konut ve ticari sektörlere yönelik iki yeni model ile genişletme kararı aldı. Şirket, hem bireysel ev kullanıcıları hem de büyük ölçekli projeler için optimize edilmiş çözümler sunuyor.\n\nYeni ürün serisinin öne çıkan modeli olan Therma V Monobloc S, konutlar için tasarlanmış R290 soğutucu gazlı hava-su kaynaklı isı pompasıdır. 5kW ile 16kW arasında değişen kapasitelerde sunulan bu model, önceki nesile kıyasla %41'e varan oranda daha küçük boyutlarda ve %22 daha hafif tasarıma sahip. Sistem -25°C'ye kadar çalışabilme kabiliyeti gösterirken, 75°C'ye kadar su sıcaklığı sağlayabiliyor. A+++/A++ ErP enerji sınıfına sahip olan cihaz, LG ThinQ uygulaması üzerinden kontrol edilebiliyor.\n\nTicari uygulamalar için geliştirilen Therma V R32 Monobloc ise 51kW ısıtma kapasitesi sunuyor. Sadece 1.35m² alan kaplayan ve 335kg ağırlığında olan bu model, çok katlı konutlar, ofisler ve okullar gibi yüksek enerji talebi olan mekanlar için tasarlandı. -10°C'ye kadar %100 ısıtma kapasitesi koruyabilen sistem, kademeli bağlantı ile 408kW'a kadar proje ihtiyaçlarına cevap verebiliyor. Türkiye'nin artan enerji verimliliği hedefleri ve sürdürülebilir ısıtma çözümlerine yönelik politikaları göz önüne alındığında, bu tür yenilikçi isı pompası teknolojilerinin yerel pazar için de önem taşıdığı değerlendiriliyor.",
-      "en": "LG Electronics has announced the expansion of its Therma V heat pump product line in the UK market with two new models targeting both residential and commercial sectors. The company is delivering optimized solutions for individual homeowners as well as large-scale project applications.\n\nThe standout model in the new product series is the Therma V Monobloc S, an R290 refrigerant air-to-water heat pump designed for residential use. Available in capacities ranging from 5kW to 16kW, this model features a design that is up to 41% more compact and 22% lighter compared to its predecessor. The system demonstrates operational capability down to -25°C while providing water temperatures up to 75°C. With an A+++/A++ ErP energy rating, the unit can be controlled through the LG ThinQ application.\n\nDeveloped for commercial applications, the Therma V R32 Monobloc delivers 51kW heating capacity. Occupying only 1.35m² of space and weighing 335kg, this model is designed for high-energy-demand environments such as multi-story residential buildings, offices, and schools. The system maintains 100% heating capacity down to -10°C and can address project requirements up to 408kW through cascade connections. Remote monitoring and diagnostics are managed through LG's BECON cloud platform, enabling installers to perform maintenance and updates efficiently."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "LG Therma V isı pompası sistemlerinin dış mekan kurulumu",
-      "en": "LG Therma V heat pump systems outdoor installation"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 12:50:59 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "LG isı pompası",
-        "Therma V",
-        "R290 soğutucu gaz",
-        "enerji verimliliği",
-        "HVAC teknolojisi"
-      ],
-      "en": [
-        "LG heat pump",
-        "Therma V",
-        "R290 refrigerant",
-        "energy efficiency",
-        "HVAC technology"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/products/lg-expands-therma-v-heat-pump-range/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "nordic-climate-acquires-ten-have-installatie-in-netherlands",
-    "slug": {
-      "tr": "nordic-climate-hollandada-ten-have-installatieyi-satin-aldi",
-      "en": "nordic-climate-acquires-ten-have-installatie-in-netherlands"
-    },
-    "title": {
-      "tr": "Nordic Climate Hollanda'da Ten Have Installatie'yi Satın Aldı",
-      "en": "Nordic Climate Acquires Ten Have Installatie in Netherlands"
-    },
-    "excerpt": {
-      "tr": "İsveçli HVAC devi Nordic Climate, Amsterdam merkezli Ten Have Installatie'yi satın alarak Hollanda'daki operasyonlarını genişletti.",
-      "en": "Swedish HVAC giant Nordic Climate expands Netherlands operations by acquiring Amsterdam-based Ten Have Installatie BV."
-    },
-    "content": {
-      "tr": "İsveçli HVAC sektörü lideri Nordic Climate Group, Hollanda pazarındaki büyümesini sürdürerek Amsterdam merkezli Ten Have Installatie BV şirketini bünyesine kattı. Bu stratejik satın alma, Nordic Climate'ın Hollanda'daki 14. şirketini oluşturuyor ve grubun bölgedeki toplam yıllık cirosunu yaklaşık 100 milyon Euro'ya çıkarıyor.\n\n2002 yılında kurulan Ten Have Installatie, klima, ısı pompası, hava işleme ve ısıtma sistemlerinin tasarımı, kurulumu ve bakımı konularında uzmanlaşmış bir firma olarak ticari segmentte güçlü bir konum edinmiş durumda. Şirket, otomotiv, perakende ve gayrimenkul sektörlerinden müşterilere hizmet veriyor ve teknik yetenekleri ile pazar konumu Nordic Climate'ın dikkatini çekti.\n\nNordic Climate Group Hollanda CEO'su Erik Snijder, Ten Have'ın iyi yönetilen bir şirket olduğunu ve mevcut operasyonlarını tamamlayıcı nitelikte olduğunu belirtti. Şirketin yerel liderlik yapısını koruyarak faaliyetlerini sürdüreceğini, ancak daha büyük bir grubun parçası olmanın avantajlarından yararlanacağını açıkladı. Bu gelişme, Türk HVAC sektörü için de önemli bir referans oluştururken, uluslararası konsolidasyon trendinin devam ettiğini gösteriyor.",
-      "en": "Swedish HVAC industry leader Nordic Climate Group continues its Netherlands market expansion by acquiring Amsterdam-based Ten Have Installatie BV. This strategic acquisition marks Nordic Climate's 14th company operation in the Netherlands, bringing the group's combined annual revenue in the region to approximately €100 million.\n\nFounded in 2002, Ten Have Installatie specializes in the design, installation, and maintenance of air conditioning, heat pump, air handling, and heating systems, establishing a strong position in the commercial segment. The company serves clients across automotive, retail, and real estate industries, with its solid technical capabilities and market position attracting Nordic Climate's attention.\n\nErik Snijder, CEO of Nordic Climate Group Netherlands, emphasized that Ten Have is a well-managed company that complements their existing operations while adding valuable expertise to the organization. He stated that the company will maintain its local leadership structure and customer relationships while benefiting from being part of a larger group. This development represents a significant reference point for the Turkish HVAC sector, demonstrating the continued international consolidation trend in the industry."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Nordic Climate Group logo ve Amsterdam şehir manzarası",
-      "en": "Nordic Climate Group logo with Amsterdam cityscape"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 12:31:45 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "Nordic Climate",
-        "HVAC satın alma",
-        "Hollanda HVAC",
-        "klima sektörü",
-        "ısı pompası"
-      ],
-      "en": [
-        "Nordic Climate",
-        "HVAC acquisition",
-        "Netherlands HVAC",
-        "climate control",
-        "heat pump systems"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/world-news/nordic-climate-expands-dutch-interests/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "aiir-products-partners-with-airtelligence-to-transform-hvac-sector",
-    "slug": {
-      "tr": "aiir-products-ve-airtelligence-ortakligi-hvac-sektorunu-donusturuyor",
-      "en": "aiir-products-partners-with-airtelligence-to-transform-hvac-sector"
-    },
-    "title": {
-      "tr": "AIIR Products ve AirTelligence Ortaklığı HVAC Sektörünü Dönüştürüyor",
-      "en": "AIIR Products Partners with AirTelligence to Transform HVAC Sector"
-    },
-    "excerpt": {
-      "tr": "Yapay zeka destekli HVAC çözümleri konaklama, yaşam alanları ve öğrenci konutlarında enerji verimliliğini artırıyor.",
-      "en": "AI-powered HVAC solutions boost energy efficiency in hospitality, residential, and student housing sectors."
-    },
-    "content": {
-      "tr": "Yapay zeka teknolojisine dayalı ısıtma ve soğutma sistemleri üreticisi AIIR Products, hava kontrol sistemleri alanında faaliyet gösteren AirTelligence ile stratejik ortaklık imzaladı. Bu işbirliği, konaklama sektörü, yüksek katlı residanslar, öğrenci konutları ve yaşlı bakım tesisleri gibi büyüme potansiyeli yüksek segmentlerde akıllı HVAC teknolojilerinin yaygınlaşmasını hedefliyor.\n\n2012 yılından bu yana Amerika Birleşik Devletleri'nin güneybatı bölgesinde faaliyet gösteren AirTelligence, üreticiler, mühendisler ve mimari danışmanlarla yakın çalışarak laboratuvar kalitesinde hava kontrol sistemleri sunuyor. Şirket, farklı sistemleri entegre ederek üstün performans sağlayan anahtar teslimi çözümler geliştiriyor. AIIR ile gerçekleştirilen bu ortaklık sayesinde, iç hava kalitesini artıran, enerji tüketimini azaltan ve kullanıcı konforunu maksimize eden entegre HVAC paketleri sunulacak.\n\nAIIR Holdings CEO'su Trevor Schick, \"Yeni bölgelere genişlerken, ürünlerimizin temelinde olan hassasiyet, güvenilirlik ve özen gösterenlerin yanında olmaya odaklanıyoruz\" açıklamasında bulundu. Bu gelişme, Türkiye'deki HVAC sektörü için de önemli ipuçları taşıyor. Ülkemizde büyüyen otel zincirleri, rezidans projeleri ve öğrenci yurtları gibi alanlarda enerji verimli ve akıllı hava kontrol sistemlerine olan talep artıyor. Yapay zeka destekli HVAC teknolojilerinin yaygınlaşması, Türk inşaat sektöründe de benzer inovasyonları tetikleyebilir.",
-      "en": "AI-powered heating and cooling systems manufacturer AIIR Products has signed a strategic partnership with AirTelligence, a specialist in air control systems. This collaboration aims to expand smart HVAC technologies in high-growth segments including hospitality sector, high-rise residential buildings, student housing, and senior living facilities.\n\nOperating in the southwestern United States since 2012, AirTelligence works closely with manufacturers, engineers, and architectural consultants to deliver laboratory-grade air control systems. The company develops turnkey solutions that integrate various systems to achieve superior performance. Through this partnership with AIIR, integrated HVAC packages that enhance indoor air quality, reduce energy consumption, and maximize user comfort will be offered.\n\nTrevor Schick, CEO of AIIR Holdings, stated, \"As we expand into new territories, we focus on collaborating with those who demonstrate the same level of precision, reliability, and care that our products are built upon.\" This development also carries important implications for Turkey's HVAC sector. The demand for energy-efficient and smart air control systems is growing in Turkey's expanding hotel chains, residential projects, and student dormitories. The proliferation of AI-powered HVAC technologies could trigger similar innovations in the Turkish construction industry."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "Yapay zeka destekli HVAC sistemi kontrol paneli ve akıllı bina teknolojileri",
-      "en": "AI-powered HVAC system control panel and smart building technologies"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 12:51:59 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC teknolojisi",
-        "yapay zeka",
-        "enerji verimliliği",
-        "akıllı bina sistemleri",
-        "hava kalitesi"
-      ],
-      "en": [
-        "HVAC technology",
-        "artificial intelligence",
-        "energy efficiency",
-        "smart building systems",
-        "air quality"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/aiir-products-partners-with-airtelligence-to-become-key-provider-for-hospitality-residential-and-senior-living-hvac-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aiir-products-partners-with-airtelligence-to-become-key-provider-for-hospitality-residential-and-senior-living-hvac-technology",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "posifa-technologies-hvac-sensors-at-sensors-converge-2026",
-    "slug": {
-      "tr": "posifa-technologies-hvac-sensorleriyle-sensors-converge-2026da",
-      "en": "posifa-technologies-hvac-sensors-at-sensors-converge-2026"
-    },
-    "title": {
-      "tr": "Posifa Technologies HVAC Sensörleriyle Sensors Converge 2026'da",
-      "en": "Posifa Technologies HVAC Sensors at Sensors Converge 2026"
-    },
-    "excerpt": {
-      "tr": "Posifa, MEMS tabanlı sensör teknolojileriyle HVAC güvenliğini artıracağını duyurdu. EV batarya güvenliği ve gaz algılamada yenilik.",
-      "en": "Posifa announces MEMS-based sensor technologies to enhance HVAC safety. Innovation in EV battery safety and gas detection systems."
-    },
-    "content": {
-      "tr": "Posifa Technologies, 6-7 Mayıs 2026 tarihlerinde Santa Clara Kongre Merkezi'nde düzenlenecek Sensors Converge fuarında, HVAC sistemleri için geliştirilmiş MEMS tabanlı sensör çözümlerini tanıtacak. Şirket, 509 numaralı standında EV batarya güvenliği, soğutucu sızıntı tespiti, HVAC hava akımı izleme ve vakum ölçümü uygulamalarında güvenliği artıran teknolojilerini sergileyecek.\n\nFuarda öne çıkan ürün, erken tespit sistemleri için geliştirilen hidrojen sensör teknolojisi olacak. PGS5100 Serisi, MEMS termal iletkenlik teknolojisini kullanarak %0 ile %25 arasındaki hidrojen konsantrasyonlarını algılayabiliyor. Bu sensör, EV batarya paketlerinde ve yakıt hücresi sistemlerinde anormal durumları erken tespit ederek, termal kaçak olayları gerçekleşmeden önce kritik bir güvenlik penceresi sunuyor. Entegre nem ve basınç kompansasyonu ile değişen koşullarda hassas ölçüm yapabilen sensör, 15 yıldan uzun kararlılık sağlıyor.\n\nTürkiye'nin artan elektrikli araç pazarı ve gelişen HVAC teknolojileri sektörü için bu gelişmeler büyük önem taşıyor. Posifa'nın sunduğu PVC4001-C MEMS Pirani vakum sensörü ise geniş aralıklı ve taşınabilir ölçüm imkanı sunarak, yerli HVAC üreticilerinin rekabet gücünü artırabilecek çözümler içeriyor. Dijital RS-485 çıkışı ve sağlam paketlemesi ile zorlu çevre koşullarında güvenilir çalışma imkanı sağlayan bu teknolojiler, Türkiye'deki HVAC sektörünün teknolojik dönüşümüne katkı sağlayacak.",
-      "en": "Posifa Technologies will showcase its MEMS-based sensor solutions for HVAC applications at Sensors Converge, taking place May 6-7, 2026, at the Santa Clara Convention Center. The company will demonstrate at booth 509 how its sensing technologies enhance safety and enable early detection of critical conditions in EV battery safety, refrigerant leak detection, HVAC airflow monitoring, and vacuum measurement applications.\n\nThe exhibition will highlight new hydrogen sensing technology designed for early detection systems. The PGS5100 Series utilizes MEMS thermal conductivity technology to detect hydrogen concentrations ranging from 0% to 25%. This sensor identifies abnormal conditions in EV battery packs and fuel cell systems, providing a crucial safety window before thermal runaway escalation occurs. With integrated humidity and pressure compensation, the sensor delivers precise measurements across changing conditions while maintaining stability for over 15 years.\n\nThese developments hold significant importance for Turkey's growing electric vehicle market and advancing HVAC technology sector. Posifa's PVC4001-C MEMS Pirani vacuum sensor offers wide-range and portable measurement capabilities that could enhance the competitive edge of local HVAC manufacturers. Featuring digital RS-485 output and robust packaging for reliable operation in harsh environments, these technologies will contribute to the technological transformation of Turkey's HVAC industry."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Posifa Technologies MEMS tabanlı HVAC sensör teknolojileri ve hidrojen algılama sistemleri",
-      "en": "Posifa Technologies MEMS-based HVAC sensor technologies and hydrogen detection systems"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 16:18:13 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC sensörleri",
-        "MEMS teknolojisi",
-        "EV batarya güvenliği",
-        "hidrojen algılama",
-        "vakum sensörleri"
-      ],
-      "en": [
-        "HVAC sensors",
-        "MEMS technology",
-        "EV battery safety",
-        "hydrogen detection",
-        "vacuum sensors"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/posifa-technologies-sensors-converge-exhibitor-preview-may-6-7-2026-santa-clara-convention-center-booth-509/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=posifa-technologies-sensors-converge-exhibitor-preview-may-6-7-2026-santa-clara-convention-center-booth-509",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "heat-loss-calculations-in-diy-home-construction-practical-solutions",
-    "slug": {
-      "tr": "diy-ev-insaatinda-isi-kaybi-hesaplamalari-pratik-cozumler",
-      "en": "heat-loss-calculations-in-diy-home-construction-practical-solutions"
-    },
-    "title": {
-      "tr": "DIY Ev İnşaatında Isı Kaybı Hesaplamaları: Pratik Çözümler",
-      "en": "Heat Loss Calculations in DIY Home Construction: Practical Solutions"
-    },
-    "excerpt": {
-      "tr": "Kendi evini yapanlar için ısı kaybı hesaplama yöntemleri ve HVAC sektöründeki yeni yaklaşımlar.",
-      "en": "Heat loss calculation methods for DIY builders and new approaches in the HVAC industry."
-    },
-    "content": {
-      "tr": "Kendi evini inşa eden bireyler için ısı kaybı hesaplamaları, enerji verimliliği açısından kritik öneme sahip olmaya devam ediyor. Profesyonel yazılımların karmaşıklığı karşısında, DIY inşaat projelerinde daha basit ve erişilebilir hesaplama yöntemlerine olan talep artıyor.\n\nGeleneksel HVAC hesaplama yazılımları, endüstriyel projelere yönelik detaylı parametreler içerdiğinden, bireysel ev yapımcıları için fazla karmaşık kalabiliyor. Bu durum, sektörde daha kullanıcı dostu araçların geliştirilmesi ihtiyacını ortaya çıkarıyor. Türkiye'de artan DIY ev inşaatı trendi, yerel HVAC firmalarının da bu pazara yönelik danışmanlık hizmetlerini genişletmesine neden oluyor.\n\nUzmanlar, DIY projelerde temel ısı kaybı hesaplamalarının yapılabilmesi için basitleştirilmiş yöntemler öneriyor. Bu yaklaşım, hem bireysel müşterilere hem de küçük ölçekli HVAC firmalarına yeni iş fırsatları sunuyor. Sektörde dijital dönüşümün etkisiyle, mobil uygulamalar ve web tabanlı hesaplama araçları da popülerlik kazanıyor.",
-      "en": "Heat loss calculations for individuals building their own homes continue to be critically important for energy efficiency. Faced with the complexity of professional software, demand is growing for simpler and more accessible calculation methods in DIY construction projects.\n\nTraditional HVAC calculation software can be overly complex for individual home builders since it contains detailed parameters designed for industrial projects. This situation reveals the need for developing more user-friendly tools in the industry. The growing DIY home construction trend in Turkey is also causing local HVAC companies to expand their consulting services for this market.\n\nExperts recommend simplified methods for basic heat loss calculations in DIY projects. This approach offers new business opportunities for both individual customers and small-scale HVAC companies. With the impact of digital transformation in the industry, mobile applications and web-based calculation tools are also gaining popularity."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Laptop ekranında ısı kaybı hesaplama yazılımı gösteren DIY ev inşaatçısı",
-      "en": "DIY home builder showing heat loss calculation software on laptop screen"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 13:44:06 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ısı kaybı hesabı",
-        "DIY inşaat",
-        "enerji verimliliği",
-        "HVAC yazılımı",
-        "ev yapımı"
-      ],
-      "en": [
-        "heat loss calculation",
-        "DIY construction",
-        "energy efficiency",
-        "HVAC software",
-        "home building"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/heat-loss-calc",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "weather-exposure-duration-limits-for-hvac-equipment",
-    "slug": {
-      "tr": "hvac-sistemlerinin-hava-kosullarina-dayaniklilik-suresi",
-      "en": "weather-exposure-duration-limits-for-hvac-equipment"
-    },
-    "title": {
-      "tr": "HVAC Sistemlerinin Hava Koşullarına Dayanıklılık Süresi",
-      "en": "Weather Exposure Duration Limits for HVAC Equipment"
-    },
-    "excerpt": {
-      "tr": "İklim sistemleri güneş, yağmur ve rüzgara ne kadar süre maruz kalabilir? Uzmanlar 30-90 günlük sınırları değerlendiriyor.",
-      "en": "How long can HVAC systems withstand sun, rain and wind exposure? Experts evaluate 30-90 day duration limits for equipment."
-    },
-    "content": {
-      "tr": "HVAC ekipmanlarının hava koşullarına maruz kalma süreleri, sistem performansı ve ömrü açısından kritik önem taşıyor. Sektör uzmanları, iklim sistemlerinin güneş, yağmur ve rüzgar gibi dış etmenlere dayanıklılık sürelerini değerlendiriyor.\n\nKurulum öncesi depolama aşamasında, HVAC ekipmanları genellikle 30 ila 90 gün arası açık havada bekletilebiliyor. Ancak bu süre, bölgesel iklim koşullarına göre değişiklik gösteriyor. Gece sıcaklıklarının 20°C'nin altına düştüğü dönemlerde, ekipmanların metal parçalarında yoğuşma riski artıyor. Türkiye'nin farklı iklim bölgelerinde faaliyet gösteren HVAC firmaları, özellikle Karadeniz'in yüksek nemli koşulları ile Güneydoğu Anadolu'nun sıcak ve kuru iklimi arasındaki farkları göz önünde bulundurmak zorunda.\n\nÜlkemizdeki HVAC sektörü temsilcileri, ekipman korunmasında artan bilinç düzeyine işaret ediyor. Özellikle büyük ölçekli projelerde, iklim sistemlerinin geçici depolama süreçlerinde koruyucu örtüler kullanılması yaygınlaşıyor. Sektör uzmanları, 30 günü aşan açık hava maruziyetinde düzenli kontrol yapılmasını ve gerektiğinde koruyucu tedbirler alınmasını öneriyor.",
-      "en": "Weather exposure duration for HVAC equipment represents a critical factor affecting system performance and longevity. Industry professionals are evaluating the resilience timeframes for climate control systems exposed to sun, rain, and wind conditions.\n\nDuring pre-installation storage phases, HVAC equipment can typically withstand outdoor exposure for 30 to 90 days. However, this duration varies according to regional climate conditions. When nighttime temperatures drop below 20°C, condensation risks increase on metal components of the equipment. Turkish HVAC companies operating across different climate zones must consider the variations between the Black Sea's high humidity conditions and the hot, dry climate of Southeastern Anatolia.\n\nHVAC industry representatives in Turkey point to increasing awareness levels in equipment protection practices. Particularly in large-scale projects, the use of protective covers during temporary storage of climate systems is becoming widespread. Sector experts recommend regular inspections for outdoor exposure exceeding 30 days and implementing protective measures when necessary."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Hava koşullarına maruz kalan HVAC ekipmanları ve koruyucu örtüler",
-      "en": "HVAC equipment exposed to weather conditions with protective covers"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 13:04:00 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC ekipman koruması",
-        "iklim sistemleri dayanıklılık",
-        "hava koşulları etkileri"
-      ],
-      "en": [
-        "HVAC equipment protection",
-        "climate systems durability",
-        "weather exposure effects"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/home-need-repair-ahr0chm6ly93d3cuz3jlzw5idwlszgluz2fkdmlzb3iuy29t",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "erv-and-hrv-systems-balanced-ventilation-for-indoor-air-quality",
-    "slug": {
-      "tr": "erv-ve-hrv-sistemleri-ic-hava-kalitesi-icin-dengeli-havalandirma",
-      "en": "erv-and-hrv-systems-balanced-ventilation-for-indoor-air-quality"
-    },
-    "title": {
-      "tr": "ERV ve HRV Sistemleri: İç Hava Kalitesi için Dengeli Havalandırma",
-      "en": "ERV and HRV Systems: Balanced Ventilation for Indoor Air Quality"
-    },
-    "excerpt": {
-      "tr": "ERV ve HRV sistemleri, enerji tasarrufu sağlarken iç hava kalitesini optimize eden modern havalandırma çözümleridir.",
-      "en": "ERV and HRV systems are modern ventilation solutions that optimize indoor air quality while providing energy savings."
-    },
-    "content": {
-      "tr": "Enerji geri kazanımlı havalandırma (ERV) ve ısı geri kazanımlı havalandırma (HRV) sistemleri, günümüzde sağlıklı iç ortam koşulları oluşturmak için kritik önem taşıyan teknolojilerdir. Bu sistemler, taze hava temini ile enerji verimliliği arasında mükemmel bir denge kurarak, modern binaların havalandırma ihtiyaçlarına çözüm sunar.\n\nERV sistemleri, dış havadan gelen taze hava ile iç ortamdan atılan havanın hem sıcaklık hem de nem değerlerini değiştirerek enerji tasarrufu sağlar. HRV sistemleri ise sadece sıcaklık transferi yaparak çalışır ve daha kuru iklimlerde tercih edilir. Her iki sistem de dengeli havalandırma prensibi ile çalışarak, iç ortama giren hava miktarının çıkan hava miktarına eşit olmasını garanti eder.\n\nTürkiye'de artan enerji maliyetleri ve çevre bilinci ile birlikte, bu sistemlere olan talep hızla artmaktadır. Özellikle yeni yapılan konut projelerinde ve ticari binalarda ERV/HRV sistemlerinin kurulumu, hem enerji sertifikası açısından hem de yaşam kalitesi için tercih edilmektedir. Uzmanlar, doğru sistem seçimi ve profesyonel kurulum ile yıllık enerji maliyetlerinde %30'a kadar tasarruf sağlanabileceğini belirtmektedir.",
-      "en": "Energy Recovery Ventilation (ERV) and Heat Recovery Ventilation (HRV) systems represent critical technologies for creating healthy indoor environments in today's buildings. These systems provide an excellent balance between fresh air supply and energy efficiency, offering solutions to modern building ventilation requirements.\n\nERV systems achieve energy savings by exchanging both temperature and humidity levels between incoming fresh outdoor air and outgoing indoor air. HRV systems operate by transferring only temperature and are preferred in drier climates. Both systems work on the principle of balanced ventilation, ensuring that the amount of air entering the indoor space equals the amount of air being exhausted.\n\nWith rising energy costs and environmental awareness in Turkey, demand for these systems is rapidly increasing. Particularly in newly constructed residential projects and commercial buildings, ERV/HRV system installation is preferred both for energy certification purposes and quality of life improvements. Experts indicate that proper system selection and professional installation can achieve up to 30% savings in annual energy costs."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "ERV ve HRV havalandırma sistemi kurulum görünümü",
-      "en": "ERV and HRV ventilation system installation view"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 08:00:46 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ERV",
-        "HRV",
-        "havalandırma",
-        "enerji tasarrufu",
-        "iç hava kalitesi"
-      ],
-      "en": [
-        "ERV",
-        "HRV",
-        "ventilation",
-        "energy recovery",
-        "indoor air quality"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/article/installing-an-erv-or-hrv",
-    "sourceName": "Green Building Advisor"
   }
 ]
