@@ -1,5 +1,107 @@
 [
   {
+    "id": "apm-steam-and-aquatomic-form-alliance-for-thermal-energy-solutions",
+    "slug": {
+      "tr": "apm-steam-ve-aquatomic-termal-enerji-cozumlerinde-guc-birligi",
+      "en": "apm-steam-and-aquatomic-form-alliance-for-thermal-energy-solutions"
+    },
+    "title": {
+      "tr": "APM Steam ve Aquatomic Termal Enerji Çözümlerinde Güç Birliği",
+      "en": "APM Steam and Aquatomic Form Alliance for Thermal Energy Solutions"
+    },
+    "excerpt": {
+      "tr": "İki uzman şirket, kritik tesislere entegre buhar ve su sistemi çözümleri sunmak için stratejik ortaklık kurdu.",
+      "en": "Two specialized companies partner to provide integrated steam and water system solutions for critical facilities."
+    },
+    "content": {
+      "tr": "Buhar sistemi hizmetleri lideri American Plant Maintenance (APM Steam) ile su arıtma uzmanı Aquatomic Products Company, kritik tesislere yönelik kapsamlı termal enerji çözümleri sunmak amacıyla stratejik bir işbirliği anlaşması imzaladı. Bu ortaklık, Kuzeydoğu ve Orta Atlantik bölgelerindeki endüstriyel tesislerde enerji verimliliği ve maliyet tasarrufu sağlamayı hedefliyor.\n\nAquatomic'in kazan ve soğutma kulesi su arıtma alanındaki onlarca yıllık deneyimi, APM'in buhar tuzağı analizleri, sistem değerlendirmeleri ve enerji verimliliği geliştirme uzmanlığı ile birleşiyor. İki şirket bağımsız kimliklerini korurken, müşterilere hem buhar hem de su sistemlerini kapsayan bütünsel çözümler sunacak. Bu entegrasyon sayesinde tesislerde daha az kesinti, daha iyi performans ve düşük işletme maliyetleri elde edilmesi planlanıyor.\n\nBu gelişme, Türkiye'deki HVAC sektörü için de önemli ipuçları barındırıyor. Özellikle büyük endüstriyel tesislerde buhar ve su sistemlerinin entegre yönetimi, enerji maliyetlerinin arttığı günümüzde kritik önem kazanıyor. Türk müteahhitleri ve tesis yöneticileri için bu tür stratejik ortaklıklar, hizmet kalitesini artırırken operasyonel verimliliği de maksimize eden yeni iş modelleri sunabilir.",
+      "en": "American Plant Maintenance (APM Steam), a leading provider of steam system services, and Aquatomic Products Company, a water treatment specialist, have announced a strategic collaboration to deliver comprehensive thermal energy solutions for mission-critical facilities. This partnership targets enhanced energy efficiency and cost savings for industrial facilities across the Northeast and Mid-Atlantic regions.\n\nThe collaboration combines Aquatomic's decades of expertise in boiler and cooling tower water treatment with APM's specialization in steam trap surveys, system assessments, and energy efficiency improvements. While both companies maintain their independent operations and brand identities, they will offer customers integrated solutions covering both steam and water systems. This unified approach aims to deliver superior overall performance, reduced operational disruptions, and lower maintenance costs for facility operators.\n\nThis development offers valuable insights for the global HVAC industry, including emerging markets. As energy costs continue to rise worldwide, the integrated management of steam and water systems in large industrial facilities becomes increasingly critical. Such strategic partnerships demonstrate how specialized companies can create synergies that benefit customers through enhanced service quality and operational efficiency, providing a blueprint for similar collaborations in other regions."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Endüstriyel tesiste buhar ve su arıtma sistemleri",
+      "en": "Industrial steam and water treatment systems in facility"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 14 Apr 2026 13:46:33 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "buhar sistemi",
+        "su arıtma",
+        "enerji verimliliği",
+        "termal enerji",
+        "endüstriyel HVAC"
+      ],
+      "en": [
+        "steam systems",
+        "water treatment",
+        "energy efficiency",
+        "thermal energy",
+        "industrial HVAC"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/apm-steam-and-aquatomic-announce-strategic-collaboration-to-deliver-comprehensive-thermal-energy-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apm-steam-and-aquatomic-announce-strategic-collaboration-to-deliver-comprehensive-thermal-energy-solutions",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "hrv-erv-and-heat-pump-integration-guide-for-passive-houses",
+    "slug": {
+      "tr": "pasif-evlerde-hrv-erv-ve-isi-pompasi-entegrasyonu-rehberi",
+      "en": "hrv-erv-and-heat-pump-integration-guide-for-passive-houses"
+    },
+    "title": {
+      "tr": "Pasif Evlerde HRV-ERV ve Isı Pompası Entegrasyonu Rehberi",
+      "en": "HRV-ERV and Heat Pump Integration Guide for Passive Houses"
+    },
+    "excerpt": {
+      "tr": "Soğuk iklim bölgelerinde pasif evlerde HRV/ERV sistemleri ile merkezi ısı pompası entegrasyonu nasıl optimize edilir?",
+      "en": "How to optimize HRV/ERV systems with central heat pumps in passive houses located in cold climate zones?"
+    },
+    "content": {
+      "tr": "Kuzey Amerika'nın soğuk iklim bölgelerinde inşa edilen pasif evlerde, HRV (Heat Recovery Ventilator) veya ERV (Energy Recovery Ventilator) sistemlerinin merkezi ısı pompalarıyla entegrasyonu, enerji verimliliği açısından kritik bir tasarım kararıdır. 150 metrekarelik tek katlı pasif ev projelerinde, don korumalı sığ temel sistemleri üzerinde kurulan bu yapılarda HVAC tasarımı özel dikkat gerektirmektedir.\n\nSoğuk iklim bölgelerinde pasif ev standartlarına uyan yapılarda, hava kalitesini korurken enerji kayıplarını minimize etmek için HRV ve ERV sistemleri arasında doğru seçim yapılması gerekir. HRV sistemleri sadece sıcaklık transferi yaparken, ERV sistemleri nem transferi de gerçekleştirerek iç ortam konforu açısından avantaj sağlar. Merkezi ısı pompası ile entegrasyon sırasında, sistemlerin birbirleriyle uyumlu çalışması için dikkatlice hesaplanmış hava debileri ve sıcaklık kontrol stratejileri uygulanmalıdır.\n\nTürkiye'de özellikle Doğu Anadolu ve İç Anadolu'nun soğuk bölgelerinde artan pasif ev projeleri, bu tür entegre HVAC çözümlerine olan ilgiyi artırmaktadır. Yerli HVAC sektörü için bu deneyimler, soğuk iklim koşullarında enerji verimli yapı teknolojilerinin geliştirilmesi açısından değerli referanslar oluşturmaktadır. Özellikle İstanbul, Ankara ve İzmir gibi büyük şehirlerdeki yeşil bina sertifikasyonu alan projelerde, benzer teknolojik çözümlerin uygulanması beklenmektedir.",
+      "en": "The integration of HRV (Heat Recovery Ventilator) or ERV (Energy Recovery Ventilator) systems with central heat pumps in passive houses built in cold climate regions of North America represents a critical design decision for energy efficiency. In single-story passive house projects covering 1600 square feet, constructed on frost-protected shallow foundations, HVAC design requires special attention to achieve optimal performance.\n\nIn passive houses meeting strict standards in cold climate zones, selecting between HRV and ERV systems is crucial for maintaining indoor air quality while minimizing energy losses. While HRV systems only transfer sensible heat, ERV systems also handle latent heat transfer, providing advantages for indoor comfort control. During integration with central heat pump systems, carefully calculated airflow rates and temperature control strategies must be implemented to ensure compatible operation between all system components.\n\nThe growing number of passive house projects in Turkey, particularly in cold regions of Eastern and Central Anatolia, is increasing interest in such integrated HVAC solutions. For the domestic HVAC industry, these experiences provide valuable references for developing energy-efficient building technologies under cold climate conditions. Similar technological solutions are expected to be implemented in green building certified projects in major cities like Istanbul, Ankara, and Izmir."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "Pasif evde HRV/ERV ve ısı pompası entegre sistem şeması",
+      "en": "Integrated HRV/ERV and heat pump system diagram in passive house"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Mon, 20 Apr 2026 00:09:03 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "pasif ev",
+        "HRV sistem",
+        "ERV havalandırma",
+        "ısı pompası",
+        "enerji verimli HVAC"
+      ],
+      "en": [
+        "passive house",
+        "HRV system",
+        "ERV ventilation",
+        "heat pump",
+        "energy efficient HVAC"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/hrv-or-erv-design-with-central-heat-pump-in-northern-ontario-canada",
+    "sourceName": "Green Building Advisor"
+  },
+  {
     "id": "ior-launches-first-in-person-event-at-carter-thermal-facility",
     "slug": {
       "tr": "ior-ilk-yuz-yuze-etkinligini-carter-thermalda-duzenliyor",
@@ -29,7 +131,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Sun, 19 Apr 2026 15:10:03 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2442,107 +2544,5 @@
     },
     "sourceUrl": "https://www.greenbuildingadvisor.com/article/installing-an-erv-or-hrv",
     "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "turkish-hvac-exporters-strengthen-north-african-market-ties",
-    "slug": {
-      "tr": "isib-cezayir-ticaret-heyeti-kuzey-afrika-pazarini-guclendirdi",
-      "en": "turkish-hvac-exporters-strengthen-north-african-market-ties"
-    },
-    "title": {
-      "tr": "İSİB Cezayir Ticaret Heyeti Kuzey Afrika Pazarını Güçlendirdi",
-      "en": "Turkish HVAC Exporters Strengthen North African Market Ties"
-    },
-    "excerpt": {
-      "tr": "İklimlendirme sektörü temsilcileri Cezayir ve Oran'da B2B görüşmelerle yeni iş fırsatları yakaladı.",
-      "en": "Turkish HVAC industry representatives secured new business opportunities through B2B meetings in Algeria and Oran."
-    },
-    "content": {
-      "tr": "Türkiye iklimlendirme sektörü, Kuzey Afrika pazarındaki varlığını güçlendirmek için önemli bir adım attı. İklimlendirme Sanayi İhracatçıları Birliği (İSİB) bünyesinde 19 üye firma, Nisan ayında gerçekleştirilen Cezayir ticaret heyeti programıyla bölgedeki ticari ağını genişletti.\n\nSektörel ticaret heyeti, 5-9 Nisan tarihleri arasında Cezayir'in başkenti ve Oran şehrinde düzenlenen yoğun iş görüşmeleriyle tamamlandı. Hyatt Regency Hotel'de gerçekleştirilen Cezayir ayağında, İSİB Yönetim Kurulu Üyeleri Zeki Özen ve Okan Murat Erenoğlu'nun liderliğindeki heyet, yerel iş dünyasıyla kapsamlı B2B toplantıları gerçekleştirdi. T.C. Cezayir Ticaret Müşavirleri Mehtap Atakan Özkan ve Özgür Saman'ın da destek verdiği program kapsamında, Büyükelçi Muhammet Mücahit Küçükyılmaz'a nezaket ziyareti düzenlendi.\n\nOran'da Le Meridien Hotel'de sürdürülen program, T.C. Oran Başkonsolosu Hasan Solak'ın katılımıyla gerçekleşti. Bu organizasyon, Türk firmalarının hedef pazarı yakından incelemelerine ve potansiyel distribütörlerle doğrudan iletişim kurmalarına olanak sağladı. Program, Türkiye'nin iklimlendirme sektöründe Kuzey Afrika bölgesindeki ihracat hedeflerinin desteklenmesi açısından stratejik önem taşıyor.",
-      "en": "Turkey's HVAC industry has taken a significant step to strengthen its presence in the North African market. Under the umbrella of the Air Conditioning Industry Exporters Association (İSİB), 19 member companies expanded their commercial network in the region through an Algerian trade mission conducted in April.\n\nThe sectoral trade delegation completed its program with intensive business meetings held in Algeria's capital and the city of Oran between April 5-9. In the Algeria leg held at the Hyatt Regency Hotel, the delegation led by İSİB Board Members Zeki Özen and Okan Murat Erenoğlu conducted comprehensive B2B meetings with the local business community. The program, supported by Turkish Commercial Counselors Mehtap Atakan Özkan and Özgür Saman, included a courtesy visit to Ambassador Muhammet Mücahit Küçükyılmaz.\n\nThe program continued in Oran at Le Meridien Hotel with the participation of Turkish Consul General Hasan Solak. This organization enabled Turkish companies to closely examine their target market and establish direct communication with potential distributors. The program holds strategic importance in supporting Turkey's export targets in the North African region within the HVAC sector."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "İSİB Cezayir ticaret heyeti üyeleri B2B görüşmeler sırasında",
-      "en": "İSİB Algeria trade delegation members during B2B meetings"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 17:13:30 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "iklimlendirme ihracatı",
-        "Cezayir ticaret",
-        "HVAC sektörü",
-        "B2B görüşmeleri",
-        "Kuzey Afrika"
-      ],
-      "en": [
-        "HVAC exports",
-        "Algeria trade",
-        "air conditioning",
-        "B2B meetings",
-        "North Africa"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/isib-cezayir-ve-oranda-sektorel-is-birliklerini-guclendirdi/",
-    "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "karyer-presents-innovative-evaporator-studies-at-iir-cold-chain-conference",
-    "slug": {
-      "tr": "karyer-iir-soguk-zincir-konferansinda-inovatif-evaporator-calismalarini-sundu",
-      "en": "karyer-presents-innovative-evaporator-studies-at-iir-cold-chain-conference"
-    },
-    "title": {
-      "tr": "KARYER, IIR Soğuk Zincir Konferansında İnovatif Evaporatör Çalışmalarını Sundu",
-      "en": "KARYER Presents Innovative Evaporator Studies at IIR Cold Chain Conference"
-    },
-    "excerpt": {
-      "tr": "KARYER'in IIR konferansında sunduğu evaporatör tasarımları %47,8 hacim azalması sağlıyor ve soğuk zincir verimliliğini artırıyor.",
-      "en": "KARYER's evaporator designs presented at IIR conference achieve 47.8% volume reduction while boosting cold chain efficiency."
-    },
-    "content": {
-      "tr": "Türk soğutma teknolojileri firması KARYER, 12-14 Nisan 2026 tarihlerinde düzenlenen 9. IIR Soğuk Zincir Sürdürülebilirlik Konferansı'nda gümüş sponsor olarak katılım gösterdi ve iki önemli teknik çalışmasını uluslararası platformda paylaştı. Firma, soğutmalı taşımacılık sektörüne yönelik geliştirdiği yenilikçi evaporatör tasarımlarıyla dikkat çekti.\n\nİlk sunumunda \"Soğuk Zincir Soğutma Ünitelerinde Verimli Evaporatör Tasarımı\" başlığı altında kompakt kanatlı borulu evaporatör teknolojisini ele alan KARYER, sınırlı hacim içerisinde maksimum ısı transferi sağlayan çözümler geliştirdiğini açıkladı. Ar-Ge ekibi tarafından gerçekleştirilen araştırmada, 7 mm, 8 mm ve 10 mm boru çapları detaylı olarak karşılaştırıldı. Çalışma sonuçları, boru çapının küçültülmesiyle ısı transfer veriminin artırılabildiğini ve çapraz boru dizilimleri ile optimize edilmiş fin geometrilerinin kullanılmasıyla iç batarya hacminde %47,8'e kadar azalma sağlanabildiğini ortaya koydu.\n\nBu teknolojik gelişme, Türkiye'nin soğuk zincir sektöründe rekabet gücünü artırırken, daha az soğutucu akışkan kullanımıyla yüksek performans elde edilmesine olanak tanıyor. KARYER'in geliştirdiği çözümler, enerji verimliliğini artırmasının yanı sıra çevresel etkiyi azaltarak sürdürülebilir soğuk zincir operasyonlarına katkı sağlıyor. İkinci sunumu olan \"Soğuk Depolama Evaporatör Türlerinin Karşılaştırmalı Analizi\" çalışmasıyla da sektöre yönelik kapsamlı çözümler sunduğunu gösteren firma, uluslararası pazarlardaki konumunu güçlendiriyor.",
-      "en": "Turkish refrigeration technology company KARYER participated as a silver sponsor at the 9th IIR Conference on Sustainability and the Cold Chain held from April 12-14, 2026, presenting two significant technical studies on the international platform. The company drew attention with its innovative evaporator designs developed for the refrigerated transportation sector.\n\nIn its first presentation titled \"Efficient Evaporator Design in Cold Chain Refrigeration Units,\" KARYER addressed compact finned-tube evaporator technology, revealing solutions that achieve maximum heat transfer within limited volume constraints. The research conducted by the R&D team provided detailed comparisons of 7mm, 8mm, and 10mm tube diameters. Study results demonstrated that reducing tube diameter enhances heat transfer efficiency, and utilizing cross-tube arrangements with optimized fin geometries can achieve up to 47.8% reduction in internal battery volume.\n\nThis technological advancement strengthens Turkey's competitive position in the cold chain sector while enabling high performance with reduced refrigerant usage. KARYER's developed solutions contribute to sustainable cold chain operations by increasing energy efficiency and reducing environmental impact. With its second presentation, \"Sustainable Cold Chain Solutions: Comparative Analysis of Evaporator Types in Cold Storage,\" the company demonstrates comprehensive sector solutions while strengthening its position in international markets."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "KARYER evaporatör teknolojisi ve soğuk zincir konferans sunumu",
-      "en": "KARYER evaporator technology and cold chain conference presentation"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 16:28:36 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "soğuk zincir",
-        "evaporatör teknolojisi",
-        "enerji verimliliği",
-        "sürdürülebilirlik",
-        "HVAC"
-      ],
-      "en": [
-        "cold chain",
-        "evaporator technology",
-        "energy efficiency",
-        "sustainability",
-        "HVAC"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/soguk-zincirde-surdurulebilirlik-ve-verimlilik-uzerine-duzenlenen-9-iir-konferansinda-karyerden-iki-teknik-calisma/",
-    "sourceName": "AirNewsTurkey"
   }
 ]
