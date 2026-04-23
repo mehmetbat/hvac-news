@@ -1,5 +1,519 @@
 [
   {
+    "id": "german-tv-channel-exposes-europes-illegal-refrigerant-trade-network",
+    "slug": {
+      "tr": "alman-tv-kanali-avrupadaki-yasadisi-sogutucu-gaz-ticaretini-desifre-etti",
+      "en": "german-tv-channel-exposes-europes-illegal-refrigerant-trade-network"
+    },
+    "title": {
+      "tr": "Alman TV Kanalı Avrupa'daki Yasadışı Soğutucu Gaz Ticaretini Deşifre Etti",
+      "en": "German TV Channel Exposes Europe's Illegal Refrigerant Trade Network"
+    },
+    "excerpt": {
+      "tr": "Deutsche Welle'nin belgeseli Avrupa'da yasadışı soğutucu gaz ticaretini ortaya çıkardı. Türkiye'den ithal edilen gazlar karaborsada satılıyor.",
+      "en": "Deutsche Welle documentary reveals illegal refrigerant black market in Europe. Turkish-imported gases being sold through underground networks."
+    },
+    "content": {
+      "tr": "Deutsche Welle (DW) televizyonunun yeni belgeseli, Avrupa genelinde devam eden yasadışı soğutucu gaz ticaretinin boyutlarını gözler önüne serdi. Alman bağımsız yayın kuruluşunun hazırladığı 20 dakikalık program, sektördeki gizli ticaret ağlarını detaylı şekilde inceliyor ve bu yasadışı faaliyetlerin nasıl sürdürüldüğünü açığa çıkarıyor.\n\nBelgesel ekibi, internet üzerinden yaygın şekilde reklamı yapılan ve sertifikasız kişilere ucuz fiyatlarla satılan yasadışı soğutucu gazları araştırdı. Muhabirler, Berlin çevresindeki sanayi bölgesinde bir depoda faaliyet gösteren satıcıdan başarılı şekilde R449A gazı satın almayı başardı. Satıcının deposunda ayrıca R404A, R410A ve R134a gazları da bulunuyordu ve tüm bu ürünler Türkiye'den ithal edilmişti.\n\nBu durum, Türkiye'nin HVAC sektöründeki rolünü ve sorumlulukları açısından önemli sorular ortaya çıkarıyor. Yasadışı ihracat faaliyetleri, ülkenin meşru soğutucu gaz üreticilerinin itibarını zedeleyebilir ve AB ile olan ticari ilişkileri olumsuz etkileyebilir. Program şu anda DW'nin Planet A kanalında İngilizce olarak izlenebilir durumda ve HVAC sektöründe yasal düzenlemelerin önemini bir kez daha vurguluyor.",
+      "en": "A new documentary by Deutsche Welle (DW) television has revealed the extensive scope of illegal refrigerant trade continuing across Europe. The 20-minute program prepared by the German independent broadcaster thoroughly examines the clandestine trading networks in the sector and exposes how these illegal activities are sustained.\n\nThe documentary team investigated illegal refrigerants that are widely advertised on the internet and sold at cheap prices to uncertified individuals. Reporters successfully managed to purchase R449A refrigerant from a dealer operating out of a warehouse in an industrial area around Berlin. The dealer's storage also contained R404A, R410A, and R134a gases, all of which were imported from Turkey.\n\nThis situation raises important questions regarding Turkey's role and responsibilities in the HVAC sector. Illegal export activities could damage the reputation of the country's legitimate refrigerant manufacturers and negatively impact trade relations with the EU. The program is currently available for viewing in English on DW's Planet A channel and once again emphasizes the importance of legal regulations in the HVAC industry."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Yasadışı soğutucu gaz satışı yapılan endüstriyel depo alanı",
+      "en": "Industrial warehouse area where illegal refrigerant sales take place"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 22:54:53 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "yasadışı soğutucu gaz",
+        "Deutsche Welle",
+        "HVAC sektörü",
+        "karaborsа",
+        "soğutucu gaz ticareti"
+      ],
+      "en": [
+        "illegal refrigerant",
+        "Deutsche Welle",
+        "HVAC industry",
+        "black market",
+        "refrigerant trade"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/german-tv-exposes-illegal-refrigerant-trade/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "a-o-smith-welcomes-us-senator-and-doe-deputy-secretary-at-tennessee-plant",
+    "slug": {
+      "tr": "a-o-smith-tennessee-tesisinde-abd-senatoru-ve-enerji-bakan-yardimcisini-agirladi",
+      "en": "a-o-smith-welcomes-us-senator-and-doe-deputy-secretary-at-tennessee-plant"
+    },
+    "title": {
+      "tr": "A. O. Smith Tennessee Tesisinde ABD Senatörü ve Enerji Bakan Yardımcısını Ağırladı",
+      "en": "A. O. Smith Welcomes U.S. Senator and DOE Deputy Secretary at Tennessee Plant"
+    },
+    "excerpt": {
+      "tr": "A. O. Smith, Tennessee tesisinde federal yetkilileri ağırlayarak enerji verimli su ısıtıcısı teknolojilerini ve üretim kapasitesini sergiledi.",
+      "en": "A. O. Smith showcased energy-efficient water heating technologies and manufacturing capabilities to federal officials at its Tennessee facility."
+    },
+    "content": {
+      "tr": "A. O. Smith Corporation, Tennessee eyaletindeki Lebanon tesisinde ABD Senatörü Bill Hagerty ve Enerji Bakanlığı Bakan Yardımcısı James Danly'yi ağırlayarak, Amerika'da üretilen enerji verimli su ısıtma teknolojilerindeki inovasyonları sergiledi.\n\nZiyaret kapsamında şirket yetkilileri, tesisteki gelişmiş üretim süreçlerini ve yerel istihdam artışına yönelik yatırımları federal liderlere sundu. A. O. Smith'in Tennessee operasyonları, şirketin Amerika'daki stratejik üretim güçlendirme planlarının merkezinde yer alıyor ve bölgesel ekonomiye önemli katkı sağlıyor.\n\nBu gelişme, küresel HVAC sektöründeki tedarik zinciri güçlendirme trendlerinin bir parçası olarak değerlendiriliyor. Türkiye'deki HVAC üreticileri de benzer şekilde yerel üretim kapasitelerini artırarak, enerji verimliliği odaklı çözümlerle hem iç pazara hem de ihracat pazarlarına yönelik stratejilerini güçlendiriyor.",
+      "en": "A. O. Smith Corporation welcomed U.S. Senator Bill Hagerty and Department of Energy Deputy Secretary James Danly at its Lebanon, Tennessee manufacturing facility, showcasing innovations in energy-efficient water heating technologies produced domestically.\n\nDuring the visit, company executives presented advanced manufacturing processes and workforce development investments to the federal leaders. A. O. Smith's Tennessee operations serve as a cornerstone of the company's strategic manufacturing strengthening initiatives in America, contributing significantly to regional economic growth.\n\nThis development reflects broader trends in the global HVAC industry toward supply chain reinforcement. Similarly, HVAC manufacturers in Turkey are expanding their domestic production capabilities, strengthening strategies focused on energy efficiency solutions for both domestic and export markets."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "A. O. Smith Tennessee tesisinde federal yetkililerin ziyareti",
+      "en": "Federal officials visiting A. O. Smith Tennessee facility"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 16:23:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "A. O. Smith",
+        "enerji verimli su ısıtıcısı",
+        "HVAC üretim",
+        "Tennessee",
+        "federal ziyaret"
+      ],
+      "en": [
+        "A. O. Smith",
+        "energy efficient water heater",
+        "HVAC manufacturing",
+        "Tennessee",
+        "federal visit"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23323-a-o-smith-hosts-us-senator-bill-hagerty-and-us-department-of-energy-deputy-secretary-james-danly-at-lebanon-tennessee-facility",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "supplyhouse-foundation-launches-for-hvac-and-plumbing-education",
+    "slug": {
+      "tr": "supplyhouse-vakfi-hvac-ve-tesisat-egitimi-icin-kuruldu",
+      "en": "supplyhouse-foundation-launches-for-hvac-and-plumbing-education"
+    },
+    "title": {
+      "tr": "SupplyHouse Vakfı HVAC ve Tesisat Eğitimi İçin Kuruldu",
+      "en": "SupplyHouse Foundation Launches for HVAC and Plumbing Education"
+    },
+    "excerpt": {
+      "tr": "SupplyHouse Vakfı, HVAC, tesisat ve elektrik sektörlerinde kariyer yapmak isteyen kişilere eğitim desteği sağlayacak.",
+      "en": "SupplyHouse Foundation will provide educational support for individuals pursuing careers in HVAC, plumbing, and electrical sectors."
+    },
+    "content": {
+      "tr": "SupplyHouse şirketi, HVAC ve tesisat sektöründe çalışan profesyonellerin eğitim olanaklarını artırmak amacıyla SupplyHouse Vakfı'nı resmen kurduğunu duyurdu.\n\nYeni kurulan vakıf, tesisat, HVAC ve elektrik alanlarında kariyer hedefleyen bireylere eğitim materyalleri, kaynak erişimi ve mesleki fırsatlar sunma konusunda odaklanacak. Bu girişim, sektörel becerilerin geliştirilmesi ve nitelikli işgücünün artırılması hedefini taşıyor.\n\nTürkiye'deki HVAC ve tesisat sektörü de benzer eğitim programlarına ihtiyaç duyuyor. Enerji verimliliği ve sürdürülebilir ısıtma-soğutma sistemlerinin önem kazandığı günümüzde, bu tür vakıf modellerinin Türk sektöründe de uygulanması, teknik personel eksikliğinin giderilmesine katkı sağlayabilir.",
+      "en": "SupplyHouse has officially announced the establishment of the SupplyHouse Foundation, aimed at enhancing educational opportunities for professionals in the HVAC and plumbing industry.\n\nThe newly established foundation will concentrate on providing educational materials, resource access, and professional opportunities to individuals targeting careers in plumbing, HVAC, and electrical fields. This initiative carries the goal of developing sectoral skills and increasing qualified workforce numbers.\n\nTurkey's HVAC and plumbing sector also requires similar educational programs. In today's world where energy efficiency and sustainable heating-cooling systems are gaining importance, implementing such foundation models in the Turkish sector could contribute to addressing technical personnel shortages."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "SupplyHouse Vakfı logo ve HVAC eğitim materyalleri",
+      "en": "SupplyHouse Foundation logo and HVAC educational materials"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 11:28:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC eğitimi",
+        "tesisat sektörü",
+        "mesleki geliştirme",
+        "SupplyHouse Vakfı",
+        "teknik eğitim"
+      ],
+      "en": [
+        "HVAC education",
+        "plumbing industry",
+        "professional development",
+        "SupplyHouse Foundation",
+        "technical training"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23320-supplyhouse-announces-offical-launch-of-supplyhouse-foundation",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "rocket-group-forms-strategic-alliance-with-true-blue-mechanical",
+    "slug": {
+      "tr": "rocket-group-true-blue-mechanical-ile-stratejik-ortaklik-kurdu",
+      "en": "rocket-group-forms-strategic-alliance-with-true-blue-mechanical"
+    },
+    "title": {
+      "tr": "Rocket Group, True Blue Mechanical İle Stratejik Ortaklık Kurdu",
+      "en": "Rocket Group Forms Strategic Alliance With True Blue Mechanical"
+    },
+    "excerpt": {
+      "tr": "HVAC sektöründe büyüyen Rocket Group, True Blue Mechanical ile 12. ortaklığını imzaladı ve Kuzeydoğu pazarına girdi.",
+      "en": "Growing HVAC leader Rocket Group signed its 12th partnership with True Blue Mechanical, entering Northeast market expansion."
+    },
+    "content": {
+      "tr": "Ev hizmetleri sektöründe faaliyet gösteren Rocket Group, True Blue Mechanical ile yeni bir ortaklık anlaşması imzaladığını duyurdu. Bu anlaşma, şirketin ülke genelindeki 12. ev hizmetleri ortaklığı olurken, Kuzeydoğu pazarına genişleme stratejisinin önemli bir parçasını oluşturuyor.\n\nRocket Group'un bu hamlesi, Amerika'da HVAC ve ev hizmetleri sektöründe artan konsolidasyon trendini yansıtıyor. Şirket, yerel servis sağlayıcılarla stratejik ortaklıklar kurarak coğrafi erişimini genişletmeyi hedefliyor. True Blue Mechanical ile yapılan bu işbirliği, Rocket Group'un bölgesel büyüme planlarında kritik bir adım olarak değerlendiriliyor.\n\nBu gelişme, Türkiye HVAC sektörü için de önemli ipuçları barındırıyor. Dünyada yaşanan konsolidasyon eğilimi, Türk HVAC firmalarının da benzer stratejik ortaklıklar ve satın alma fırsatlarını değerlendirmesi gerektiğini gösteriyor. Özellikle teknoloji entegrasyonu ve operasyonel verimlilik alanlarında bu tür işbirlikleri, yerel firmaların rekabet gücünü artırabilir.",
+      "en": "Home services industry player Rocket Group has announced a new partnership agreement with True Blue Mechanical. This deal represents the company's 12th home services partnership nationwide while serving as a crucial component of its Northeast market expansion strategy.\n\nRocket Group's move reflects the growing consolidation trend in America's HVAC and home services sector. The company aims to expand its geographical reach through strategic partnerships with local service providers. This collaboration with True Blue Mechanical is considered a critical step in Rocket Group's regional growth plans.\n\nThis development also carries important implications for Turkey's HVAC sector. The global consolidation trend suggests that Turkish HVAC companies should evaluate similar strategic partnerships and acquisition opportunities. Such collaborations, particularly in technology integration and operational efficiency areas, could enhance local firms' competitive edge in the market."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "HVAC sektöründe iki şirket arasında el sıkışma ve ortaklık anlaşması",
+      "en": "HVAC industry partnership handshake between two companies forming strategic alliance"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 11:19:28 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC ortaklık",
+        "ev hizmetleri",
+        "sektör konsolidasyonu",
+        "pazar genişleme",
+        "stratejik işbirliği"
+      ],
+      "en": [
+        "HVAC partnership",
+        "home services",
+        "industry consolidation",
+        "market expansion",
+        "strategic alliance"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23319-rocket-group-launches-northeast-expansion-with-true-blue-mechanical",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "vapor-barriers-in-plywood-ceiling-systems-for-cz-2-zones",
+    "slug": {
+      "tr": "cz-2-bolgesinde-kontraplak-tavan-sistemlerinde-buhar-bariyeri",
+      "en": "vapor-barriers-in-plywood-ceiling-systems-for-cz-2-zones"
+    },
+    "title": {
+      "tr": "CZ-2 Bölgesinde Kontraplak Tavan Sistemlerinde Buhar Bariyeri",
+      "en": "Vapor Barriers in Plywood Ceiling Systems for CZ-2 Zones"
+    },
+    "excerpt": {
+      "tr": "CZ-2 iklim bölgelerinde kontraplak tavan uygulamalarında nem kontrolü ve buhar bariyeri gereksinimleri inceleniyor.",
+      "en": "Moisture control and vapor barrier requirements for plywood ceiling applications in CZ-2 climate zones analyzed."
+    },
+    "content": {
+      "tr": "İklim Bölge 2'de (CZ-2) kiralık konutlarda doğrudan tavan kirişlerine monte edilen kontraplak lambri sistemleri, nem kontrolü açısından özel dikkat gerektiren bir uygulama haline geliyor. Geleneksel alçıpan yerine tercih edilen bu yöntem, uygun buhar bariyeri olmadan ciddi yapısal sorunlara yol açabilir.\n\nUzmanlar, kontraplak ve tavan arasına buhar bariyeri ürünü uygulanmasının kritik önem taşıdığını belirtiyor. Sadece mastik ile contalamanın yeterli olmadığı, özellikle yüksek nem oranlarının yaşandığı bölgelerde kapsamlı nem kontrolü sistemlerinin gerekli olduğu vurgulanıyor. Bu durum, yapı fiziği kurallarının dikkate alınması gerektiğini gösteriyor.\n\nTürkiye'deki inşaat sektörü için bu gelişmeler önemli bir referans oluşturuyor. Özellikle Akdeniz ve Ege bölgelerinde benzer iklim koşullarına sahip olan bölgelerde, kontraplak tavan sistemleri kullanılırken nem kontrolü standartlarının uluslararası uygulamalarla paralel şekilde geliştirilmesi gerekiyor. HVAC profesyonelleri, bu tür uygulamalarda havalandırma sistemlerinin de entegre olarak planlanmasını öneriyor.",
+      "en": "Plywood beadboard systems mounted directly to ceiling joists in rental properties within Climate Zone 2 (CZ-2) are becoming a specialized application requiring careful moisture management considerations. This method, preferred over traditional drywall installation, can lead to serious structural issues without proper vapor barrier implementation.\n\nExperts emphasize that installing vapor barrier products between plywood and ceiling structures is critically important. Simple caulking between plywood and joists proves insufficient, particularly in regions experiencing high humidity levels where comprehensive moisture control systems become necessary. This situation demonstrates the vital importance of adhering to building physics principles.\n\nThese developments serve as an important reference point for Turkey's construction sector. Particularly in Mediterranean and Aegean regions with similar climate conditions, moisture control standards for plywood ceiling systems need development parallel to international practices. HVAC professionals recommend integrated planning of ventilation systems for such applications to ensure optimal performance and longevity."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Kontraplak tavan sistemi ve buhar bariyeri detay görünümü",
+      "en": "Detailed view of plywood ceiling system with vapor barrier installation"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 04:09:09 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "buhar bariyeri",
+        "kontraplak tavan",
+        "nem kontrolü",
+        "iklim bölgesi",
+        "yapı fiziği"
+      ],
+      "en": [
+        "vapor barrier",
+        "plywood ceiling",
+        "moisture control",
+        "climate zone",
+        "building physics"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/vapor-product-between-plywood-and-ceiling-in-cz-2",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "european-style-doors-hvac-compatible-options-and-recommendations",
+    "slug": {
+      "tr": "avrupa-tarzi-kapi-modelleri-hvac-uyumlu-secenekler-ve-oneriler",
+      "en": "european-style-doors-hvac-compatible-options-and-recommendations"
+    },
+    "title": {
+      "tr": "Avrupa Tarzı Kapı Modelleri: HVAC Uyumlu Seçenekler ve Öneriler",
+      "en": "European Style Doors: HVAC-Compatible Options and Recommendations"
+    },
+    "excerpt": {
+      "tr": "Ev yenileme projelerinde Avrupa tarzı kapı seçimi, enerji verimliliği ve HVAC sistemleri açısından kritik önem taşıyor.",
+      "en": "European style door selection in home renovation projects is crucial for energy efficiency and HVAC system compatibility."
+    },
+    "content": {
+      "tr": "Ev yenileme projelerinde Avrupa tarzı kapı seçimi, özellikle enerji verimliliği ve HVAC sistem performansı açısından kritik bir karar noktasıdır. Modern ev sahipleri, dış cephe yenilemesi sırasında French kapı gibi Avrupa stilindeki ürünleri tercih ederken, bu seçimin iklimlendirme sistemlerine olan etkilerini de değerlendirmeli.\n\nAvrupa tarzı kapılar, gelişmiş yalıtım teknolojileri ve çok noktalı kilitleme sistemleri ile dikkat çeker. Bu kapılar, özellikle çift cam teknolojisi ve termal kesme özellikli profilleri sayesinde, HVAC sistemlerinin enerji tüketimini önemli ölçüde azaltabilir. Türkiye'de son yıllarda artan enerji maliyetleri göz önüne alındığında, bu tür kapıların tercih edilmesi hem çevresel hem de ekonomik avantaj sağlamaktadır.\n\nUzmanlar, Avrupa standardındaki kapıları tercih eden ev sahiplerine, montaj öncesi HVAC sistem kapasitelerini yeniden hesaplamalarını öneriyor. Gelişmiş yalıtım özellikleri sayesinde, mevcut iklimlendirme sistemlerinin kapasitesi ihtiyaçtan fazla olabilir ve bu durum sistem optimizasyonu fırsatı yaratabilir. Türk yapı sektöründe Avrupa standartlarının benimsenmesi, özellikle büyük şehirlerde enerji sertifikası gereksinimleri ile de uyumlu bir yaklaşım sergilemektedir.",
+      "en": "European style door selection in home renovation projects represents a critical decision point, particularly regarding energy efficiency and HVAC system performance. Modern homeowners choosing European-style products like French doors during exterior renovations must consider the impact of these selections on their climate control systems.\n\nEuropean style doors stand out with their advanced insulation technologies and multi-point locking systems. These doors, especially with their double glazing technology and thermally broken profiles, can significantly reduce HVAC system energy consumption. Given the rising energy costs in recent years, choosing such doors provides both environmental and economic advantages for building efficiency.\n\nExperts recommend that homeowners opting for European standard doors recalculate their HVAC system capacities before installation. Due to enhanced insulation properties, existing climate control systems may have excess capacity, creating opportunities for system optimization. The adoption of European standards in the construction industry aligns well with energy certification requirements, particularly in metropolitan areas where building performance regulations are becoming increasingly stringent.",
+      "tags": {
+        "tr": [
+          "Avrupa kapı",
+          "HVAC enerji verimliliği",
+          "ev yenileme",
+          "French kapı",
+          "iklimlendirme"
+        ],
+        "en": [
+          "European doors",
+          "HVAC energy efficiency",
+          "home renovation",
+          "French doors",
+          "climate control"
+        ]
+      },
+      "imageAlt": {
+        "tr": "Modern Avrupa tarzı French kapı ile enerji verimli ev tasarımı",
+        "en": "Modern European style French door with energy efficient home design"
+      }
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Avrupa Tarzı Kapı Modelleri: HVAC Uyumlu Seçenekler ve Öneriler",
+      "en": "European Style Doors: HVAC-Compatible Options and Recommendations"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 00:21:35 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/where-to-find-european-style-door",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "dogu-iklimlendirme-brings-together-defense-industry-companies-at-technology-days",
+    "slug": {
+      "tr": "dogu-iklimlendirme-savunma-sanayi-firmalarini-teknoloji-gunlerinde-bulusturdu",
+      "en": "dogu-iklimlendirme-brings-together-defense-industry-companies-at-technology-days"
+    },
+    "title": {
+      "tr": "Doğu İklimlendirme Savunma Sanayi Firmalarını Teknoloji Günleri'nde Buluşturdu",
+      "en": "Doğu İklimlendirme Brings Together Defense Industry Companies at Technology Days"
+    },
+    "excerpt": {
+      "tr": "Doğu İklimlendirme, Ankara'da düzenlediği teknoloji etkinliğinde savunma sanayi temsilcilerini bir araya getirdi.",
+      "en": "Doğu İklimlendirme organized a technology event in Ankara, bringing together defense industry representatives and project firms."
+    },
+    "content": {
+      "tr": "Türkiye'nin önde gelen HVAC firması Doğu İklimlendirme, savunma sanayi sektörüne yönelik özel bir teknoloji etkinliği düzenleyerek sektör paydaşlarını bir araya getirdi. 16 Nisan tarihinde Ankara Latanya Otel'de gerçekleştirilen 'Doğu İklimlendirme Teknoloji Günleri', savunma sanayi iştirakleri ve bu sektöre yönelik proje geliştiren firmaların katılımıyla başarıyla tamamlandı.\n\nEtkinlik, şirketin Genel Müdürü Seçkin Tuncer Erdoğmuş'un açılış konuşmasıyla başlarken, savunma sanayiinde güvenilirlik ve sürdürülebilirliğin kritik önemine değinildi. İç Anadolu ve Karadeniz Bölge Satış Uzmanı Yusuf Ziya Sandalcı'nın moderatörlüğünde yürütülen program kapsamında, İş Geliştirme Müdürü Gözde Uzun tarafından şirketin teknik kapasitesi ve mühendislik yaklaşımı detaylarıyla sunuldu.\n\nGün boyu süren teknik oturumlar ve değerlendirme toplantıları, Türkiye'nin savunma sanayi ekosisteminde HVAC çözümlerinin artan önemini gözler önüne serdi. Etkinlik, katılımcı firmalar arasındaki iş birliği potansiyelini artırmayı hedeflerken, sektördeki bilgi paylaşımını güçlendiren önemli bir platform işlevi gördü. Bu tür organizasyonlar, Türkiye'nin savunma sanayiinde yerli ve milli teknoloji geliştirme hedefleri doğrultusunda kritik bir rol oynamaktadır.",
+      "en": "Leading Turkish HVAC company Doğu İklimlendirme organized a specialized technology event targeting the defense industry, bringing together key sector stakeholders. The 'Doğu İklimlendirme Technology Days' took place on April 16th at Ankara Latanya Hotel, successfully hosting defense industry affiliates and companies developing projects for this strategic sector.\n\nThe event commenced with an opening speech by General Manager Seçkin Tuncer Erdoğmuş, emphasizing the critical importance of reliability and sustainability in defense applications. Moderated by Central Anatolia and Black Sea Regional Sales Specialist Yusuf Ziya Sandalcı, the program featured a comprehensive presentation by Business Development Manager Gözde Uzun, showcasing the company's technical capabilities and engineering approach.\n\nFull-day technical sessions and evaluation meetings highlighted the growing significance of HVAC solutions within Turkey's defense industry ecosystem. The event aimed to enhance collaboration potential among participating companies while serving as a vital platform for knowledge sharing in the sector. Such organizations play a crucial role in Turkey's defense industry objectives of developing indigenous and national technology capabilities."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "Doğu İklimlendirme Teknoloji Günleri etkinliğinde savunma sanayi temsilcilerinin toplantı görüntüsü",
+      "en": "Defense industry representatives meeting at Doğu İklimlendirme Technology Days event"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 23:02:55 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "savunma sanayi",
+        "HVAC teknolojisi",
+        "Doğu İklimlendirme",
+        "sektörel buluşma",
+        "teknoloji günleri"
+      ],
+      "en": [
+        "defense industry",
+        "HVAC technology",
+        "Doğu İklimlendirme",
+        "industry meeting",
+        "technology days"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/savunma-sanayi-sektor-temsilcileri-ve-proje-firmalarini-ankarada-bulusturan-organizasyon-dogu-iklimlendirme-teknoloji-gunleri/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "wilo-showcases-water-technologies-at-krohne-academy-seminars",
+    "slug": {
+      "tr": "wilo-krohne-academy-ile-su-teknolojilerini-sektore-tanitti",
+      "en": "wilo-showcases-water-technologies-at-krohne-academy-seminars"
+    },
+    "title": {
+      "tr": "Wilo, KROHNE Academy ile Su Teknolojilerini Sektöre Tanıttı",
+      "en": "Wilo Showcases Water Technologies at KROHNE Academy Seminars"
+    },
+    "excerpt": {
+      "tr": "Sürdürülebilir su teknolojileri lideri Wilo, Ankara ve Manisa'daki etkinliklerde 500 profesyonelle buluştu.",
+      "en": "Water technology leader Wilo met with 500 professionals at events in Ankara and Manisa, showcasing sustainable solutions."
+    },
+    "content": {
+      "tr": "Akıllı su teknolojilerinde öncü konumundaki Wilo, 13. KROHNE Academy seminer serisi kapsamında Türkiye'de iki önemli şehirde sektör temsilcileriyle bir araya geldi. KROHNE, SAMSON Group ve Phoenix Contact ortaklığında gerçekleştirilen etkinliklerde, toplam 500 civarında mühendis ve teknik uzmanla buluşan şirket, enerji verimliliği odaklı çözümlerini paylaştı.\n\nAnkara'da düzenlenen seminerde Wilo, özellikle kamu kurumları ve su yönetimi otoritelerini hedefleyen içerikler sundu. Atık su tesislerinde karşılaşılan operasyonel zorlukları çözen yenilikçi pompa sistemleri ve bu teknolojilerin otomasyon altyapısıyla nasıl entegre edilebileceği konularında detaylı bilgiler verildi. Şirket temsilcileri, su kaynaklarının korunmasında modern tasarım yaklaşımlarının kritik rolünü gerçek proje örnekleriyle destekleyerek açıkladı.\n\nManisa ayağında ise odak noktası endüstriyel tesislerde operasyonel mükemmellik oldu. Wilo uzmanları, sanayi tesislerinin enerji giderlerini optimize eden ve sistem performansını artıran pompa seçim stratejilerini katılımcılarla paylaştı. Bu tür etkinlikler, Türkiye'nin artan su yönetimi ihtiyaçlarına karşı sektörün teknik kapasitesini güçlendirme açısından büyük önem taşıyor.",
+      "en": "Leading smart water technology company Wilo connected with industry representatives in two major Turkish cities as part of the 13th KROHNE Academy seminar series. The events, organized in partnership with KROHNE, SAMSON Group, and Phoenix Contact, brought together approximately 500 engineers and technical specialists, where the company shared its energy efficiency-focused solutions.\n\nAt the Ankara seminar, Wilo presented content specifically targeting public institutions and water management authorities. Detailed information was provided on innovative pump systems that solve operational challenges in wastewater facilities and how these technologies can be integrated with automation infrastructure. Company representatives explained the critical role of modern design approaches in water resource protection, supporting their presentations with real project examples.\n\nThe Manisa session focused on operational excellence in industrial facilities. Wilo experts shared pump selection strategies that optimize energy costs for industrial plants and enhance system performance. Such events hold significant importance for strengthening the technical capacity of Turkey's sector in response to the country's growing water management needs."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Wilo KROHNE Academy seminerinde teknik sunumlara katılan mühendisler",
+      "en": "Engineers attending technical presentations at Wilo KROHNE Academy seminar"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 22:42:30 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "su teknolojileri",
+        "enerji verimliliği",
+        "pompa sistemleri",
+        "atık su yönetimi",
+        "endüstriyel otomasyon"
+      ],
+      "en": [
+        "water technologies",
+        "energy efficiency",
+        "pump systems",
+        "wastewater management",
+        "industrial automation"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/wilo-krohne-academy-seminerleri-ile-ankara-ve-manisada-sektor-profesyonelleriyle-bulustu/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "imbat-develops-architecture-specific-cooling-solutions-for-data-centers",
+    "slug": {
+      "tr": "imbat-veri-merkezi-sogutmasi-icin-mimari-ozel-cozumler-gelistiriyor",
+      "en": "imbat-develops-architecture-specific-cooling-solutions-for-data-centers"
+    },
+    "title": {
+      "tr": "İmbat Veri Merkezi Soğutması İçin Mimari-Özel Çözümler Geliştiriyor",
+      "en": "İmbat Develops Architecture-Specific Cooling Solutions for Data Centers"
+    },
+    "excerpt": {
+      "tr": "İmbat, veri merkezlerinin farklı mimari yapılarına özgü dört farklı soğutma teknolojisi sunarak sektörde öne çıkıyor.",
+      "en": "İmbat stands out in the sector by offering four different cooling technologies specific to various data center architectures."
+    },
+    "content": {
+      "tr": "Türkiye'nin önemli HVAC üreticilerinden İmbat, veri merkezlerinin artan enerji yoğunluğu ve farklı mimari gereksinimlerine yönelik özelleştirilmiş soğutma sistemleri geliştirerek sektörde fark yaratıyor. Şirket, standart ürün tedarikçisi olmaktan öte, her projenin kendine özgü ihtiyaçlarını analiz eden mühendislik çözüm ortağı rolünü benimsiyor.\n\nİmbat'ın geliştirdiği çözümler dört ana kategoride toplanıyor. In-Room sistemleri, 6-150 kW kapasitesi ile genel hacim kontrolü sağlarken, EC fan teknolojisi ve çift akışkanlı modelleriyle kesintisiz operasyon garantisi sunuyor. Orta ve yüksek yoğunluklu tesisler için In-Row üniteleri, sunucu sıralarının arasına konumlandırılarak hava yollarını kısaltıyor ve fan enerji tüketimini minimize ederken sıcak nokta problemini çözüyor.\n\nYapay zeka ve GPU tabanlı sistemlerin yaygınlaşmasıyla birlikte kabinet başına düşen ısı yüklerinin kritik seviyelere çıkması, daha gelişmiş çözümleri gerekli kılıyor. Bu durumda İmbat'ın RDHx (Rear Door Heat Exchanger) ve In-Rack teknolojileri devreye giriyor. RDHx sistemi kabinet arka kapağına entegre likit soğutma serpantiniyle ortamı termal nötr hale getirirken, In-Rack çözümleri özellikle Edge Computing uygulamalarında dış koşullardan bağımsız izole çalışma imkanı sağlıyor.",
+      "en": "İmbat, one of Turkey's leading HVAC manufacturers, is making a significant impact in the sector by developing customized cooling systems for the increasing energy density and diverse architectural requirements of data centers. The company adopts the role of an engineering solution partner that analyzes each project's unique needs, going beyond being a standard product supplier.\n\nİmbat's solutions are organized into four main categories. In-Room systems provide general volume control with 6-150 kW capacity while offering uninterrupted operation guarantee through EC fan technology and dual fluid models. For medium and high-density facilities, In-Row units are positioned between server rows, shortening air paths and minimizing fan energy consumption while solving hot spot problems.\n\nThe proliferation of artificial intelligence and GPU-based systems has brought heat loads per cabinet to critical levels, necessitating more advanced solutions. In this case, İmbat's RDHx (Rear Door Heat Exchanger) and In-Rack technologies come into play. The RDHx system makes the environment thermally neutral through liquid cooling coils integrated into the cabinet rear door, while In-Rack solutions provide isolated operation independent of external conditions, especially in Edge Computing applications."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "İmbat veri merkezi soğutma sistemleri ve In-Row üniteleri",
+      "en": "İmbat data center cooling systems and In-Row units"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 22:31:27 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "veri merkezi soğutması",
+        "HVAC çözümleri",
+        "İmbat teknolojileri",
+        "enerji verimliliği",
+        "termal yönetim"
+      ],
+      "en": [
+        "data center cooling",
+        "HVAC solutions",
+        "İmbat technologies",
+        "energy efficiency",
+        "thermal management"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/imbat-veri-merkezlerinde-mimariye-ozgu-sogutma-cozumleriyle-fark-yaratiyor/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "trane-turkey-director-next-gen-heat-pumps-transform-hvac-sector",
+    "slug": {
+      "tr": "trane-turkiye-muduru-yeni-nesil-isi-pompalari-sektoru-donusturuyor",
+      "en": "trane-turkey-director-next-gen-heat-pumps-transform-hvac-sector"
+    },
+    "title": {
+      "tr": "Trane Türkiye Müdürü: Yeni Nesil Isı Pompaları Sektörü Dönüştürüyor",
+      "en": "Trane Turkey Director: Next-Gen Heat Pumps Transform HVAC Sector"
+    },
+    "excerpt": {
+      "tr": "Mehmet Şahaner, Trane'in Ar-Ge gücüyle geliştirdiği yüksek verimli ısı pompalarının Türkiye pazarındaki stratejik önemini açıkladı.",
+      "en": "Mehmet Şahaner explains strategic importance of Trane's R&D-driven high-efficiency heat pumps in Turkish market transformation."
+    },
+    "content": {
+      "tr": "Trane Türkiye ve Hazar Bölgesi Genel Müdürü Mehmet Şahaner, şirketin global araştırma-geliştirme kapasitesiyle ürettiği yenilikçi ısı pompası teknolojilerinin endüstriyel uygulamalarda nasıl öncü rol oynadığını açıkladı. Şahaner, özellikle enerji verimliliği ve düşük karbon emisyonu sağlayan bu çözümlerin, akıllı sistem entegrasyonu özellikleriyle sektörde yeni standartlar belirlediğini vurguladı.\n\nAvrupa Yeşil Mutabakatı hedefleri ve sürekli yükselen enerji maliyetleriyle birlikte, ısı pompası teknolojilerinin Türkiye'de stratejik bir konuma geldiğini belirten Şahaner, \"Dünyanın farklı bölgelerinde bulunan özel Ar-Ge merkezlerimizde, enerji verimliliğini maksimuma çıkaran, yenilikçi ısı pompası teknolojileri geliştiriyor ve çevre dostu çözümler üretmeye odaklanıyoruz\" dedi. Bu yaklaşımın, artan sürdürülebilirlik baskısı altındaki Türk sanayisi için kritik önem taşıdığını ifade etti.\n\n1913'te Wisconsin'da kurulan ve 110 yılı aşkın deneyime sahip Trane, bugün 900'den fazla ABD patentine sahip olarak iklimlendirme sektöründe dünya liderliğini sürdürüyor. Trane Technologies çatısı altında faaliyet gösteren şirket, 40.000'i aşkın çalışanı ve 22 milyar dolarlık cirosuyla Amerika'nın en büyük endüstriyel firmalarından biri konumunda. 1994'ten bu yana Türkiye pazarında aktif olan Trane, yerel satış ve hizmet ağıyla ülkedeki büyüme potansiyelini değerlendirmeye devam ediyor.",
+      "en": "Mehmet Şahaner, General Manager of Trane Turkey and Caspian Region, revealed how the company's globally-developed innovative heat pump technologies lead industrial applications through advanced R&D capabilities. Şahaner emphasized that these solutions, particularly excelling in energy efficiency and low carbon emissions, set new industry standards through smart system integration features.\n\nHighlighting the strategic position heat pump technologies have gained in Turkey due to European Green Deal targets and continuously rising energy costs, Şahaner stated, \"In our specialized R&D centers located across different regions worldwide, we focus on developing innovative heat pump technologies that maximize energy efficiency and produce environmentally friendly solutions.\" He noted this approach carries critical importance for Turkish industry facing increasing sustainability pressures.\n\nEstablished in Wisconsin in 1913 with over 110 years of experience, Trane continues its global leadership in the HVAC sector with more than 900 US patents. Operating under Trane Technologies umbrella, the company ranks among America's largest industrial firms with over 40,000 employees and $22 billion revenue. Active in the Turkish market since 1994, Trane continues to capitalize on the country's growth potential through its local sales and service network."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "Trane Türkiye Genel Müdürü Mehmet Şahaner endüstriyel ısı pompası teknolojilerini açıklarken",
+      "en": "Trane Turkey General Manager Mehmet Şahaner explaining industrial heat pump technologies"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 12:27:02 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ısı pompası",
+        "enerji verimliliği",
+        "sürdürülebilirlik",
+        "HVAC teknolojisi",
+        "Trane"
+      ],
+      "en": [
+        "heat pump",
+        "energy efficiency",
+        "sustainability",
+        "HVAC technology",
+        "Trane"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/trane-turkiye-ve-hazar-bolgesi-genel-muduru-mehmet-sahaner-2/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
     "id": "free-heat-pump-monitoring-portal-launched-for-installation-teams",
     "slug": {
       "tr": "isi-pompasi-montajcilari-icin-ucretsiz-izleme-portali-gelistirildi",
@@ -29,7 +543,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Wed, 22 Apr 2026 14:21:28 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2036,515 +2550,5 @@
     },
     "sourceUrl": "https://hvacinsider.com/q-pac-announces-seismic-certification-for-multimotor-plenum-fan/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=q-pac-announces-seismic-certification-for-multimotor-plenum-fan",
     "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "hvac-workforce-crisis-trade-schools-could-be-the-solution",
-    "slug": {
-      "tr": "hvac-sektorunde-isgucu-krizi-meslek-okullari-cozum-olabilir",
-      "en": "hvac-workforce-crisis-trade-schools-could-be-the-solution"
-    },
-    "title": {
-      "tr": "HVAC Sektöründe İşgücü Krizi: Meslek Okulları Çözüm Olabilir",
-      "en": "HVAC Workforce Crisis: Trade Schools Could Be the Solution"
-    },
-    "excerpt": {
-      "tr": "HVAC müteahhitleri neden sürekli işçi bulma sorunu yaşıyor? Soğutma sektöründe kalifiye eleman sıkıntısının çözüm yolları.",
-      "en": "Why do HVAC contractors struggle with hiring? Exploring solutions to skilled worker shortage in commercial refrigeration."
-    },
-    "content": {
-      "tr": "HVAC sektöründeki müteahhitler, kalifiye işçi bulmakta yaşadıkları zorlukların temel nedeninin yanlış arama stratejileri olduğunu fark etmeye başlıyor. Özellikle ticari soğutma alanında deneyimli teknisyen eksikliği, şirketlerin büyüme planlarını sekteye uğratıyor ve mevcut çalışanlar üzerindeki iş yükünü artırıyor.\n\nMeslek liseleri ve teknik okullar, bu soruna kalıcı çözüm sunabilecek en önemli kaynak olarak öne çıkıyor. Geleneksel üniversite eğitimi yerine pratik beceriler kazandıran bu kurumlardan mezun olan gençler, HVAC sektörünün ihtiyaç duyduğu temel teknik bilgilere sahip oluyor. Ancak sektör temsilcileri, bu potansiyel çalışanlarla bağlantı kurmak için yeterince çaba göstermediğini kabul ediyor.\n\nTürkiye'deki HVAC sektörü de benzer sorunlarla karşı karşıya kalırken, özellikle büyük şehirlerdeki inşaat patlaması ve alışveri merkezi projelerinde ticari soğutma uzmanlarına olan talep hızla artıyor. Sektör liderleri, meslek okulları ile daha güçlü ortaklıklar kurmanın ve genç yeteneklere erken yatırım yapmanın, uzun vadeli başarı için kritik öneme sahip olduğunu vurguluyor. Bu yaklaşım, hem işsizlik sorununa çözüm üretecek hem de sektörün sürdürülebilir büyümesini destekleyecek.",
-      "en": "HVAC contractors are beginning to realize that their persistent hiring challenges stem primarily from flawed recruitment strategies rather than a genuine shortage of potential workers. The shortage of experienced technicians, particularly in commercial refrigeration, is disrupting company growth plans and increasing workload pressure on existing staff members.\n\nTrade schools and vocational training institutions emerge as the most promising solution to this persistent problem. Young graduates from these practical-focused programs possess the fundamental technical knowledge that the HVAC industry desperately needs, unlike traditional university graduates. However, industry representatives acknowledge they haven't invested sufficient effort in building connections with these potential employees and understanding their career motivations.\n\nTurkey's HVAC sector faces similar workforce challenges, with rapidly growing demand for commercial refrigeration specialists driven by urban construction booms and shopping center developments. Industry leaders emphasize that establishing stronger partnerships with vocational schools and investing early in young talent development is crucial for long-term success. This approach will not only address unemployment issues but also support the industry's sustainable growth trajectory in an increasingly competitive market."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Meslek okulu öğrencileri HVAC sistem bakımı yapıyor",
-      "en": "Trade school students performing HVAC system maintenance"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 11:21:17 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC işgücü",
-        "meslek okulları",
-        "ticari soğutma",
-        "teknisyen eksikliği",
-        "sektör istihdamı"
-      ],
-      "en": [
-        "HVAC workforce",
-        "trade schools",
-        "commercial refrigeration",
-        "technician shortage",
-        "industry employment"
-      ]
-    },
-    "sourceUrl": "https://hvacknowitall.com/blog/trade-schools-commercial-refrigeration-and-managing-real-people",
-    "sourceName": "HVAC Know It All"
-  },
-  {
-    "id": "energy-management-association-hosts-free-building-optimization-webinar",
-    "slug": {
-      "tr": "enerji-yonetimi-dernegi-ucretsiz-bina-optimizasyonu-webinari-duzenliyor",
-      "en": "energy-management-association-hosts-free-building-optimization-webinar"
-    },
-    "title": {
-      "tr": "Enerji Yönetimi Derneği Ücretsiz Bina Optimizasyonu Webinarı Düzenliyor",
-      "en": "Energy Management Association Hosts Free Building Optimization Webinar"
-    },
-    "excerpt": {
-      "tr": "McKinstry'nin veri odaklı enerji tasarrufu yaklaşımı ve dijital araçları ücretsiz AIA onaylı webinarda ele alınacak.",
-      "en": "McKinstry's data-driven energy savings approach and digital tools to be featured in free AIA-approved webinar session."
-    },
-    "content": {
-      "tr": "Enerji Yönetimi Derneği ve CxAlloy işbirliğinde düzenlenecek ücretsiz webinar, veri tabanlı bina optimizasyonu konusunda sektör profesyonellerine önemli bilgiler sunacak.\n\nWebinar kapsamında McKinstry firmasının devreye alma (commissioning) temelli metodolojisi detaylandırılacak. Şirketin binalar ve kampüs alanlarında enerji tasarrufunu belirleme, izleme ve sürdürülebilir kılma konusundaki dijital çözümleri katılımcılarla paylaşılacak. Bu yaklaşım, bina performansını artırmak için veri analitiği ve akıllı teknolojileri bir araya getiriyor.\n\nAmerikan Mimarlar Enstitüsü (AIA) onayı taşıyan bu eğitim, Türkiye'deki HVAC sektörü için de değerli içgörüler sunuyor. Ülkemizde artan enerji verimliliği talepleri ve yeşil bina sertifikasyonu süreçleri göz önüne alındığında, bu tür veri odaklı optimizasyon yöntemleri yerli firmaların rekabet gücünü artırabilir. Webinar, sektör profesyonellerinin uluslararası en iyi uygulamaları öğrenmeleri için ücretsiz bir fırsat sunuyor.",
-      "en": "A collaborative webinar between the Energy Management Association and CxAlloy will provide industry professionals with crucial insights into data-driven building optimization strategies.\n\nThe session will showcase McKinstry's commissioning-based methodology in detail. The company's digital solutions for identifying, monitoring, and maintaining energy savings across building portfolios and campus environments will be shared with participants. This approach combines data analytics with smart technologies to enhance building performance outcomes.\n\nThis American Institute of Architects (AIA) approved training offers valuable insights for the global HVAC industry. As energy efficiency demands continue rising worldwide and green building certification processes expand, these data-driven optimization methods can strengthen companies' competitive positioning. The webinar presents a complimentary opportunity for industry professionals to learn international best practices and advanced building management techniques."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Dijital bina yönetim sistemi kontrol paneli ve enerji tasarrufu grafikleri",
-      "en": "Digital building management system control panel with energy savings charts"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 20 Apr 2026 12:28:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "enerji verimliliği",
-        "bina optimizasyonu",
-        "HVAC teknolojileri",
-        "veri analitiği",
-        "commissioning"
-      ],
-      "en": [
-        "energy efficiency",
-        "building optimization",
-        "HVAC technology",
-        "data analytics",
-        "commissioning"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23308-how-mckinstry-uses-cxalloy-to-track-and-visualize-energy-savings-opportunities",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "attic-insulation-with-xps-and-rockwool-professional-application-guide",
-    "slug": {
-      "tr": "xps-ve-tas-yunu-ile-cati-izolasyonu-profesyonel-uygulama-rehberi",
-      "en": "attic-insulation-with-xps-and-rockwool-professional-application-guide"
-    },
-    "title": {
-      "tr": "XPS ve Taş Yünü ile Çatı İzolasyonu: Profesyonel Uygulama Rehberi",
-      "en": "Attic Insulation with XPS and Rockwool: Professional Application Guide"
-    },
-    "excerpt": {
-      "tr": "Çatı alanlarında XPS ve taş yünü kombinasyonu ile etkili termal izolasyon uygulaması için uzman tavsiyeleri ve teknik detaylar.",
-      "en": "Expert recommendations and technical details for effective thermal insulation using XPS and rockwool combination in attic spaces."
-    },
-    "content": {
-      "tr": "Çatı katı izolasyonunda XPS (Extruded Polystyrene) ve taş yünü kombinasyonu, soğuk iklim bölgelerinde optimum enerji verimliliği sağlayan etkili bir yöntem olarak öne çıkıyor. Bu hibrit yaklaşım, her iki malzemenin güçlü yönlerini birleştirerek üstün termal performans ve nem kontrolü sunuyor.\n\nXPS panellerin yüksek basınç dayanımı ve düşük su emme özelliği, taş yününün mükemmel ses yalıtımı ve yangın direnci ile birleştiğinde kapsamlı bir izolasyon sistemi oluşturuyor. Uygulama sırasında XPS panellerin sıcak köprüleri önlemek için sürekli katman oluşturması, taş yününün ise boşlukları doldurup hava sızıntılarını engellemesi kritik önem taşıyor. Özellikle kuzey bölgelerinde iklim koşullarının zorlu olduğu alanlarda bu kombinasyon, uzun vadeli performans ve dayanıklılık sağlıyor.\n\nTürkiye'deki HVAC sektöründe artan enerji verimliliği talepleri, bu tür hibrit izolasyon çözümlerinin popülaritesini artırıyor. Yeni yapı yönetmeliklerinin getirdiği sıkı termal performans kriterleri, müteahhitleri ve HVAC profesyonellerini innovative izolasyon teknikleri aramaya yönlendiriyor. Bu durum, XPS ve taş yünü kombinasyonunun ticari ve konut projelerinde daha yaygın kullanımına zemin hazırlıyor.",
-      "en": "The combination of XPS (Extruded Polystyrene) and rockwool in attic insulation emerges as an effective method that provides optimal energy efficiency in cold climate regions. This hybrid approach offers superior thermal performance and moisture control by combining the strengths of both materials.\n\nThe high compressive strength and low water absorption properties of XPS panels, combined with rockwool's excellent sound insulation and fire resistance, create a comprehensive insulation system. During application, it's crucial that XPS panels form a continuous layer to prevent thermal bridging, while rockwool fills gaps and prevents air leakage. Particularly in northern regions where climate conditions are harsh, this combination provides long-term performance and durability.\n\nThe increasing energy efficiency demands in Turkey's HVAC sector are boosting the popularity of such hybrid insulation solutions. Strict thermal performance criteria introduced by new building codes are driving contractors and HVAC professionals to seek innovative insulation techniques. This situation paves the way for more widespread use of XPS and rockwool combinations in commercial and residential projects."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Çatı katında XPS panelleri ve taş yünü ile yapılan profesyonel izolasyon uygulaması",
-      "en": "Professional insulation application with XPS panels and rockwool in attic space"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 20 Apr 2026 14:24:46 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "çatı izolasyonu",
-        "XPS",
-        "taş yünü",
-        "enerji verimliliği",
-        "termal izolasyon"
-      ],
-      "en": [
-        "attic insulation",
-        "XPS",
-        "rockwool",
-        "energy efficiency",
-        "thermal insulation"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/insulating-attic-with-xps-and-rockwool",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "water-resistant-barriers-in-timber-frame-homes-key-application-considerations",
-    "slug": {
-      "tr": "ahsap-cerceveli-evlerde-su-bariyeri-uygulamalari-ve-dikkat-edilmesi-gerekenler",
-      "en": "water-resistant-barriers-in-timber-frame-homes-key-application-considerations"
-    },
-    "title": {
-      "tr": "Ahşap Çerçeveli Evlerde Su Bariyeri Uygulamaları ve Dikkat Edilmesi Gerekenler",
-      "en": "Water Resistant Barriers in Timber Frame Homes: Key Application Considerations"
-    },
-    "excerpt": {
-      "tr": "Ahşap çerçeveli evlerde su bariyeri seçimi ve uygulaması, yapının uzun vadeli dayanıklılığını doğrudan etkileyen kritik bir konudur.",
-      "en": "Water barrier selection and application in timber frame homes is a critical factor directly affecting long-term structural durability."
-    },
-    "content": {
-      "tr": "Ahşap çerçeveli yapılarda su dirençli bariyerlerin (WRB) doğru seçimi ve uygulaması, yapının uzun vadeli performansını belirleyen en kritik faktörlerden biridir. Özellikle küçük ölçekli konut projelerinde, açıkta bırakılan ahşap çerçevelerin korunması için uygun su bariyeri sistemi seçimi büyük önem taşımaktadır.\n\nGeleneksel ahşap çerçeveli yapılarda, çerçeve elemanlarının görünür bırakılması estetik açıdan tercih edilse de, nem kontrolü ve hava sızdırmazlığı konularında ek önlemler gerektirmektedir. Su bariyeri sisteminin ahşap yüzeylerle uyumlu şekilde detaylandırılması, özellikle bağlantı noktalarında ve geçiş bölgelerinde özel dikkat gösterilmesi gereken konulardır. Bu tip uygulamalarda, buhar geçirgenliği olan membranların tercih edilmesi, ahşabın doğal nefes almasına olanak tanırken nem birikimini önlemektedir.\n\nTürkiye'deki ahşap yapı sektöründe de benzer uygulamalar giderek yaygınlaşmaktadır. Özellikle dağlık bölgelerdeki tatil konutları ve sürdürülebilir yapı projelerinde, ahşap çerçeveli sistemlerin popülaritesi artmaktadır. Bu trend, yerli HVAC sektörü için yeni fırsatlar yaratırken, özel uygulamalar gerektiren bu tip yapılar için uzman bilgi birikiminin geliştirilmesi ihtiyacını da ortaya koymaktadır.",
-      "en": "Proper selection and application of water resistant barriers (WRB) in timber frame structures is one of the most critical factors determining long-term building performance. Particularly in small-scale residential projects, choosing appropriate water barrier systems to protect exposed timber frames is of paramount importance.\n\nIn traditional timber frame construction, leaving frame members exposed may be aesthetically preferred, but it requires additional measures for moisture control and air sealing. Detailing the water barrier system to be compatible with timber surfaces requires special attention, especially at connection points and transition areas. In such applications, choosing vapor-permeable membranes allows timber to breathe naturally while preventing moisture accumulation.\n\nSimilar applications are becoming increasingly common in Turkey's timber construction sector. Especially in vacation homes in mountainous regions and sustainable building projects, timber frame systems are gaining popularity. While this trend creates new opportunities for the domestic HVAC sector, it also highlights the need to develop specialized expertise for such structures that require unique applications."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Ahşap çerçeveli evde su dirençli bariyer uygulaması",
-      "en": "Water resistant barrier application in timber frame house"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 20 Apr 2026 12:56:23 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ahşap çerçeve",
-        "su bariyeri",
-        "nem kontrolü",
-        "sürdürülebilir yapı",
-        "HVAC"
-      ],
-      "en": [
-        "timber frame",
-        "water barrier",
-        "moisture control",
-        "sustainable building",
-        "HVAC"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/questions-about-wrb-on-my-timber-framed-home",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "whole-home-dehumidifiers-combined-with-erv-systems",
-    "slug": {
-      "tr": "ev-tipi-nem-alma-cihazlari-ve-erv-sistemlerinin-birlikte-kullanimi",
-      "en": "whole-home-dehumidifiers-combined-with-erv-systems"
-    },
-    "title": {
-      "tr": "Ev Tipi Nem Alma Cihazları ve ERV Sistemlerinin Birlikte Kullanımı",
-      "en": "Whole Home Dehumidifiers Combined with ERV Systems"
-    },
-    "excerpt": {
-      "tr": "Yeni yapı evlerde ERV sistemi ile birlikte nem alma cihazlarının kullanımı optimal iç hava kalitesi sağlıyor.",
-      "en": "New construction homes benefit from combining ERV systems with dehumidifiers for optimal indoor air quality control."
-    },
-    "content": {
-      "tr": "Modern konut yapılarında enerji verimliliği kaygıları, ev tipi nem alma sistemleri ile enerji geri kazanım ventilatörlerinin (ERV) birlikte kullanımını gündeme getiriyor.\n\nYeni inşa edilen binalarda kurulan ERV sistemleri, sürekli düşük hızda çalışarak temel havalandırmayı sağlarken, banyo ve mutfak gibi yoğun nem oluşan alanlarda otomatik olarak hızını artırıyor. Bu durum, özellikle kapalı mekan tasarımlarında nem kontrolünün kritik önem kazandığını gösteriyor. ERV'ler dış havadan gelen nemi kontrol etse de, iç kaynaklardan oluşan fazla nem için ek çözümlere ihtiyaç duyuluyor.\n\nTürkiye'de artan enerji verimliliği standartları ve sıkı yalıtım uygulamaları, benzer teknoloji kombinasyonlarının yaygınlaşmasını destekliyor. HVAC sektöründe uzmanlar, özellikle yüksek nem oranlarının yaşandığı sahil bölgelerde bu tür hibrit sistemlerin daha fazla tercih edileceğini öngörüyor. Nem alma cihazları ile ERV'lerin entegre çalışması, hem enerji tasarrufu hem de optimal konfor koşulları sağlama açısından gelecekte standart hale gelebilir.",
-      "en": "Energy efficiency concerns in modern residential construction are driving the combined use of whole-home dehumidification systems with Energy Recovery Ventilators (ERVs).\n\nERV systems installed in newly constructed buildings operate continuously at low speeds to provide baseline ventilation while automatically boosting when moisture-intensive activities occur in bathrooms and kitchens. This highlights the critical importance of humidity control in tightly sealed building designs. While ERVs manage incoming outdoor humidity, additional solutions are needed to address excess moisture from internal sources.\n\nThe growing emphasis on energy efficiency standards and tight building envelopes is making such technology combinations increasingly relevant for HVAC professionals. Industry experts anticipate greater adoption of these hybrid systems, particularly in high-humidity regions where moisture management becomes challenging. The integrated operation of dehumidifiers with ERVs represents a promising approach for achieving both energy savings and optimal indoor comfort conditions in future building designs."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "ERV sistemi ile entegre edilmiş ev tipi nem alma cihazının şematik görünümü",
-      "en": "Schematic view of whole-home dehumidifier integrated with ERV system"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 20 Apr 2026 11:43:19 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ERV sistem",
-        "nem alma cihazı",
-        "enerji verimliliği",
-        "iç hava kalitesi",
-        "HVAC teknolojisi"
-      ],
-      "en": [
-        "ERV system",
-        "dehumidifier",
-        "energy efficiency",
-        "indoor air quality",
-        "HVAC technology"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/whole-home-dehumidifier-w-erv",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "prefab-construction-fails-to-meet-cost-reduction-expectations",
-    "slug": {
-      "tr": "prefabrik-yapi-teknolojisi-maliyet-beklentilerini-karsilayamadi",
-      "en": "prefab-construction-fails-to-meet-cost-reduction-expectations"
-    },
-    "title": {
-      "tr": "Prefabrik Yapı Teknolojisi Maliyet Beklentilerini Karşılayamadı",
-      "en": "Prefab Construction Fails to Meet Cost Reduction Expectations"
-    },
-    "excerpt": {
-      "tr": "Endüstriyel prefabrik yapım yöntemleri beklenen maliyet düşüşünü sağlayamadı. Türkiye HVAC sektörüne etkileri değerlendiriliyor.",
-      "en": "Industrial prefab construction methods failed to deliver expected cost savings. Impact on Turkey's HVAC sector being evaluated."
-    },
-    "content": {
-      "tr": "Prefabrik yapı teknolojilerinin inşaat maliyetlerinde sağlayacağı devrim, sektörün beklentilerini karşılamakta yetersiz kaldı. Endüstriyel üretim mantığının geleneksel şantiye ortamına uyarlanması, öngörülen tasarrufları gerçekleştirmede önemli engeller yaratmıştır.\n\nGeleneksel şantiye koşullarında faaliyet gösteren HVAC firmaları, prefabrik sistemlerin montaj süreçlerinde beklenmedik karmaşıklıklarla karşılaştıklarını bildirmektedir. Standartlaştırılmış üretim süreçlerinin her proje için farklı olan ihtiyaçlarla uyumlu hale getirilmesi, ek maliyet kalemleri oluşturmaktadır. Ayrıca, kalifiye işgücü ihtiyacı ve özel ekipman gereksinimleri de maliyet artışlarına neden olmaktadır.\n\nTürkiye'deki HVAC sektörü temsilcileri, prefabrik teknolojilerin belirli proje türlerinde avantaj sağladığını, ancak yaygın kullanım için daha fazla gelişime ihtiyaç duyduğunu belirtmektedir. Özellikle büyük ölçekli konut projelerinde kısmi başarılar elde edilse de, özel projelerde hala geleneksel yöntemlerin tercih edildiği görülmektedir. Sektör uzmanları, teknolojinin olgunlaşması için daha fazla zaman ve yatırım gerektiğini vurgulamaktadır.",
-      "en": "The revolutionary cost reductions promised by prefabricated construction technologies have fallen short of industry expectations. Adapting industrial production logic to traditional construction site environments has created significant barriers to achieving the anticipated savings.\n\nHVAC companies operating under conventional site conditions report encountering unexpected complexities during prefab system installations. Adapting standardized production processes to meet the unique requirements of each project creates additional cost items. Furthermore, skilled labor requirements and specialized equipment needs contribute to cost escalations.\n\nRepresentatives from Turkey's HVAC sector indicate that prefab technologies provide advantages in certain project types but require further development for widespread adoption. While partial success has been achieved in large-scale residential projects, traditional methods remain preferred for custom applications. Industry experts emphasize that more time and investment are needed for the technology to mature."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Prefabrik HVAC sistemlerinin şantiyede montaj işlemi",
-      "en": "Installation of prefabricated HVAC systems on construction site"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 20 Apr 2026 08:00:44 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "prefabrik HVAC",
-        "inşaat maliyetleri",
-        "endüstriyel yapı",
-        "HVAC teknolojileri",
-        "yapı sektörü"
-      ],
-      "en": [
-        "prefab HVAC",
-        "construction costs",
-        "industrial building",
-        "HVAC technologies",
-        "construction industry"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/article/the-limits-of-industrial-thinking-in-a-site-built-world",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "apm-steam-and-aquatomic-form-alliance-for-thermal-energy-solutions",
-    "slug": {
-      "tr": "apm-steam-ve-aquatomic-termal-enerji-cozumlerinde-guc-birligi",
-      "en": "apm-steam-and-aquatomic-form-alliance-for-thermal-energy-solutions"
-    },
-    "title": {
-      "tr": "APM Steam ve Aquatomic Termal Enerji Çözümlerinde Güç Birliği",
-      "en": "APM Steam and Aquatomic Form Alliance for Thermal Energy Solutions"
-    },
-    "excerpt": {
-      "tr": "İki uzman şirket, kritik tesislere entegre buhar ve su sistemi çözümleri sunmak için stratejik ortaklık kurdu.",
-      "en": "Two specialized companies partner to provide integrated steam and water system solutions for critical facilities."
-    },
-    "content": {
-      "tr": "Buhar sistemi hizmetleri lideri American Plant Maintenance (APM Steam) ile su arıtma uzmanı Aquatomic Products Company, kritik tesislere yönelik kapsamlı termal enerji çözümleri sunmak amacıyla stratejik bir işbirliği anlaşması imzaladı. Bu ortaklık, Kuzeydoğu ve Orta Atlantik bölgelerindeki endüstriyel tesislerde enerji verimliliği ve maliyet tasarrufu sağlamayı hedefliyor.\n\nAquatomic'in kazan ve soğutma kulesi su arıtma alanındaki onlarca yıllık deneyimi, APM'in buhar tuzağı analizleri, sistem değerlendirmeleri ve enerji verimliliği geliştirme uzmanlığı ile birleşiyor. İki şirket bağımsız kimliklerini korurken, müşterilere hem buhar hem de su sistemlerini kapsayan bütünsel çözümler sunacak. Bu entegrasyon sayesinde tesislerde daha az kesinti, daha iyi performans ve düşük işletme maliyetleri elde edilmesi planlanıyor.\n\nBu gelişme, Türkiye'deki HVAC sektörü için de önemli ipuçları barındırıyor. Özellikle büyük endüstriyel tesislerde buhar ve su sistemlerinin entegre yönetimi, enerji maliyetlerinin arttığı günümüzde kritik önem kazanıyor. Türk müteahhitleri ve tesis yöneticileri için bu tür stratejik ortaklıklar, hizmet kalitesini artırırken operasyonel verimliliği de maksimize eden yeni iş modelleri sunabilir.",
-      "en": "American Plant Maintenance (APM Steam), a leading provider of steam system services, and Aquatomic Products Company, a water treatment specialist, have announced a strategic collaboration to deliver comprehensive thermal energy solutions for mission-critical facilities. This partnership targets enhanced energy efficiency and cost savings for industrial facilities across the Northeast and Mid-Atlantic regions.\n\nThe collaboration combines Aquatomic's decades of expertise in boiler and cooling tower water treatment with APM's specialization in steam trap surveys, system assessments, and energy efficiency improvements. While both companies maintain their independent operations and brand identities, they will offer customers integrated solutions covering both steam and water systems. This unified approach aims to deliver superior overall performance, reduced operational disruptions, and lower maintenance costs for facility operators.\n\nThis development offers valuable insights for the global HVAC industry, including emerging markets. As energy costs continue to rise worldwide, the integrated management of steam and water systems in large industrial facilities becomes increasingly critical. Such strategic partnerships demonstrate how specialized companies can create synergies that benefit customers through enhanced service quality and operational efficiency, providing a blueprint for similar collaborations in other regions."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Endüstriyel tesiste buhar ve su arıtma sistemleri",
-      "en": "Industrial steam and water treatment systems in facility"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 13:46:33 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "buhar sistemi",
-        "su arıtma",
-        "enerji verimliliği",
-        "termal enerji",
-        "endüstriyel HVAC"
-      ],
-      "en": [
-        "steam systems",
-        "water treatment",
-        "energy efficiency",
-        "thermal energy",
-        "industrial HVAC"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/apm-steam-and-aquatomic-announce-strategic-collaboration-to-deliver-comprehensive-thermal-energy-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apm-steam-and-aquatomic-announce-strategic-collaboration-to-deliver-comprehensive-thermal-energy-solutions",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "hrv-erv-and-heat-pump-integration-guide-for-passive-houses",
-    "slug": {
-      "tr": "pasif-evlerde-hrv-erv-ve-isi-pompasi-entegrasyonu-rehberi",
-      "en": "hrv-erv-and-heat-pump-integration-guide-for-passive-houses"
-    },
-    "title": {
-      "tr": "Pasif Evlerde HRV-ERV ve Isı Pompası Entegrasyonu Rehberi",
-      "en": "HRV-ERV and Heat Pump Integration Guide for Passive Houses"
-    },
-    "excerpt": {
-      "tr": "Soğuk iklim bölgelerinde pasif evlerde HRV/ERV sistemleri ile merkezi ısı pompası entegrasyonu nasıl optimize edilir?",
-      "en": "How to optimize HRV/ERV systems with central heat pumps in passive houses located in cold climate zones?"
-    },
-    "content": {
-      "tr": "Kuzey Amerika'nın soğuk iklim bölgelerinde inşa edilen pasif evlerde, HRV (Heat Recovery Ventilator) veya ERV (Energy Recovery Ventilator) sistemlerinin merkezi ısı pompalarıyla entegrasyonu, enerji verimliliği açısından kritik bir tasarım kararıdır. 150 metrekarelik tek katlı pasif ev projelerinde, don korumalı sığ temel sistemleri üzerinde kurulan bu yapılarda HVAC tasarımı özel dikkat gerektirmektedir.\n\nSoğuk iklim bölgelerinde pasif ev standartlarına uyan yapılarda, hava kalitesini korurken enerji kayıplarını minimize etmek için HRV ve ERV sistemleri arasında doğru seçim yapılması gerekir. HRV sistemleri sadece sıcaklık transferi yaparken, ERV sistemleri nem transferi de gerçekleştirerek iç ortam konforu açısından avantaj sağlar. Merkezi ısı pompası ile entegrasyon sırasında, sistemlerin birbirleriyle uyumlu çalışması için dikkatlice hesaplanmış hava debileri ve sıcaklık kontrol stratejileri uygulanmalıdır.\n\nTürkiye'de özellikle Doğu Anadolu ve İç Anadolu'nun soğuk bölgelerinde artan pasif ev projeleri, bu tür entegre HVAC çözümlerine olan ilgiyi artırmaktadır. Yerli HVAC sektörü için bu deneyimler, soğuk iklim koşullarında enerji verimli yapı teknolojilerinin geliştirilmesi açısından değerli referanslar oluşturmaktadır. Özellikle İstanbul, Ankara ve İzmir gibi büyük şehirlerdeki yeşil bina sertifikasyonu alan projelerde, benzer teknolojik çözümlerin uygulanması beklenmektedir.",
-      "en": "The integration of HRV (Heat Recovery Ventilator) or ERV (Energy Recovery Ventilator) systems with central heat pumps in passive houses built in cold climate regions of North America represents a critical design decision for energy efficiency. In single-story passive house projects covering 1600 square feet, constructed on frost-protected shallow foundations, HVAC design requires special attention to achieve optimal performance.\n\nIn passive houses meeting strict standards in cold climate zones, selecting between HRV and ERV systems is crucial for maintaining indoor air quality while minimizing energy losses. While HRV systems only transfer sensible heat, ERV systems also handle latent heat transfer, providing advantages for indoor comfort control. During integration with central heat pump systems, carefully calculated airflow rates and temperature control strategies must be implemented to ensure compatible operation between all system components.\n\nThe growing number of passive house projects in Turkey, particularly in cold regions of Eastern and Central Anatolia, is increasing interest in such integrated HVAC solutions. For the domestic HVAC industry, these experiences provide valuable references for developing energy-efficient building technologies under cold climate conditions. Similar technological solutions are expected to be implemented in green building certified projects in major cities like Istanbul, Ankara, and Izmir."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "Pasif evde HRV/ERV ve ısı pompası entegre sistem şeması",
-      "en": "Integrated HRV/ERV and heat pump system diagram in passive house"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Mon, 20 Apr 2026 00:09:03 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "pasif ev",
-        "HRV sistem",
-        "ERV havalandırma",
-        "ısı pompası",
-        "enerji verimli HVAC"
-      ],
-      "en": [
-        "passive house",
-        "HRV system",
-        "ERV ventilation",
-        "heat pump",
-        "energy efficient HVAC"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/hrv-or-erv-design-with-central-heat-pump-in-northern-ontario-canada",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "ior-launches-first-in-person-event-at-carter-thermal-facility",
-    "slug": {
-      "tr": "ior-ilk-yuz-yuze-etkinligini-carter-thermalda-duzenliyor",
-      "en": "ior-launches-first-in-person-event-at-carter-thermal-facility"
-    },
-    "title": {
-      "tr": "IOR İlk Yüz Yüze Etkinliğini Carter Thermal'da Düzenliyor",
-      "en": "IOR Launches First In-Person Event at Carter Thermal Facility"
-    },
-    "excerpt": {
-      "tr": "Soğutma Enstitüsü, net sıfır hedefi için Carter Thermal'da uzman konuşmaları ve tesis turunu içeren ücretsiz etkinlik düzenliyor.",
-      "en": "Institute of Refrigeration organizes free event at Carter Thermal featuring expert talks and facility tours focused on net zero goals."
-    },
-    "content": {
-      "tr": "Birleşik Krallık merkezli Soğutma Enstitüsü (Institute of Refrigeration), 19 Mayıs'ta Carter Thermal Industries tesislerinde ilk yüz yüze \"Konuşma ve Tur\" etkinliğini düzenleyecek. Bu yarım günlük program, RACHP (Soğutma, İklimlendirme, Isı Pompaları) sektöründen profesyonelleri bir araya getirerek net sıfır emisyon hedeflerine ulaşma yollarını pratik açıdan ele alacak.\n\nEtkinlik programında enerji verimli sistemlerin tasarımı, yeniden kullanım ve geri dönüşüm süreçleri ile teknolojinin gıda perakende sektörüne etkilerini kapsayan üç ana sunum yer alacak. Katılımcılar ayrıca Birmingham'daki Carter Thermal'ın net sıfır eğitim ve inovasyon merkezini gezme fırsatı bulacak. Bu merkez, sürdürülebilir soğutma teknolojilerinin geliştirildiği önemli tesislerden biri olarak dikkat çekiyor.\n\nBu etkinlik serisi, Türkiye'deki HVAC sektörü profesyonelleri için de örnek teşkil ediyor. Ülkemizde de benzer inovasyon merkezleri ve eğitim programlarının geliştirilmesi, sektörün çevre dostu teknolojilere adaptasyonunu hızlandırabilir. IOR'un ücretsiz sunduğu bu etkinlikler, mesleki gelişim sertifikası kazanma imkanı sunarken, sektör profesyonellerinin ağ kurmasına ve sürdürülebilir soğutma teknolojilerinin geleceğini yakından görmelerine olanak tanıyor.",
-      "en": "The UK-based Institute of Refrigeration will conduct its inaugural in-person \"Talk & Tour\" event at Carter Thermal Industries facilities on May 19th. This half-day program will unite RACHP (Refrigeration, Air Conditioning, Heat Pumps) sector professionals to explore practical pathways toward achieving net zero emissions targets.\n\nThe event agenda features three key presentations covering energy-efficient system design, reuse and recycling processes, and technology's impact on food retail operations. Participants will also have the opportunity to tour Carter Thermal's Birmingham-based net zero training and innovation center. This facility stands out as one of the significant sites where sustainable cooling technologies are being developed and refined.\n\nThis event series serves as an important model for HVAC industry professionals in Turkey and beyond. The development of similar innovation centers and training programs in emerging markets could accelerate the sector's adaptation to environmentally friendly technologies. IOR's complimentary events provide opportunities for professional development certification while enabling industry professionals to network and witness firsthand the future of sustainable cooling innovations."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Carter Thermal net sıfır eğitim ve inovasyon merkezi görünümü",
-      "en": "View of Carter Thermal net zero training and innovation center"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Sun, 19 Apr 2026 15:10:03 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC",
-        "net sıfır",
-        "sürdürülebilir soğutma",
-        "sektörel eğitim",
-        "inovasyon"
-      ],
-      "en": [
-        "HVAC",
-        "net zero",
-        "sustainable cooling",
-        "professional training",
-        "innovation"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/training/carter-thermal-to-host-ior-talk-and-tour/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "rim-joist-insulation-in-damp-basements-stone-foundation-solutions",
-    "slug": {
-      "tr": "nemli-bodrumlarda-rim-joist-izolasyonu-tas-temel-cozumleri",
-      "en": "rim-joist-insulation-in-damp-basements-stone-foundation-solutions"
-    },
-    "title": {
-      "tr": "Nemli Bodrumlarda Rim Joist İzolasyonu: Taş Temel Çözümleri",
-      "en": "Rim Joist Insulation in Damp Basements: Stone Foundation Solutions"
-    },
-    "excerpt": {
-      "tr": "1906 yapımı Maine evindeki nemli bodrum için rim joist izolasyon planı. Taş temel ve beton karma yapılarda uygulanacak teknikler.",
-      "en": "Rim joist insulation plan for damp 1906 Maine basement. Techniques for mixed stone foundation and concrete structures in cold climates."
-    },
-    "content": {
-      "tr": "Eski yapılarda bodrum izolasyonu, özellikle nemli ortamlarda rim joist yalıtımı kritik bir HVAC sorunu haline gelmektedir. 1906 yılında inşa edilmiş Maine'deki bir ev örneğinde, yarısı moloz taş temel yarısı beton uzantıdan oluşan karma yapıda etkili ısı yalıtım stratejileri geliştirilmesi gerekmektedir.\n\nTaş temel sistemlerinde nem kontrolü, geleneksel yalıtım malzemelerinin uygulanmasını zorlaştırmaktadır. Moloz taş duvarlarda hava sızıntıları ve termal köprüler, enerji kayıplarının ana nedenleri arasında yer almaktadır. Bu tür yapılarda rim joist alanlarının yalıtımında, nem geçirgenliği olan malzemeler tercih edilmeli ve buhar bariyeri uygulamaları dikkatli planlanmalıdır. Beton ve taş karma sistemlerde farklı genleşme katsayıları nedeniyle oluşan boşluklar, özel dolgu malzemeleriyle kapatılması gereken kritik noktalar oluşturmaktadır.\n\nTürkiye'deki HVAC sektörü açısından bu durum, özellikle tarihi yapıların restorasyonunda benzer zorlukları işaret etmektedir. Anadolu'daki geleneksel taş yapılarda modern ısıtma sistemleri kurulurken, nem kontrolü ve enerji verimliliği dengesinin kurulması, sektörde uzman iş gücü ve özel malzeme ihtiyacını artırmaktadır. Iklim değişikliği ile birlikte artan enerji maliyetleri, bu tür karma temel sistemlerde profesyonel yalıtım çözümlerine olan talebi güçlendirmektedir.",
-      "en": "Basement insulation in older structures, particularly rim joist insulation in damp environments, has become a critical HVAC challenge. A 1906 Maine house example demonstrates the need for effective thermal insulation strategies in mixed construction featuring half rubble stone foundation and half concrete extension.\n\nMoisture control in stone foundation systems complicates the application of traditional insulation materials. Air leakage and thermal bridging in rubble stone walls represent primary sources of energy loss. Rim joist insulation in such structures requires vapor-permeable materials and carefully planned vapor barrier applications. Mixed concrete and stone systems create critical gaps due to different expansion coefficients that must be sealed with specialized filling materials.\n\nFor Turkey's HVAC sector, this situation highlights similar challenges in historic building restoration projects. Installing modern heating systems in traditional Anatolian stone structures while balancing moisture control and energy efficiency increases demand for specialized workforce and materials. Rising energy costs due to climate change are strengthening demand for professional insulation solutions in mixed foundation systems."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Taş temel üzerinde rim joist izolasyon uygulaması gösteren teknik çizim",
-      "en": "Technical diagram showing rim joist insulation application on stone foundation"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Sun, 19 Apr 2026 13:30:30 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "bodrum izolasyonu",
-        "rim joist",
-        "taş temel",
-        "nem kontrolü",
-        "enerji verimliliği"
-      ],
-      "en": [
-        "basement insulation",
-        "rim joist",
-        "stone foundation",
-        "moisture control",
-        "energy efficiency"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/insulation-rim-joists-in-a-wet-basement-with-rubble-stone-foundation",
-    "sourceName": "Green Building Advisor"
   }
 ]
