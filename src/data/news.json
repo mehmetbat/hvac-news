@@ -1,5 +1,515 @@
 [
   {
+    "id": "munters-secures-184m-data-center-deal-in-us-market-for-ai-cooling",
+    "slug": {
+      "tr": "munters-abd-veri-merkezi-pazarinda-184-milyon-euroluk-dev-anlasma-imzaladi",
+      "en": "munters-secures-184m-data-center-deal-in-us-market-for-ai-cooling"
+    },
+    "title": {
+      "tr": "Munters ABD Veri Merkezi Pazarında 184 Milyon Euro'luk Dev Anlaşma İmzaladı",
+      "en": "Munters Secures €184M Data Center Deal in US Market for AI Cooling"
+    },
+    "excerpt": {
+      "tr": "İsveçli Munters, ABD'de bir veri merkezi sağlayıcısıyla 184 milyon Euro değerinde yapay zeka soğutma sistemleri anlaşması imzaladı.",
+      "en": "Swedish Munters signs €184M deal with US data center provider for AI cooling systems, marking major expansion in liquid cooling technology."
+    },
+    "content": {
+      "tr": "İsveçli iklimlendirme devi Munters, ABD'deki bir veri merkezi sağlayıcısıyla yaklaşık 184 milyon Euro (2 milyar SEK) değerinde büyük çaplı bir sözleşme imzaladığını duyurdu. Bu anlaşma, yapay zeka altyapılarının artan soğutma ihtiyacını karşılamaya yönelik özel tasarım sistemlerin tedarikini kapsıyor ve 2027 yılının başından 2028'in ilk çeyreğine kadar sürecek teslimat programı öngörüyor.\n\nSözleşme kapsamında, yüksek kapasiteli soğutma dağıtım üniteleri (CDU'lar) ve raf üstü bilgisayar odası hava işleme üniteleri (CRAH'lar) üretilecek. Munters Veri Merkezi Teknolojileri İş Birimi Başkanı Stefan Aspman, bu anlaşmanın şirketin hem hava hem de sıvı soğutmalı çözümlerle yüksek yoğunluklu yapay zeka fabrikalarını destekleme kabiliyetine olan güveni doğruladığını belirtti. Sistemin tamamen modüler yaklaşımla tasarlandığı ve müşterinin yapay zeka altyapısını hızlı ve ölçeklenebilir şekilde konuşlandırmasını sağladığı vurgulandı.\n\nBu gelişme, Türkiye'deki veri merkezi ve iklimlendirme sektörü için de önemli sinyaller veriyor. Yapay zeka uygulamalarının hızla yaygınlaştığı ülkemizde, veri merkezlerinin soğutma ihtiyaçları da artıyor. Munters'in bu büyük anlaşması, Türk iklimlendirme firmalarının da benzer teknolojilere yatırım yapması gerektiğini ve yerel pazarda yeni fırsatlar doğabileceğini gösteriyor. Özellikle İstanbul ve Ankara'daki büyük veri merkezleri için gelişmiş soğutma çözümlerine olan talep artmaya devam edecek.",
+      "en": "Swedish climate solutions giant Munters has announced securing a major contract worth approximately €184 million (SEK 2 billion) with a US-based colocation data center provider. This agreement focuses on delivering custom-designed cooling systems for artificial intelligence infrastructure, with deliveries scheduled to commence in early 2027 and continue through the first quarter of 2028.\n\nThe contract encompasses the production of high-capacity coolant distribution units (CDUs) and over-the-rack computer room air handlers (CRAHs). Stefan Aspman, President of Munters' Data Center Technologies business area, stated that this deal confirms continued confidence in the company's ability to support high-density AI facilities with both air-cooled and liquid-cooled solutions. The system features a fully modular design approach that enables customers to deploy AI infrastructure rapidly and at scale, cooling entire AI skids efficiently.\n\nThis development signals significant implications for the global HVAC and data center cooling industry. As AI applications continue expanding worldwide, the demand for sophisticated cooling solutions is intensifying. Munters' substantial contract demonstrates the growing market potential for specialized data center cooling technologies, particularly for AI workloads that generate substantially more heat than traditional computing applications. This trend is likely to influence HVAC manufacturers globally to invest in advanced liquid cooling technologies and modular solutions to meet the evolving needs of next-generation data centers."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Veri merkezi soğutma sistemleri ve yapay zeka sunucularının soğutulması",
+      "en": "Data center cooling systems and AI server cooling infrastructure"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 14:09:51 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "veri merkezi soğutması",
+        "yapay zeka",
+        "Munters",
+        "sıvı soğutma",
+        "CDU sistemleri"
+      ],
+      "en": [
+        "data center cooling",
+        "artificial intelligence",
+        "Munters",
+        "liquid cooling",
+        "CDU systems"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/uncategorized/munters-lands-e184m-us-data-centre-deal/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "castel-usa-ceo-alessandro-sertorio-passes-away-suddenly",
+    "slug": {
+      "tr": "castel-usa-ceosu-alessandro-sertorio-hayatini-kaybetti",
+      "en": "castel-usa-ceo-alessandro-sertorio-passes-away-suddenly"
+    },
+    "title": {
+      "tr": "Castel USA CEO'su Alessandro Sertorio Hayatını Kaybetti",
+      "en": "Castel USA CEO Alessandro Sertorio Passes Away Suddenly"
+    },
+    "excerpt": {
+      "tr": "İtalyan soğutma teknolojileri üreticisi Castel'in ABD CEO'su Alessandro Sertorio, Miami'de trafik kazasında yaşamını yitirdi.",
+      "en": "Italian refrigeration technology manufacturer Castel's US CEO Alessandro Sertorio died in a traffic accident in Miami."
+    },
+    "content": {
+      "tr": "İtalyan menşeli soğutma ve klima komponentleri üreticisi Castel'in ABD iştiraki CEO'su Alessandro Sertorio, Miami'de geçirdiği trafik kazası sonucu 57 yaşında hayatını kaybetti.\n\n26 yılı aşkın süredir Castel bünyesinde görev yapan Sertorio, kariyerine İtalya'da satış genel müdürü olarak başlamış, 2019 yılında ise Castel USA CEO'su pozisyonuna atanmıştı. LinkedIn üzerinden yaptığı açıklamada şirket, Sertorio'nun İtalya'daki ticari faaliyetlerin gelişiminde ve daha sonra ABD ile Latin Amerika pazarlarındaki genişlemede kritik rol oynadığını belirtti.\n\nTürkiye soğutma sektöründe de tanınan Castel markası, bu kayıpla birlikte önemli bir deneyimli yöneticisini kaybetmiş oldu. Sertorio'nun özellikle Amerika kıtasındaki operasyonları yönetmedeki başarısı, Türkiye'de faaliyet gösteren HVAC distribütörleri ve teknisyenleri tarafından da takdir edilen bir liderlik örneğiydi. Şirket, Sertorio'yu 'derin saygı ve minnetle' anacağını ifade etti.",
+      "en": "Alessandro Sertorio, CEO of Italian refrigeration and air conditioning component manufacturer Castel's US subsidiary, has died at age 57 following a traffic accident in Miami.\n\nSertorio had dedicated over 26 years of his career to Castel, beginning as general manager of sales in Italy before his appointment as Castel USA CEO in 2019. In a LinkedIn statement, the company emphasized Sertorio's crucial role in developing commercial activities in Italy and subsequently expanding operations across the United States and Latin America markets.\n\nThe loss represents a significant blow to the global HVAC industry, where Sertorio was recognized for his expertise in refrigeration technology and market development. His leadership in managing North American operations had established strong partnerships with distributors and contractors worldwide, including those serving emerging markets like Turkey. The company stated that Sertorio will be remembered 'with deep respect and gratitude' for his lasting contributions to the organization."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Castel firması logosu ve HVAC ekipmanları",
+      "en": "Castel company logo and HVAC equipment"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 10:53:35 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Castel",
+        "HVAC",
+        "soğutma teknolojileri",
+        "sektör haberleri",
+        "Alessandro Sertorio"
+      ],
+      "en": [
+        "Castel",
+        "HVAC",
+        "refrigeration technology",
+        "industry news",
+        "Alessandro Sertorio"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/alessandro-sertorio-castel-usa-ceo-dies/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "bac-launches-trilliumseries-water-efficient-dry-cooler-system",
+    "slug": {
+      "tr": "bac-trilliumseries-su-tasarruflu-kuru-sogutucu-sistemini-tanitti",
+      "en": "bac-launches-trilliumseries-water-efficient-dry-cooler-system"
+    },
+    "title": {
+      "tr": "BAC TrilliumSeries Su Tasarruflu Kuru Soğutucu Sistemini Tanıttı",
+      "en": "BAC Launches TrilliumSeries Water-Efficient Dry Cooler System"
+    },
+    "excerpt": {
+      "tr": "Baltimore Aircoil Company, su kıtlığı yaşanan bölgeler için yüksek kapasiteli TrilliumSeries kuru soğutucu sistemini piyasaya sürdü.",
+      "en": "Baltimore Aircoil Company introduces high-capacity TrilliumSeries dry cooler designed for water-stressed regions worldwide."
+    },
+    "content": {
+      "tr": "Ticari ve endüstriyel soğutma çözümlerinin küresel lideri Baltimore Aircoil Company (BAC), su kullanımını minimize eden yenilikçi TrilliumSeries kuru soğutucu sistemini piyasaya sürdüğünü duyurdu. Artan su kıtlığı sorunlarına yanıt olarak geliştirilen bu sistem, sürdürülebilir soğutma teknolojilerinde yeni bir standart oluşturuyor.\n\nBAC Başkanı Don Fetzer, ürünün geliştirilme amacını açıklarken \"Küresel su kıtlığı ve temiz suya erişim zorluklarının yaygınlaştığı bir dönemde, TrilliumSeries müşterilerimize dayanıklı soğutma çözümleri sunma konusundaki kararlılığımızı gösteriyor\" ifadelerini kullandı. Sistem, özellikle kesintisiz çalışma gereksinimleri olan veri merkezleri ve üretim tesisleri için kritik öneme sahip.\n\nTürkiye'de de su kaynaklarının verimli kullanımının giderek önem kazandığı göz önüne alındığında, TrilliumSeries gibi teknolojiler yerel HVAC sektörü için stratik değer taşıyor. Kompakt tasarımı sayesinde sınırlı alanlarda yüksek soğutma kapasitesi sunan sistem, enerji verimliliği ve operasyonel güvenilirlik açısından da öne çıkıyor.",
+      "en": "Baltimore Aircoil Company (BAC), a global leader in commercial and industrial cooling solutions, has announced the launch of its innovative TrilliumSeries dry cooler system that minimizes water usage. Developed in response to growing water scarcity challenges, this system establishes a new standard in sustainable cooling technologies.\n\nBAC President Don Fetzer explained the product's development purpose, stating \"In an era where global water shortages and access to clean water have become widespread challenges, the TrilliumSeries demonstrates our commitment to providing customers with resilient cooling solutions.\" The system holds particular importance for data centers and manufacturing facilities that require uninterrupted operation.\n\nConsidering that efficient use of water resources is gaining increasing importance in Turkey as well, technologies like the TrilliumSeries carry strategic value for the local HVAC sector. The system, which offers high cooling capacity in limited spaces thanks to its compact design, also stands out in terms of energy efficiency and operational reliability."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "BAC TrilliumSeries kuru soğutucu sistemi endüstriyel tesis uygulaması",
+      "en": "BAC TrilliumSeries dry cooler system in industrial facility application"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 14:15:43 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "kuru soğutucu",
+        "su tasarrufu",
+        "HVAC teknolojisi",
+        "endüstriyel soğutma",
+        "sürdürülebilir soğutma"
+      ],
+      "en": [
+        "dry cooler",
+        "water conservation",
+        "HVAC technology",
+        "industrial cooling",
+        "sustainable cooling"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/bac-announces-the-launch-of-its-trilliumseries-dry-cooler/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bac-announces-the-launch-of-its-trilliumseries-dry-cooler",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "max-service-group-appoints-jim-morrow-as-vp-of-operations",
+    "slug": {
+      "tr": "max-service-group-jim-morrowu-operasyon-baskan-yardimcisi-atadi",
+      "en": "max-service-group-appoints-jim-morrow-as-vp-of-operations"
+    },
+    "title": {
+      "tr": "MAX Service Group Jim Morrow'u Operasyon Başkan Yardımcısı Atadı",
+      "en": "MAX Service Group Appoints Jim Morrow as VP of Operations"
+    },
+    "excerpt": {
+      "tr": "ABD'li HVAC şirketi MAX Service Group, 20 yıllık deneyimli Jim Morrow'u operasyon başkan yardımcısı olarak atadı.",
+      "en": "US HVAC company MAX Service Group appoints experienced Jim Morrow as VP of Operations to oversee multi-state business growth."
+    },
+    "content": {
+      "tr": "Amerika Birleşik Devletleri'nin önde gelen HVAC hizmet sağlayıcılarından MAX Service Group, Jim Morrow'u yeni Operasyon Başkan Yardımcısı olarak bünyesine kattığını duyurdu. Bu atama, şirketin operasyonel mükemmellik hedefleri doğrultusunda önemli bir adım olarak değerlendiriliyor.\n\nMorrow, yirmi yılı aşkın operasyon deneyimini bu yeni görevine taşıyacak. Kendisi daha önce bir IT varlık imha firmasında Kurumsal ve Tesis Operasyonları Başkan Yardımcısı olarak görev yapmıştı. Yeni pozisyonunda Indiana, Ohio ve Kentucky eyaletlerinde faaliyet gösteren Williams Comfort Air, Mr. Plumber, Thomas & Galbraith, Buckeye ve Jarboe's markalarının operasyonel süreçlerini yönetecek. \"Kariyerim boyunca insanların en iyi performansı sergilemesini sağlayan sistemler geliştirmeye odaklandım\" diyen Morrow, operasyonları ölçeklendirme ve performansı artırma konularında heyecanlı olduğunu belirtti.\n\nMAX Service Group Başkanı Mike Roszkowski, Morrow'un sonuç odaklı liderlik geçmişine vurgu yaparak, bu pozisyonun şirket için yeni olduğunu ve süreçleri optimize etme amacıyla yaratıldığını açıkladı. Bu gelişme, Türkiye HVAC sektörü için de önemli bir örnek teşkil ediyor; özellikle operasyonel verimliliği artırma ve çoklu marka yönetimi konularında yerel şirketlerin benimseyebileceği stratejiler sunuyor.",
+      "en": "MAX Service Group, a prominent HVAC service provider in the United States, has announced the appointment of Jim Morrow as their new Vice President of Operations. This strategic hire represents a significant step forward in the company's pursuit of operational excellence across their multi-state operations.\n\nMorrow brings over two decades of operational expertise to his new role, having most recently served as Vice President of Corporate & Plant Operations at an IT asset disposition company. In his position, he will oversee the operational components of multiple brands including Williams Comfort Air, Mr. Plumber, Thomas & Galbraith, Buckeye, and Jarboe's across Indiana, Ohio, and Kentucky. \"Throughout my professional journey, I've focused on developing systems that enable people to perform their best work,\" Morrow stated, expressing enthusiasm about scaling operations and enhancing performance to better support both team members and clients.\n\nMAX Service Group President Mike Roszkowski emphasized Morrow's track record of results-driven leadership, noting that the VP of Operations role is newly created for the organization with the specific goal of optimizing and improving processes. Roszkowski highlighted Morrow's previous success in guiding organizations through transformational periods through effective leadership and transparency. This appointment reflects the growing trend in the HVAC industry toward specialized operational leadership, demonstrating how service companies are investing in systematic improvements to handle expansion and maintain service quality across multiple markets."
+    },
+    "category": "sektor-haberleri",
+    "categoryLabel": {
+      "tr": "Sektör Haberleri",
+      "en": "Industry News"
+    },
+    "image": "sektor-haberleri.svg",
+    "imageAlt": {
+      "tr": "HVAC operasyon yöneticisi Jim Morrow'un MAX Service Group ofisindeki profesyonel fotoğrafı",
+      "en": "Professional photo of HVAC operations executive Jim Morrow at MAX Service Group office"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 14:06:42 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC yönetimi",
+        "operasyon müdürü",
+        "MAX Service Group",
+        "sektör atama",
+        "ABD HVAC"
+      ],
+      "en": [
+        "HVAC management",
+        "operations executive",
+        "MAX Service Group",
+        "industry appointment",
+        "US HVAC"
+      ]
+    },
+    "sourceUrl": "https://hvacinsider.com/max-service-group-names-jim-morrow-as-vice-president-of-operations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=max-service-group-names-jim-morrow-as-vice-president-of-operations",
+    "sourceName": "HVAC Insider"
+  },
+  {
+    "id": "uk-moves-to-separate-electricity-pricing-from-natural-gas-market",
+    "slug": {
+      "tr": "ingiltere-elektrik-fiyatlarini-dogalgazdan-ayirmaya-yoneliyor",
+      "en": "uk-moves-to-separate-electricity-pricing-from-natural-gas-market"
+    },
+    "title": {
+      "tr": "İngiltere Elektrik Fiyatlarını Doğalgazdan Ayırmaya Yöneliyor",
+      "en": "UK Moves to Separate Electricity Pricing from Natural Gas Market"
+    },
+    "excerpt": {
+      "tr": "İngiltere hükümeti enerji faturalarını stabilize etmek için elektrik ve doğalgaz fiyatlandırmasını ayıracak reformlar öneriyor.",
+      "en": "UK government proposes reforms to decouple electricity pricing from gas to stabilize energy bills and reduce market volatility."
+    },
+    "content": {
+      "tr": "İngiltere hükümeti, enerji faturalarında yaşanan dalgalanmaları azaltmak amacıyla elektrik fiyatlandırmasını doğalgaz piyasasından ayıracak kapsamlı reformlar önerdi. Bu hamle, tüketicilerin enerji maliyetlerindeki belirsizliği gidermeyi ve daha öngörülebilir fiyatlandırma sistemi oluşturmayı hedefliyor.\n\nÖnerilen reform paketi, elektrik üretiminde doğalgazın fiyat belirleyici rolünü sınırlandırarak, yenilenebilir enerji kaynaklarının piyasadaki etkisini artırmaya odaklanıyor. Bu değişiklik, özellikle rüzgar ve güneş enerjisi yatırımlarının artması ile birlikte elektrik sektöründe daha dengeli bir fiyatlandırma mekanizması yaratmayı amaçlıyor. Uzmanlar, bu adımın uzun vadede enerji güvenliğini artıracağını ve fiyat oynaklığını azaltacağını belirtiyor.\n\nBu gelişme, Türkiye'deki HVAC sektörü için önemli ipuçları barındırıyor. Ülkemizde de enerji fiyatlarındaki dalgalanmalar, ısıtma ve soğutma sistemlerinin işletme maliyetlerini doğrudan etkiliyor. İngiltere'nin bu reformu, Türkiye'de de benzer politika değişikliklerine zemin hazırlayabilir ve sektör profesyonellerinin enerji verimliliği konusundaki yatırım stratejilerini yeniden değerlendirmelerine neden olabilir.",
+      "en": "The UK government has proposed comprehensive reforms to decouple electricity pricing from the natural gas market, aiming to reduce energy bill volatility for consumers. This strategic move seeks to eliminate uncertainty in energy costs and establish a more predictable pricing framework for households and businesses.\n\nThe proposed reform package focuses on limiting natural gas's price-determining role in electricity generation while enhancing the market influence of renewable energy sources. This transformation aims to create a more balanced pricing mechanism in the electricity sector, particularly as wind and solar energy investments continue to expand. Industry experts suggest this initiative will enhance long-term energy security and significantly reduce price volatility.\n\nThis development offers valuable insights for Turkey's HVAC sector, where energy price fluctuations directly impact heating and cooling system operating costs. The UK's reform approach could pave the way for similar policy changes in Turkey, potentially prompting sector professionals to reassess their investment strategies regarding energy efficiency technologies and sustainable HVAC solutions."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "İngiltere enerji piyasası reform grafikleri ve elektrik fiyatlandırma sistemi",
+      "en": "UK energy market reform charts and electricity pricing system diagrams"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 12:46:40 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "enerji politikası",
+        "elektrik fiyatlandırması",
+        "doğalgaz",
+        "HVAC sektörü",
+        "enerji reformu"
+      ],
+      "en": [
+        "energy policy",
+        "electricity pricing",
+        "natural gas",
+        "HVAC industry",
+        "energy reform"
+      ]
+    },
+    "sourceUrl": "https://www.hvnplus.co.uk/news/uk-government-moves-to-decouple-gas-from-electricity-pricing-in-bid-to-stabilise-energy-bills-22-04-2026/",
+    "sourceName": "H&V News"
+  },
+  {
+    "id": "when-private-equity-acquires-your-rival-24-month-strategic-guide",
+    "slug": {
+      "tr": "ozel-sermaye-rakibinizi-satin-aldiginda-ne-olur-24-aylik-strateji",
+      "en": "when-private-equity-acquires-your-rival-24-month-strategic-guide"
+    },
+    "title": {
+      "tr": "Özel Sermaye Rakibinizi Satın Aldığında Ne Olur: 24 Aylık Strateji",
+      "en": "When Private Equity Acquires Your Rival: 24-Month Strategic Guide"
+    },
+    "excerpt": {
+      "tr": "Rakibiniz özel sermaye tarafından satın alındıktan sonra 18 ay içinde en iyi teknisyenleri piyasada olacak. Hazır mısınız?",
+      "en": "After private equity buys your competitor, their top technicians become available within 18 months. Are you prepared to act?"
+    },
+    "content": {
+      "tr": "Türkiye HVAC sektöründe özel sermaye şirketlerinin satın alma faaliyetleri sonrasında, hedef şirketlerin en değerli çalışanları genellikle 18 ay içinde iş piyasasına çıkmaktadır. Bu durum, rakip firmalar için stratejik fırsatlar yaratırken, doğru zamanlama ve planlama gerektiren kritik bir süreç haline gelmektedir.\n\nÖzel sermaye yatırımı alan HVAC şirketlerinde ilk 6 ay içinde genellikle yönetim değişiklikleri yaşanır ve maliyet optimizasyonu odaklı kararlar alınmaya başlanır. Bu süreçte deneyimli teknisyenler, servis mühendisleri ve satış temsilcileri genellikle şirketin yeni kültürüne uyum sağlamakta zorlanır. Türkiye'deki HVAC firmalarının bu durumu fırsat olarak değerlendirmesi, sektördeki nitelikli eleman eksikliği göz önüne alındığında büyük avantaj sağlayabilir.\n\nBu süreçten maksimum fayda sağlamak için şirketlerin önceden hazırlık yapması kritik önem taşır. İnsan kaynakları stratejilerini gözden geçirmek, rekabet analizi yapmak ve potansiyel adaylarla erken temas kurmak başarının anahtarı olacaktır. Ayrıca, yeni gelen yetenekli çalışanların şirkete entegrasyonu için özel programlar geliştirmek de uzun vadeli başarı için gereklidir.",
+      "en": "When private equity firms complete acquisitions in Turkey's HVAC sector, the most valuable employees of target companies typically enter the job market within 18 months. This situation creates strategic opportunities for competing firms while requiring critical timing and planning for maximum benefit.\n\nHVAC companies that receive private equity investment usually experience management changes within the first 6 months, with cost optimization becoming the primary focus. During this period, experienced technicians, service engineers, and sales representatives often struggle to adapt to the company's new culture. Turkish HVAC companies that view this as an opportunity can gain significant advantages, especially considering the skilled labor shortage in the sector.\n\nTo maximize benefits from this process, companies must prepare in advance. Reviewing human resources strategies, conducting competitive analysis, and establishing early contact with potential candidates will be key to success. Additionally, developing special programs for integrating talented new employees into the company is essential for long-term success."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "HVAC teknisyenlerinin iş görüşmesi ve özel sermaye satın alma sürecini gösteren grafik",
+      "en": "Graphic showing HVAC technicians in job interviews and private equity acquisition process"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sat, 18 Apr 2026 19:07:02 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "özel sermaye",
+        "HVAC sektörü",
+        "insan kaynakları",
+        "rekabet analizi",
+        "teknisyen istihdamı"
+      ],
+      "en": [
+        "private equity",
+        "HVAC industry",
+        "human resources",
+        "competitive analysis",
+        "technician employment"
+      ]
+    },
+    "sourceUrl": "https://hvacknowitall.com/blog/what-happens-after-pe-buys-your-competitor-the-24-month-playbook",
+    "sourceName": "HVAC Know It All"
+  },
+  {
+    "id": "proper-warm-roof-cold-roof-junction-detailing-methods",
+    "slug": {
+      "tr": "sicak-cati-soguk-cati-birlesiminde-dogru-detaylandirma",
+      "en": "proper-warm-roof-cold-roof-junction-detailing-methods"
+    },
+    "title": {
+      "tr": "Sıcak Çatı-Soğuk Çatı Birleşiminde Doğru Detaylandırma",
+      "en": "Proper Warm Roof-Cold Roof Junction Detailing Methods"
+    },
+    "excerpt": {
+      "tr": "Dormer düz çatılarında sıcak çatı ile mevcut eğimli soğuk çatı birleşimi nasıl detaylandırılır? İzolasyon sürekliliği sağlama teknikleri.",
+      "en": "How to detail warm roof dormer junctions with existing cold roof slopes? Insulation continuity and structural connection techniques explained."
+    },
+    "content": {
+      "tr": "Dormer düz çatıları ile mevcut eğimli çatıların birleştirilmesi, modern çatı detaylandırmasının en kritik konularından biridir. Bu birleşimde sıcak çatı sistemi ile soğuk çatı sisteminin bir araya getirilmesi, özellikle izolasyon sürekliliği ve nem kontrolü açısından özel çözümler gerektirir.\n\nAhşap karkas bağlantıları bu durumda farklı yaklaşımlar sergilemelidir. Sıcak çatı sisteminde izolasyon malzemesi çatı kabuğunun üzerinde konumlanırken, soğuk çatıda tavan seviyesinde bulunur. Bu geçiş noktasında ahşap elemanlar arasında termal köprü oluşumunu engellemek için özel bağlantı detayları ve kesintisiz izolasyon uygulaması kritik önem taşır. Birleşim noktasında hava geçirmezlik katmanının da sürekliliği sağlanmalıdır.\n\nTürkiye'de özellikle İstanbul ve Ankara gibi büyük şehirlerde artan dormer uygulamaları, bu tür detaylandırma bilgisine olan ihtiyacı artırmaktadır. Enerji verimliliği yönetmeliklerinin sıkılaşması ile birlikte, HVAC sektöründe bu tür karmaşık çatı birleşimlerinin doğru çözümlenmesi, hem enerji performansı hem de yapı fiziği açısından büyük önem kazanmıştır. Uzman uygulayıcılar bu detayları planlarken mutlaka termal analiz ve nem hesapları yapmalıdır.",
+      "en": "The junction between dormer flat roofs and existing pitched roofs represents one of the most critical aspects of modern roofing detail design. This connection between warm roof systems and cold roof systems requires specialized solutions, particularly regarding insulation continuity and moisture control.\n\nTimber frame connections must adopt different approaches in this scenario. While insulation material in warm roof systems is positioned above the roof deck, in cold roofs it sits at ceiling level. At this transition point, special connection details and continuous insulation application are crucial to prevent thermal bridging between timber elements. The air barrier continuity must also be maintained at the junction point.\n\nThe increasing dormer applications in Turkey, particularly in major cities like Istanbul and Ankara, have heightened the need for such detailing expertise. With tightening energy efficiency regulations, proper resolution of these complex roof junctions has gained significant importance in the HVAC sector, both for energy performance and building physics. Professional applicators must conduct thermal analysis and moisture calculations when planning these details."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Sıcak çatı ve soğuk çatı birleşim detayı kesit görünümü",
+      "en": "Cross-section view of warm roof and cold roof junction detail"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 10:03:03 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "sıcak çatı",
+        "soğuk çatı",
+        "dormer detayları",
+        "çatı izolasyonu",
+        "termal köprü"
+      ],
+      "en": [
+        "warm roof",
+        "cold roof",
+        "dormer details",
+        "roof insulation",
+        "thermal bridge"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/warm-roof-cold-roof-junction",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "pretty-good-house-concept-balanced-approach-to-home-design",
+    "slug": {
+      "tr": "pretty-good-house-konsepti-dengeli-ev-tasariminin-yeni-yaklasimi",
+      "en": "pretty-good-house-concept-balanced-approach-to-home-design"
+    },
+    "title": {
+      "tr": "Pretty Good House Konsepti: Dengeli Ev Tasarımının Yeni Yaklaşımı",
+      "en": "Pretty Good House Concept: Balanced Approach to Home Design"
+    },
+    "excerpt": {
+      "tr": "Pretty Good House, mükemmeliyetçilik yerine pratik çözümlerle enerji verimli ev tasarımı sunan yeni bir yaklaşım olarak dikkat çekiyor.",
+      "en": "Pretty Good House offers energy-efficient home design through practical solutions rather than perfectionism, gaining attention as new approach."
+    },
+    "content": {
+      "tr": "Pretty Good House, konut sektöründe mükemmeliyetçiliğin ötesinde pratik ve dengeli bir yapı tasarım felsefesi olarak öne çıkan yeni bir yaklaşımdır. Bu konsept, maliyetli ve karmaşık teknolojiler yerine, akıllı tasarım prensipleri ve kanıtlanmış yapı tekniklerini kullanarak enerji verimli evler inşa etmeyi hedeflemektedir.\n\nYaklaşımın temelinde, yapı fiziği bilimini kullanarak optimal performans ile ekonomik gerçeklikler arasında denge kurma ilkesi yatmaktadır. Pretty Good House metodolojisi, aşırı izolasyon veya karmaşık mekanik sistemler kullanmak yerine, binanın zarfını güçlendirme, hava sızıntılarını minimize etme ve doğal ışık optimizasyonu gibi temel stratejilere odaklanmaktadır. Bu sayede ev sahipleri, yüksek performanslı bir yaşam alanına sahip olurken, aynı zamanda makul bir yatırım seviyesinde kalmaktadır.\n\nTürkiye'nin değişen enerji verimliliği standartları ve artan yapı maliyetleri göz önüne alındığında, bu dengeli yaklaşım yerli inşaat sektörü için önemli fırsatlar sunmaktadır. HVAC sektörü profesyonelleri, Pretty Good House prensiplerini uygulayarak müşterilerine hem enerji tasarrufu hem de konfor sağlayan çözümler geliştirebilir ve böylece pazar rekabetinde öne geçebilir.",
+      "en": "Pretty Good House emerges as a new approach in the residential sector that emphasizes practical and balanced building design philosophy beyond perfectionism. This concept aims to construct energy-efficient homes using smart design principles and proven building techniques instead of costly and complex technologies.\n\nThe foundation of this approach lies in using building science to balance optimal performance with economic realities. Pretty Good House methodology focuses on fundamental strategies such as strengthening the building envelope, minimizing air leakage, and optimizing natural light, rather than using excessive insulation or complex mechanical systems. This way, homeowners can have a high-performance living space while maintaining a reasonable investment level.\n\nConsidering Turkey's changing energy efficiency standards and rising construction costs, this balanced approach offers significant opportunities for the local construction sector. HVAC industry professionals can develop solutions that provide both energy savings and comfort to their customers by applying Pretty Good House principles, thus gaining a competitive edge in the market."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Modern enerji verimli ev tasarımını gösteren Pretty Good House konsept görüntüsü",
+      "en": "Pretty Good House concept image showing modern energy-efficient home design"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 08:00:14 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "pretty good house",
+        "enerji verimliliği",
+        "yapı tasarımı",
+        "HVAC",
+        "sürdürülebilir konut"
+      ],
+      "en": [
+        "pretty good house",
+        "energy efficiency",
+        "building design",
+        "HVAC",
+        "sustainable housing"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/article/the-pretty-good-house-blog-what-is-a-pretty-good-house",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "cement-board-alternatives-for-roof-fire-protection-systems",
+    "slug": {
+      "tr": "cati-yangin-korumasi-icin-cimento-levha-alternatifleri",
+      "en": "cement-board-alternatives-for-roof-fire-protection-systems"
+    },
+    "title": {
+      "tr": "Çatı Yangın Koruması İçin Çimento Levha Alternatifleri",
+      "en": "Cement Board Alternatives for Roof Fire Protection Systems"
+    },
+    "excerpt": {
+      "tr": "Orman yangını riskli bölgelerde çatı yenileme projelerinde GP DensDeck gibi yangın dirençli çimento levhaların alternatiflerini keşfedin.",
+      "en": "Discover fire-resistant cement board alternatives like GP DensDeck for roof renovation projects in wildfire-prone areas."
+    },
+    "content": {
+      "tr": "Orman yangını tehlikesi bulunan bölgelerde çatı yenileme projeleri, özel yangın koruması gerektiren çimento levha sistemlerine olan talebi artırıyor. Denver, Colorado bölgesindeki bir müteahhit, eski asfalt çatı kaplamasını değiştirirken GP DensDeck veya benzeri yangın dirençli alternatifler arayışında bulunduğunu bildirdi.\n\nGP DensDeck, yüksek sıcaklık dayanımı ve nem direnci ile bilinen fiber çimento esaslı bir çatı altlığı malzemesidir. Bu tür ürünler, özellikle orman-kentsel arayüz (WUI) bölgelerinde yangın yayılımını önlemek için kritik rol oynar. Malzeme, geleneksel kontrplak veya OSB altlıklarına kıyasla üstün yangın performansı sunar.\n\nTürkiye'de de orman yangını riski taşıyan Akdeniz ve Ege kıyı bölgelerinde benzer çatı koruması ihtiyacı bulunmaktadır. Yerli üreticiler, ithal alternatifler yanında fiber çimento levha üretimini artırarak bu pazar segmentine odaklanmaya başlamıştır. HVAC sektörü profesyonelleri, bu tür yangın dirençli malzemelerin iklimlendirme sistemleri ile entegrasyonunda özel dikkat göstermektedir.",
+      "en": "Roof renovation projects in wildfire-prone areas are driving increased demand for specialized fire-resistant cement board systems. A contractor in the Denver, Colorado region recently reported seeking GP DensDeck or suitable fire-resistant alternatives while replacing an old asphalt roof system.\n\nGP DensDeck represents a fiber cement-based roof decking material known for its high temperature resistance and moisture durability. Such products play a critical role in preventing fire spread, particularly in wildland-urban interface (WUI) zones. The material offers superior fire performance compared to traditional plywood or OSB substrates.\n\nTurkey's Mediterranean and Aegean coastal regions, which also face wildfire risks, demonstrate similar roof protection needs. Local manufacturers are beginning to focus on this market segment by increasing fiber cement board production alongside imported alternatives. HVAC industry professionals are paying special attention to integrating such fire-resistant materials with climate control systems."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Yangın dirençli çimento levha ile kaplanmış çatı yapısı",
+      "en": "Fire-resistant cement board roof decking structure"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 07:49:51 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "yangın koruması",
+        "çimento levha",
+        "çatı sistemleri",
+        "GP DensDeck",
+        "orman yangını"
+      ],
+      "en": [
+        "fire protection",
+        "cement board",
+        "roof systems",
+        "GP DensDeck",
+        "wildfire safety"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/suitable-cement-boards-for-roof-sheathing-fire-protection",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "performance-meets-design-choosing-the-right-window-system",
+    "slug": {
+      "tr": "performans-ve-estetik-dengesi-pencere-sistemlerinde-dogru-secim",
+      "en": "performance-meets-design-choosing-the-right-window-system"
+    },
+    "title": {
+      "tr": "Performans ve Estetik Dengesi: Pencere Sistemlerinde Doğru Seçim",
+      "en": "Performance Meets Design: Choosing the Right Window System"
+    },
+    "excerpt": {
+      "tr": "Enerji verimliliği, tasarım ve bütçe dengesinde pencere seçimi için uzman önerileri. Türk HVAC sektörünün yeni trendleri.",
+      "en": "Expert guidance on balancing energy efficiency, aesthetics, and budget in window selection for optimal HVAC performance."
+    },
+    "content": {
+      "tr": "Modern yapılarda enerji verimliliği ve estetik dengesini kurmak, doğru pencere sistemi seçimiyle mümkün hale geliyor. HVAC performansını olumsuz etkilemeden görsel çekiciliği koruyan pencere çözümleri, yapı sahipleri için kritik bir karar noktası haline geldi.\n\nUzmanlar, pencere seçiminde üçlü cam teknolojisi ve gelişmiş profil sistemlerinin önemini vurguluyor. Türkiye'de özellikle İstanbul ve Ankara gibi büyük şehirlerde yapılan yeni projelerde, hem kış hem yaz koşullarına uygun pencere sistemleri tercih ediliyor. Bu sistemler, HVAC cihazlarının iş yükünü %30'a varan oranlarda azaltarak enerji maliyetlerini düşürüyor.\n\nTürk pencere üreticilerinin Avrupa standartlarında üretim yapması, sektörde kalite ve performans beklentilerini artırıyor. Yapı sahipleri artık sadece fiyata değil, uzun vadeli enerji tasarrufuna odaklanıyor. Doğru pencere seçimi, HVAC sistemlerinin verimliğini artırırken bakım maliyetlerini de minimize ediyor.",
+      "en": "Achieving the perfect balance between energy efficiency and aesthetics in modern buildings starts with selecting the right window systems. Window solutions that maintain visual appeal without compromising HVAC performance have become a critical decision point for property owners.\n\nExperts emphasize the importance of triple-glazing technology and advanced frame systems in window selection. Particularly in major Turkish cities like Istanbul and Ankara, new projects favor window systems suitable for both winter and summer conditions. These systems reduce HVAC workload by up to 30%, significantly lowering energy costs.\n\nTurkish window manufacturers' production to European standards is raising quality and performance expectations in the sector. Property owners now focus on long-term energy savings rather than just price. Proper window selection enhances HVAC system efficiency while minimizing maintenance costs."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Modern ofis binasında enerji verimli pencere sistemleri ve HVAC entegrasyonu",
+      "en": "Energy-efficient window systems integrated with HVAC in modern office building"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 07:48:54 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "pencere sistemleri",
+        "enerji verimliliği",
+        "HVAC performansı",
+        "yapı teknolojisi",
+        "iklim kontrol"
+      ],
+      "en": [
+        "window systems",
+        "energy efficiency",
+        "HVAC performance",
+        "building technology",
+        "climate control"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/article/selecting-a-window-package-to-meet-performance-design-and-budget-goals",
+    "sourceName": "Green Building Advisor"
+  },
+  {
     "id": "u-tube-manometer-reading-pressure-control-in-hvac-systems",
     "slug": {
       "tr": "u-tup-manometre-okumasi-hvac-sistemlerinde-basinc-kontrolu",
@@ -29,7 +539,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Thu, 23 Apr 2026 20:53:48 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2039,520 +2549,6 @@
       ]
     },
     "sourceUrl": "https://www.coolingpost.com/products/midea-ceiling-mounted-inverter-ahu/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "ior-launches-new-talk-tour-event-series-for-hvac-industry",
-    "slug": {
-      "tr": "ior-yeni-etkinlik-serisi-talk-touru-baslatiyor",
-      "en": "ior-launches-new-talk-tour-event-series-for-hvac-industry"
-    },
-    "title": {
-      "tr": "IOR Yeni Etkinlik Serisi 'Talk & Tour'u Başlatıyor",
-      "en": "IOR Launches New 'Talk & Tour' Event Series for HVAC Industry"
-    },
-    "excerpt": {
-      "tr": "Soğutma ve İklimlendirme Enstitüsü IOR, uzman konuşmaları ve sahne arkası erişimli yeni etkinlik serisini duyurdu.",
-      "en": "The Institute of Refrigeration launches innovative event series combining expert talks with exclusive behind-the-scenes industry access."
-    },
-    "content": {
-      "tr": "Soğutma ve İklimlendirme Enstitüsü (IOR), HVAC sektöründeki profesyoneller için yenilikçi bir etkinlik formatı olan 'Talk & Tour' serisini hayata geçirdiğini açıkladı. Bu yüz yüze etkinlik serisi, sektörün önde gelen uzmanlarının sunacağı konuşmalar ile katılımcılara özel sahne arkası erişim imkânları sunacak.\n\nEtkinlik programı kapsamında, soğutma ve iklimlendirme teknolojilerindeki son gelişmeler, sürdürülebilir çözümler ve enerji verimliliği gibi güncel konular ele alınacak. Katılımcılar, teorik bilgilerin yanı sıra pratik uygulamaları da yakından görme fırsatı bulacaklar. Bu hibrit format, geleneksel konferans anlayışını değiştirerek daha interaktif ve deneyimsel bir öğrenme ortamı yaratmayı hedefliyor.\n\nTürkiye'deki HVAC sektörü profesyonelleri için de önemli referans niteliği taşıyacak olan bu etkinlik serisi, uluslararası best practice'lerin yerel piyasaya adaptasyonunda rehberlik edebilecek. Özellikle enerji verimliliği ve çevre dostu teknolojiler konusunda artan farkındalığın yanı sıra, Türkiye'nin iklim hedefleriyle uyumlu çözümlerin geliştirilmesine katkı sağlaması bekleniyor.",
-      "en": "The Institute of Refrigeration (IOR) has announced the launch of its innovative 'Talk & Tour' event series, designed specifically for HVAC industry professionals. This new in-person event format combines expert-led presentations on industry-relevant topics with exclusive behind-the-scenes access to cutting-edge facilities and technologies.\n\nThe event series will focus on contemporary issues within refrigeration and air conditioning sectors, including the latest technological advancements, sustainable solutions, and energy efficiency improvements. Participants will benefit from both theoretical insights and practical demonstrations, creating a comprehensive learning experience. This hybrid approach aims to revolutionize traditional conference formats by offering more interactive and experiential educational opportunities.\n\nThe initiative represents a significant development for the global HVAC community, providing a platform for knowledge exchange and professional networking. Industry experts anticipate that these events will facilitate the sharing of best practices and innovative solutions, potentially accelerating the adoption of sustainable technologies across the refrigeration and air conditioning sectors. The series is expected to strengthen professional connections while advancing technical expertise in climate control technologies."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "IOR Talk & Tour etkinliğinde HVAC uzmanlarının katılım gösterdiği konferans salonu",
-      "en": "HVAC professionals attending IOR Talk & Tour event in conference hall setting"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Fri, 17 Apr 2026 14:19:34 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "IOR",
-        "HVAC etkinlikleri",
-        "soğutma teknolojileri",
-        "iklimlendirme sektörü",
-        "profesyonel eğitim"
-      ],
-      "en": [
-        "IOR events",
-        "HVAC industry",
-        "refrigeration technology",
-        "air conditioning",
-        "professional development"
-      ]
-    },
-    "sourceUrl": "https://www.racplus.com/news/ior-launches-talk-tour-event-series-17-04-2026/",
-    "sourceName": "RAC Magazine"
-  },
-  {
-    "id": "ashrae-launches-global-co-reduction-study-via-bacnet-automation",
-    "slug": {
-      "tr": "ashrae-bacnet-otomasyon-ile-kuresel-co-azaltimi-arastirmasi",
-      "en": "ashrae-launches-global-co-reduction-study-via-bacnet-automation"
-    },
-    "title": {
-      "tr": "ASHRAE BACnet Otomasyon ile Küresel CO₂ Azaltımı Araştırması",
-      "en": "ASHRAE Launches Global CO₂ Reduction Study via BACnet Automation"
-    },
-    "excerpt": {
-      "tr": "ASHRAE, BACnet bina otomasyonu teknolojilerinin küresel karbon emisyonlarını azaltma potansiyelini araştıran yeni çalışmasını duyurdu.",
-      "en": "ASHRAE announces groundbreaking research examining how BACnet building automation technologies can reduce global carbon emissions."
-    },
-    "content": {
-      "tr": "Amerikan Isıtma, Soğutma ve İklimlendirme Mühendisleri Derneği (ASHRAE), BACnet bina otomasyon sistemlerinin küresel karbondioksit emisyonlarını azaltma kapasitesini ölçmeyi amaçlayan kapsamlı bir araştırma projesini başlattığını açıkladı. Bu çığır açan çalışma, akıllı bina teknolojilerinin çevresel etkilerini somut verilerle ortaya koymayı hedefliyor.\n\nYeni araştırma, BACnet (Building Automation and Control Networks) protokolünün enerji verimliliği açısından sağladığı kazanımları bilimsel yöntemlerle değerlendiriyor. Çalışma, otomatik kontrol sistemlerinin HVAC ekipmanlarında nasıl enerji tasarrufu sağladığını ve bunun küresel ölçekteki karbon ayak izi azaltımına katkısını detaylı biçimde analiz ediyor. Uzmanlar, bu teknolojilerin yaygınlaşmasıyla önemli çevresel faydalar elde edilebileceğini öngörüyor.\n\nTürkiye'deki HVAC sektörü için bu araştırma özel önem taşıyor. Ülkemizde artan yeşil bina sertifikasyonu talepleri ve enerji verimliliği yönetmeliklerinin etkisiyle, BACnet tabanlı otomasyon çözümlerine olan ilgi artıyor. Sektör temsilcileri, ASHRAE'nin bu çalışmasının Türkiye'deki akıllı bina projelerinin gelişimine katkı sağlayacağını ve karbon nötr hedeflerine ulaşmada rehberlik edeceğini belirtiyor.",
-      "en": "The American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) has unveiled a comprehensive research initiative designed to measure the carbon dioxide emission reduction potential of BACnet building automation systems on a global scale. This pioneering study aims to provide concrete data on the environmental impact of smart building technologies.\n\nThe research focuses on quantifying the energy efficiency benefits delivered through BACnet (Building Automation and Control Networks) protocol implementation. The study examines how automated control systems optimize HVAC equipment performance to achieve energy savings and analyzes the corresponding contribution to global carbon footprint reduction. Industry experts anticipate that widespread adoption of these technologies could yield substantial environmental benefits.\n\nFor Turkey's HVAC industry, this research holds particular significance. With growing demand for green building certifications and stricter energy efficiency regulations in the country, interest in BACnet-based automation solutions is increasing. Industry representatives indicate that ASHRAE's study will support the development of smart building projects in Turkey and provide valuable guidance for achieving carbon neutrality objectives."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "BACnet bina otomasyon sistemi ve CO₂ azaltım grafiklerini gösteren teknik görsel",
-      "en": "Technical visualization showing BACnet building automation system and CO₂ reduction charts"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 15 Apr 2026 14:29:40 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ASHRAE",
-        "BACnet",
-        "bina otomasyonu",
-        "karbon azaltım",
-        "enerji verimliliği"
-      ],
-      "en": [
-        "ASHRAE",
-        "BACnet",
-        "building automation",
-        "carbon reduction",
-        "energy efficiency"
-      ]
-    },
-    "sourceUrl": "https://www.racplus.com/news/ashrae-announces-new-study-on-global-co%e2%82%82-reduction-through-automation-15-04-2026/",
-    "sourceName": "RAC Magazine"
-  },
-  {
-    "id": "nailbase-solutions-for-fiberboard-in-1970s-home-construction",
-    "slug": {
-      "tr": "1970ler-donemi-evlerde-fiber-panel-uzeri-civi-tabani-secenekleri",
-      "en": "nailbase-solutions-for-fiberboard-in-1970s-home-construction"
-    },
-    "title": {
-      "tr": "1970'ler Dönemi Evlerde Fiber Panel Üzeri Çivi Tabanı Seçenekleri",
-      "en": "Nailbase Solutions for Fiberboard in 1970s Home Construction"
-    },
-    "excerpt": {
-      "tr": "1970'ler dönemi evlerde fiber panel üzerinde çivi tabanı uygulamaları için modern çözümler ve duvar montaj sistemleri.",
-      "en": "Modern nailbase solutions and wall mounting systems for fiberboard applications in 1970s era home construction projects."
-    },
-    "content": {
-      "tr": "İnşaat sektöründe 1970'ler dönemi evlerin dış duvar sistemlerinde fiber panel üzeri çivi tabanı uygulamaları önemli teknik zorluklar yaratmaktadır. Özellikle Bölge 5A iklim şartlarında inşa edilmiş yapılarda, geleneksel duvar montaj sistemlerinin günümüz standartlarına uyarlanması kritik önem taşımaktadır.\n\nTipik 1970'ler dönemi dış duvar yapısı; iç tarafta 1/2 inç alçı levha, 16 inç aralıklarla yerleştirilmiş 2x4 çerçeve sistemi ve orijinal kraft kaplı yalıtım malzemelerinden oluşmaktadır. Bu yapısal özellikler, modern HVAC sistemlerinin montajında özel çözümler gerektirmektedir. Fiber panel üzerinde güvenli çivi tabanı oluşturmak için, yapısal dayanıklılık ve ısı köprüsü önleme faktörleri bir arada değerlendirilmelidir.\n\nTürkiye'deki inşaat sektöründe benzer dönemlerde inşa edilmiş yapıların renovasyonunda, bu tür çivi tabanı çözümleri giderek daha fazla talep görmektedir. HVAC sistemlerinin modernizasyonu sürecinde, enerji verimliliği standartlarına uyum sağlamak için fiber panel üzeri montaj detaylarının doğru planlanması, hem maliyet kontrolü hem de performans açısından kritik başarı faktörü olmaktadır.",
-      "en": "Nailbase applications over fiberboard in 1970s era exterior wall systems present significant technical challenges in the construction industry. Particularly in structures built under Zone 5A climate conditions, adapting traditional wall mounting systems to meet contemporary standards requires critical attention.\n\nTypical 1970s exterior wall assembly consists of interior 1/2-inch gypsum board, 2x4 framing system spaced at 16-inch on-center intervals, and original kraft-faced insulation materials. These structural characteristics necessitate specialized solutions when installing modern HVAC systems. Creating secure nailbase over fiberboard requires simultaneous consideration of structural integrity and thermal bridge prevention factors.\n\nIn Turkey's construction sector, renovation projects involving similarly-aged buildings increasingly demand such nailbase solutions. During HVAC system modernization processes, proper planning of mounting details over fiberboard becomes a critical success factor for both cost control and performance optimization when ensuring compliance with energy efficiency standards."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "1970'ler dönemi ev dış duvarında fiber panel üzeri çivi tabanı montaj detayı",
-      "en": "Nailbase mounting detail over fiberboard on 1970s era home exterior wall"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 20:04:45 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "çivi tabanı",
-        "fiber panel",
-        "duvar montajı",
-        "1970ler yapıları",
-        "HVAC renovasyonu"
-      ],
-      "en": [
-        "nailbase",
-        "fiberboard",
-        "wall mounting",
-        "1970s construction",
-        "HVAC renovation"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/nailbase-options-over-fiberboard",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "blown-in-insulation-problems-in-ventilation-baffles-and-solutions",
-    "slug": {
-      "tr": "havalandirma-kanallarindaki-yalitim-malzemesi-sorunu-ve-cozumu",
-      "en": "blown-in-insulation-problems-in-ventilation-baffles-and-solutions"
-    },
-    "title": {
-      "tr": "Havalandırma Kanallarındaki Yalıtım Malzemesi Sorunu ve Çözümü",
-      "en": "Blown-In Insulation Problems in Ventilation Baffles and Solutions"
-    },
-    "excerpt": {
-      "tr": "Üfleme yalıtım sonrası havalandırma kanallarında biriken malzeme nasıl temizlenir? Uzman çözümleri ve Türkiye'deki uygulamalar.",
-      "en": "How to remove blown-in insulation from ventilation baffles? Expert solutions and best practices for proper HVAC maintenance."
-    },
-    "content": {
-      "tr": "Üfleme yöntemiyle yapılan yalıtım işlemlerinde havalandırma kanallarına malzeme sızması, Türkiye'de de sıkça karşılaşılan bir sorundur ve derhal müdahale edilmesi gerekir. Bu durum, hem enerji verimliliğini düşürür hem de hava kalitesini olumsuz etkiler.\n\nYalıtım malzemesinin havalandırma kanallarından temizlenmesi için öncelikle sistem kapatılmalı ve uygun koruyucu ekipmanlar kullanılmalıdır. Profesyonel vakum cihazları ile malzeme dikkatli bir şekilde çekilmeli, kanal hasarlarından kaçınılmalıdır. Türkiye'deki HVAC firmaları genellikle özel adaptörler ve düşük basınçlı vakum sistemleri kullanarak bu işlemi güvenli bir şekilde gerçekleştirmektedir.\n\nİşlem tamamlandıktan sonra kanalların tekrar kontrol edilmesi ve gerekirse filtre değişimi yapılması önerilir. Türk yalıtım sektöründe bu tür sorunlarla karşılaşmamak için işlem öncesi havalandırma kanallarının uygun şekilde korunması ve deneyimli ekiplerle çalışılması kritik önem taşımaktadır. Düzenli bakım ve kalite kontrolü ile benzer problemlerin önüne geçilebilir.",
-      "en": "Blown-in insulation material accumulating in ventilation baffles is a common installation issue that requires immediate attention to prevent airflow restrictions and maintain system efficiency. This problem can significantly impact both energy performance and indoor air quality if left unaddressed.\n\nRemoving insulation from baffles requires careful technique and proper equipment to avoid damaging the ventilation system. Professional technicians typically use specialized vacuum equipment with appropriate attachments to extract the material without causing structural damage. The process involves systematic cleaning of each affected baffle while ensuring the HVAC system remains offline during the procedure.\n\nPost-cleaning inspection is crucial to verify complete removal and assess any potential damage to the ventilation components. Prevention remains the best approach through proper baffle protection during installation and working with experienced insulation contractors. Regular maintenance schedules and quality control measures help identify and address such issues before they compromise system performance or require extensive remediation work.",
-      "tags": {
-        "tr": [
-          "yalıtım",
-          "havalandırma",
-          "HVAC bakım",
-          "enerji verimliliği",
-          "iç hava kalitesi"
-        ],
-        "en": [
-          "insulation",
-          "ventilation",
-          "HVAC maintenance",
-          "energy efficiency",
-          "indoor air quality"
-        ]
-      },
-      "imageAlt": {
-        "tr": "Havalandırma kanalından yalıtım malzemesi temizleme işlemi",
-        "en": "Professional cleaning of insulation material from ventilation baffles"
-      }
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Havalandırma Kanallarındaki Yalıtım Malzemesi Sorunu ve Çözümü",
-      "en": "Blown-In Insulation Problems in Ventilation Baffles and Solutions"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 14:52:27 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/removing-blown-in-insulation-from-baffles",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "canadian-firm-converts-asbestos-waste-into-low-carbon-building-materials",
-    "slug": {
-      "tr": "kanadali-firma-asbest-atiklarini-dusuk-karbonlu-yapi-malzemesine-ceviriyor",
-      "en": "canadian-firm-converts-asbestos-waste-into-low-carbon-building-materials"
-    },
-    "title": {
-      "tr": "Kanadalı Firma Asbest Atıklarını Düşük Karbonlu Yapı Malzemesine Çeviriyor",
-      "en": "Canadian Firm Converts Asbestos Waste Into Low-Carbon Building Materials"
-    },
-    "excerpt": {
-      "tr": "BAIE Minerals asbest maden atıklarını çevre dostu yapı malzemelerine dönüştüren ölçeklenebilir teknoloji geliştirdi.",
-      "en": "BAIE Minerals develops scalable tech converting asbestos mine waste into eco-friendly building materials."
-    },
-    "content": {
-      "tr": "Kanada merkezli BAIE Minerals, asbest maden atıklarını düşük karbonlu yapı malzemelerine dönüştüren yenilikçi bir çözüm geliştirdi. Şirket, çevresel kirliliği giderirken aynı zamanda inşaat sektörü için sürdürülebilir mineraller üretiyor.\n\nBu teknoloji, tarihi asbest madenleri çevresindeki çevresel hasarı onarırken, inşaat ve HVAC endüstrisi için karbonsuzlaştırılmış mineral hammaddeler sağlıyor. Ölçeklenebilir üretim modeli sayesinde şirket, hem çevre rehabilitasyonu hem de sürdürülebilir malzeme üretimini aynı anda gerçekleştiriyor.\n\nTürkiye'nin yeşil bina sertifikasyonları ve sürdürülebilir inşaat politikalarının güçlendiği dönemde, bu tür çözümler HVAC sistemlerinde kullanılan yapı malzemelerinin karbon ayak izini azaltma potansiyeli taşıyor. Özellikle yalıtım ve yangın dayanıklı malzeme ihtiyacının yüksek olduğu Türk yapı sektörü için alternatif hammadde kaynakları değerlendirilebilir.",
-      "en": "Canada-based BAIE Minerals has developed an innovative solution that transforms asbestos mine waste into low-carbon building materials. The company produces sustainable minerals for the construction sector while simultaneously addressing environmental contamination.\n\nThis technology repairs environmental damage around historical asbestos mining sites while providing decarbonized mineral raw materials for the construction and HVAC industries. Through its scalable production model, the company accomplishes both environmental rehabilitation and sustainable material manufacturing simultaneously.\n\nAs Turkey strengthens its green building certifications and sustainable construction policies, such solutions hold potential for reducing the carbon footprint of building materials used in HVAC systems. Alternative raw material sources could be particularly valuable for Turkey's construction sector, which has high demand for insulation and fire-resistant materials."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Asbest maden atıklarının yeşil yapı malzemelerine dönüştürülme süreci",
-      "en": "Process of converting asbestos mine waste into green building materials"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 08:00:16 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "sürdürülebilir malzeme",
-        "asbest rehabilitasyon",
-        "düşük karbon",
-        "çevre teknolojisi",
-        "HVAC malzemeleri"
-      ],
-      "en": [
-        "sustainable materials",
-        "asbestos remediation",
-        "low carbon",
-        "environmental technology",
-        "HVAC materials"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/article/canadian-manufacturer-has-scalable-low-carbon-solution-for-asbestos-mine-waste",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "boiler-summit-2026-turkeys-first-boiler-technology-summit",
-    "slug": {
-      "tr": "boiler-summit-2026-turkiyenin-ilk-kazan-teknolojileri-zirvesi",
-      "en": "boiler-summit-2026-turkeys-first-boiler-technology-summit"
-    },
-    "title": {
-      "tr": "Boiler Summit 2026: Türkiye'nin İlk Kazan Teknolojileri Zirvesi",
-      "en": "Boiler Summit 2026: Turkey's First Boiler Technology Summit"
-    },
-    "excerpt": {
-      "tr": "Sektörün ilk kazan zirvesi Makina Hangar'da düzenleniyor. Uzmanlar deprem güvenliğinden verimliliğe kadar kritik konuları ele alacak.",
-      "en": "Industry's first boiler summit organized at Makina Hangar. Experts will address critical topics from earthquake safety to efficiency."
-    },
-    "content": {
-      "tr": "Türkiye'nin HVAC ve endüstriyel ısıtma sektöründe bir ilk yaşanıyor: Boiler Summit 2026, kazan ve basınçlı kap teknolojilerini odağına alan ülkenin ilk uzmanlaşmış zirvesi olarak Makina Hangar'da gerçekleştirilecek. Hannover Messe Sodeks Fuarcılık ve Kazan Basınçlı Kap Sanayicileri Derneği'nin ortaklaşa organize ettiği etkinlik, MMO İstanbul Şubesi'nin desteğiyle sektörün tüm aktörlerini bir araya getirmeyi hedefliyor.\n\nZirve, endüstriyel tesislerden gıda ve tekstil fabrikalarına, kimya tesislerinden savunma sanayine kadar geniş bir yelpazedeki sektör temsilcilerini buluşturacak. Katılımcılar, kazan dairesi deprem güvenliği, modern üretim teknikleri, Ar-Ge yaklaşımları ve enerji verimliliği optimizasyonu gibi güncel konularda uzman görüşlerini dinleme imkanı bulacak. Etkinlik, vaka çalışmaları ve teknik performans odaklı sunumlar aracılığıyla teorik bilgiyi pratiğe dönüştürmeyi amaçlıyor.\n\nTürk HVAC sektörü için stratejik öneme sahip bu zirve, özellikle enerji tasarrufu ve çevresel sürdürülebilirlik açısından kritik bir zamanda düzenleniyor. Katılımcılar hem networking fırsatları yakalayacak hem de stant alanlarında yeni teknolojileri yakından inceleyebilecek. Boiler Summit 2026, sektörün geleceğine yön verecek kararlar için önemli bir platform oluşturmayı hedefliyor.",
-      "en": "Turkey's HVAC and industrial heating sector is witnessing a milestone event: Boiler Summit 2026 will be held at Makina Hangar as the country's first specialized summit focusing on boiler and pressure vessel technologies. Jointly organized by Hannover Messe Sodeks Exhibition and the Boiler and Pressure Vessel Manufacturers Association, the event aims to bring together all industry stakeholders with support from the Istanbul Branch of the Chamber of Mechanical Engineers.\n\nThe summit will unite representatives from a broad spectrum of sectors, ranging from industrial facilities to food and textile plants, from chemical facilities to defense industry. Participants will have the opportunity to hear expert insights on current topics such as boiler room earthquake safety, modern production techniques, R&D approaches, and energy efficiency optimization. The event aims to transform theoretical knowledge into practice through case studies and technical performance-focused presentations.\n\nThis summit, which holds strategic importance for the Turkish HVAC sector, is being organized at a critical time, particularly regarding energy savings and environmental sustainability. Participants will both seize networking opportunities and closely examine new technologies in exhibition areas. Boiler Summit 2026 aims to create an important platform for decisions that will shape the future of the sector."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Boiler Summit 2026 etkinlik logosu ve modern kazan teknolojileri",
-      "en": "Boiler Summit 2026 event logo and modern boiler technologies"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 22:17:41 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "Boiler Summit",
-        "kazan teknolojisi",
-        "HVAC",
-        "enerji verimliliği",
-        "endüstriyel ısıtma"
-      ],
-      "en": [
-        "Boiler Summit",
-        "boiler technology",
-        "HVAC",
-        "energy efficiency",
-        "industrial heating"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/boiler-summit-2026-kazan-ve-basincli-kap-zirvesi-turkiyede-ilk-kez-makina-hangarda/",
-    "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "new-hvac-trend-four-season-air-conditioning-systems",
-    "slug": {
-      "tr": "hvac-sektorunde-yeni-trend-dort-mevsim-klima-kullanimi",
-      "en": "new-hvac-trend-four-season-air-conditioning-systems"
-    },
-    "title": {
-      "tr": "HVAC Sektöründe Yeni Trend: Dört Mevsim Klima Kullanımı",
-      "en": "New HVAC Trend: Four-Season Air Conditioning Systems"
-    },
-    "excerpt": {
-      "tr": "Türkiye'de klimalar artık sadece yazın değil, dört mevsim kullanılan enerji verimli ısıtma çözümleri haline geliyor.",
-      "en": "In Turkey, air conditioners are becoming energy-efficient heating solutions used year-round, not just in summer."
-    },
-    "content": {
-      "tr": "HVAC sektöründe yaşanan teknolojik gelişmeler, klimaların geleneksel kullanım alanlarını genişleterek dört mevsim çözüm sunan sistemler haline dönüştürüyor. Özellikle mevsim geçişlerinde yaşanan ani sıcaklık değişimleri, hızlı tepki veren klima sistemlerinin avantajlarını öne çıkarırken, enerji maliyetlerindeki artış da kullanıcıları alternatif ısıtma yöntemlerine yönlendiriyor.\n\nTürkiye HVAC pazarında dikkat çeken veriler, konutların yüzde 10'unda birincil ısıtma kaynağı olarak klimaların tercih edildiğini ortaya koyuyor. Bu oran bölgesel farklılıklar göstererek, İzmir'de yüzde 15, Antalya gibi ılıman iklim bölgelerinde ise yüzde 65'e kadar yükseliyor. Daikin gibi sektör lideri markaların geliştirdiği inverter teknolojisi ve gelişmiş ısı pompası sistemleri, bu değişimin temel itici gücünü oluşturuyor.\n\nSektör uzmanları, özellikle bahar ve sonbahar dönemlerinde geleneksel ısıtma sistemlerinin ekonomik olmadığını, klimaların ise anlık kontrol imkanı ve yüksek enerji verimliliği sayesinde ideal çözüm sunduğunu belirtiyor. Bu trend, Türkiye HVAC pazarının yapısını değiştirerek, üreticileri dört mevsim kullanıma uygun, çevre dostu teknolojiler geliştirmeye yönlendiriyor.",
-      "en": "Technological advances in the HVAC sector are transforming air conditioning systems from seasonal appliances into year-round climate solutions. Sudden temperature fluctuations during transitional seasons highlight the advantages of responsive AC systems, while rising energy costs drive consumers toward alternative heating methods.\n\nRemarkable data from Turkey's HVAC market reveals that 10% of residential properties now use air conditioning as their primary heating source. This figure varies significantly by region, reaching 15% in İzmir and climbing to 65% in temperate climate zones like Antalya. Advanced technologies from industry leaders like Daikin, including inverter systems and sophisticated heat pump technology, are driving this transformation.\n\nIndustry experts emphasize that traditional heating systems prove economically inefficient during spring and autumn periods, while air conditioning units offer optimal solutions through instant climate control and superior energy efficiency. This emerging trend is reshaping Turkey's HVAC market structure, compelling manufacturers to develop environmentally sustainable technologies designed for four-season operation."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Modern klima sistemi ile ısıtılan yaşam alanı",
-      "en": "Modern living space heated by air conditioning system"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 22:09:48 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC",
-        "klima teknolojisi",
-        "enerji verimliliği",
-        "ısı pompası",
-        "Türkiye HVAC pazarı"
-      ],
-      "en": [
-        "HVAC",
-        "air conditioning technology",
-        "energy efficiency",
-        "heat pump",
-        "Turkey HVAC market"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/isinmada-yeni-donem-klimalar-artik-4-mevsim-cozum/",
-    "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "wilo-group-opens-5500-m-health-cube-facility-in-dortmund",
-    "slug": {
-      "tr": "wilo-grubu-5500-mlik-saglik-kupunu-dortmundda-acti",
-      "en": "wilo-group-opens-5500-m-health-cube-facility-in-dortmund"
-    },
-    "title": {
-      "tr": "Wilo Grubu 5.500 m²'lik Sağlık Küpü'nü Dortmund'da Açtı",
-      "en": "Wilo Group Opens 5,500 m² Health Cube Facility in Dortmund"
-    },
-    "excerpt": {
-      "tr": "Wilo Grubu'nun Almanya'da açtığı Sağlık Küpü, sürdürülebilir mimari ve kapsamlı sağlık hizmetleriyle dikkat çekiyor.",
-      "en": "Wilo Group's new Health Cube in Germany features sustainable architecture and comprehensive healthcare services for employees."
-    },
-    "content": {
-      "tr": "Pompa ve hidronik sistem teknolojileri alanında küresel lider Wilo Grubu, Almanya'nın Dortmund şehrindeki Wilopark ana tesisinde yenilikçi 'Sağlık Küpü' (Health Cube) projesini faaliyete geçirdi. Yaklaşık 5.500 metrekare alanı kaplayan bu modern sağlık merkezi, şirketin çalışanları ve yerel topluma geniş kapsamlı sağlık ve wellness hizmetleri sunmak amacıyla tasarlandı.\n\nİki yılı aşkın bir inşaat sürecinin ardından tamamlanan tesis, Wilo'nun Global Sağlık Yönetimi stratejisinin somut bir yansıması olarak öne çıkıyor. Merkez bünyesinde iş sağlığı ve güvenliği hizmetleri, psikolojik destek ve yaşam koçluğu, fitness ve spor tesisleri, hidro masaj üniteleri, dinlenme alanları ve deneyimsel mutfak konseptli lounge bölümü bulunuyor. Ayrıca çalışan ailelerinin çocukları için tatil bakım hizmetleri de sunuluyor.\n\nSürdürülebilirlik odaklı tasarıma sahip yapı, ahşap taşıyıcı sistem kullanılarak inşa edildi ve düşük karbon emisyonu hedefiyle çevre dostu malzemeler tercih edildi. Wilo CEO'su Oliver Hermes, projenin şirketin insanı merkeze alan değerlerinin güçlü bir ifadesi olduğunu belirtiyor. Bu tür yatırımlar, Türkiye HVAC sektöründe de çalışan refahı ve sürdürülebilir iş yeri tasarımına yönelik artan ilgiye öncülük edebilir.",
-      "en": "Global pump and hydronic system technology leader Wilo Group has officially launched its innovative 'Health Cube' project at the Wilopark headquarters facility in Dortmund, Germany. Covering approximately 5,500 square meters, this modern health center was designed to provide comprehensive healthcare and wellness services to company employees and the local community.\n\nCompleted after more than two years of construction, the facility represents a concrete manifestation of Wilo's Global Health Management strategy. The center houses occupational health and safety services, psychological support and life coaching, fitness and sports facilities, hydro massage units, relaxation areas, and a lounge section with an experiential kitchen concept. Additionally, holiday childcare services are provided for employees' families.\n\nThe sustainability-focused design features a wooden support structure and environmentally friendly materials selected to achieve low carbon emission targets. Wilo CEO Oliver Hermes states that the project represents a strong expression of the company's human-centered values. Such investments could lead the way for increasing interest in employee welfare and sustainable workplace design within Turkey's HVAC sector as well."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Wilo Grubu'nun Dortmund'daki Sağlık Küpü binasının dış görünümü",
-      "en": "Exterior view of Wilo Group's Health Cube building in Dortmund"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 14:21:19 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "Wilo",
-        "sürdürülebilirlik",
-        "çalışan refahı",
-        "HVAC sektörü",
-        "sağlık merkezi"
-      ],
-      "en": [
-        "Wilo",
-        "sustainability",
-        "employee wellness",
-        "HVAC industry",
-        "health center"
-      ]
-    },
-    "sourceUrl": "https://sogutmadunyasi.com/wilo-grubu-insan-ve-surdurulebilirlik-odakli-dev-yatirimi-saglik-kupunu-resmi-olarak-acti/",
-    "sourceName": "Soğutma Dünyası"
-  },
-  {
-    "id": "hitachi-sells-home-appliance-division-to-focus-on-air-conditioning",
-    "slug": {
-      "tr": "hitachi-ev-aletleri-birimini-satti-klima-sektorune-odaklaniyor",
-      "en": "hitachi-sells-home-appliance-division-to-focus-on-air-conditioning"
-    },
-    "title": {
-      "tr": "Hitachi Ev Aletleri Birimini Sattı, Klima Sektörüne Odaklanıyor",
-      "en": "Hitachi Sells Home Appliance Division to Focus on Air Conditioning"
-    },
-    "excerpt": {
-      "tr": "Japon devi Hitachi, 691 milyon dolarlık satışla ev aletleri işini bırakıp klima sektörüne odaklanma kararı aldı.",
-      "en": "Japanese giant Hitachi decides to exit home appliances with $691M sale, concentrating resources on air conditioning business."
-    },
-    "content": {
-      "tr": "Japon teknoloji devi Hitachi, ev aletleri işini satarak tamamen klima ve iklimlendirme sektörüne odaklanma stratejisini hayata geçirdi. Şirket, ev aletleri birimini Nojima Corp'a 691 milyon dolar karşılığında devretme kararı aldı.\n\nAnlaşma kapsamında Hitachi Global Life Solutions, ev aletleri bölümünü ayrı bir şirket olarak kuracak ve bu yeni firmada %19,9 hisse ile azınlık ortağı konumunda kalacak. Nojima Corp ise %80,1 hisse ile çoğunluk hissesine sahip olacak. Bu stratejik hamle, Hitachi'nin Kentsel Çözümler ve Hizmetler İş Birimi altında klima işini ana faaliyet alanı olarak sürdüreceğini gösteriyor.\n\nHitachi'nin bu kararı, küresel HVAC sektörünün konsolidasyon eğilimini yansıtıyor ve Türkiye pazarında da etkili olabilir. Şirket, Bina Sistemleri ve Güç Çözümleri birimleriyle işbirliği içinde, yapı yönetimi, enerji yönetimi ve soğutma sistemleri için entegre hizmetler sunmaya odaklanacak. HMAX for Buildings adlı yapay zeka destekli çözüm paketini geliştirerek, bina verimliliği ve kullanıcı konforu alanlarında yenilikçi teknolojiler sunmayı hedefliyor.",
-      "en": "Japanese technology giant Hitachi has implemented its strategy to focus entirely on air conditioning and climate control by selling its home appliance business. The company decided to transfer its household appliance division to Nojima Corp for $691 million.\n\nUnder the agreement, Hitachi Global Life Solutions will spin off its home appliance division into a separate company, retaining a minority stake of 19.9% in the new firm. Nojima Corp will hold the majority stake with 80.1% ownership. This strategic move demonstrates that Hitachi will continue its air conditioning business as a core operation under its Urban Solutions & Services Business Unit.\n\nHitachi's decision reflects the consolidation trend in the global HVAC sector and could impact markets including Turkey. The company will focus on providing integrated services for building management, energy management, and cooling systems in collaboration with its Building Systems and Power Solutions divisions. By developing its AI-driven solution suite called HMAX for Buildings, the company aims to deliver innovative technologies in building efficiency and occupant comfort areas."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Hitachi klima sistemleri ve HVAC teknolojileri",
-      "en": "Hitachi air conditioning systems and HVAC technologies"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 15:49:52 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "Hitachi",
-        "klima sektörü",
-        "HVAC",
-        "ev aletleri",
-        "iklimlendirme"
-      ],
-      "en": [
-        "Hitachi",
-        "air conditioning",
-        "HVAC industry",
-        "home appliances",
-        "climate control"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/world-news/hitachi-sells-home-appliance-business-to-focus-on-ac/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "phil-deverick-returns-to-general-hvac-solutions-as-operations-supervisor",
-    "slug": {
-      "tr": "phil-deverick-general-hvac-solutionsa-operasyon-muduru-olarak-dondu",
-      "en": "phil-deverick-returns-to-general-hvac-solutions-as-operations-supervisor"
-    },
-    "title": {
-      "tr": "Phil Deverick General HVAC Solutions'a Operasyon Müdürü Olarak Döndü",
-      "en": "Phil Deverick Returns to General HVAC Solutions as Operations Supervisor"
-    },
-    "excerpt": {
-      "tr": "Eski Fujitsu işletmesine deneyimli isim geri döndü. Yeni atamalar şirketin büyüme stratejisini güçlendiriyor.",
-      "en": "Experienced professional returns to former Fujitsu business. New appointments strengthen company's growth strategy."
-    },
-    "content": {
-      "tr": "General HVAC Solutions UK, eski Fujitsu işletmesinde gerçekleştirdiği yeni atamalar kapsamında Phil Deverick'i operasyon müdürü olarak bünyesine yeniden kattığını duyurdu. Deverick'in geri dönüşü, şirketin deneyimli kadroyla büyüme hedeflerini destekleme stratejisinin önemli bir parçası olarak değerlendiriliyor.\n\nDeverick, 2023 yılında ayrıldığı eski Fujitsu General Air Conditioning UK işletmesinde dört yıl boyunca ticari müdür olarak görev yapmıştı. Bundan önce ise yaklaşık 20 yıl Panasonic Heating and Cooling Solutions UK'de çalışarak pazarlama müdürü pozisyonuna kadar yükselmiş deneyimli bir isim. Bu hafta şirkete katılan diğer önemli isim ise VRF iş geliştirme müdürü olarak atanan Gareth Yates oldu.\n\nYates, son dört yılını Oldham merkezli Smith Brothers Stores'da bölge satış müdürü olarak geçirirken, daha önce Daikin UK ve Wolseley UK'de deneyim kazanmıştı. Aynı zamanda Stuart Knight ön satış spesifikasyon mühendisi ve Joshua Potter da dahili teknik ve ürün destek mühendisi olarak ekibe katıldı. Bu gelişmeler, Türkiye HVAC sektöründeki benzer konsolidasyon trendleriyle paralellik gösteriyor ve küresel markaların yerel pazar dinamiklerini güçlendirme stratejilerini yansıtıyor.",
-      "en": "General HVAC Solutions UK has announced the return of Phil Deverick as operations supervisor as part of several new appointments within the former Fujitsu business. Deverick's comeback is considered a significant element of the company's strategy to support growth objectives with an experienced team.\n\nDeverick previously served as commercial manager for four years at the former Fujitsu General Air Conditioning UK business before departing in 2023. Prior to this role, he accumulated nearly two decades of experience at Panasonic Heating and Cooling Solutions UK, ultimately advancing to marketing manager position. Another significant addition this week is Gareth Yates, who has been appointed as VRF business development manager.\n\nYates spent his last four years as area sales manager at Smith Brothers Stores based in Oldham, while previously gaining valuable experience at both Daikin UK and Wolseley UK. The team has also been strengthened by Stuart Knight joining as pre-sales specification engineer and Joshua Potter as internal technical and product support engineer. These developments mirror similar consolidation trends in the Turkish HVAC sector and reflect global brands' strategies to strengthen local market dynamics."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "General HVAC Solutions UK yönetim ekibi ve yeni atanan personel",
-      "en": "General HVAC Solutions UK management team with newly appointed staff"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 13:43:14 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC personel",
-        "General HVAC",
-        "sektör atamalar",
-        "VRF sistemler",
-        "klima sektörü"
-      ],
-      "en": [
-        "HVAC personnel",
-        "General HVAC",
-        "industry appointments",
-        "VRF systems",
-        "air conditioning sector"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/uk-news/phil-deverick-rejoins-general/",
     "sourceName": "Cooling Post"
   }
 ]
