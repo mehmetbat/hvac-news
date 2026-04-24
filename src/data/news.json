@@ -1,5 +1,513 @@
 [
   {
+    "id": "u-tube-manometer-reading-pressure-control-in-hvac-systems",
+    "slug": {
+      "tr": "u-tup-manometre-okumasi-hvac-sistemlerinde-basinc-kontrolu",
+      "en": "u-tube-manometer-reading-pressure-control-in-hvac-systems"
+    },
+    "title": {
+      "tr": "U-Tüp Manometre Okuması: HVAC Sistemlerinde Basınç Kontrolü",
+      "en": "U-Tube Manometer Reading: Pressure Control in HVAC Systems"
+    },
+    "excerpt": {
+      "tr": "HVAC sistemlerinde basınç ölçümü için kritik olan U-tüp manometre okuma teknikleri ve pratik uygulama ipuçları.",
+      "en": "Essential U-tube manometer reading techniques and practical tips for pressure measurement in HVAC systems."
+    },
+    "content": {
+      "tr": "U-tüp manometre, HVAC sistemlerinde basınç farklarını ölçmek için kullanılan temel araçlardan biridir ve doğru okuma tekniği sistem performansının değerlendirilmesinde kritik rol oynar.\n\nManometredeki sıvı seviye farkı, sistemdeki basınç durumunu net şekilde gösterir. Fan çalışırken, tüpün bir tarafındaki sıvı seviyesi yükselir, diğer tarafındaki ise düşer. Bu seviye farkı ne kadar büyükse, sistem basıncı o kadar yüksektir. Fan kapalıyken ise her iki taraftaki sıvı seviyesi eşitlenir ve basınç farkı sıfıra yaklaşır. Radon azaltma sistemleri gibi uygulamalarda, bu ölçüm fanın çalışıp çalışmadığını anlamak için vazgeçilmez bir göstergedir.\n\nTürkiye'deki HVAC sektöründe, özellikle endüstriyel tesislerde ve büyük ticari binalarda basınç kontrolü giderek önem kazanmaktadır. Enerji verimliliği yönetmeliklerinin sıkılaştığı günümüzde, manometre okumaları sistem optimizasyonu ve bakım planlaması açısından kritik veriler sunmaktadır. Teknik personelin bu ölçüm araçlarını doğru kullanabilmesi, hem sistem güvenilirliğini artırmakta hem de enerji tasarrufu sağlamaktadır.",
+      "en": "The U-tube manometer serves as a fundamental instrument for measuring pressure differentials in HVAC systems, and mastering proper reading techniques is crucial for accurate system performance evaluation.\n\nThe liquid level difference in the manometer clearly indicates the pressure status within the system. When the fan operates, liquid rises on one side of the tube while dropping on the other side. The greater this level difference, the higher the system pressure. When the fan is off, liquid levels equalize on both sides, bringing the pressure differential close to zero. In applications such as radon mitigation systems, this measurement becomes an indispensable indicator for determining fan operation status.\n\nWithin Turkey's HVAC sector, pressure control is gaining increasing importance, particularly in industrial facilities and large commercial buildings. As energy efficiency regulations become more stringent, manometer readings provide critical data for system optimization and maintenance planning. Technical personnel's ability to properly utilize these measurement tools enhances both system reliability and energy conservation outcomes."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Radon azaltma sistemindeki U-tüp manometre basınç ölçümü",
+      "en": "U-tube manometer pressure measurement in radon mitigation system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 20:53:48 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "manometre",
+        "basınç ölçümü",
+        "HVAC",
+        "radon azaltma",
+        "enerji verimliliği"
+      ],
+      "en": [
+        "manometer",
+        "pressure measurement",
+        "HVAC",
+        "radon mitigation",
+        "energy efficiency"
+      ]
+    },
+    "sourceUrl": "https://www.energyvanguard.com/blog/how-to-read-a-u-tube-manometer/",
+    "sourceName": "Energy Vanguard"
+  },
+  {
+    "id": "hvac-industry-leaders-conduct-lobby-activities-at-us-congress",
+    "slug": {
+      "tr": "hvac-sektoru-liderleri-abd-kongresinde-lobi-faaliyeti-yuruttu",
+      "en": "hvac-industry-leaders-conduct-lobby-activities-at-us-congress"
+    },
+    "title": {
+      "tr": "HVAC Sektörü Liderleri ABD Kongresinde Lobi Faaliyeti Yürüttü",
+      "en": "HVAC Industry Leaders Conduct Lobby Activities at US Congress"
+    },
+    "excerpt": {
+      "tr": "65 HVAC sektörü lideri Washington'da tedarik zinciri, iş gücü ve enerji politikaları için milletvekillerini etkiledi.",
+      "en": "65 HVAC industry leaders influenced lawmakers in Washington for supply chain, workforce and energy policies."
+    },
+    "content": {
+      "tr": "Amerika Birleşik Devletleri'nde ısıtma, soğutma ve havalandırma sektörünün önde gelen isimleri, endüstrinin karşılaştığı kritik sorunlara dikkat çekmek için Washington D.C.'de bir araya geldi. HARDI (Heating, Air-conditioning & Refrigeration Distributors International) organizasyonu kapsamında gerçekleştirilen bu girişimde, 65'ten fazla sektör temsilcisi Kongre üyeleriyle görüşmeler gerçekleştirdi.\n\nLobi faaliyetlerinin odak noktasını tedarik zinciri sorunları, kalifiye eleman eksikliği ve enerji politikaları oluşturdu. Sektör liderleri, özellikle pandemi sonrası dönemde yaşanan malzeme tedarik zorluklarının çözümü için yasal düzenlemeler talep etti. Aynı zamanda, teknik eleman yetiştirme programlarına daha fazla devlet desteği sağlanması ve enerji verimliliği standartlarının sektörün gelişimini destekleyecek şekilde düzenlenmesi konularında görüşlerini aktardılar.\n\nBu gelişmeler, küresel HVAC pazarının bir parçası olan Türkiye'deki sektör için de önemli sinyaller veriyor. ABD'deki politika değişiklikleri, uluslararası tedarik zinciri ve teknoloji transferi açısından Türk HVAC şirketlerini doğrudan etkileyebilir. Özellikle enerji verimliliği standartlarındaki değişiklikler, ihracat yapan Türk firmalarının ürün geliştirme stratejilerini yeniden gözden geçirmesini gerektirebilir.",
+      "en": "Leading figures from the heating, cooling and ventilation industry in the United States came together in Washington D.C. to draw attention to critical issues facing the sector. In this initiative carried out under the HARDI (Heating, Air-conditioning & Refrigeration Distributors International) organization, more than 65 industry representatives held meetings with Congress members.\n\nThe focus of lobbying activities centered on supply chain issues, skilled labor shortages, and energy policies. Industry leaders specifically requested legal regulations to resolve material supply difficulties experienced in the post-pandemic period. They also conveyed their views on providing greater government support for technical personnel training programs and regulating energy efficiency standards to support sector development.\n\nThese developments provide important signals for the sector in Turkey, which is part of the global HVAC market. Policy changes in the US can directly affect Turkish HVAC companies in terms of international supply chain and technology transfer. Particularly, changes in energy efficiency standards may require Turkish exporting companies to reconsider their product development strategies."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "HVAC sektörü temsilcileri ABD Kongre binası önünde",
+      "en": "HVAC industry representatives in front of US Capitol building"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 14:06:00 -0400",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC sektörü",
+        "lobi faaliyetleri",
+        "tedarik zinciri",
+        "enerji politikaları",
+        "ABD Kongresi"
+      ],
+      "en": [
+        "HVAC industry",
+        "lobby activities",
+        "supply chain",
+        "energy policies",
+        "US Congress"
+      ]
+    },
+    "sourceUrl": "https://www.phcppros.com/articles/23335-hardi-2026-congressional-fly-in-brings-hvacr-industry-voice-to-capitol-hill",
+    "sourceName": "PHCP Pros HVAC"
+  },
+  {
+    "id": "do-heat-pump-water-heaters-still-fail-current-status-2024",
+    "slug": {
+      "tr": "isi-pompali-su-isiticilari-hala-arizalaniyor-mu-2024-durumu",
+      "en": "do-heat-pump-water-heaters-still-fail-current-status-2024"
+    },
+    "title": {
+      "tr": "Isı Pompalı Su Isıtıcıları Hala Arızalanıyor mu? 2024 Durumu",
+      "en": "Do Heat Pump Water Heaters Still Fail? Current Status 2024"
+    },
+    "excerpt": {
+      "tr": "Isı pompalı su ısıtıcılarının arıza oranları geçmişe göre önemli ölçüde düştü. Teknolojik gelişmeler güvenilirliği artırdı.",
+      "en": "Heat pump water heater failure rates have significantly decreased compared to past years. Technology advances improved reliability."
+    },
+    "content": {
+      "tr": "Isı pompalı su ısıtıcılarının arıza oranları, geçmiş yıllarda yaşanan sorunlara kıyasla günümüzde önemli ölçüde azalmıştır. Özellikle 2018-2020 döneminde sektörde yaygın olarak gözlemlenen yüksek arıza oranları, üreticilerin teknolojik iyileştirmeleri sayesinde büyük oranda çözülmüştür.\n\nSektör uzmanları, erken dönem ısı pompalı su ısıtıcılarında görülen kompresör arızaları, elektronik kontrol panosu sorunları ve aşırı donma problemlerinin modern cihazlarda büyük ölçüde giderildiğini belirtmektedir. Yeni nesil cihazlar, gelişmiş defrost döngüleri, daha dayanıklı kompresörler ve akıllı kontrol sistemleri ile donatılmıştır. Bu teknolojik gelişmeler, cihazların ortalama ömrünü 12-15 yıla çıkarmış ve garanti sürelerinin uzamasını sağlamıştır.\n\nTürkiye'de HVAC sektörü bu gelişmelerden olumlu etkilenmiş, özellikle enerji verimliliği odaklı teşvikler sayesinde ısı pompalı su ısıtıcılarına olan talep artmıştır. Yerli üreticiler de teknolojik gelişmelere ayak uydurarak, iklim koşullarımıza uygun çözümler geliştirmektedir. Ancak uzmanlar, kaliteli marka seçimi ve profesyonel kurulumun hala kritik faktörler olduğunu vurgulamaktadır.",
+      "en": "Heat pump water heater failure rates have significantly decreased in recent years compared to the widespread issues experienced in the past. The high failure rates commonly observed in the industry during 2018-2020 have been largely resolved through manufacturers' technological improvements and design enhancements.\n\nIndustry experts indicate that early-generation heat pump water heater problems such as compressor failures, electronic control panel malfunctions, and excessive freezing issues have been substantially addressed in modern units. New generation devices are equipped with advanced defrost cycles, more durable compressors, and intelligent control systems. These technological advancements have extended the average lifespan of units to 12-15 years and enabled longer warranty periods.\n\nThe global HVAC market has benefited from these developments, with increased adoption driven by energy efficiency incentives and environmental regulations. Manufacturers have invested heavily in research and development, resulting in more reliable components and better integration of heat pump technology with water heating systems. However, experts emphasize that selecting quality brands, proper sizing, and professional installation remain critical factors for optimal performance and longevity."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Modern ısı pompalı su ısıtıcısı cihazının teknik şeması",
+      "en": "Technical diagram of modern heat pump water heater system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 03:54:43 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ısı pompalı su ısıtıcısı",
+        "HVAC arıza",
+        "enerji verimliliği",
+        "su ısıtıcı teknolojisi",
+        "ısı pompası"
+      ],
+      "en": [
+        "heat pump water heater",
+        "HVAC failure",
+        "energy efficiency",
+        "water heater technology",
+        "heat pump"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/are-heat-pump-water-heaters-still-failing",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "humidity-control-in-vented-attics-are-dehumidifiers-necessary",
+    "slug": {
+      "tr": "havalandirmali-cati-aralarinda-nem-kontrolu-dehumidifier-gerekli-mi",
+      "en": "humidity-control-in-vented-attics-are-dehumidifiers-necessary"
+    },
+    "title": {
+      "tr": "Havalandırmalı Çatı Aralarında Nem Kontrolü: Dehumidifier Gerekli Mi?",
+      "en": "Humidity Control in Vented Attics: Are Dehumidifiers Necessary?"
+    },
+    "excerpt": {
+      "tr": "Yeni yapılan evlerde havalandırmalı çatı aralarının nem seviyeleri izlenmeli. Dehumidifier kullanımı gerekli olabilir.",
+      "en": "New homes with vented attics require humidity monitoring. Dehumidifier usage may become necessary for proper moisture control."
+    },
+    "content": {
+      "tr": "Yeni inşa edilen konutlarda havalandırmalı çatı aralarının nem seviyeleri dikkatli bir şekilde takip edilmesi, yapı sağlığı açısından kritik öneme sahip olduğu uzmanlar tarafından vurgulanıyor. Yapı bilimi uzmanları, özellikle yeni evlerde çatı arası nem oranlarının düzenli olarak kontrol edilmesini öneriyor.\n\nHavalandırmalı çatı aralıkları teorik olarak doğal hava akımı ile nemden korunsa da, belirli koşullarda nem birikimi yaşanabilir. Özellikle nem oranının %60'ın üzerine çıktığı durumlarda küf oluşumu ve yapısal hasarlar riski artmaktadır. Bu nedenle bazı uzmanlar, kritik durumlarda çatı aralarında dehumidifier kullanımını önermektedir.\n\nTürkiye'deki iklim koşulları göz önüne alındığında, özellikle Karadeniz ve Marmara bölgelerindeki yüksek nem oranları bu sorunu daha da önemli hale getirmektedir. HVAC sektöründeki uzmanlar, yeni yapılan binalarda nem ölçüm cihazları kullanılması ve gerektiğinde nem alma sistemlerinin devreye sokulması gerektiğini belirtiyor. Bu yaklaşım, uzun vadede hem enerji verimliliği hem de yapı dayanıklılığı açısından önemli faydalar sağlamaktadır.",
+      "en": "Building science professionals emphasize that monitoring humidity levels in vented attics of newly constructed homes is critical for structural health and integrity. Experts particularly recommend regular monitoring of attic moisture levels in new residential buildings to prevent potential issues.\n\nWhile vented attic spaces are theoretically protected from moisture through natural air circulation, moisture accumulation can still occur under specific conditions. When humidity levels exceed 60%, the risk of mold formation and structural damage increases significantly. Therefore, some specialists recommend using dehumidifiers in attic spaces during critical situations.\n\nConsidering Turkey's climate conditions, particularly the high humidity levels in the Black Sea and Marmara regions, this issue becomes even more significant. HVAC industry experts indicate that new buildings should utilize humidity monitoring devices and implement moisture removal systems when necessary. This approach provides substantial long-term benefits for both energy efficiency and structural durability in the growing Turkish construction market."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Havalandırmalı çatı arasında nem ölçüm cihazı ve dehumidifier sistemi",
+      "en": "Humidity monitoring device and dehumidifier system in a vented attic space"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Fri, 24 Apr 2026 00:27:34 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "çatı arası nem kontrolü",
+        "dehumidifier",
+        "havalandırma sistemleri",
+        "yapı bilimi",
+        "nem ölçümü"
+      ],
+      "en": [
+        "attic humidity control",
+        "dehumidifier",
+        "ventilation systems",
+        "building science",
+        "moisture monitoring"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/vented-attic-do-people-ever-use-dehumidifiers",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "foundation-sealing-why-not-the-top-too",
+    "slug": {
+      "tr": "temel-yalitimi-alt-kismi-degil-ust-kisim-da-onemli",
+      "en": "foundation-sealing-why-not-the-top-too"
+    },
+    "title": {
+      "tr": "Temel Yalıtımı: Alt Kısmı Değil, Üst Kısım da Önemli",
+      "en": "Foundation Sealing: Why Not the Top Too?"
+    },
+    "excerpt": {
+      "tr": "Colorado'da temel duvarlarının sadece alt kısmı değil, üst kısmı da su geçirmez bariyerle korunmalı mı?",
+      "en": "Should foundation walls be protected with water barriers not just below grade but above grade too?"
+    },
+    "content": {
+      "tr": "Soğuk iklim bölgelerinde yapı temellerinin sadece zemin altı kısmının su geçirmez bariyerlerle korunması yeterli değil, zemin üstü kısımları da aynı korumaya ihtiyaç duyuyor. Colorado'nun 5. iklim zonunda yapılan uygulamalar, bu konudaki eksiklikleri gözler önüne seriyor.\n\nGeleneksel olarak temel duvarlarının sadece toprak altında kalan bölümleri katran bazlı veya benzeri su dirençli malzemelerle kaplanıyor. Ancak uzmanlar, zemin seviyesinin üstünde kalan temel duvarı kısımlarının da nem ve su infiltrasyonuna karşı korunması gerektiğini vurguluyor. Bu yaklaşım, özellikle kar yağışı ve don-çözülme döngülerinin yoğun yaşandığı bölgelerde kritik önem taşıyor.\n\nTürkiye'nin farklı iklim zonlarında faaliyet gösteren HVAC sektörü profesyonelleri için bu yaklaşım önemli dersler içeriyor. Özellikle Doğu Anadolu ve İç Anadolu'nun soğuk bölgelerinde, temel yalıtımının tamamlanması enerji verimliliği açısından büyük avantajlar sağlayabilir. Sektör uzmanları, bu tür kapsamlı yalıtım uygulamalarının uzun vadede hem ısıtma maliyetlerini düşürdüğünü hem de yapı ömrünü artırdığını belirtiyor.",
+      "en": "Foundation walls in cold climate zones require water-resistant barriers not only below grade but also above ground level to ensure comprehensive moisture protection. Practices observed in Colorado's climate zone 5 highlight significant gaps in current construction approaches.\n\nTraditional methods typically involve applying tar-based or similar water-resistant materials only to below-grade portions of stem walls. However, experts emphasize that above-grade foundation sections also need protection against moisture infiltration and water damage. This approach becomes particularly crucial in regions experiencing heavy snowfall and frequent freeze-thaw cycles.\n\nHVAC industry professionals can draw valuable insights from this comprehensive sealing approach. Implementing full-height foundation protection systems can significantly improve energy efficiency and reduce heating loads. Industry experts note that such thorough moisture management strategies not only lower operational costs but also extend building lifespan, making them increasingly relevant for modern construction standards and energy codes."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Temel duvarında su geçirmez bariyer uygulaması detayı",
+      "en": "Water-resistant barrier application detail on foundation wall"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 21:24:31 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "temel yalıtımı",
+        "su geçirmez bariyer",
+        "enerji verimliliği",
+        "yapı fiziği",
+        "nem kontrolü"
+      ],
+      "en": [
+        "foundation sealing",
+        "water barrier",
+        "energy efficiency",
+        "building physics",
+        "moisture control"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/foundation-sealing-why-not-the-top-too",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "hvac-industry-seeks-young-talents-at-universities",
+    "slug": {
+      "tr": "hvac-sektoru-universitelerde-genc-yetenekleri-ariyor",
+      "en": "hvac-industry-seeks-young-talents-at-universities"
+    },
+    "title": {
+      "tr": "HVAC Sektörü Üniversitelerde Genç Yetenekleri Arıyor",
+      "en": "HVAC Industry Seeks Young Talents at Universities"
+    },
+    "excerpt": {
+      "tr": "TOBB, YÖK ve İSKAV iş birliğiyle başlayan üniversite tanıtım programı, iklimlendirme sektörüne nitelikli mühendis kazandırmayı amaçlıyor.",
+      "en": "University promotion program launched by TOBB, YÖK and İSKAV aims to bring qualified engineers to the HVAC industry in Turkey."
+    },
+    "content": {
+      "tr": "Türkiye'de iklimlendirme sektörüne nitelikli mühendis kazandırma hedefiyle kapsamlı bir üniversite tanıtım programı hayata geçirildi. TOBB, YÖK ve İSKAV arasında imzalanan üçlü iş birliği protokolü çerçevesinde başlayan bu girişim, genç mühendis adaylarını sektörün sunduğu kariyer imkanlarıyla buluşturmayı amaçlıyor.\n\nGazi Üniversitesi Mühendislik Fakültesi'nde düzenlenen ilk etkinlik, öğrenciler arasında büyük ilgi uyandırdı. TOBB Türkiye İklimlendirme Meclisi Başkan Yardımcısı Mehmet Hakkı Şanal ve Üntes Isıtma Soğutma Genel Müdürü Yalım Atalay, mühendislik öğrencilerine sektörün dinamik yapısını ve gelecek projeksiyonlarını aktardı. Etkinlik kapsamında öğrenciler, iklimlendirme teknolojilerindeki yenilikler ve bu alandaki mesleki gelişim fırsatları hakkında detaylı bilgi edinme şansı buldu.\n\nBu inisiyatif, Türkiye'nin artan enerji verimliliği ihtiyaçları ve sürdürülebilir bina teknolojileri alanındaki büyüme potansiyelini destekleyecek nitelikli insan kaynağı ihtiyacına yanıt veriyor. Protokol kapsamında sunulacak burs imkanları ve sektörel destekler hakkında bilgilendirilen öğrenciler, iklimlendirme mühendisliği alanında uzmanlaşabilecekleri programlara başvuru süreçleri konusunda da yönlendirme aldı.",
+      "en": "A comprehensive university promotion program has been launched to bring qualified engineers to Turkey's HVAC industry. This initiative, starting under a trilateral cooperation protocol signed between TOBB, YÖK and İSKAV, aims to connect young engineering candidates with the career opportunities offered by the sector.\n\nThe first event held at Gazi University Faculty of Engineering generated significant interest among students. TOBB Turkey HVAC Council Vice President Mehmet Hakkı Şanal and Üntes Heating Cooling General Manager Yalım Atalay presented the sector's dynamic structure and future projections to engineering students. During the event, students had the opportunity to gain detailed information about innovations in HVAC technologies and professional development opportunities in this field.\n\nThis initiative responds to the need for qualified human resources to support Turkey's growing energy efficiency requirements and growth potential in sustainable building technologies. Students who were informed about scholarship opportunities and sectoral support to be provided under the protocol also received guidance on application processes for programs where they can specialize in HVAC engineering."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Üniversite öğrencilerine iklimlendirme sektörü tanıtım sunumu yapılan konferans salonu",
+      "en": "Conference hall where HVAC industry presentation is made to university students"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 11:25:30 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "İklimlendirme Mühendisliği",
+        "HVAC Kariyeri",
+        "Üniversite İş Birliği",
+        "Sektörel İstihdam"
+      ],
+      "en": [
+        "HVAC Engineering",
+        "HVAC Career",
+        "University Collaboration",
+        "Industry Employment"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/iklimlendirme-sektorunde-nitelikli-istihdam-icin-universitelerde-tanitim-faaliyetleri-basladi/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "daikin-turkey-appointed-children-as-clean-air-ambassadors-on-april-23",
+    "slug": {
+      "tr": "daikin-turkiye-23-nisanda-cocuklari-temiz-hava-elcisi-ilan-etti",
+      "en": "daikin-turkey-appointed-children-as-clean-air-ambassadors-on-april-23"
+    },
+    "title": {
+      "tr": "Daikin Türkiye 23 Nisan'da Çocukları Temiz Hava Elçisi İlan Etti",
+      "en": "Daikin Turkey Appointed Children as Clean Air Ambassadors on April 23"
+    },
+    "excerpt": {
+      "tr": "Daikin Türkiye, 100 çocuğu ağırladığı etkinlikte temiz hava bilincini oyunla öğretti. HVAC sektörü çevre sorumluluğunda öncü adım attı.",
+      "en": "Daikin Turkey hosted 100 children in an event combining education and fun, teaching clean air awareness through games and activities."
+    },
+    "content": {
+      "tr": "İklimlendirme sektörünün lider markası Daikin Türkiye, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı vesilesiyle düzenlediği özel etkinlikle çocukları 'Temiz Hava Elçileri' olarak görevlendirdi. Fuha İstanbul'da gerçekleştirilen organizasyonda yaklaşık 100 çocuk, eğlenceli aktiviteler eşliğinde çevre bilinci ve temiz hava farkındalığı kazandı.\n\nEtkinlik kapsamında çocuklar, yüz boyama atölyeleri, balon yapımı, sihirbazlık gösterileri ve palyaço performansları ile keyifli dakikalar yaşadı. Daikin'in 'Temiz Hava Elçileri' projesinin maskot karakteri Tenki eşliğinde hazırlanan eğitici videolar sayesinde, küçük katılımcılar sürdürülebilir gelecek ve çevre korunması konularını oyun havasında öğrenme fırsatı buldu.\n\nBu sosyal sorumluluk girişimi, HVAC sektöründe çevre bilincinin artırılması açısından önemli bir örnek teşkil ediyor. Daikin Türkiye ayrıca etkinlikte, Kız Çocukları Eğitim Derneği (KIZÇEV) ile iş birliği yaparak 'Hayal Perisi Elif ve Yapabilirim Diyenler Ülkesi' projesine de destek verdi. Bu yaklaşım, iklimlendirme teknolojileri üreten şirketlerin sektörel sorumluluklarını toplumsal fayda ile birleştiren yenilikçi bir model sunuyor.",
+      "en": "Leading HVAC manufacturer Daikin Turkey designated children as 'Clean Air Ambassadors' during a special event organized for April 23rd National Sovereignty and Children's Day. The celebration held at Fuha Istanbul welcomed approximately 100 children who gained environmental awareness and clean air consciousness through entertaining activities.\n\nParticipating children enjoyed face painting workshops, balloon-making sessions, magic shows, and clown performances throughout the day. Through educational videos featuring Tenki, the mascot character of Daikin's 'Clean Air Ambassadors' project, young attendees learned about sustainable future concepts and environmental protection in a playful atmosphere.\n\nThis corporate social responsibility initiative represents a significant example for raising environmental consciousness within the HVAC industry. Daikin Turkey also collaborated with the Girls' Education Association (KIZÇEV) during the event, supporting their 'Dream Fairy Elif and the Land of Those Who Say I Can Do It' project. This approach presents an innovative model where air conditioning technology companies combine their sectoral responsibilities with social benefits, setting a precedent for environmental stewardship in Turkey's growing HVAC market."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Daikin Türkiye'nin 23 Nisan etkinliğinde çocuklar temiz hava elçisi olarak görevlendirildi",
+      "en": "Children appointed as clean air ambassadors at Daikin Turkey's April 23rd event"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Thu, 23 Apr 2026 11:09:27 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Daikin Türkiye",
+        "temiz hava",
+        "HVAC sektörü",
+        "çevre bilinci",
+        "sosyal sorumluluk"
+      ],
+      "en": [
+        "Daikin Turkey",
+        "clean air",
+        "HVAC industry",
+        "environmental awareness",
+        "corporate responsibility"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/daikin-23-nisanda-cocuklari-temiz-hava-elcisi-yapti/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "boiler-summit-2026-debuts-in-turkey-for-the-first-time",
+    "slug": {
+      "tr": "boiler-summit-2026-ilk-kez-turkiyede-duzenleniyor",
+      "en": "boiler-summit-2026-debuts-in-turkey-for-the-first-time"
+    },
+    "title": {
+      "tr": "Boiler Summit 2026 İlk Kez Türkiye'de Düzenleniyor",
+      "en": "Boiler Summit 2026 Debuts in Turkey for the First Time"
+    },
+    "excerpt": {
+      "tr": "Kazan ve basınçlı kap sektörünün en büyük zirvesi 17-18 Haziran'da Makina Hangar'da gerçekleşecek. Sektör profesyonelleri buluşuyor.",
+      "en": "Turkey's first boiler and pressure vessel summit brings industry professionals together on June 17-18 at Makina Hangar venue."
+    },
+    "content": {
+      "tr": "Türkiye kazan ve basınçlı kap sektörü, ülkede ilk kez düzenlenecek büyük bir zirvede buluşmaya hazırlanıyor. Hannover Messe Sodeks Fuarcılık ile Kazan ve Basınçlı Kap Sanayicileri Derneği ortaklığında gerçekleşecek Boiler Summit 2026, 17-18 Haziran tarihlerinde Makina Hangar'da kapılarını açacak.\n\nZirve, endüstriyel tesislerden savunma sanayisine, gıda sektöründen enerji firmalarına kadar geniş bir yelpazede faaliyet gösteren sektör temsilcilerini bir araya getirecek. Üreticiler, tesis mühendisleri, bakım sorumluları ve mekanik tesisat uzmanları gibi karar vericiler, güncel sektör sorunlarına çözüm arayışında ortak platformda buluşacak. Özellikle büyük ısı merkezlerine sahip kamu ve özel sektör kuruluşlarının katılımıyla, Türkiye'nin HVAC sektöründeki deneyim paylaşımı güçlenecek.\n\nEtkinlik programında depremde kazan dairesi güvenliğinden modern üretim yöntemlerine, AR-GE çalışmalarından verimlilik optimizasyonuna kadar kritik konular ele alınacak. Katılımcılar vaka analizleri ve teknik sunumlar aracılığıyla sektörün geleceğine yön verecek gelişmeleri yakından takip edebilecek. Makina Mühendisleri Odası İstanbul Şubesi'nin katkılarıyla düzenlenen zirve, Türkiye'deki kazan teknolojisi alanında yeni bir dönüm noktası oluşturmayı hedefliyor.",
+      "en": "Turkey's boiler and pressure vessel industry is preparing for its first major summit to be held in the country. Boiler Summit 2026, organized through a partnership between Hannover Messe Sodeks and the Boiler and Pressure Vessel Manufacturers Association, will open its doors on June 17-18 at Makina Hangar venue.\n\nThe summit will bring together industry representatives from a wide spectrum, ranging from industrial facilities to defense industry, from food sector to energy companies. Decision-makers including manufacturers, facility engineers, maintenance managers, and mechanical installation experts will meet on a common platform to seek solutions for current industry challenges. With the participation of public and private sector organizations with large heating centers, experience sharing in Turkey's HVAC sector will be strengthened.\n\nThe event program will address critical topics from earthquake safety in boiler rooms to modern production methods, from R&D studies to efficiency optimization. Participants will be able to closely follow developments that will shape the future of the industry through case analyses and technical presentations. The summit, organized with contributions from the Istanbul Branch of the Chamber of Mechanical Engineers, aims to create a new milestone in Turkey's boiler technology field."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Boiler Summit 2026 etkinlik görseli - kazan ve basınçlı kap teknolojileri",
+      "en": "Boiler Summit 2026 event visual - boiler and pressure vessel technologies"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 21 Apr 2026 14:06:36 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Boiler Summit",
+        "kazan teknolojisi",
+        "basınçlı kap",
+        "HVAC fuarı",
+        "endüstriyel tesisler"
+      ],
+      "en": [
+        "Boiler Summit",
+        "boiler technology",
+        "pressure vessel",
+        "HVAC exhibition",
+        "industrial facilities"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/boiler-summit-2026-kazan-ve-basincli-kap-zirvesi-turkiyede-ilk-kez-makina-hangarda/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "franklin-electric-opens-5-million-factory-in-izmir",
+    "slug": {
+      "tr": "franklin-electric-izmirde-5-milyon-euroluk-fabrika-acti",
+      "en": "franklin-electric-opens-5-million-factory-in-izmir"
+    },
+    "title": {
+      "tr": "Franklin Electric İzmir'de 5 Milyon Euro'luk Fabrika Açtı",
+      "en": "Franklin Electric Opens €5 Million Factory in İzmir"
+    },
+    "excerpt": {
+      "tr": "Dalgıç pompa liderinden İzmir Torbalı'da yeni üretim tesisi. 5 milyon Euro yatırım, 14.600 m² alan.",
+      "en": "Submersible pump leader opens new production facility in İzmir Torbalı. €5M investment, 14,600 sqm facility."
+    },
+    "content": {
+      "tr": "Dalgıç pompa ve motor teknolojilerinde dünya çapında faaliyet gösteren Franklin Electric, İzmir Torbalı'daki yeni üretim tesisini resmi olarak faaliyete geçirdi. Şirket, bu stratejik yatırımla Türkiye'deki üretim gücünü önemli ölçüde artırmayı hedefliyor.\n\n14 bin 600 metrekare alana kurulu yeni tesis, toplam 5 milyon Euro'luk yatırımla hayata geçirildi. Modern üretim teknolojileri ve çevre dostu tasarım anlayışıyla inşa edilen fabrika, Franklin Electric'in sadece üretim kapasitesini değil, aynı zamanda lojistik operasyonlarının verimliliğini de artıracak. Sürdürülebilirlik ilkelerine uygun olarak tasarlanan tesisin, bölgesel istihdam yaratması ve yerel ekonomiye uzun vadeli katkı sağlaması öngörülüyor.\n\nFabrika açılış törenine Torbalı Ticaret Odası Başkanı Abdulvahap Olgun, Franklin Electric üst düzey yöneticileri ve sektör temsilcileri katıldı. Franklin Electric EMEA Satış Grubu Yönetim Kurulu Başkanı Fevzi Apaydın törende, 1944'te kurulan şirketin su sistemleri ve endüstriyel çözümler alanındaki küresel liderliğine vurgu yaptı. Bu yatırım, Türkiye'nin HVAC sektöründeki üretim merkezleri arasındaki konumunu güçlendirirken, bölgenin su teknolojileri ihracat potansiyelini de artıracak.",
+      "en": "Global submersible pump and motor technology leader Franklin Electric has officially launched its new production facility in İzmir Torbalı. The company aims to significantly boost its manufacturing capacity in Turkey through this strategic investment.\n\nThe new facility spans 14,600 square meters and represents a total investment of €5 million. Built with advanced manufacturing technologies and environmentally conscious design principles, the factory will enhance not only Franklin Electric's production capacity but also improve the efficiency of its logistics operations. The facility, designed in accordance with sustainability principles, is expected to create regional employment opportunities and provide long-term economic benefits to the local community.\n\nThe factory inauguration ceremony was attended by Torbalı Chamber of Commerce President Abdulvahap Olgun, Franklin Electric senior executives, and industry representatives. Franklin Electric EMEA Sales Group Chairman Fevzi Apaydın emphasized during the ceremony the global leadership of the company, founded in 1944, in water systems and industrial solutions. This investment strengthens Turkey's position among HVAC sector manufacturing hubs while boosting the region's export potential in water technologies."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Franklin Electric İzmir Torbalı fabrika açılış töreni",
+      "en": "Franklin Electric İzmir Torbalı factory opening ceremony"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 21 Apr 2026 09:48:26 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Franklin Electric",
+        "dalgıç pompa",
+        "İzmir Torbalı",
+        "HVAC yatırımı",
+        "su teknolojileri"
+      ],
+      "en": [
+        "Franklin Electric",
+        "submersible pumps",
+        "İzmir Torbalı",
+        "HVAC investment",
+        "water technologies"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/franklin-electric-izmir-torbalidaki-yeni-fabrikasini-hizmete-acti/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "termo-teknik-sets-water-recovery-record-targeting-32000-tons",
+    "slug": {
+      "tr": "termo-teknik-su-geri-kazaniminda-rekor-kiriyor-32-bin-ton-hedefi",
+      "en": "termo-teknik-sets-water-recovery-record-targeting-32000-tons"
+    },
+    "title": {
+      "tr": "Termo Teknik Su Geri Kazanımında Rekor Kırıyor: 32 Bin Ton Hedefi",
+      "en": "Termo Teknik Sets Water Recovery Record: Targeting 32,000 Tons"
+    },
+    "excerpt": {
+      "tr": "Panel radyatör devi Termo Teknik, atık su geri kazanım sistemiyle yıllık 31.724 ton su tasarrufu sağlıyor, hedef 32.676 ton.",
+      "en": "Radiator giant Termo Teknik achieves 31,724 tons annual water savings through waste recovery system, targets 32,676 tons."
+    },
+    "content": {
+      "tr": "Türkiye'nin önde gelen panel radyatör üreticisi Termo Teknik, sürdürülebilir üretim konusunda önemli bir kilometre taşını geride bırakırken, su tasarrufu alanında sektöre örnek olacak başarılara imza atıyor. Çorlu üretim tesisinde uygulanan yenilikçi atık su geri kazanım teknolojisi, şirketin çevre dostu üretim yaklaşımının somut bir göstergesi olarak öne çıkıyor.\n\nGenel Müdür Ali Oraloğlu'nun açıkladığı verilere göre, şirket mevcut sistemle yıllık 31.724 ton su tasarrufu gerçekleştiriyor ve 2026 yılı için bu rakamı 32.676 tona yükseltmeyi planlıyor. Üretim hatlarındaki test havuzlarından çıkan atık sular, gelişmiş arıtma teknolojisi kullanılarak hem kalite kontrol süreçlerinde hem de boya uygulamalarında yeniden değerlendiriliyor. Bu yaklaşım, özellikle su stresinin arttığı günümüzde sanayi kuruluşları için kritik önem taşıyor.\n\nKüresel ölçekte endüstriyel su kullanımının artış gösterdiği bir dönemde, Termo Teknik'in bu uygulaması Türk HVAC sektörünün sürdürülebilirlik alanındaki potansiyelini ortaya koyuyor. Dünya genelinde tatlı su kaynaklarının beşte birinin sanayi tarafından tüketildiği, gelişmiş ekonomilerde bu oranın yüzde 40'lara ulaştığı göz önüne alındığında, geri kazanım sistemlerinin operasyonel bir gereklilik haline geldiği görülüyor.",
+      "en": "Turkey's leading panel radiator manufacturer Termo Teknik is achieving remarkable milestones in sustainable production, setting industry standards in water conservation through innovative recovery systems. The advanced wastewater recycling technology implemented at their Çorlu production facility demonstrates the company's concrete commitment to environmentally responsible manufacturing practices.\n\nAccording to data released by General Manager Ali Oraloğlu, the company currently achieves annual water savings of 31,724 tons and plans to increase this figure to 32,676 tons by 2026. Wastewater from production line testing pools undergoes treatment through sophisticated purification technology, enabling reuse in both quality control processes and painting operations. This approach carries critical importance for industrial facilities, particularly as water stress intensifies globally.\n\nDuring a period of increasing global industrial water consumption, Termo Teknik's implementation showcases the Turkish HVAC sector's potential in sustainability initiatives. Considering that one-fifth of global freshwater resources are consumed by industry, with this ratio reaching 40% in developed economies, recovery systems have evolved from environmental preferences to operational necessities for manufacturing enterprises."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Termo Teknik atık su geri kazanım sistemi ve üretim tesisi görünümü",
+      "en": "Termo Teknik wastewater recovery system and production facility view"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 21 Apr 2026 08:35:29 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "su tasarrufu",
+        "sürdürülebilir üretim",
+        "panel radyatör",
+        "atık su geri kazanım",
+        "HVAC sektörü"
+      ],
+      "en": [
+        "water conservation",
+        "sustainable production",
+        "panel radiators",
+        "wastewater recovery",
+        "HVAC industry"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/termo-teknik-su-tasarrufunda-citayi-yukseltiyor-hedef-32-bin-tonun-uzeri/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
     "id": "carrier-japan-launches-r32-refrigerant-inverter-water-cooled-chillers",
     "slug": {
       "tr": "carrier-japonda-r32-sogutucu-akiskanli-inverter-chiller-lansmani",
@@ -29,7 +537,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Thu, 23 Apr 2026 18:24:18 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2046,511 +2554,5 @@
     },
     "sourceUrl": "https://www.coolingpost.com/uk-news/phil-deverick-rejoins-general/",
     "sourceName": "Cooling Post"
-  },
-  {
-    "id": "uk-breaks-gas-electricity-price-link-boosts-heat-pump-support",
-    "slug": {
-      "tr": "ingiltere-elektrik-dogalgaz-fiyat-bagini-kiriyor-isi-pompalari-destekleniyor",
-      "en": "uk-breaks-gas-electricity-price-link-boosts-heat-pump-support"
-    },
-    "title": {
-      "tr": "İngiltere Elektrik-Doğalgaz Fiyat Bağını Kırıyor, Isı Pompaları Destekleniyor",
-      "en": "UK Breaks Gas-Electricity Price Link, Boosts Heat Pump Support"
-    },
-    "excerpt": {
-      "tr": "İngiltere hükümeti elektrik fiyatlarının doğalgaza bağlı kalmasını önleyecek reform paketini açıkladı. Isı pompası sektörü önemli destek alacak.",
-      "en": "UK government unveils reform package to decouple electricity prices from gas volatility. Heat pump sector set to receive significant support boost."
-    },
-    "content": {
-      "tr": "İngiltere hükümeti, elektrik fiyatlarının uluslararası doğalgaz piyasalarından etkilenmesini önlemeye yönelik kapsamlı bir reform paketi açıkladı. Bu hamle, ülkenin karbon emisyonlarını azaltma hedefi doğrultusunda ısı pompası teknolojilerinin yaygınlaşmasını da hızlandıracak nitelikte.\n\nReform kapsamında, mevcut düşük karbonlu enerji üreticilerine uzun vadeli sabit fiyatlı sözleşmeler sunulacak. İngiltere'nin elektrik üretiminin yaklaşık yüzde 30'u halen spot piyasa fiyatlarına bağlı durumda ve bu durum tüketicileri doğalgaz fiyat dalgalanmalarına maruz bırakıyor. Hükümet ayrıca BUS hibesi kapsamında fuel oil ve LPG ile ısıtılan konutlar için desteği 9.000 sterline çıkardı. Hava kaynaklı ısı pompalarının kurulumunu kolaylaştıracak düzenlemeler de pakete dahil edildi.\n\nBu gelişmeler Türkiye'deki HVAC sektörü için de önemli sinyaller içeriyor. Avrupa'nın enerji güvenliği arayışları ve karbon nötr hedefleri, Türkiye'den İngiltere'ye ısı pompası ihracatında yeni fırsatlar yaratabilir. Heat Pump Association UK Genel Müdürü Charlotte Lee, açıklamaları değerlendirirken sektörün büyüme potansiyelini vurguladı. Türk üreticiler için bu pazar dinamikleri, teknoloji yatırımları ve ihracat stratejilerinde dikkate alınması gereken faktörler arasında yer alıyor.",
-      "en": "The UK government has unveiled a comprehensive reform package aimed at preventing electricity prices from being influenced by international natural gas markets. This strategic move is designed to accelerate the adoption of heat pump technologies as part of the country's carbon reduction objectives.\n\nUnder the reform framework, existing low-carbon energy generators will be offered long-term fixed-price contracts. Approximately 30% of Britain's electricity generation remains tied to spot market pricing, exposing consumers to natural gas price volatility. The government has also increased BUS grant support to £9,000 for properties currently heated by fuel oil and LPG. Regulatory changes to streamline air-source heat pump installations have been included in the package to facilitate easier deployment.\n\nThese developments signal important opportunities for Turkey's HVAC sector. Europe's pursuit of energy security and carbon-neutral targets could create new prospects for heat pump exports from Turkey to the UK market. Charlotte Lee, CEO of Heat Pump Association UK, emphasized the sector's growth potential while commenting on the announcements. For Turkish manufacturers, these market dynamics represent crucial factors to consider in technology investments and export strategies, potentially opening doors to expanded European market presence."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "İngiltere'de konut dışında kurulu hava kaynaklı ısı pompası sistemi",
-      "en": "Air-source heat pump system installed outside UK residential building"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 13:03:32 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ısı pompası",
-        "enerji politikası",
-        "karbon azaltım",
-        "HVAC teknolojileri",
-        "İngiltere"
-      ],
-      "en": [
-        "heat pumps",
-        "energy policy",
-        "decarbonization",
-        "HVAC technology",
-        "UK market"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/uk-news/uk-moves-to-cut-electricity-price-link-to-gas/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "rectorseal-acquires-duckt-strip-cable-company-hvac-industry-news",
-    "slug": {
-      "tr": "rectorseal-duckt-strip-kablo-sirketini-satin-aldi-hvac-sektoru",
-      "en": "rectorseal-acquires-duckt-strip-cable-company-hvac-industry-news"
-    },
-    "title": {
-      "tr": "RectorSeal Duckt-Strip Kablo Şirketini Satın Aldı - HVAC Sektörü",
-      "en": "RectorSeal Acquires Duckt-Strip Cable Company - HVAC Industry News"
-    },
-    "excerpt": {
-      "tr": "HVAC ekipmanları üreticisi RectorSeal, kanallı olmayan sistemler için özel kablo çözümleri sunan Duckt-Strip'i satın aldı.",
-      "en": "HVAC equipment manufacturer RectorSeal acquires Duckt-Strip, offering specialized cable solutions for ductless systems."
-    },
-    "content": {
-      "tr": "HVAC/R ve tesisat araçları konusunda önde gelen üretici RectorSeal, kanallı olmayan iklimlendirme sistemleri için özelleşmiş elektrik kablosu üreticisi Duckt-Strip'i bünyesine kattığını duyurdu. Bu stratejik satın alma, şirketin pazar payını güçlendirme hedefinin bir parçası olarak gerçekleştirildi.\n\nAmerika Birleşik Devletleri'nde üretilen Duckt-Strip kabloları, Rip-n-Strip teknolojisi ile diğer kanalsız güç ve iletişim kablolarından ayrılıyor. Bu teknoloji, iletkenleri UL standartlarına uygun tek bir kablo içinde birleştirerek hızlı kurulum imkanı sağlıyor. Ayrıca güç ve iletişim hatlarını yalıtlayarak, çapraz konuşma riskini minimize ediyor ve kanalsız ünitelerin performansını koruyor. Ürün, National Electric Code (NEC) Madde 725.136 uyumlu ve duvar içi ile duvar geçişli montajlar için UL onaylı.\n\nRectorSeal Başkanı Jeff Underwood, \"Ulusal dağıtım ağımız ve HVAC sektöründeki derin ilişkilerimiz sayesinde, Duckt-Strip kablo satın alımı şirketimizin yerleşik ve gelişmekte olan pazarlarda büyümesini anlamlı şekilde hızlandırmak için açık fırsatlar sunuyor\" dedi. Bu gelişme, Türkiye'deki HVAC sektörü için de önemli; çünkü kanalsız klima sistemlerinin artan popülaritesi ile birlikte, kaliteli ve güvenli kablo çözümlerine olan talep artıyor.",
-      "en": "Leading HVAC/R and plumbing tools manufacturer RectorSeal has announced its acquisition of Duckt-Strip, a specialized electrical cable manufacturer for ductless air conditioning systems. This strategic purchase represents part of the company's broader market expansion strategy.\n\nManufactured in the United States, Duckt-Strip cables distinguish themselves from other ductless power and communication cables through their innovative Rip-n-Strip technology. This technology integrates conductors into a single UL-compliant cable, enabling rapid installation processes. The system also insulates power and communication lines separately, reducing crosstalk risks that could compromise ductless unit performance. The product meets National Electric Code (NEC) Article 725.136 requirements and carries UL certification for both in-wall and through-wall installations.\n\nRectorSeal President Jeff Underwood stated, \"With our national distribution network and deep HVAC industry relationships, acquiring Duckt-Strip cable presents clear opportunities to meaningfully accelerate our company's growth in both established and emerging markets.\" This development holds significance for the global HVAC market, including regions like Turkey where ductless air conditioning systems are gaining popularity, creating increased demand for reliable and safe cable solutions that meet international standards."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "RectorSeal ve Duckt-Strip şirket logoları ile HVAC kablo sistemleri",
-      "en": "RectorSeal and Duckt-Strip company logos with HVAC cable systems"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 14:31:25 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "RectorSeal",
-        "Duckt-Strip",
-        "HVAC kabloları",
-        "kanalsız klima",
-        "elektrik kablosu"
-      ],
-      "en": [
-        "RectorSeal",
-        "Duckt-Strip",
-        "HVAC cables",
-        "ductless systems",
-        "electrical cable"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/rectorseal-acquires-duckt-strip-cable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rectorseal-acquires-duckt-strip-cable",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "innovative-solution-for-hvac-industrys-workforce-crisis",
-    "slug": {
-      "tr": "hvac-sektorunun-insan-kaynaklari-krizi-icin-yenilikci-cozum",
-      "en": "innovative-solution-for-hvac-industrys-workforce-crisis"
-    },
-    "title": {
-      "tr": "HVAC Sektörünün İnsan Kaynakları Krizi İçin Yenilikçi Çözüm",
-      "en": "Innovative Solution for HVAC Industry's Workforce Crisis"
-    },
-    "excerpt": {
-      "tr": "CEO Warrior, ev servis sektöründe çalışan bulma ve elde tutma sorunlarına odaklanan eğitim programı düzenliyor.",
-      "en": "CEO Warrior organizes training program focused on finding and retaining workforce in home service sector."
-    },
-    "content": {
-      "tr": "CEO Warrior, ev servis sektöründeki işletme sahiplerinin en büyük zorluklarından biri olan nitelikli çalışan bulma ve elde tutma sorununa çözüm sunmak için kapsamlı bir eğitim programı başlatıyor. Şirket, 28-29 Mayıs tarihlerinde New Jersey merkezinde düzenleyeceği Warrior Trades Academy ile sektör profesyonellerini bir araya getirecek.\n\nProgram, katılımcılara işe alım süreçlerini iyileştirme, personel adaptasyonu ve uzun vadeli çalışan bağlılığı konularında uygulamalı eğitimler sunacak. CEO Warrior'un CEO'su Scott August, \"Kaliteli insan kaynağı bulmak ve elde tutmak hala ev servis işletmelerinin en büyük zorluklarından biri\" açıklamasında bulundu. Eğitim programı, master danışmanlar Kevin Hill, Jason Noel ve Jackie Sponsler'ın rehberliğinde gerçekleştirilecek.\n\nTürkiye'de de HVAC ve ev servis sektörünün hızla büyümesiyle birlikte benzer insan kaynakları sorunları yaşanıyor. Sektör profesyonelleri, teknik bilgi gerektiren bu alanlarda kalifiye eleman eksikliği ve personel devir hızının yüksekliği gibi sorunlarla karşılaşıyor. Bu tür eğitim programlarının Türk HVAC sektörü için de örnek teşkil edebileceği değerlendiriliyor.",
-      "en": "CEO Warrior is launching a comprehensive training program to address one of the biggest challenges facing home service business owners: finding and retaining skilled employees. The company will bring together industry professionals at its Warrior Trades Academy scheduled for May 28-29 at its New Jersey headquarters.\n\nThe program will provide participants with hands-on training in improving recruitment processes, employee onboarding, and long-term staff engagement. CEO Warrior's Chief Executive Scott August stated, \"Finding and keeping quality human resources remains one of the biggest challenges for home service businesses.\" The training program will be conducted under the guidance of master advisors Kevin Hill, Jason Noel, and Jackie Sponsler.\n\nWith the rapid growth of the HVAC and home service sector in Turkey, similar human resources challenges are being experienced. Industry professionals face issues such as skilled labor shortages and high employee turnover rates in these technically demanding fields. Such training programs could serve as a model for the Turkish HVAC sector as well."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "HVAC sektörü profesyonellerinin eğitim aldığı konferans salonu",
-      "en": "Conference room where HVAC industry professionals receive training"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 12:50:02 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC eğitim",
-        "insan kaynakları",
-        "sektör gelişimi"
-      ],
-      "en": [
-        "HVAC training",
-        "human resources",
-        "industry development"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/ceo-warrior-empowers-home-service-contractors-to-build-stronger-teams-at-warrior-trades-academy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ceo-warrior-empowers-home-service-contractors-to-build-stronger-teams-at-warrior-trades-academy",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "navac-flex-1-digital-manifold-new-solution-for-hvac-technicians",
-    "slug": {
-      "tr": "navac-flex-1-dijital-manifold-hvac-teknisyenleri-icin-yeni-cozum",
-      "en": "navac-flex-1-digital-manifold-new-solution-for-hvac-technicians"
-    },
-    "title": {
-      "tr": "NAVAC Flex 1 Dijital Manifold: HVAC Teknisyenleri İçin Yeni Çözüm",
-      "en": "NAVAC Flex 1 Digital Manifold: New Solution for HVAC Technicians"
-    },
-    "excerpt": {
-      "tr": "NAVAC, kompakt tasarımı ve dijital hassasiyetiyle öne çıkan Flex 1 manifold cihazını HVAC teknisyenleri için tanıttı.",
-      "en": "NAVAC introduces Flex 1 manifold device featuring compact design and digital precision for HVAC technicians worldwide."
-    },
-    "content": {
-      "tr": "HVAC ekipmanları sektörünün önde gelen üreticisi NAVAC, teknisyenler için geliştirilmiş yeni nesil dijital manifold cihazı Flex 1'i piyasaya sürdü. Avuç içi boyutunda tasarlanan bu cihaz, geleneksel analog ölçüm aletlerini modern dijital teknoloji ile değiştirerek sahada çalışan profesyonellere kolaylık sunuyor.\n\nFlex 1, HD renkli grafik ekranı ve Sınıf 0.4 hassasiyet standardıyla gerçek zamanlı ölçüm imkanı sağlıyor. Cihazın özelleştirilebilir arayüzü altı farklı görsel tema seçeneği sunarak, kullanıcıların çalışma ortamlarına uygun ayarlar yapabilmesine olanak tanıyor. Dayanıklı alüminyum gövdesi darbe emici kauçuk koruma ve IP54 sertifikası ile zorlu saha koşullarına dayanacak şekilde üretilmiş. Tek düğme kontrolü ve çeyrek tur döner düğmeler sayesinde kullanımı oldukça basit tutulan cihaz, uzun süreli çalışma için şarj edilebilir bataryaya sahip.\n\nTürkiye HVAC sektöründe teknolojik dönüşümün hızlandığı bu dönemde, Flex 1 gibi kompakt ve hassas ölçüm cihazları yerel teknisyenlerin verimliliğini artıracak nitelikte. NAVAC Başkan Yardımcısı Keith Keller'ın belirttiği üzere, bu ürün modern teknisyenlerin ihtiyaç duyduğu hız, netlik ve sadeliği tek bir cihazda birleştiriyor.",
-      "en": "Leading HVAC equipment manufacturer NAVAC has launched Flex 1, a next-generation digital manifold device developed specifically for technicians. Designed with a palm-sized form factor, this device replaces traditional analog measurement tools with modern digital technology, offering convenience to field professionals.\n\nFlex 1 provides real-time measurement capabilities with its HD color graphic display and Class 0.4 accuracy standard. The device's customizable interface offers six different visual theme options, allowing users to make adjustments suitable for their working environments. Built with a durable aluminum body featuring impact-resistant rubber protection and IP54 certification to withstand demanding field conditions. With single-button control and quarter-turn knobs keeping operation simple, the device features a rechargeable battery for extended work periods.\n\nDuring this period when technological transformation is accelerating in the global HVAC sector, compact and precise measurement devices like Flex 1 are positioned to enhance technician productivity worldwide. As stated by NAVAC Vice President Keith Keller, this product combines the speed, clarity, and simplicity that modern technicians require in a single device."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "NAVAC Flex 1 kompakt dijital manifold cihazı HD ekran ve dayanıklı tasarımıyla",
-      "en": "NAVAC Flex 1 compact digital manifold device with HD display and rugged design"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 12:35:13 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC teknolojisi",
-        "dijital manifold",
-        "ölçüm cihazları",
-        "NAVAC",
-        "iklimlendirme"
-      ],
-      "en": [
-        "HVAC technology",
-        "digital manifold",
-        "measurement devices",
-        "NAVAC",
-        "air conditioning"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/navac-launches-flex-1-compact-digital-manifold/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=navac-launches-flex-1-compact-digital-manifold",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "coburn-supply-vp-christy-maloney-named-asa-woman-of-the-year-2026",
-    "slug": {
-      "tr": "coburn-supply-baskan-yardimcisi-christy-maloney-asa-yilin-kadini",
-      "en": "coburn-supply-vp-christy-maloney-named-asa-woman-of-the-year-2026"
-    },
-    "title": {
-      "tr": "Coburn Supply Başkan Yardımcısı Christy Maloney ASA Yılın Kadını",
-      "en": "Coburn Supply VP Christy Maloney Named ASA Woman of the Year 2026"
-    },
-    "excerpt": {
-      "tr": "ASA Alice A. Martin Yılın Kadını Ödülü'nü alan Christy Maloney, HVAC sektöründe kadın liderliğinin güçlü temsilcisi olarak öne çıkıyor.",
-      "en": "Christy Maloney receives ASA Alice A. Martin Woman of the Year Award, representing strong female leadership in HVAC industry advancement."
-    },
-    "content": {
-      "tr": "American Supply Association (ASA) tarafından verilen prestijli Alice A. Martin 2026 Yılın Kadını Ödülü'nün sahibi Coburn Supply şirketinin Başkan Yardımcısı Christy Maloney oldu. Bu onur, PHCP-PVF (tesisat, ısıtma, soğutma, boru ve vana) sektöründe olağanüstü liderlik sergileyen ve kadınların ilerlemesine katkıda bulunan profesyonellere veriliyor.\n\nMaloney'in aldığı bu ödül, HVAC ve tesisat sektöründe kadın temsiliyetinin artırılması konusundaki çabalarını takdir ediyor. Sektörde uzun yıllardır sürdürdüğü liderlik rolü ve endüstri üzerindeki etkisi, bu prestijli tanınırlığın temel gerekçelerini oluşturuyor. ASA'nın bu ödülü, sektörde cinsiyet eşitliğini destekleyen ve genç kadın profesyonellere mentor olan kişilere veriyor.\n\nTürkiye'de de HVAC sektöründe kadın liderliğinin güçlendirilmesi konusu giderek önem kazanırken, Maloney gibi öncü isimlerin başarıları sektörel inspirasyon kaynağı oluyor. Bu tür tanınırlıklar, Türk HVAC endüstrisinde de kadın profesyonellerin daha aktif roller üstlenmesi için motivasyon sağlayabilir ve sektörün gelişimine farklı perspektiflerle katkı sunabilir.",
-      "en": "Christy Maloney, Vice President at Coburn Supply, has been honored with the prestigious Alice A. Martin Woman of the Year 2026 Award by the American Supply Association (ASA). This distinguished recognition celebrates exceptional leadership in the PHCP-PVF (plumbing, heating, cooling, piping, and valves) sector while acknowledging contributions to advancing women's roles throughout the industry.\n\nThe award specifically highlights Maloney's remarkable leadership qualities and substantial impact within the HVAC and plumbing sectors. Her long-standing commitment to fostering industry growth and supporting female professionals has positioned her as a role model for emerging talent. The ASA presents this annual award to individuals who demonstrate outstanding dedication to promoting gender equality and mentoring the next generation of women in the field.\n\nAs the global HVAC industry continues evolving toward greater inclusivity, recognition of leaders like Maloney serves as an important benchmark for progress. Her achievement resonates beyond American markets, potentially inspiring similar initiatives in developing HVAC markets worldwide, including regions where female representation in technical sectors remains limited. Such recognition helps establish new standards for leadership development and industry advancement across international markets."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "ASA Alice A. Martin Yılın Kadını Ödülü töreni ve Christy Maloney",
-      "en": "ASA Alice A. Martin Woman of the Year Award ceremony with Christy Maloney"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 11:36:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC kadın liderleri",
-        "ASA ödülleri",
-        "tesisat sektörü",
-        "Coburn Supply",
-        "sektörel liderlik"
-      ],
-      "en": [
-        "HVAC women leaders",
-        "ASA awards",
-        "plumbing industry",
-        "Coburn Supply",
-        "industry leadership"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23315-coburn-supply-vice-president-christy-maloney-receives-2026-asa-alice-a-martin-woman-of-the-year-award",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "ppi-releases-new-guidelines-for-hydronic-snow-and-ice-melting-systems",
-    "slug": {
-      "tr": "ppi-hidronik-kar-ve-buz-eritme-sistemleri-icin-yeni-rehber-yayinladi",
-      "en": "ppi-releases-new-guidelines-for-hydronic-snow-and-ice-melting-systems"
-    },
-    "title": {
-      "tr": "PPI Hidronik Kar ve Buz Eritme Sistemleri İçin Yeni Rehber Yayınladı",
-      "en": "PPI Releases New Guidelines for Hydronic Snow and Ice Melting Systems"
-    },
-    "excerpt": {
-      "tr": "Plastik Boru Enstitüsü'nden yeni J Tavsiyesi, kar ve buz eritme uygulamaları için tasarımcılara rehberlik ediyor.",
-      "en": "New Recommendation J from Plastics Pipe Institute guides designers in selecting performance levels for snow melting applications."
-    },
-    "content": {
-      "tr": "Plastik Boru Enstitüsü (PPI), hidronik kar ve buz eritme sistemlerinin tasarımı için yeni bir rehber dokümantasyonu olan 'Tavsiye J'yi yayınladı. Bu kapsamlı kılavuz, tasarımcılar ve sistem belirleyicilerinin kar ve buz eritme uygulamaları için uygun performans seviyelerini seçmelerine yardımcı olmayı amaçlıyor.\n\nYeni rehber, hidronik sistemlerde kullanılan plastik borular için özelleştirilmiş tasarım kriterleri ve uygulama standartları sunuyor. Doküman, farklı iklim koşulları, yüzey tipleri ve kullanım alanlarına göre sistem performansının optimize edilmesi konusunda detaylı bilgiler içeriyor. Özellikle enerji verimliliği ve sistem dayanıklılığı açısından kritik parametreler üzerinde durulmuş durumda.\n\nTürkiye'de artan kış turizmi ve şehir planlaması ihtiyaçları göz önüne alındığında, bu yeni standartların yerli HVAC sektörü için önemli bir referans kaynağı olması bekleniyor. Kar ve buz eritme sistemleri, havalimanları, hastane girişleri ve ticari tesislerde güvenli geçiş sağlamak için giderek daha fazla tercih ediliyor. Bu rehberin Türk tasarımcılar tarafından benimsenesi, sektörde kalite standartlarının yükselmesine katkı sağlayabilir.",
-      "en": "The Plastics Pipe Institute (PPI) has released a new guidance document called 'Recommendation J' for the design of hydronic snow and ice melting systems. This comprehensive guide aims to assist designers and specifiers in selecting appropriate performance levels for various snow and ice melting applications.\n\nThe new recommendation provides specialized design criteria and application standards for plastic piping used in hydronic systems. The document includes detailed information on optimizing system performance based on different climate conditions, surface types, and usage areas. Particular emphasis is placed on critical parameters related to energy efficiency and system durability.\n\nGiven Turkey's growing winter tourism industry and urban planning needs, these new standards are expected to serve as an important reference source for the domestic HVAC sector. Snow and ice melting systems are increasingly preferred at airports, hospital entrances, and commercial facilities to ensure safe passage. The adoption of this guidance by Turkish designers could contribute to raising quality standards in the industry and improving system reliability in local applications."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Kar eritme sisteminde kullanılan hidronik borular ve sistem bileşenleri",
-      "en": "Hydronic piping and system components used in snow melting applications"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 10:48:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "hidronik sistemler",
-        "kar eritme",
-        "plastik boru",
-        "HVAC standartları",
-        "sistem tasarımı"
-      ],
-      "en": [
-        "hydronic systems",
-        "snow melting",
-        "plastic piping",
-        "HVAC standards",
-        "system design"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23313-ppi-issues-new-guidance-for-hydronic-snow-and-ice-melting-system-design",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "max-service-group-appoints-jim-morrow-as-vp-of-operations",
-    "slug": {
-      "tr": "max-service-group-jim-morrowu-operasyon-vpsi-olarak-atadi",
-      "en": "max-service-group-appoints-jim-morrow-as-vp-of-operations"
-    },
-    "title": {
-      "tr": "MAX Service Group, Jim Morrow'u Operasyon VP'si Olarak Atadı",
-      "en": "MAX Service Group Appoints Jim Morrow as VP of Operations"
-    },
-    "excerpt": {
-      "tr": "HVAC servis şirketi MAX Service Group, operasyonel mükemmellik için Jim Morrow'u Operasyon Başkan Yardımcısı olarak görevlendirdi.",
-      "en": "HVAC service company MAX Service Group appoints Jim Morrow as Vice President of Operations to drive operational excellence."
-    },
-    "content": {
-      "tr": "MAX Service Group, şirketin operasyonel verimliliğini artırmak ve müşteri hizmet kalitesini geliştirmek amacıyla Jim Morrow'u Operasyon Başkan Yardımcısı olarak atadığını duyurdu.\n\nYeni pozisyonunda Morrow, şirketin çeşitli operasyonel bileşenlerini yönetecek ve hem şirket büyümesini destekleyecek hem de müşteri memnuniyetini artıracak stratejiler geliştirecek. Bu atama, MAX Service Group'un HVAC sektöründeki konumunu güçlendirme hedefinin bir parçası olarak değerlendiriliyor.\n\nTürkiye HVAC sektörü açısından bakıldığında, uluslararası şirketlerin operasyonel yönetim alanındaki bu tür atamalar, yerel sektöre de ilham kaynağı oluyor. Özellikle müşteri odaklı hizmet anlayışının güçlendirilmesi ve operasyonel mükemmellik konularında Türk HVAC firmalarının da benzer yapılanmalara gittiği gözlemleniyor.",
-      "en": "MAX Service Group has announced the appointment of Jim Morrow as Vice President of Operations, aimed at enhancing the company's operational efficiency and improving customer service quality.\n\nIn his new role, Morrow will manage various operational components of the business and develop strategies that support company growth while increasing client satisfaction. This appointment is viewed as part of MAX Service Group's objective to strengthen its position in the HVAC sector.\n\nFrom the perspective of the Turkish HVAC industry, such operational management appointments by international companies serve as inspiration for the local sector. Turkish HVAC companies are increasingly adopting similar organizational structures, particularly focusing on strengthening customer-centric service approaches and operational excellence initiatives."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "HVAC sektörü yönetici ataması ve operasyonel stratejiler",
-      "en": "HVAC industry executive appointment and operational strategies"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 21 Apr 2026 09:53:00 -0400",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC yönetim",
-        "operasyonel mükemmellik",
-        "sektör atamalar",
-        "MAX Service Group",
-        "HVAC Türkiye"
-      ],
-      "en": [
-        "HVAC management",
-        "operational excellence",
-        "industry appointments",
-        "MAX Service Group",
-        "HVAC leadership"
-      ]
-    },
-    "sourceUrl": "https://www.phcppros.com/articles/23311-max-service-group-names-jim-morrow-vice-president-of-operations",
-    "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "aiir-products-and-airtelligence-partner-for-ai-powered-hvac-solutions",
-    "slug": {
-      "tr": "aiir-products-ve-airtelligencein-ai-destekli-hvac-ortakligi",
-      "en": "aiir-products-and-airtelligence-partner-for-ai-powered-hvac-solutions"
-    },
-    "title": {
-      "tr": "AIIR Products ve AirTelligence'ın AI Destekli HVAC Ortaklığı",
-      "en": "AIIR Products and AirTelligence Partner for AI-Powered HVAC Solutions"
-    },
-    "excerpt": {
-      "tr": "AI destekli HVAC çözümleri lideri AIIR Products, AirTelligence ile stratejik ortaklık kurarak otelcilik ve konut sektörlerine odaklandı.",
-      "en": "AI-powered HVAC leader AIIR Products forms strategic partnership with AirTelligence, targeting hospitality and residential sectors."
-    },
-    "content": {
-      "tr": "Yapay zeka destekli ısıtma ve soğutma çözümleri alanında öncü AIIR Products, hava kontrol sistemleri tedarikçisi AirTelligence ile stratejik ortaklık anlaşması imzaladı. Bu işbirliği, otelcilik, yüksek katlı konut projeleri, öğrenci yurtları ve yaşlı bakım tesisleri gibi büyüme potansiyeli yüksek sektörlere odaklanıyor.\n\nOrtaklık kapsamında her iki şirket, iç hava kalitesini artıran, enerji tüketimini azaltan ve konfor seviyesini yükselten entegre HVAC kontrol paketleri sunacak. 2012'den bu yana Amerika Birleşik Devletleri'nin güneybatı bölgesinde faaliyet gösteren AirTelligence, üreticiler, mühendisler ve mimari danışmanlarla işbirliği yaparak laboratuvar kalitesinde hava kontrol çözümleri sağlıyor.\n\nAIIR Holdings CEO'su Trevor Schick, yeni ortaklıkla ilgili yaptığı açıklamada, \"Ekibimiz yeni bölgelere genişlerken, ürünlerimizin dayandığı hassasiyet, güvenilirlik ve özen düzeyini sunan partnerlerle çalışmaya odaklanıyoruz\" dedi. Bu gelişme, Türkiye'deki HVAC sektörü için de önemli bir örnek teşkil ediyor; özellikle otel ve konut projelerinde AI destekli çözümlerin artan önemi dikkat çekiyor.",
-      "en": "Leading artificial intelligence-powered heating and cooling solutions provider AIIR Products has signed a strategic partnership agreement with air control systems supplier AirTelligence. This collaboration focuses on high-growth potential sectors including hospitality, high-rise residential projects, student dormitories, and senior care facilities.\n\nUnder the partnership, both companies will deliver integrated HVAC control packages that enhance indoor air quality, reduce energy consumption, and elevate comfort levels. Operating in the southwestern United States since 2012, AirTelligence collaborates with manufacturers, engineers, and architectural consultants to provide laboratory-quality air control solutions.\n\nTrevor Schick, CEO of AIIR Holdings, commented on the new partnership: \"As our team expands into new territories, we focus on working with partners who deliver the same level of precision, reliability, and care that our products are built upon.\" This development also serves as an important example for Turkey's HVAC sector, particularly highlighting the growing importance of AI-powered solutions in hotel and residential projects."
-    },
-    "category": "sektor-haberleri",
-    "categoryLabel": {
-      "tr": "Sektör Haberleri",
-      "en": "Industry News"
-    },
-    "image": "sektor-haberleri.svg",
-    "imageAlt": {
-      "tr": "Modern HVAC kontrol paneli ve yapay zeka teknolojisi görseli",
-      "en": "Modern HVAC control panel with artificial intelligence technology visualization"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 16 Apr 2026 12:51:59 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC teknolojisi",
-        "yapay zeka",
-        "enerji verimliliği",
-        "hava kalitesi",
-        "otelcilik sektörü"
-      ],
-      "en": [
-        "HVAC technology",
-        "artificial intelligence",
-        "energy efficiency",
-        "air quality",
-        "hospitality sector"
-      ]
-    },
-    "sourceUrl": "https://hvacinsider.com/aiir-products-partners-with-airtelligence-to-become-key-provider-for-hospitality-residential-and-senior-living-hvac-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aiir-products-partners-with-airtelligence-to-become-key-provider-for-hospitality-residential-and-senior-living-hvac-technology",
-    "sourceName": "HVAC Insider"
-  },
-  {
-    "id": "how-hvac-market-dynamics-change-after-competitor-acquisitions",
-    "slug": {
-      "tr": "rakip-firma-satin-alindiktan-sonra-hvac-sektorunde-ne-degisir",
-      "en": "how-hvac-market-dynamics-change-after-competitor-acquisitions"
-    },
-    "title": {
-      "tr": "Rakip Firma Satın Alındıktan Sonra HVAC Sektöründe Ne Değişir?",
-      "en": "How HVAC Market Dynamics Change After Competitor Acquisitions"
-    },
-    "excerpt": {
-      "tr": "Rakibinizin özel sermaye tarafından satın alınması sonrası 18 ay içinde deneyimli teknisyenler iş değiştirebilir. Hazır mısınız?",
-      "en": "When private equity acquires your competitor, experienced technicians often seek new opportunities within 18 months. Are you prepared?"
-    },
-    "content": {
-      "tr": "HVAC sektöründe özel sermaye şirketleri tarafından gerçekleştirilen satın almalar, pazar dinamiklerini köklü şekilde değiştiriyor ve rakip firmaların en değerli varlıkları olan deneyimli teknisyenlerin iş değiştirme eğilimini artırıyor.\n\nSatın alma süreçleri genellikle şirket kültüründe ciddi değişikliklere yol açar. Özel sermaye fonları genellikle maliyet optimizasyonu ve verimlilik artışı odaklı stratejiler benimser. Bu durum, mevcut çalışanların iş güvensizliği hissetmesine ve özellikle deneyimli teknisyenlerin yeni fırsatlar aramasına neden olur. Türkiye'de de benzer eğilimler gözlemleniyor; büyük HVAC firmalarının satın alınması sonrası kalifiye işgücünün rakip firmalara yöneldiği görülüyor.\n\nBu durumu fırsata çevirebilmek için HVAC şirketlerinin proaktif bir yaklaşım benimsemeleri gerekiyor. İnsan kaynakları departmanlarını güçlendirmek, rekabetçi maaş paketleri hazırlamak ve şirket kültürünü güçlendirmek kritik öneme sahip. Ayrıca, sektördeki gelişmeleri yakından takip eden firmalar, rakip şirketlerdeki değişimleri önceden öngörerek yetenekli çalışanları bünyelerine katabilir. Bu strateji, özellikle Türkiye'nin büyüyen HVAC pazarında rekabet avantajı sağlayabilir.",
-      "en": "Private equity acquisitions in the HVAC industry fundamentally reshape market dynamics and significantly increase the likelihood of experienced technicians seeking new employment opportunities at competing firms.\n\nAcquisition processes typically trigger substantial changes in corporate culture. Private equity funds generally adopt strategies focused on cost optimization and efficiency improvements. This situation causes existing employees to feel job insecurity, particularly leading experienced technicians to explore new opportunities. Similar trends are observed in Turkey, where qualified workforce tends to move to competing firms following acquisitions of major HVAC companies.\n\nTo transform this situation into an opportunity, HVAC companies need to adopt a proactive approach. Strengthening human resources departments, preparing competitive salary packages, and reinforcing company culture are of critical importance. Additionally, firms that closely monitor industry developments can anticipate changes in competitor companies and recruit talented employees. This strategy can provide competitive advantages, especially in Turkey's growing HVAC market."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "HVAC teknisyenleri ve sektörel değişim süreçlerini gösteren görsel",
-      "en": "Visual showing HVAC technicians and industry transformation processes"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Sat, 18 Apr 2026 19:07:02 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC sektörü",
-        "özel sermaye",
-        "insan kaynakları",
-        "teknisyen",
-        "satın alma"
-      ],
-      "en": [
-        "HVAC industry",
-        "private equity",
-        "human resources",
-        "technician",
-        "acquisition"
-      ]
-    },
-    "sourceUrl": "https://hvacknowitall.com/blog/what-happens-after-pe-buys-your-competitor-the-24-month-playbook",
-    "sourceName": "HVAC Know It All"
-  },
-  {
-    "id": "why-successful-hvac-business-owners-rise-from-field-experience",
-    "slug": {
-      "tr": "neden-en-basarili-hvac-sirket-sahipleri-sahadan-yetisir",
-      "en": "why-successful-hvac-business-owners-rise-from-field-experience"
-    },
-    "title": {
-      "tr": "Neden En Başarılı HVAC Şirket Sahipleri Sahadan Yetişir?",
-      "en": "Why Successful HVAC Business Owners Rise from Field Experience"
-    },
-    "excerpt": {
-      "tr": "MBA mezunu HVAC şirketi satın aldı, 2 yıl sonra teknisyenler şirketin ruhunu kaybettiğini söyledi. Saha deneyiminin önemi.",
-      "en": "MBA graduate bought HVAC company, techs said it lost its soul after 2 years. Why field experience matters in HVAC business leadership."
-    },
-    "content": {
-      "tr": "HVAC sektöründe en başarılı şirket sahiplerinin ortak özelliği, işe sahadan başlamış olmalarıdır ve bu durum tesadüf değildir. Son yıllarda yaşanan bir olay, bu gerçeği açık şekilde gözler önüne sermiştir: MBA diplomasına sahip bir girişimci bir HVAC şirketini satın almış, ancak iki yıl sonra teknisyenler şirketin 'ruhunu kaybettiğini' ifade etmişlerdir.\n\nSaha deneyimi olmayan yöneticiler, müşteri ihtiyaçlarını tam olarak anlayamaz ve teknisyenlerin karşılaştığı zorlukları kavrayamazlar. Bir klima sisteminin kurulumu sırasında ortaya çıkan beklenmedik sorunlar, eski binaların altyapı zorlukları veya acil servis çağrılarındaki stres, ancak sahada çalışmış kişiler tarafından gerçek anlamıyla anlaşılabilir. Bu deneyim eksikliği, yanlış kararlar, personel memnuniyetsizliği ve müşteri kaybına yol açar.\n\nTürkiye'de HVAC sektörü hızla büyürken, özellikle enerji verimliliği ve akıllı bina sistemlerine geçiş döneminde, saha deneyimi olan liderlerin önemi daha da artmaktadır. Teknisyenlerle aynı dili konuşabilen, sorunları pratik çözümlerle ele alabilen ve sektörün teknik gereksinimlerini bilen yöneticiler, hem çalışan sadakati hem de müşteri memnuniyeti açısından rekabet avantajı sağlamaktadır. Bu nedenle HVAC şirketi satın almayı düşünen yatırımcılar, saha deneyimi olan ortaklar veya danışmanlarla çalışmayı göz önünde bulundurmalıdır.",
-      "en": "The most successful HVAC business owners share a common trait: they started from the field, and this is no coincidence. A recent incident clearly demonstrates this reality: an MBA graduate purchased an HVAC company, but after two years, technicians said the company had 'lost its soul'.\n\nManagers without field experience cannot fully understand customer needs or grasp the challenges technicians face daily. Unexpected problems during air conditioning installations, infrastructure difficulties in old buildings, or stress during emergency service calls can only be truly understood by those who have worked in the field. This lack of experience leads to wrong decisions, employee dissatisfaction, and customer loss.\n\nAs Turkey's HVAC sector grows rapidly, especially during the transition to energy efficiency and smart building systems, the importance of leaders with field experience becomes even more critical. Managers who can speak the same language as technicians, handle problems with practical solutions, and understand the technical requirements of the industry provide competitive advantages in both employee loyalty and customer satisfaction. Therefore, investors considering HVAC company acquisitions should consider working with partners or consultants who have field experience."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Sahada çalışan deneyimli HVAC teknisyeni ve yöneticisi",
-      "en": "Experienced HVAC technician and manager working in the field"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Tue, 14 Apr 2026 11:20:52 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "HVAC yönetimi",
-        "saha deneyimi",
-        "işletme liderliği",
-        "teknisyen memnuniyeti",
-        "sektör uzmanlığı"
-      ],
-      "en": [
-        "HVAC management",
-        "field experience",
-        "business leadership",
-        "technician satisfaction",
-        "industry expertise"
-      ]
-    },
-    "sourceUrl": "https://hvacknowitall.com/blog/why-the-best-hvac-business-owners-started-in-the-field",
-    "sourceName": "HVAC Know It All"
   }
 ]
