@@ -1,5 +1,260 @@
 [
   {
+    "id": "panasonics-ai-powered-hvac-system-achieves-28-energy-savings",
+    "slug": {
+      "tr": "panasonicin-ai-destekli-hvac-sistemi-enerji-tasarrufunda-cigir-acti",
+      "en": "panasonics-ai-powered-hvac-system-achieves-28-energy-savings"
+    },
+    "title": {
+      "tr": "Panasonic'in AI Destekli HVAC Sistemi Enerji Tasarrufunda Çığır Açtı",
+      "en": "Panasonic's AI-Powered HVAC System Achieves 28% Energy Savings"
+    },
+    "excerpt": {
+      "tr": "Panasonic'in bulut tabanlı AI iklimlendirme sistemi, 7-Eleven mağazalarında %28 enerji tasarrufu sağladı.",
+      "en": "Panasonic's cloud-based AI HVAC system delivers 28% energy savings in 7-Eleven stores across Japan."
+    },
+    "content": {
+      "tr": "Panasonic'in geliştirdiği yapay zeka destekli HVAC Cloud IoT sistemi, Japonya'daki 33 7-Eleven mağazasında iklimlendirme enerji tüketiminde %28,1'e varan tasarruf sağlamayı başardı. Bu başarılı uygulama, Türkiye'deki perakende sektörü ve HVAC endüstrisi için önemli bir örnek teşkil ediyor.\n\nSistem, bulut tabanlı IoT teknolojisi kullanarak klima ekipmanlarının uzaktan yönetimini ve AI kontrolü ile enerji tasarrufu sağlıyor. Panasonic'in özel yapay zeka algoritması, tesis bilgileri, dış hava sıcaklığı ve hava durumu gibi çevresel faktörleri öğrenerek, her mağazanın durumuna göre otomatik sıcaklık kontrolü yapıyor. 33 mağazada yıllık yaklaşık 84 ton CO2 emisyonu azaltımı bekleniyor.\n\nEylül 2023-Ekim 2024 döneminde Kanto bölgesindeki iki 7-Eleven mağazasında yapılan pilot çalışma, sistemin etkinliğini kanıtladı. 7-Eleven Japan'ın toplam operasyonel CO2 emisyonlarının %90'ının mağaza elektrik tüketiminden kaynaklandığı ve bunun %21'inin iklimlendirme sistemlerinden geldiği düşünüldüğünde, bu teknolojinin Türkiye'deki zincir mağazalar için de büyük potansiyel taşıdığı görülüyor. Türk HVAC sektörünün dijital dönüşümü için bu tür akıllı sistemlerin yaygınlaşması kritik önem taşıyor.",
+      "en": "Panasonic's AI-powered HVAC Cloud IoT system has successfully achieved up to 28.1% reduction in air conditioning energy consumption across 33 7-Eleven stores in Japan. This groundbreaking implementation demonstrates the potential of intelligent climate control systems in commercial retail environments worldwide.\n\nThe cloud-based IoT service enables remote management of air conditioning equipment through advanced AI control algorithms. Panasonic's proprietary artificial intelligence learns from facility information, external environmental factors including outdoor temperatures and weather conditions, as well as user remote control patterns. The system automatically adjusts temperature settings to energy-efficient levels based on each store's specific situation, successfully balancing comfort with energy conservation.\n\nA pilot project conducted from September 2023 to October 2024 at two 7-Eleven stores in the Kanto region validated the system's effectiveness with the 28.1% energy reduction. The 33 stores implementing HVAC Cloud are projected to achieve an annual CO2 emission reduction of approximately 84 tons. Given that roughly 90% of 7-Eleven Japan's operational CO2 emissions stem from in-store electricity consumption, with air conditioning accounting for 21%, this technology represents a significant step toward sustainable retail operations and sets a benchmark for global HVAC industry innovation."
+    },
+    "category": "iklimlendirme",
+    "categoryLabel": {
+      "tr": "İklimlendirme",
+      "en": "Air Conditioning"
+    },
+    "image": "iklimlendirme.svg",
+    "imageAlt": {
+      "tr": "Panasonic HVAC Cloud IoT sistemi ile donatılmış modern 7-Eleven mağaza iç mekanı",
+      "en": "Modern 7-Eleven store interior equipped with Panasonic HVAC Cloud IoT system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sat, 25 Apr 2026 10:24:00 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC",
+        "Yapay Zeka",
+        "Enerji Tasarrufu",
+        "IoT Sistemler",
+        "Akıllı İklimlendirme"
+      ],
+      "en": [
+        "HVAC",
+        "Artificial Intelligence",
+        "Energy Savings",
+        "IoT Systems",
+        "Smart Climate Control"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/panasonics-hvac-cloud-iot-set-to-save/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "crane-bsu-employees-launch-strike-for-better-pay-conditions",
+    "slug": {
+      "tr": "crane-bsu-calisanlari-maas-zammi-icin-greve-gidiyor",
+      "en": "crane-bsu-employees-launch-strike-for-better-pay-conditions"
+    },
+    "title": {
+      "tr": "Crane BS&U Çalışanları Maaş Zammı İçin Greve Gidiyor",
+      "en": "Crane BS&U Employees Launch Strike for Better Pay Conditions"
+    },
+    "excerpt": {
+      "tr": "İngiliz akış kontrol üreticisi Crane'de çalışanlar maaş artışı talebiyle 2 haftalık greve başladı. HVAC sektöründe işçi hakları tartışması.",
+      "en": "Workers at UK flow control manufacturer Crane initiate 2-week strike over pay disputes. Labor rights debate emerges in HVAC industry."
+    },
+    "content": {
+      "tr": "İngiltere merkezli akış kontrol ürünleri üreticisi Crane Building Services & Utilities'te çalışan yüzden fazla işçi, maaş artışı talepleri karşılanmadığı gerekçesiyle greve çıktı. GMB sendikası üyeleri, 28 Mayıs Salı gününden başlayarak 7 Haziran Cuma gününe kadar toplam iki hafta süreyle iş bırakma eylemi gerçekleştirecek.\n\nGrev kararı, çalışanların %84'ünün lehte oy kullanmasıyla alındı. GMB bölgesel organizatörü Andre Marques, işçilerin şirket tarafından değersiz hissettiklerini ve deneyimlerinin takdir edilmediğini sürekli dile getirdiklerini belirtti. Marques, \"Bunlar Crane BS&U için büyük değer yaratan son derece yetenekli çalışanlardır ve adil bir şekilde ücretlendirilmeyi hak ediyorlar\" açıklamasında bulundu.\n\nBu grev, son iki yıl içinde Crane BS&U çalışanlarının maaş konusunda düzenlediği ikinci eylem olma özelliği taşıyor. Türkiye'de de benzer tartışmaların yaşandığı HVAC sektöründe, nitelikli işgücünün korunması ve adil ücretlendirme konuları gündemde. Şirket yetkilileri henüz konu hakkında bir açıklama yapmadı.",
+      "en": "More than one hundred employees at UK-based flow control manufacturer Crane Building Services & Utilities have initiated strike action demanding improved salary conditions. GMB union members will conduct a work stoppage for two consecutive weeks, commencing Tuesday, May 28th, and continuing through Friday, June 7th.\n\nThe strike decision was approved with an overwhelming 84% majority vote from the workforce. GMB regional organizer Andre Marques stated that union members consistently express feeling undervalued by management and believe their professional expertise lacks proper recognition. \"These are exceptionally skilled professionals who generate significant value for Crane BS&U and deserve equitable compensation,\" Marques emphasized in his statement.\n\nThis industrial action marks the second labor dispute at Crane BS&U within a two-year period, highlighting ongoing tensions over compensation issues. The situation reflects broader industry challenges regarding skilled workforce retention and fair wage practices that are also emerging in similar markets globally, including Turkey's expanding HVAC sector. Company representatives have not yet issued any official response to the strike announcement."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "Crane Building Services fabrikası önünde grev yapan HVAC sektörü çalışanları",
+      "en": "HVAC industry workers striking outside Crane Building Services facility"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sat, 25 Apr 2026 07:29:11 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "HVAC grevi",
+        "Crane Building Services",
+        "işçi hakları",
+        "maaş artışı",
+        "akış kontrol"
+      ],
+      "en": [
+        "HVAC strike",
+        "Crane Building Services",
+        "worker rights",
+        "pay increase",
+        "flow control"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/uk-news/crane-workers-to-strike-over-pay/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "ashrae-turkey-student-event-industry-university-partnership",
+    "slug": {
+      "tr": "ashrae-turkiye-ogrenci-etkinligi-sektor-universite-isbirligi",
+      "en": "ashrae-turkey-student-event-industry-university-partnership"
+    },
+    "title": {
+      "tr": "ASHRAE Türkiye Öğrenci Etkinliği: Sektör-Üniversite İşbirliği",
+      "en": "ASHRAE Turkey Student Event: Industry-University Partnership"
+    },
+    "excerpt": {
+      "tr": "ASHRAE Turkish Chapter, İstanbul'daki önemli üniversitelerden öğrencileri sektör profesyonelleriyle buluşturdı.",
+      "en": "ASHRAE Turkish Chapter brought together students from major Istanbul universities with industry professionals."
+    },
+    "content": {
+      "tr": "ASHRAE Turkish Chapter, Türkiye'nin HVAC sektörünün gelecekteki mühendisleriyle sektör deneyimlilerini bir araya getiren önemli bir etkinlik düzenledi. İstanbul Teknik Üniversitesi, Yıldız Teknik Üniversitesi, Marmara Üniversitesi, İstanbul Üniversitesi ve Arel Üniversitesi'nden ASHRAE üyesi öğrenciler, sponsor firmalar ve sektör profesyonelleriyle bir araya geldi. Etkinliğin koordinasyonunu S&P AFS Havalandırma Sistemleri Fabrika Müdürü Bahadırhan Tari gerçekleştirdi.\n\nTürkiye Odalar ve Borsalar Birliği İklimlendirme Meclisi Başkanı Zeki Poyraz'ın açılış sunumu, etkinliğin temel taşını oluşturdu. Poyraz sunumunda iklimlendirme endüstrisinin Türkiye ekonomisindeki kritik rolü, sektörün faaliyet çevresi ve gelecekteki istihdam fırsatları hakkında detaylı değerlendirmelerde bulundu. S&P AFS'den İbrahim Aykol ise katılımcılara ASHRAE organizasyonunun yapısı, süreçleri ve mesleki gelişim imkanları konularında kapsamlı bilgiler aktardı.\n\nProgramın panel bölümünde Zeki Poyraz, Zeki Özen, Mehmet Zahid Poyraz, Onur Şenel ve Pınar Gürler'in katılımıyla interaktif bir oturum gerçekleşti. Bu bölümde öğrenciler, sektör uzmanlarına doğrudan sorular yönelterek kariyer planlamaları için değerli içgörüler elde ettiler. Bu tür etkinlikler, Türkiye'nin HVAC sektöründeki insan kaynağı kalitesinin artırılması ve üniversite-sanayi işbirliğinin güçlendirilmesi açısından büyük önem taşıyor.",
+      "en": "ASHRAE Turkish Chapter organized a significant event that connected future engineers of Turkey's HVAC sector with industry veterans. Students who are ASHRAE members from Istanbul Technical University, Yildiz Technical University, Marmara University, Istanbul University, and Arel University gathered with sponsor companies and sector professionals. The event coordination was handled by Bahadırhan Tari, Factory Manager at S&P AFS Ventilation Systems.\n\nThe opening presentation by Zeki Poyraz, Chairman of the Turkey Air Conditioning Council at the Union of Chambers and Commodity Exchanges of Turkey, formed the cornerstone of the event. In his presentation, Poyraz provided detailed assessments about the critical role of the air conditioning industry in Turkey's economy, the sector's operational scope, and future employment opportunities. Ibrahim Aykol from S&P AFS provided comprehensive information to participants about ASHRAE's organizational structure, processes, and professional development opportunities.\n\nThe program's panel section featured an interactive session with the participation of Zeki Poyraz, Zeki Özen, Mehmet Zahid Poyraz, Onur Şenel, and Pınar Gürler. During this section, students directly addressed questions to industry experts, gaining valuable insights for their career planning. Such events are of great importance for improving the quality of human resources in Turkey's HVAC sector and strengthening university-industry collaboration."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "ASHRAE Turkish Chapter etkinliğinde öğrenciler ve sektör profesyonellerinin panel tartışması",
+      "en": "Panel discussion between students and industry professionals at ASHRAE Turkish Chapter event"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sat, 25 Apr 2026 12:51:23 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "ASHRAE",
+        "HVAC eğitimi",
+        "sektör-üniversite işbirliği",
+        "iklimlendirme",
+        "mühendislik öğrencileri"
+      ],
+      "en": [
+        "ASHRAE",
+        "HVAC education",
+        "industry-university collaboration",
+        "air conditioning",
+        "engineering students"
+      ]
+    },
+    "sourceUrl": "https://airnewsturkey.com/2026/04/ashrae-turkish-chapter-gelecegin-muhendisleri-ile-bulustu/",
+    "sourceName": "AirNewsTurkey"
+  },
+  {
+    "id": "geberit-merges-water-technology-with-art-at-milan-design-week-2026",
+    "slug": {
+      "tr": "geberit-milan-design-week-2026da-su-teknolojisini-sanatla-bulusturuyor",
+      "en": "geberit-merges-water-technology-with-art-at-milan-design-week-2026"
+    },
+    "title": {
+      "tr": "Geberit, Milan Design Week 2026'da Su Teknolojisini Sanatla Buluşturuyor",
+      "en": "Geberit Merges Water Technology with Art at Milan Design Week 2026"
+    },
+    "excerpt": {
+      "tr": "İsviçreli sıhhi tesisat şirketi Geberit, Milano'da açacağı deneyim merkezinde su akışını sanatsal enstalasyonla yorumlayacak.",
+      "en": "Swiss sanitary technology leader Geberit will interpret water flow through artistic installation at its new Milan experience center."
+    },
+    "content": {
+      "tr": "Küresel sıhhi tesisat teknolojileri lideri Geberit, 2026 yılının Nisan ayında düzenlenecek Milan Design Week'te su yönetimi uzmanlığını yaratıcı bir perspektifle sunmaya hazırlanıyor. İsviçreli şirket, Milano Tortona Bölgesi'nde kuracağı yeni deneyim merkezinde, su akışının teknik boyutunu tasarım ve sanatla harmanlayan RŌS isimli özel bir enstalasyonu ziyaretçilerle buluşturacak.\n\nAtelier Oï tasarım stüdyosuyla gerçekleştirilen bu işbirliği, 300 adet ince paslanmaz çelik yay kullanılarak oluşturulan interaktif bir yapı ortaya çıkarıyor. Enstalasyonda su damlaları, önceden programlanmış rotalar izleyerek farklı hızlarda hareket ediyor ve ziyaretçilere su dinamiklerinin görsel bir temsilini sunuyor. \"Flow.Form.Function\" konsepti altında şekillenen proje, Geberit'in \"Mastering Water\" felsefesini uluslararası tasarım camiasına tanıtmayı hedefliyor.\n\nBu yenilikçi sunum, Türkiye'deki HVAC ve sıhhi tesisat sektörü için de önemli gelişmelere işaret ediyor. Geberit'in teknoloji ve tasarım odaklı yaklaşımı, yerel sektör oyuncularının su verimliliği ve sürdürülebilir bina teknolojileri konularında yeni çözümler geliştirmesine ilham kaynağı olabilir. Milan'daki bu sergi, aynı zamanda akıllı bina sistemleri ve su yönetimi teknolojilerinin gelecekteki eğilimlerini de önceden göstermesi açısından sektör profesyonelleri için değerli bir referans niteliği taşıyor.",
+      "en": "Global sanitary technology leader Geberit is preparing to showcase its water management expertise through a creative lens at Milan Design Week, scheduled for April 2026. The Swiss company will present RŌS, a unique installation that blends the technical aspects of water flow with design and art, at its new experience center in Milan's Tortona District.\n\nThis collaboration with design studio Atelier Oï has created an interactive structure using 300 thin stainless steel springs. The installation features water droplets following pre-programmed routes at varying speeds, offering visitors a visual representation of water dynamics. Developed under the \"Flow.Form.Function\" concept, the project aims to introduce Geberit's \"Mastering Water\" philosophy to the international design community.\n\nThis innovative presentation signals important developments for Turkey's HVAC and plumbing sector as well. Geberit's technology and design-focused approach could inspire local industry players to develop new solutions in water efficiency and sustainable building technologies. The Milan exhibition also serves as a valuable reference for sector professionals, providing insights into future trends in smart building systems and water management technologies."
+    },
+    "category": "havalandirma",
+    "categoryLabel": {
+      "tr": "Havalandırma",
+      "en": "Ventilation"
+    },
+    "image": "havalandirma.svg",
+    "imageAlt": {
+      "tr": "Geberit RŌS enstalasyonu - paslanmaz çelik yaylar üzerinde su damlalarının hareketi",
+      "en": "Geberit RŌS installation - water droplets moving across stainless steel springs"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Tue, 21 Apr 2026 14:15:05 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "Milan Design Week",
+        "Su teknolojisi",
+        "HVAC sektörü",
+        "Sıhhi tesisat",
+        "Sürdürülebilir tasarım"
+      ],
+      "en": [
+        "Milan Design Week",
+        "Water technology",
+        "HVAC industry",
+        "Plumbing systems",
+        "Sustainable design"
+      ]
+    },
+    "sourceUrl": "https://sogutmadunyasi.com/geberit-milan-design-weekte-suyun-akisini-tasarim-ve-muhendislikle-yeniden-yorumluyor/",
+    "sourceName": "Soğutma Dünyası"
+  },
+  {
+    "id": "dogu-iklimlendirme-hosts-defense-industry-technology-days-event",
+    "slug": {
+      "tr": "dogu-iklimlendirme-savunma-sanayi-teknoloji-gunleri-duzenledi",
+      "en": "dogu-iklimlendirme-hosts-defense-industry-technology-days-event"
+    },
+    "title": {
+      "tr": "Doğu İklimlendirme Savunma Sanayi Teknoloji Günleri Düzenledi",
+      "en": "Doğu İklimlendirme Hosts Defense Industry Technology Days Event"
+    },
+    "excerpt": {
+      "tr": "Doğu İklimlendirme, Ankara'da düzenlediği teknoloji günlerinde savunma sanayi temsilcileriyle bir araya geldi ve sektörel çözümlerini tanıttı.",
+      "en": "Doğu İklimlendirme brought together defense industry representatives in Ankara, showcasing sectoral solutions at their technology days event."
+    },
+    "content": {
+      "tr": "Türkiye'nin önde gelen iklimlendirme şirketlerinden Doğu İklimlendirme, savunma sanayi sektörüne yönelik özel bir teknoloji buluşması gerçekleştirdi. Ankara Latanya Otel'de düzenlenen etkinlik, savunma sanayi kuruluşları ile proje geliştiren firmaları aynı çatı altında topladı.\n\nİç Anadolu ve Karadeniz Bölge Satış Uzmanı Yusuf Ziya Sandalcı'nın yönetiminde yapılan buluşmada, şirketin teknolojik vizyonu ve farklı endüstrilere yönelik çözüm portföyü detaylarıyla sunuldu. Etkinlik, özellikle savunma sanayinin hassas iklimlendirme ihtiyaçlarına odaklanarak, sektörel uzmanlığın paylaşımına olanak sağladı.\n\nGün boyu devam eden teknik sunumlar ve interaktif oturumlar, Türkiye'nin savunma sanayi ekosisteminde faaliyet gösteren firmaların bilgi birikimini artırmayı hedefledi. Bu tür sektörel buluşmalar, yerli savunma sanayinin teknolojik kapasitesinin geliştirilmesi açısından kritik önem taşıyor ve firma işbirlikleri için yeni fırsatlar yaratıyor.",
+      "en": "Doğu İklimlendirme, one of Turkey's leading HVAC companies, organized a specialized technology meeting targeting the defense industry sector. The event held at Ankara Latanya Hotel brought together defense industry organizations and project development companies under one roof.\n\nUnder the management of Inner Anatolia and Black Sea Regional Sales Specialist Yusuf Ziya Sandalcı, the meeting presented the company's technological vision and solution portfolio for different industries in detail. The event specifically focused on the sensitive HVAC needs of the defense industry, enabling the sharing of sectoral expertise.\n\nAll-day technical presentations and interactive sessions aimed to enhance the knowledge base of companies operating within Turkey's defense industry ecosystem. Such sectoral meetings are critically important for developing the technological capacity of the domestic defense industry and create new opportunities for corporate collaborations."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Doğu İklimlendirme teknoloji günleri etkinliğinde savunma sanayi temsilcilerinin bir araya geldiği konferans salonu",
+      "en": "Conference hall where defense industry representatives gathered at Doğu İklimlendirme technology days event"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Wed, 22 Apr 2026 22:50:46 +0300",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "savunma sanayi",
+        "iklimlendirme teknolojisi",
+        "sektörel buluşma",
+        "HVAC çözümleri",
+        "teknoloji günleri"
+      ],
+      "en": [
+        "defense industry",
+        "HVAC technology",
+        "industry meeting",
+        "climate solutions",
+        "technology days"
+      ]
+    },
+    "sourceUrl": "https://enerjivetesisat.com/tesisat/hvac/12295-dogu-iklimlendirme-teknoloji-guenleri-etkinligi-ile-savunma-sanayine-yoenelik-bulusma",
+    "sourceName": "Enerji ve Tesisat"
+  },
+  {
     "id": "basement-insulation-upgrade-options-climate-zone-5a-guide",
     "slug": {
       "tr": "bodrum-yalitimi-yukseltme-secenekleri-iklim-bolgesi-5a-rehberi",
@@ -29,7 +284,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Sat, 25 Apr 2026 01:46:18 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2293,260 +2548,5 @@
     },
     "sourceUrl": "https://airnewsturkey.com/2026/04/savunma-sanayi-sektor-temsilcileri-ve-proje-firmalarini-ankarada-bulusturan-organizasyon-dogu-iklimlendirme-teknoloji-gunleri/",
     "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "wilo-showcases-water-technologies-at-krohne-academy-seminars",
-    "slug": {
-      "tr": "wilo-krohne-academy-ile-su-teknolojilerini-sektore-tanitti",
-      "en": "wilo-showcases-water-technologies-at-krohne-academy-seminars"
-    },
-    "title": {
-      "tr": "Wilo, KROHNE Academy ile Su Teknolojilerini Sektöre Tanıttı",
-      "en": "Wilo Showcases Water Technologies at KROHNE Academy Seminars"
-    },
-    "excerpt": {
-      "tr": "Sürdürülebilir su teknolojileri lideri Wilo, Ankara ve Manisa'daki etkinliklerde 500 profesyonelle buluştu.",
-      "en": "Water technology leader Wilo met with 500 professionals at events in Ankara and Manisa, showcasing sustainable solutions."
-    },
-    "content": {
-      "tr": "Akıllı su teknolojilerinde öncü konumundaki Wilo, 13. KROHNE Academy seminer serisi kapsamında Türkiye'de iki önemli şehirde sektör temsilcileriyle bir araya geldi. KROHNE, SAMSON Group ve Phoenix Contact ortaklığında gerçekleştirilen etkinliklerde, toplam 500 civarında mühendis ve teknik uzmanla buluşan şirket, enerji verimliliği odaklı çözümlerini paylaştı.\n\nAnkara'da düzenlenen seminerde Wilo, özellikle kamu kurumları ve su yönetimi otoritelerini hedefleyen içerikler sundu. Atık su tesislerinde karşılaşılan operasyonel zorlukları çözen yenilikçi pompa sistemleri ve bu teknolojilerin otomasyon altyapısıyla nasıl entegre edilebileceği konularında detaylı bilgiler verildi. Şirket temsilcileri, su kaynaklarının korunmasında modern tasarım yaklaşımlarının kritik rolünü gerçek proje örnekleriyle destekleyerek açıkladı.\n\nManisa ayağında ise odak noktası endüstriyel tesislerde operasyonel mükemmellik oldu. Wilo uzmanları, sanayi tesislerinin enerji giderlerini optimize eden ve sistem performansını artıran pompa seçim stratejilerini katılımcılarla paylaştı. Bu tür etkinlikler, Türkiye'nin artan su yönetimi ihtiyaçlarına karşı sektörün teknik kapasitesini güçlendirme açısından büyük önem taşıyor.",
-      "en": "Leading smart water technology company Wilo connected with industry representatives in two major Turkish cities as part of the 13th KROHNE Academy seminar series. The events, organized in partnership with KROHNE, SAMSON Group, and Phoenix Contact, brought together approximately 500 engineers and technical specialists, where the company shared its energy efficiency-focused solutions.\n\nAt the Ankara seminar, Wilo presented content specifically targeting public institutions and water management authorities. Detailed information was provided on innovative pump systems that solve operational challenges in wastewater facilities and how these technologies can be integrated with automation infrastructure. Company representatives explained the critical role of modern design approaches in water resource protection, supporting their presentations with real project examples.\n\nThe Manisa session focused on operational excellence in industrial facilities. Wilo experts shared pump selection strategies that optimize energy costs for industrial plants and enhance system performance. Such events hold significant importance for strengthening the technical capacity of Turkey's sector in response to the country's growing water management needs."
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Wilo KROHNE Academy seminerinde teknik sunumlara katılan mühendisler",
-      "en": "Engineers attending technical presentations at Wilo KROHNE Academy seminar"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 22 Apr 2026 22:42:30 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "su teknolojileri",
-        "enerji verimliliği",
-        "pompa sistemleri",
-        "atık su yönetimi",
-        "endüstriyel otomasyon"
-      ],
-      "en": [
-        "water technologies",
-        "energy efficiency",
-        "pump systems",
-        "wastewater management",
-        "industrial automation"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/wilo-krohne-academy-seminerleri-ile-ankara-ve-manisada-sektor-profesyonelleriyle-bulustu/",
-    "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "imbat-develops-architecture-specific-cooling-solutions-for-data-centers",
-    "slug": {
-      "tr": "imbat-veri-merkezi-sogutmasi-icin-mimari-ozel-cozumler-gelistiriyor",
-      "en": "imbat-develops-architecture-specific-cooling-solutions-for-data-centers"
-    },
-    "title": {
-      "tr": "İmbat Veri Merkezi Soğutması İçin Mimari-Özel Çözümler Geliştiriyor",
-      "en": "İmbat Develops Architecture-Specific Cooling Solutions for Data Centers"
-    },
-    "excerpt": {
-      "tr": "İmbat, veri merkezlerinin farklı mimari yapılarına özgü dört farklı soğutma teknolojisi sunarak sektörde öne çıkıyor.",
-      "en": "İmbat stands out in the sector by offering four different cooling technologies specific to various data center architectures."
-    },
-    "content": {
-      "tr": "Türkiye'nin önemli HVAC üreticilerinden İmbat, veri merkezlerinin artan enerji yoğunluğu ve farklı mimari gereksinimlerine yönelik özelleştirilmiş soğutma sistemleri geliştirerek sektörde fark yaratıyor. Şirket, standart ürün tedarikçisi olmaktan öte, her projenin kendine özgü ihtiyaçlarını analiz eden mühendislik çözüm ortağı rolünü benimsiyor.\n\nİmbat'ın geliştirdiği çözümler dört ana kategoride toplanıyor. In-Room sistemleri, 6-150 kW kapasitesi ile genel hacim kontrolü sağlarken, EC fan teknolojisi ve çift akışkanlı modelleriyle kesintisiz operasyon garantisi sunuyor. Orta ve yüksek yoğunluklu tesisler için In-Row üniteleri, sunucu sıralarının arasına konumlandırılarak hava yollarını kısaltıyor ve fan enerji tüketimini minimize ederken sıcak nokta problemini çözüyor.\n\nYapay zeka ve GPU tabanlı sistemlerin yaygınlaşmasıyla birlikte kabinet başına düşen ısı yüklerinin kritik seviyelere çıkması, daha gelişmiş çözümleri gerekli kılıyor. Bu durumda İmbat'ın RDHx (Rear Door Heat Exchanger) ve In-Rack teknolojileri devreye giriyor. RDHx sistemi kabinet arka kapağına entegre likit soğutma serpantiniyle ortamı termal nötr hale getirirken, In-Rack çözümleri özellikle Edge Computing uygulamalarında dış koşullardan bağımsız izole çalışma imkanı sağlıyor.",
-      "en": "İmbat, one of Turkey's leading HVAC manufacturers, is making a significant impact in the sector by developing customized cooling systems for the increasing energy density and diverse architectural requirements of data centers. The company adopts the role of an engineering solution partner that analyzes each project's unique needs, going beyond being a standard product supplier.\n\nİmbat's solutions are organized into four main categories. In-Room systems provide general volume control with 6-150 kW capacity while offering uninterrupted operation guarantee through EC fan technology and dual fluid models. For medium and high-density facilities, In-Row units are positioned between server rows, shortening air paths and minimizing fan energy consumption while solving hot spot problems.\n\nThe proliferation of artificial intelligence and GPU-based systems has brought heat loads per cabinet to critical levels, necessitating more advanced solutions. In this case, İmbat's RDHx (Rear Door Heat Exchanger) and In-Rack technologies come into play. The RDHx system makes the environment thermally neutral through liquid cooling coils integrated into the cabinet rear door, while In-Rack solutions provide isolated operation independent of external conditions, especially in Edge Computing applications."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "İmbat veri merkezi soğutma sistemleri ve In-Row üniteleri",
-      "en": "İmbat data center cooling systems and In-Row units"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 22 Apr 2026 22:31:27 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "veri merkezi soğutması",
-        "HVAC çözümleri",
-        "İmbat teknolojileri",
-        "enerji verimliliği",
-        "termal yönetim"
-      ],
-      "en": [
-        "data center cooling",
-        "HVAC solutions",
-        "İmbat technologies",
-        "energy efficiency",
-        "thermal management"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/imbat-veri-merkezlerinde-mimariye-ozgu-sogutma-cozumleriyle-fark-yaratiyor/",
-    "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "trane-turkey-director-next-gen-heat-pumps-transform-hvac-sector",
-    "slug": {
-      "tr": "trane-turkiye-muduru-yeni-nesil-isi-pompalari-sektoru-donusturuyor",
-      "en": "trane-turkey-director-next-gen-heat-pumps-transform-hvac-sector"
-    },
-    "title": {
-      "tr": "Trane Türkiye Müdürü: Yeni Nesil Isı Pompaları Sektörü Dönüştürüyor",
-      "en": "Trane Turkey Director: Next-Gen Heat Pumps Transform HVAC Sector"
-    },
-    "excerpt": {
-      "tr": "Mehmet Şahaner, Trane'in Ar-Ge gücüyle geliştirdiği yüksek verimli ısı pompalarının Türkiye pazarındaki stratejik önemini açıkladı.",
-      "en": "Mehmet Şahaner explains strategic importance of Trane's R&D-driven high-efficiency heat pumps in Turkish market transformation."
-    },
-    "content": {
-      "tr": "Trane Türkiye ve Hazar Bölgesi Genel Müdürü Mehmet Şahaner, şirketin global araştırma-geliştirme kapasitesiyle ürettiği yenilikçi ısı pompası teknolojilerinin endüstriyel uygulamalarda nasıl öncü rol oynadığını açıkladı. Şahaner, özellikle enerji verimliliği ve düşük karbon emisyonu sağlayan bu çözümlerin, akıllı sistem entegrasyonu özellikleriyle sektörde yeni standartlar belirlediğini vurguladı.\n\nAvrupa Yeşil Mutabakatı hedefleri ve sürekli yükselen enerji maliyetleriyle birlikte, ısı pompası teknolojilerinin Türkiye'de stratejik bir konuma geldiğini belirten Şahaner, \"Dünyanın farklı bölgelerinde bulunan özel Ar-Ge merkezlerimizde, enerji verimliliğini maksimuma çıkaran, yenilikçi ısı pompası teknolojileri geliştiriyor ve çevre dostu çözümler üretmeye odaklanıyoruz\" dedi. Bu yaklaşımın, artan sürdürülebilirlik baskısı altındaki Türk sanayisi için kritik önem taşıdığını ifade etti.\n\n1913'te Wisconsin'da kurulan ve 110 yılı aşkın deneyime sahip Trane, bugün 900'den fazla ABD patentine sahip olarak iklimlendirme sektöründe dünya liderliğini sürdürüyor. Trane Technologies çatısı altında faaliyet gösteren şirket, 40.000'i aşkın çalışanı ve 22 milyar dolarlık cirosuyla Amerika'nın en büyük endüstriyel firmalarından biri konumunda. 1994'ten bu yana Türkiye pazarında aktif olan Trane, yerel satış ve hizmet ağıyla ülkedeki büyüme potansiyelini değerlendirmeye devam ediyor.",
-      "en": "Mehmet Şahaner, General Manager of Trane Turkey and Caspian Region, revealed how the company's globally-developed innovative heat pump technologies lead industrial applications through advanced R&D capabilities. Şahaner emphasized that these solutions, particularly excelling in energy efficiency and low carbon emissions, set new industry standards through smart system integration features.\n\nHighlighting the strategic position heat pump technologies have gained in Turkey due to European Green Deal targets and continuously rising energy costs, Şahaner stated, \"In our specialized R&D centers located across different regions worldwide, we focus on developing innovative heat pump technologies that maximize energy efficiency and produce environmentally friendly solutions.\" He noted this approach carries critical importance for Turkish industry facing increasing sustainability pressures.\n\nEstablished in Wisconsin in 1913 with over 110 years of experience, Trane continues its global leadership in the HVAC sector with more than 900 US patents. Operating under Trane Technologies umbrella, the company ranks among America's largest industrial firms with over 40,000 employees and $22 billion revenue. Active in the Turkish market since 1994, Trane continues to capitalize on the country's growth potential through its local sales and service network."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "Trane Türkiye Genel Müdürü Mehmet Şahaner endüstriyel ısı pompası teknolojilerini açıklarken",
-      "en": "Trane Turkey General Manager Mehmet Şahaner explaining industrial heat pump technologies"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 22 Apr 2026 12:27:02 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "ısı pompası",
-        "enerji verimliliği",
-        "sürdürülebilirlik",
-        "HVAC teknolojisi",
-        "Trane"
-      ],
-      "en": [
-        "heat pump",
-        "energy efficiency",
-        "sustainability",
-        "HVAC technology",
-        "Trane"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/trane-turkiye-ve-hazar-bolgesi-genel-muduru-mehmet-sahaner-2/",
-    "sourceName": "AirNewsTurkey"
-  },
-  {
-    "id": "free-heat-pump-monitoring-portal-launched-for-installation-teams",
-    "slug": {
-      "tr": "isi-pompasi-montajcilari-icin-ucretsiz-izleme-portali-gelistirildi",
-      "en": "free-heat-pump-monitoring-portal-launched-for-installation-teams"
-    },
-    "title": {
-      "tr": "Isı Pompası Montajcıları İçin Ücretsiz İzleme Portalı Geliştirildi",
-      "en": "Free Heat Pump Monitoring Portal Launched for Installation Teams"
-    },
-    "excerpt": {
-      "tr": "Passiv UK, 16 farklı isı pompası markasını destekleyen ücretsiz web tabanlı izleme portalı geliştirdi.",
-      "en": "Passiv UK launches free web portal supporting 16 heat pump brands for remote installation monitoring."
-    },
-    "content": {
-      "tr": "Birleşik Krallık merkezli Passiv UK firması, isı pompası montajcılarının tüm kurulumlarını tek bir kontrol panelinden uzaktan takip edebilmelerini sağlayan yenilikçi bir web portalını duyurdu. Passiv Portal olarak adlandırılan bu platform, 16 farklı isı pompası üreticisini destekleyerek montajcıların birden fazla marka portalını yönetme zorluğunu ortadan kaldırıyor.\n\nPlatform, sistem performansı hakkında canlı ve geçmiş verileri sunarak akış sıcaklıkları, enerji kullanımı ve müşteri ayarlarını detaylı şekilde izleme imkanı tanıyor. Bu özellik sayesinde montajcılar sorunları daha hızlı teşhis edebiliyor, gereksiz saha ziyaretlerini azaltabiliyor ve müşterilerine gelişmiş destek hizmeti verebiliyor. Portal ayrıca sosyal konut sağlayıcıları, ev inşaatçıları ve enerji tedarikçileri gibi büyük ölçekli organizasyonlar için de değerli görüşler sunuyor.\n\nPassiv UK Satış ve Strateji Direktörü Ian Rose, isı pompalarının düşük karbonlu ısıtmaya geçişte kritik rol oynadığını ancak montajcıların kurulumdan sonra sistemleri görme konusunda sıkıntı yaşadığını belirtiyor. Türkiye'de de ısı pompası pazarının hızla büyüdüğü düşünüldüğünde, benzer izleme çözümlerinin yerel sektöre de önemli katkılar sağlayabileceği öngörülüyor.",
-      "en": "UK-based Passiv UK has introduced an innovative web-based monitoring solution that allows heat pump installers to remotely oversee all their installations through a unified dashboard. Named the Passiv Portal, this platform accommodates 16 different heat pump manufacturers, eliminating the complexity of managing multiple brand-specific portals for installation professionals.\n\nThe platform delivers real-time and historical performance data, offering detailed monitoring of flow temperatures, energy consumption, and customer configurations. Through these capabilities, installers can identify problems more efficiently, minimize unnecessary field visits, and provide enhanced customer support services. The portal also serves large-scale organizations including social housing providers, construction companies, and energy suppliers by offering valuable operational insights.\n\nAccording to Ian Rose, Sales and Strategy Director at Passiv UK, while heat pumps play a crucial role in transitioning to low-carbon heating solutions, installers often struggle with system visibility after installation completion. This free monitoring solution addresses that gap by consolidating all installations into one accessible platform, streamlining ongoing maintenance and customer service operations for the growing heat pump industry."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Isı pompası izleme portalı kontrol paneli ekran görüntüsü",
-      "en": "Heat pump monitoring portal dashboard interface screenshot"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 22 Apr 2026 14:21:28 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "isı pompası",
-        "izleme sistemi",
-        "HVAC teknolojisi",
-        "enerji verimliliği",
-        "akıllı bina"
-      ],
-      "en": [
-        "heat pump",
-        "monitoring system",
-        "HVAC technology",
-        "energy efficiency",
-        "smart building"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/products/free-heat-pump-monitoring-portal-for-installers/",
-    "sourceName": "Cooling Post"
-  },
-  {
-    "id": "eus-accelerateeu-plan-set-to-boost-heat-pump-sales-dramatically",
-    "slug": {
-      "tr": "abnin-accelerateeu-plani-isi-pompasi-satislarini-artiracak",
-      "en": "eus-accelerateeu-plan-set-to-boost-heat-pump-sales-dramatically"
-    },
-    "title": {
-      "tr": "AB'nin AccelerateEU Planı İsı Pompası Satışlarını Artıracak",
-      "en": "EU's AccelerateEU Plan Set to Boost Heat Pump Sales Dramatically"
-    },
-    "excerpt": {
-      "tr": "Avrupa Birliği'nin yeni AccelerateEU enerji planı, 2030'a kadar yıllık isı pompası satışlarını 4 milyona çıkarmayı hedefliyor.",
-      "en": "European Union's new AccelerateEU energy plan targets reaching 4 million heat pump sales annually by 2030 through electrification measures."
-    },
-    "content": {
-      "tr": "Avrupa Birliği'nin yeni AccelerateEU enerji stratejisi, 2030 yılına kadar yıllık isı pompası satışlarını 4 milyona çıkararak elektrikleşme sürecini hızlandırmayı planlıyor. Avrupa Komisyonu'nun fosil yakıt krizinin neden olduğu yüksek enerji fiyatlarından Avrupalı tüketicileri korumak için hazırladığı bu araç seti, elektrikleşmeyi ekonomi, rekabet gücü ve güvenlik açısından kritik bir alan olarak tanımlıyor.\n\nPlanın temel odak noktalarından biri ısıtma ve soğutma sektöründe elektrikleşmeyi hızlandırmak için isı pompalarında KDV oranlarını düşürmek ve endüstriyel atık ısı geri kazanımını teşvik etmek. AccelerateEU ayrıca elektrik vergileri ve şebeke ücretlerini ele alacak yasal bir öneri sunuyor. Plan, birçok ülkede elektrik vergisinin fosil yakıtlardan birkaç kat daha yüksek olduğunu ve bunun elektrikleşmeyi yavaşlattığını vurguluyor. Avrupa İsı Pompası Derneği (EHPA) Genel Direktörü Paul Kenny, \"Avrupa Komisyonu'nun planı tam isabetle hazırlanmış\" diyerek elektrikleşmeye yönelik net bir yön belirlediğini ifade etti.\n\nBu gelişmeler Türkiye'deki HVAC sektörü için önemli fırsatlar yaratabilir. AB ile ticari ilişkileri güçlü olan Türk isı pompası üreticileri, artan Avrupa talebinden yararlanma potansiyeline sahip. Özellikle teknoloji transferi ve ihracat kapasitesi artışı açısından sektörün bu trendi yakından takip etmesi gerekiyor. Avrupa Komisyonu Başkanı Ursula von der Leyen, AccelerateEU stratejisinin hem acil hem de yapısal rahatlama önlemleri getireceğini, yerli temiz enerjilere geçişi hızlandırarak enerji bağımsızlığı ve güvenliği sağlayacağını belirtiyor.",
-      "en": "The European Union's new AccelerateEU energy strategy aims to accelerate electrification by boosting heat pump sales to 4 million units annually by 2030. This toolkit of measures, developed by the European Commission to shield European consumers from high energy prices caused by the fossil fuel crisis, identifies electrification as crucial for the economy, competitiveness, and security.\n\nA key focus area involves accelerating electrification in the heating and cooling sector through reducing VAT on heat pumps and encouraging waste heat recovery from industry. AccelerateEU announces a legislative proposal to address electricity taxes and power network charges, emphasizing that in many countries electricity tax is several times higher than fossil fuels, thereby slowing electrification. European Heat Pump Association (EHPA) Director General Paul Kenny commented that \"The European Commission's plan gets it spot on,\" stating it sets a clear direction towards electrification and identifies how to accelerate the switch to heat pumps in buildings, districts, and industry.\n\nThese developments could create significant opportunities for Turkey's HVAC sector. Turkish heat pump manufacturers with strong commercial ties to the EU have the potential to benefit from increased European demand. The sector should closely monitor this trend, particularly regarding technology transfer and export capacity expansion. European Commission President Ursula von der Leyen stated that the AccelerateEU strategy will bring both immediate and structural relief measures to European citizens and businesses, accelerating the shift to homegrown clean energies to achieve energy independence and security while better weathering geopolitical storms."
-    },
-    "category": "isitma-sogutma",
-    "categoryLabel": {
-      "tr": "Isıtma & Soğutma",
-      "en": "Heating & Cooling"
-    },
-    "image": "isitma-sogutma.svg",
-    "imageAlt": {
-      "tr": "Modern isı pompası sistemi ve Avrupa Birliği bayrağı",
-      "en": "Modern heat pump system with European Union flag"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 22 Apr 2026 13:14:47 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "isı pompası",
-        "AccelerateEU",
-        "elektrikleşme",
-        "HVAC sektörü",
-        "Avrupa Birliği"
-      ],
-      "en": [
-        "heat pump",
-        "AccelerateEU",
-        "electrification",
-        "HVAC sector",
-        "European Union"
-      ]
-    },
-    "sourceUrl": "https://www.coolingpost.com/world-news/eu-plans-will-boost-heat-pump-sales/",
-    "sourceName": "Cooling Post"
   }
 ]
