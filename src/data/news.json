@@ -1,5 +1,158 @@
 [
   {
+    "id": "italy-raises-f-gas-violation-penalties-to-one-year-prison",
+    "slug": {
+      "tr": "italya-f-gaz-ihlallerinde-hapis-cezasini-1-yila-cikardi",
+      "en": "italy-raises-f-gas-violation-penalties-to-one-year-prison"
+    },
+    "title": {
+      "tr": "İtalya F-Gaz İhlallerinde Hapis Cezasını 1 Yıla Çıkardı",
+      "en": "Italy Raises F-Gas Violation Penalties to One Year Prison"
+    },
+    "excerpt": {
+      "tr": "İtalya F-gaz yönetmeliği ihlallerinde cezaları artırdı. Yasa dışı üretim ve ithalatta 1 yıl hapis, 150 bin euro para cezası getirildi.",
+      "en": "Italy strengthens F-gas violation penalties with up to one year imprisonment and €150,000 fines for illegal production and imports."
+    },
+    "content": {
+      "tr": "İtalya, Avrupa F-gaz yönetmeliği ihlallerine yönelik cezaları önemli ölçüde artırarak sektörde caydırıcı önlemler aldı. Bakanlar Kurulu'nun onayladığı yeni düzenleme ile F-gaz ihlalleri artık bir yıla kadar hapis cezası ve 150 bin euroya varan para cezalarıyla karşılaşabilecek.\n\nYeni yasaya göre, F-gazların ve ilgili ekipmanların yetkisiz üretimi, ithalatı veya ihracatını yapanlar altı ay ile bir yıl arasında hapis cezası ya da 10 bin euro ile 150 bin euro arasında para cezasıyla karşılaşacak. Yetkisiz pazarlama, kullanım veya F-gaz salınımı yapanlar ise 1.000 ile 50.000 euro para cezası veya iki ile altı ay hapis cezası alabilecek. Bu düzenleme, AB'nin 2024/1203 sayılı çevre koruma direktifinin İtalya'daki uygulamasını içeriyor.\n\nÇevre Araştırma Ajansı'nın (EIA) raporuna göre İtalya, yasa dışı F-gaz ticaretinin önemli merkezlerinden biri konumunda. Ülkedeki soğutucu gazların neredeyse yarısının yasadışı olduğu iddia ediliyor. Bu durum, Türkiye'deki HVAC sektörü için de önemli çünkü İtalya ile olan ticari ilişkiler göz önüne alındığında, yasal düzenlemelerin sıkılaşması sektörel standartları yükseltebilir. İtalyan gümrük ve polis güçleri yasadışı F-gaz ticaretine karşı yoğun operasyonlar yürütüyor ve önemli başarılar elde ediyor.",
+      "en": "Italy has significantly increased penalties for European F-gas regulation violations, implementing deterrent measures in the HVAC sector. The new regulation approved by the Council of Ministers now subjects F-gas violators to up to one year imprisonment and fines reaching €150,000.\n\nUnder the new legislation, those engaging in unauthorized production, import, or export of F-gases and related equipment face prison sentences ranging from six months to one year, or fines between €10,000 and €150,000. Unauthorized marketing, use, or release of F-gases carries penalties from €1,000 to €50,000 in fines or two to six months imprisonment. This regulation implements EU directive 2024/1203 for environmental protection through criminal law in Italy.\n\nAccording to the Environmental Investigation Agency (EIA) report, Italy stands as a major hub for illegal F-gas trade. Nearly half of the refrigerant gases available in the country are allegedly illegal. This situation impacts the global HVAC industry, as Italy's stricter enforcement could influence international standards and trade practices. Italian customs and police forces have been conducting intensive operations against illegal F-gas trade, achieving significant successes in combating this environmental crime."
+    },
+    "category": "isitma-sogutma",
+    "categoryLabel": {
+      "tr": "Isıtma & Soğutma",
+      "en": "Heating & Cooling"
+    },
+    "image": "isitma-sogutma.svg",
+    "imageAlt": {
+      "tr": "İtalya bayrağı ve F-gaz tüpleri ile HVAC ekipmanları",
+      "en": "Italian flag with F-gas cylinders and HVAC equipment"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sat, 25 Apr 2026 20:07:37 +0000",
+    "featured": true,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "F-gaz",
+        "İtalya",
+        "HVAC",
+        "çevre yönetmelikleri",
+        "soğutucu gazlar"
+      ],
+      "en": [
+        "F-gas",
+        "Italy",
+        "HVAC",
+        "environmental regulations",
+        "refrigerant gases"
+      ]
+    },
+    "sourceUrl": "https://www.coolingpost.com/world-news/italy-increases-sentences-for-f-gas-breaches/",
+    "sourceName": "Cooling Post"
+  },
+  {
+    "id": "basement-rim-joist-insulation-preventing-pest-entry-points",
+    "slug": {
+      "tr": "bodrum-katlarinda-rim-joist-izolasyonu-bocek-girislerini-onleme",
+      "en": "basement-rim-joist-insulation-preventing-pest-entry-points"
+    },
+    "title": {
+      "tr": "Bodrum Katlarında Rim Joist İzolasyonu: Böcek Girişlerini Önleme",
+      "en": "Basement Rim Joist Insulation: Preventing Pest Entry Points"
+    },
+    "excerpt": {
+      "tr": "Bodrum katlarında rim joist ve beton blok arası sızdırmazlık, enerji verimliliği ve böcek kontrolü için kritik önem taşıyor.",
+      "en": "Proper sealing between rim joist and concrete blocks is crucial for energy efficiency and pest control in basement areas."
+    },
+    "content": {
+      "tr": "Bodrum katlarında rim joist (çevre kirişi) ve beton blok arası uygun yalıtım, hem enerji verimliliği hem de istenmeyen konuk girişlerini önlemek açısından kritik bir HVAC uygulamasıdır.\n\nGeçtiğimiz yaz aylarında bir ev sahibinin bodrum katında yaşadığı eşek arısı sorunu, bu konunun önemini gözler önüne sermiştir. Eşek arıları, bodrum penceresine yakın bir noktadaki büyük boşluktan eve giriş yapmaktaydı. Bu durum, birçok Türk evinde karşılaşılan yaygın bir sorunu temsil etmektedir. Özellikle eski yapılarda, rim joist ile temel duvarı arasındaki boşluklar genellikle ihmal edilmekte ve bu da hem enerji kayıplarına hem de böcek girişlerine neden olmaktadır.\n\nTürkiye'nin iklim koşulları göz önüne alındığında, bu tür sızdırmazlık problemleri özellikle kış aylarında ısı kayıplarına, yaz aylarında ise soğutma maliyetlerinin artmasına yol açmaktadır. HVAC sektörü uzmanları, bu boşlukların spray köpük, caulk veya uygun yalıtım malzemeleri ile kapatılmasını önermektedir. Bu uygulamalar, enerji tasarrufu sağlamanın yanı sıra iç mekan hava kalitesini de iyileştirmekte ve yapının genel konfor seviyesini artırmaktadır.",
+      "en": "Proper insulation between rim joist and concrete blocks in basements represents a critical HVAC application for both energy efficiency and preventing unwanted pest intrusions.\n\nA homeowner's wasp infestation problem in their basement last summer highlights the importance of this issue. The wasps were gaining entry through a significant gap near a basement window where the rim joist meets the foundation wall. This situation represents a common problem found in many residential properties. Particularly in older constructions, gaps between rim joists and foundation walls are often overlooked, leading to both energy losses and pest entry points.\n\nFrom an HVAC industry perspective, these sealing deficiencies result in substantial energy waste during both heating and cooling seasons. Professional contractors recommend addressing these gaps using spray foam insulation, appropriate caulking materials, or rigid insulation boards. These solutions not only reduce energy consumption but also improve indoor air quality by preventing moisture infiltration and maintaining proper building envelope integrity. The investment in proper rim joist sealing typically pays for itself through reduced utility costs within 2-3 years."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Bodrum katında rim joist ve beton blok arası yalıtım uygulaması",
+      "en": "Rim joist and concrete block insulation application in basement"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sun, 26 Apr 2026 02:09:39 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "rim joist yalıtımı",
+        "bodrum izolasyonu",
+        "enerji verimliliği",
+        "HVAC",
+        "böcek kontrolü"
+      ],
+      "en": [
+        "rim joist insulation",
+        "basement sealing",
+        "energy efficiency",
+        "HVAC",
+        "pest control"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/sealing-between-rim-joist-and-concrete-block-in-basement",
+    "sourceName": "Green Building Advisor"
+  },
+  {
+    "id": "flat-roof-insulation-benefits-of-unvented-cathedral-systems",
+    "slug": {
+      "tr": "duz-cati-isi-yalitimi-havalandirmasiz-sistemlerin-avantajlari",
+      "en": "flat-roof-insulation-benefits-of-unvented-cathedral-systems"
+    },
+    "title": {
+      "tr": "Düz Çatı Isı Yalıtımı: Havalandırmasız Sistemlerin Avantajları",
+      "en": "Flat Roof Insulation: Benefits of Unvented Cathedral Systems"
+    },
+    "excerpt": {
+      "tr": "1950'lerden kalma yapılarda düz çatı yalıtım sistemleri nasıl modernize ediliyor? Uzmanlar havalandırmasız yöntemleri öneriyor.",
+      "en": "How are flat roof insulation systems in 1950s buildings being modernized? Experts recommend unvented methods for better efficiency."
+    },
+    "content": {
+      "tr": "Eski yapılarda çatı yalıtım sistemlerinin yenilenmesi, özellikle 1950'lerden kalma düz çatılı binalarda kritik bir sorun haline gelmiştir. Saint Louis'deki bir restorasyon projesinde görüldüğü üzere, geleneksel havalandırmalı çatı sistemleri yerine modern havalandırmasız düşük eğimli katedral çatı montajları tercih edilmeye başlanmıştır.\n\nHavalandırmasız çatı sistemleri, geleneksel yöntemlere kıyasla daha yüksek enerji verimliliği sunmaktadır. Bu sistemlerde yalıtım malzemesi doğrudan çatı kaplaması altına uygulanarak nem kontrolü sağlanır ve hava sızıntıları minimize edilir. Özellikle İklim Bölgesi 4A gibi ılıman iklimlerde bu yaklaşım, hem ısıtma hem de soğutma maliyetlerini önemli ölçüde azaltabilmektedir.\n\nTürkiye'deki HVAC sektörü için bu gelişme önemli fırsatlar sunmaktadır. Ülkemizdeki 1950-1980 arası inşa edilmiş birçok yapıda benzer sorunlar yaşanmakta ve enerji verimliliği yönetmelikleri gereği bu binaların yenilenmesi zorunlu hale gelmektedir. Türk müteahhitlerin ve HVAC uzmanlarının bu modern yalıtım tekniklerini öğrenmesi, sektörde rekabet avantajı sağlayacaktır.",
+      "en": "Renovation of roof insulation systems in older buildings has become a critical issue, particularly in flat-roofed structures from the 1950s. As demonstrated in a restoration project in Saint Louis, modern unvented low-slope cathedral roof assemblies are increasingly preferred over traditional ventilated roof systems.\n\nUnvented roof systems offer superior energy efficiency compared to conventional methods. In these systems, insulation material is applied directly beneath the roof deck, providing moisture control and minimizing air leakage. Particularly in temperate climates like Climate Zone 4A, this approach can significantly reduce both heating and cooling costs.\n\nThis development presents important opportunities for Turkey's HVAC sector. Many buildings constructed between 1950-1980 in our country face similar challenges, and energy efficiency regulations mandate the renovation of these structures. Turkish contractors and HVAC professionals learning these modern insulation techniques will gain a competitive advantage in the market."
+    },
+    "category": "haber",
+    "categoryLabel": {
+      "tr": "Haber",
+      "en": "News"
+    },
+    "image": "haber.svg",
+    "imageAlt": {
+      "tr": "Havalandırmasız düz çatı yalıtım sistemi detay görseli",
+      "en": "Detailed view of unvented flat roof insulation system"
+    },
+    "author": "HVAC Haber",
+    "publishDate": "Sun, 26 Apr 2026 01:24:20 +0000",
+    "featured": false,
+    "readingTime": 2,
+    "tags": {
+      "tr": [
+        "çatı yalıtımı",
+        "enerji verimliliği",
+        "HVAC",
+        "bina restorasyonu",
+        "havalandırmasız sistem"
+      ],
+      "en": [
+        "roof insulation",
+        "energy efficiency",
+        "HVAC",
+        "building renovation",
+        "unvented system"
+      ]
+    },
+    "sourceUrl": "https://www.greenbuildingadvisor.com/question/homeowner-4",
+    "sourceName": "Green Building Advisor"
+  },
+  {
     "id": "panasonics-ai-powered-hvac-system-achieves-28-energy-savings",
     "slug": {
       "tr": "panasonicin-ai-destekli-hvac-sistemi-enerji-tasarrufunda-cigir-acti",
@@ -29,7 +182,7 @@
     },
     "author": "HVAC Haber",
     "publishDate": "Sat, 25 Apr 2026 10:24:00 +0000",
-    "featured": true,
+    "featured": false,
     "readingTime": 2,
     "tags": {
       "tr": [
@@ -2391,162 +2544,5 @@
     },
     "sourceUrl": "https://www.phcppros.com/articles/23319-rocket-group-launches-northeast-expansion-with-true-blue-mechanical",
     "sourceName": "PHCP Pros HVAC"
-  },
-  {
-    "id": "vapor-barriers-in-plywood-ceiling-systems-for-cz-2-zones",
-    "slug": {
-      "tr": "cz-2-bolgesinde-kontraplak-tavan-sistemlerinde-buhar-bariyeri",
-      "en": "vapor-barriers-in-plywood-ceiling-systems-for-cz-2-zones"
-    },
-    "title": {
-      "tr": "CZ-2 Bölgesinde Kontraplak Tavan Sistemlerinde Buhar Bariyeri",
-      "en": "Vapor Barriers in Plywood Ceiling Systems for CZ-2 Zones"
-    },
-    "excerpt": {
-      "tr": "CZ-2 iklim bölgelerinde kontraplak tavan uygulamalarında nem kontrolü ve buhar bariyeri gereksinimleri inceleniyor.",
-      "en": "Moisture control and vapor barrier requirements for plywood ceiling applications in CZ-2 climate zones analyzed."
-    },
-    "content": {
-      "tr": "İklim Bölge 2'de (CZ-2) kiralık konutlarda doğrudan tavan kirişlerine monte edilen kontraplak lambri sistemleri, nem kontrolü açısından özel dikkat gerektiren bir uygulama haline geliyor. Geleneksel alçıpan yerine tercih edilen bu yöntem, uygun buhar bariyeri olmadan ciddi yapısal sorunlara yol açabilir.\n\nUzmanlar, kontraplak ve tavan arasına buhar bariyeri ürünü uygulanmasının kritik önem taşıdığını belirtiyor. Sadece mastik ile contalamanın yeterli olmadığı, özellikle yüksek nem oranlarının yaşandığı bölgelerde kapsamlı nem kontrolü sistemlerinin gerekli olduğu vurgulanıyor. Bu durum, yapı fiziği kurallarının dikkate alınması gerektiğini gösteriyor.\n\nTürkiye'deki inşaat sektörü için bu gelişmeler önemli bir referans oluşturuyor. Özellikle Akdeniz ve Ege bölgelerinde benzer iklim koşullarına sahip olan bölgelerde, kontraplak tavan sistemleri kullanılırken nem kontrolü standartlarının uluslararası uygulamalarla paralel şekilde geliştirilmesi gerekiyor. HVAC profesyonelleri, bu tür uygulamalarda havalandırma sistemlerinin de entegre olarak planlanmasını öneriyor.",
-      "en": "Plywood beadboard systems mounted directly to ceiling joists in rental properties within Climate Zone 2 (CZ-2) are becoming a specialized application requiring careful moisture management considerations. This method, preferred over traditional drywall installation, can lead to serious structural issues without proper vapor barrier implementation.\n\nExperts emphasize that installing vapor barrier products between plywood and ceiling structures is critically important. Simple caulking between plywood and joists proves insufficient, particularly in regions experiencing high humidity levels where comprehensive moisture control systems become necessary. This situation demonstrates the vital importance of adhering to building physics principles.\n\nThese developments serve as an important reference point for Turkey's construction sector. Particularly in Mediterranean and Aegean regions with similar climate conditions, moisture control standards for plywood ceiling systems need development parallel to international practices. HVAC professionals recommend integrated planning of ventilation systems for such applications to ensure optimal performance and longevity."
-    },
-    "category": "haber",
-    "categoryLabel": {
-      "tr": "Haber",
-      "en": "News"
-    },
-    "image": "haber.svg",
-    "imageAlt": {
-      "tr": "Kontraplak tavan sistemi ve buhar bariyeri detay görünümü",
-      "en": "Detailed view of plywood ceiling system with vapor barrier installation"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 23 Apr 2026 04:09:09 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "buhar bariyeri",
-        "kontraplak tavan",
-        "nem kontrolü",
-        "iklim bölgesi",
-        "yapı fiziği"
-      ],
-      "en": [
-        "vapor barrier",
-        "plywood ceiling",
-        "moisture control",
-        "climate zone",
-        "building physics"
-      ]
-    },
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/vapor-product-between-plywood-and-ceiling-in-cz-2",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "european-style-doors-hvac-compatible-options-and-recommendations",
-    "slug": {
-      "tr": "avrupa-tarzi-kapi-modelleri-hvac-uyumlu-secenekler-ve-oneriler",
-      "en": "european-style-doors-hvac-compatible-options-and-recommendations"
-    },
-    "title": {
-      "tr": "Avrupa Tarzı Kapı Modelleri: HVAC Uyumlu Seçenekler ve Öneriler",
-      "en": "European Style Doors: HVAC-Compatible Options and Recommendations"
-    },
-    "excerpt": {
-      "tr": "Ev yenileme projelerinde Avrupa tarzı kapı seçimi, enerji verimliliği ve HVAC sistemleri açısından kritik önem taşıyor.",
-      "en": "European style door selection in home renovation projects is crucial for energy efficiency and HVAC system compatibility."
-    },
-    "content": {
-      "tr": "Ev yenileme projelerinde Avrupa tarzı kapı seçimi, özellikle enerji verimliliği ve HVAC sistem performansı açısından kritik bir karar noktasıdır. Modern ev sahipleri, dış cephe yenilemesi sırasında French kapı gibi Avrupa stilindeki ürünleri tercih ederken, bu seçimin iklimlendirme sistemlerine olan etkilerini de değerlendirmeli.\n\nAvrupa tarzı kapılar, gelişmiş yalıtım teknolojileri ve çok noktalı kilitleme sistemleri ile dikkat çeker. Bu kapılar, özellikle çift cam teknolojisi ve termal kesme özellikli profilleri sayesinde, HVAC sistemlerinin enerji tüketimini önemli ölçüde azaltabilir. Türkiye'de son yıllarda artan enerji maliyetleri göz önüne alındığında, bu tür kapıların tercih edilmesi hem çevresel hem de ekonomik avantaj sağlamaktadır.\n\nUzmanlar, Avrupa standardındaki kapıları tercih eden ev sahiplerine, montaj öncesi HVAC sistem kapasitelerini yeniden hesaplamalarını öneriyor. Gelişmiş yalıtım özellikleri sayesinde, mevcut iklimlendirme sistemlerinin kapasitesi ihtiyaçtan fazla olabilir ve bu durum sistem optimizasyonu fırsatı yaratabilir. Türk yapı sektöründe Avrupa standartlarının benimsenmesi, özellikle büyük şehirlerde enerji sertifikası gereksinimleri ile de uyumlu bir yaklaşım sergilemektedir.",
-      "en": "European style door selection in home renovation projects represents a critical decision point, particularly regarding energy efficiency and HVAC system performance. Modern homeowners choosing European-style products like French doors during exterior renovations must consider the impact of these selections on their climate control systems.\n\nEuropean style doors stand out with their advanced insulation technologies and multi-point locking systems. These doors, especially with their double glazing technology and thermally broken profiles, can significantly reduce HVAC system energy consumption. Given the rising energy costs in recent years, choosing such doors provides both environmental and economic advantages for building efficiency.\n\nExperts recommend that homeowners opting for European standard doors recalculate their HVAC system capacities before installation. Due to enhanced insulation properties, existing climate control systems may have excess capacity, creating opportunities for system optimization. The adoption of European standards in the construction industry aligns well with energy certification requirements, particularly in metropolitan areas where building performance regulations are becoming increasingly stringent.",
-      "tags": {
-        "tr": [
-          "Avrupa kapı",
-          "HVAC enerji verimliliği",
-          "ev yenileme",
-          "French kapı",
-          "iklimlendirme"
-        ],
-        "en": [
-          "European doors",
-          "HVAC energy efficiency",
-          "home renovation",
-          "French doors",
-          "climate control"
-        ]
-      },
-      "imageAlt": {
-        "tr": "Modern Avrupa tarzı French kapı ile enerji verimli ev tasarımı",
-        "en": "Modern European style French door with energy efficient home design"
-      }
-    },
-    "category": "iklimlendirme",
-    "categoryLabel": {
-      "tr": "İklimlendirme",
-      "en": "Air Conditioning"
-    },
-    "image": "iklimlendirme.svg",
-    "imageAlt": {
-      "tr": "Avrupa Tarzı Kapı Modelleri: HVAC Uyumlu Seçenekler ve Öneriler",
-      "en": "European Style Doors: HVAC-Compatible Options and Recommendations"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Thu, 23 Apr 2026 00:21:35 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "sourceUrl": "https://www.greenbuildingadvisor.com/question/where-to-find-european-style-door",
-    "sourceName": "Green Building Advisor"
-  },
-  {
-    "id": "dogu-iklimlendirme-brings-together-defense-industry-companies-at-technology-days",
-    "slug": {
-      "tr": "dogu-iklimlendirme-savunma-sanayi-firmalarini-teknoloji-gunlerinde-bulusturdu",
-      "en": "dogu-iklimlendirme-brings-together-defense-industry-companies-at-technology-days"
-    },
-    "title": {
-      "tr": "Doğu İklimlendirme Savunma Sanayi Firmalarını Teknoloji Günleri'nde Buluşturdu",
-      "en": "Doğu İklimlendirme Brings Together Defense Industry Companies at Technology Days"
-    },
-    "excerpt": {
-      "tr": "Doğu İklimlendirme, Ankara'da düzenlediği teknoloji etkinliğinde savunma sanayi temsilcilerini bir araya getirdi.",
-      "en": "Doğu İklimlendirme organized a technology event in Ankara, bringing together defense industry representatives and project firms."
-    },
-    "content": {
-      "tr": "Türkiye'nin önde gelen HVAC firması Doğu İklimlendirme, savunma sanayi sektörüne yönelik özel bir teknoloji etkinliği düzenleyerek sektör paydaşlarını bir araya getirdi. 16 Nisan tarihinde Ankara Latanya Otel'de gerçekleştirilen 'Doğu İklimlendirme Teknoloji Günleri', savunma sanayi iştirakleri ve bu sektöre yönelik proje geliştiren firmaların katılımıyla başarıyla tamamlandı.\n\nEtkinlik, şirketin Genel Müdürü Seçkin Tuncer Erdoğmuş'un açılış konuşmasıyla başlarken, savunma sanayiinde güvenilirlik ve sürdürülebilirliğin kritik önemine değinildi. İç Anadolu ve Karadeniz Bölge Satış Uzmanı Yusuf Ziya Sandalcı'nın moderatörlüğünde yürütülen program kapsamında, İş Geliştirme Müdürü Gözde Uzun tarafından şirketin teknik kapasitesi ve mühendislik yaklaşımı detaylarıyla sunuldu.\n\nGün boyu süren teknik oturumlar ve değerlendirme toplantıları, Türkiye'nin savunma sanayi ekosisteminde HVAC çözümlerinin artan önemini gözler önüne serdi. Etkinlik, katılımcı firmalar arasındaki iş birliği potansiyelini artırmayı hedeflerken, sektördeki bilgi paylaşımını güçlendiren önemli bir platform işlevi gördü. Bu tür organizasyonlar, Türkiye'nin savunma sanayiinde yerli ve milli teknoloji geliştirme hedefleri doğrultusunda kritik bir rol oynamaktadır.",
-      "en": "Leading Turkish HVAC company Doğu İklimlendirme organized a specialized technology event targeting the defense industry, bringing together key sector stakeholders. The 'Doğu İklimlendirme Technology Days' took place on April 16th at Ankara Latanya Hotel, successfully hosting defense industry affiliates and companies developing projects for this strategic sector.\n\nThe event commenced with an opening speech by General Manager Seçkin Tuncer Erdoğmuş, emphasizing the critical importance of reliability and sustainability in defense applications. Moderated by Central Anatolia and Black Sea Regional Sales Specialist Yusuf Ziya Sandalcı, the program featured a comprehensive presentation by Business Development Manager Gözde Uzun, showcasing the company's technical capabilities and engineering approach.\n\nFull-day technical sessions and evaluation meetings highlighted the growing significance of HVAC solutions within Turkey's defense industry ecosystem. The event aimed to enhance collaboration potential among participating companies while serving as a vital platform for knowledge sharing in the sector. Such organizations play a crucial role in Turkey's defense industry objectives of developing indigenous and national technology capabilities."
-    },
-    "category": "havalandirma",
-    "categoryLabel": {
-      "tr": "Havalandırma",
-      "en": "Ventilation"
-    },
-    "image": "havalandirma.svg",
-    "imageAlt": {
-      "tr": "Doğu İklimlendirme Teknoloji Günleri etkinliğinde savunma sanayi temsilcilerinin toplantı görüntüsü",
-      "en": "Defense industry representatives meeting at Doğu İklimlendirme Technology Days event"
-    },
-    "author": "HVAC Haber",
-    "publishDate": "Wed, 22 Apr 2026 23:02:55 +0000",
-    "featured": false,
-    "readingTime": 2,
-    "tags": {
-      "tr": [
-        "savunma sanayi",
-        "HVAC teknolojisi",
-        "Doğu İklimlendirme",
-        "sektörel buluşma",
-        "teknoloji günleri"
-      ],
-      "en": [
-        "defense industry",
-        "HVAC technology",
-        "Doğu İklimlendirme",
-        "industry meeting",
-        "technology days"
-      ]
-    },
-    "sourceUrl": "https://airnewsturkey.com/2026/04/savunma-sanayi-sektor-temsilcileri-ve-proje-firmalarini-ankarada-bulusturan-organizasyon-dogu-iklimlendirme-teknoloji-gunleri/",
-    "sourceName": "AirNewsTurkey"
   }
 ]
